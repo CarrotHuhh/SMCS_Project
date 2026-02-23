@@ -1,0 +1,1694 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,David Ben Goerionstraat,05:49,054900
+1,2,Pedro Luis Brionstraat,05:49,054900
+1,3,Simon Bolivarstraat,05:50,055000
+1,4,Kemal Ataturkstraat,05:50,055000
+1,5,De Gaard,05:51,055100
+1,6,Van Everdingenlaan,05:52,055200
+1,7,Eykmanplein,05:54,055400
+1,8,Kleinesingel,05:56,055600
+1,9,Wittevrouwenbrug,05:57,055700
+1,10,Stadsschouwburg,05:58,055800
+1,11,Janskerkhof,05:59,055900
+1,12,Neude,06:00,060000
+1,13,Vredenburg,06:01,060100
+1,14,CS Jaarbeurszijde,06:05,060500
+1,15,CS Jaarbeurszijde,06:08,060800
+1,16,24 Oktoberplein,06:13,061300
+1,17,Den Hommel,06:14,061400
+1,18,Beethovenlaan,06:15,061500
+1,19,Everard Meysterlaan,06:15,061500
+1,20,Racinelaan,06:16,061600
+1,21,Thomas à Kempisplantsoen,06:18,061800
+1,22,Station Leidsche Rijn,06:21,062100
+1,23,Jan Wolkerssingel,06:22,062200
+1,24,Jazzsingel/Antonius Zkh,06:24,062400
+1,25,Duke Ellingtonstraat,06:25,062500
+1,26,Waterwinpark,06:27,062700
+1,27,Musicalkade,06:28,062800
+1,28,Walter Kollolaan,06:30,063000
+1,29,Rioolwaterzuivering,06:31,063100
+1,30,Meijewetering,06:31,063100
+1,31,The Food Spot,06:32,063200
+1,32,Heldinnenlaan,06:33,063300
+1,33,Haarrijn,06:34,063400
+1,34,Burg. Waverijnweg,06:37,063700
+1,35,Antilopespoor,06:38,063800
+1,36,Station Maarssen,06:40,064000
+2,1,David Ben Goerionstraat,06:17,061700
+2,2,Pedro Luis Brionstraat,06:17,061700
+2,3,Simon Bolivarstraat,06:18,061800
+2,4,Kemal Ataturkstraat,06:18,061800
+2,5,De Gaard,06:19,061900
+2,6,Van Everdingenlaan,06:20,062000
+2,7,Eykmanplein,06:22,062200
+2,8,Kleinesingel,06:24,062400
+2,9,Wittevrouwenbrug,06:25,062500
+2,10,Stadsschouwburg,06:26,062600
+2,11,Janskerkhof,06:27,062700
+2,12,Neude,06:28,062800
+2,13,Vredenburg,06:29,062900
+2,14,CS Jaarbeurszijde,06:34,063400
+2,15,CS Jaarbeurszijde,06:37,063700
+2,16,24 Oktoberplein,06:42,064200
+2,17,Den Hommel,06:43,064300
+2,18,Beethovenlaan,06:44,064400
+2,19,Everard Meysterlaan,06:44,064400
+2,20,Racinelaan,06:45,064500
+2,21,Thomas à Kempisplantsoen,06:47,064700
+2,22,Station Leidsche Rijn,06:50,065000
+2,23,Jan Wolkerssingel,06:51,065100
+2,24,Jazzsingel/Antonius Zkh,06:53,065300
+2,25,Duke Ellingtonstraat,06:54,065400
+2,26,Waterwinpark,06:56,065600
+2,27,Musicalkade,06:57,065700
+2,28,Walter Kollolaan,06:59,065900
+2,29,Rioolwaterzuivering,07:00,070000
+2,30,Meijewetering,07:01,070100
+2,31,The Food Spot,07:01,070100
+2,32,Heldinnenlaan,07:03,070300
+2,33,Haarrijn,07:04,070400
+2,34,Burg. Waverijnweg,07:07,070700
+2,35,Antilopespoor,07:08,070800
+2,36,Station Maarssen,07:10,071000
+3,1,David Ben Goerionstraat,06:30,063000
+3,2,Pedro Luis Brionstraat,06:30,063000
+3,3,Simon Bolivarstraat,06:31,063100
+3,4,Kemal Ataturkstraat,06:31,063100
+3,5,De Gaard,06:32,063200
+3,6,Van Everdingenlaan,06:34,063400
+3,7,Eykmanplein,06:36,063600
+3,8,Kleinesingel,06:38,063800
+3,9,Wittevrouwenbrug,06:39,063900
+3,10,Stadsschouwburg,06:40,064000
+3,11,Janskerkhof,06:41,064100
+3,12,Neude,06:42,064200
+3,13,Vredenburg,06:43,064300
+3,14,CS Jaarbeurszijde,06:48,064800
+3,15,CS Jaarbeurszijde,06:49,064900
+4,1,David Ben Goerionstraat,06:43,064300
+4,2,Pedro Luis Brionstraat,06:43,064300
+4,3,Simon Bolivarstraat,06:44,064400
+4,4,Kemal Ataturkstraat,06:44,064400
+4,5,De Gaard,06:45,064500
+4,6,Van Everdingenlaan,06:47,064700
+4,7,Eykmanplein,06:49,064900
+4,8,Kleinesingel,06:51,065100
+4,9,Wittevrouwenbrug,06:52,065200
+4,10,Stadsschouwburg,06:53,065300
+4,11,Janskerkhof,06:54,065400
+4,12,Neude,06:55,065500
+4,13,Vredenburg,06:56,065600
+4,14,CS Jaarbeurszijde,07:01,070100
+4,15,CS Jaarbeurszijde,07:04,070400
+4,16,24 Oktoberplein,07:09,070900
+4,17,Den Hommel,07:11,071100
+4,18,Beethovenlaan,07:12,071200
+4,19,Everard Meysterlaan,07:13,071300
+4,20,Racinelaan,07:14,071400
+4,21,Thomas à Kempisplantsoen,07:16,071600
+4,22,Station Leidsche Rijn,07:19,071900
+4,23,Jan Wolkerssingel,07:21,072100
+4,24,Jazzsingel/Antonius Zkh,07:23,072300
+4,25,Duke Ellingtonstraat,07:24,072400
+4,26,Waterwinpark,07:26,072600
+4,27,Musicalkade,07:27,072700
+4,28,Walter Kollolaan,07:29,072900
+4,29,Rioolwaterzuivering,07:30,073000
+4,30,Meijewetering,07:31,073100
+4,31,The Food Spot,07:31,073100
+4,32,Heldinnenlaan,07:33,073300
+4,33,Haarrijn,07:34,073400
+4,34,Burg. Waverijnweg,07:37,073700
+4,35,Antilopespoor,07:38,073800
+4,36,Station Maarssen,07:40,074000
+5,1,David Ben Goerionstraat,06:57,065700
+5,2,Pedro Luis Brionstraat,06:57,065700
+5,3,Simon Bolivarstraat,06:58,065800
+5,4,Kemal Ataturkstraat,06:58,065800
+5,5,De Gaard,06:59,065900
+5,6,Van Everdingenlaan,07:01,070100
+5,7,Eykmanplein,07:03,070300
+5,8,Kleinesingel,07:05,070500
+5,9,Wittevrouwenbrug,07:06,070600
+5,10,Stadsschouwburg,07:07,070700
+5,11,Janskerkhof,07:08,070800
+5,12,Neude,07:09,070900
+5,13,Vredenburg,07:10,071000
+5,14,CS Jaarbeurszijde,07:15,071500
+5,15,CS Jaarbeurszijde,07:16,071600
+6,1,David Ben Goerionstraat,07:10,071000
+6,2,Pedro Luis Brionstraat,07:11,071100
+6,3,Simon Bolivarstraat,07:11,071100
+6,4,Kemal Ataturkstraat,07:12,071200
+6,5,De Gaard,07:13,071300
+6,6,Van Everdingenlaan,07:15,071500
+6,7,Eykmanplein,07:17,071700
+6,8,Kleinesingel,07:19,071900
+6,9,Wittevrouwenbrug,07:20,072000
+6,10,Stadsschouwburg,07:22,072200
+6,11,Janskerkhof,07:23,072300
+6,12,Neude,07:24,072400
+6,13,Vredenburg,07:25,072500
+6,14,CS Jaarbeurszijde,07:30,073000
+6,15,CS Jaarbeurszijde,07:33,073300
+6,16,24 Oktoberplein,07:38,073800
+6,17,Den Hommel,07:40,074000
+6,18,Beethovenlaan,07:41,074100
+6,19,Everard Meysterlaan,07:42,074200
+6,20,Racinelaan,07:43,074300
+6,21,Thomas à Kempisplantsoen,07:45,074500
+6,22,Station Leidsche Rijn,07:48,074800
+6,23,Jan Wolkerssingel,07:50,075000
+6,24,Jazzsingel/Antonius Zkh,07:52,075200
+6,25,Duke Ellingtonstraat,07:53,075300
+6,26,Waterwinpark,07:55,075500
+6,27,Musicalkade,07:56,075600
+6,28,Walter Kollolaan,07:58,075800
+6,29,Rioolwaterzuivering,07:59,075900
+6,30,Meijewetering,08:00,080000
+6,31,The Food Spot,08:00,080000
+6,32,Heldinnenlaan,08:02,080200
+6,33,Haarrijn,08:03,080300
+6,34,Burg. Waverijnweg,08:07,080700
+6,35,Antilopespoor,08:08,080800
+6,36,Station Maarssen,08:10,081000
+7,1,David Ben Goerionstraat,07:24,072400
+7,2,Pedro Luis Brionstraat,07:25,072500
+7,3,Simon Bolivarstraat,07:25,072500
+7,4,Kemal Ataturkstraat,07:26,072600
+7,5,De Gaard,07:27,072700
+7,6,Van Everdingenlaan,07:29,072900
+7,7,Eykmanplein,07:31,073100
+7,8,Kleinesingel,07:33,073300
+7,9,Wittevrouwenbrug,07:34,073400
+7,10,Stadsschouwburg,07:36,073600
+7,11,Janskerkhof,07:37,073700
+7,12,Neude,07:38,073800
+7,13,Vredenburg,07:39,073900
+7,14,CS Jaarbeurszijde,07:44,074400
+7,15,CS Jaarbeurszijde,07:45,074500
+8,1,David Ben Goerionstraat,07:38,073800
+8,2,Pedro Luis Brionstraat,07:39,073900
+8,3,Simon Bolivarstraat,07:39,073900
+8,4,Kemal Ataturkstraat,07:40,074000
+8,5,De Gaard,07:41,074100
+8,6,Van Everdingenlaan,07:43,074300
+8,7,Eykmanplein,07:45,074500
+8,8,Kleinesingel,07:47,074700
+8,9,Wittevrouwenbrug,07:49,074900
+8,10,Stadsschouwburg,07:51,075100
+8,11,Janskerkhof,07:52,075200
+8,12,Neude,07:53,075300
+8,13,Vredenburg,07:54,075400
+8,14,CS Jaarbeurszijde,07:59,075900
+8,15,CS Jaarbeurszijde,08:02,080200
+8,16,24 Oktoberplein,08:07,080700
+8,17,Den Hommel,08:09,080900
+8,18,Beethovenlaan,08:10,081000
+8,19,Everard Meysterlaan,08:12,081200
+8,20,Racinelaan,08:13,081300
+8,21,Thomas à Kempisplantsoen,08:15,081500
+8,22,Station Leidsche Rijn,08:18,081800
+8,23,Jan Wolkerssingel,08:20,082000
+8,24,Jazzsingel/Antonius Zkh,08:22,082200
+8,25,Duke Ellingtonstraat,08:23,082300
+8,26,Waterwinpark,08:25,082500
+8,27,Musicalkade,08:26,082600
+8,28,Walter Kollolaan,08:28,082800
+8,29,Rioolwaterzuivering,08:29,082900
+8,30,Meijewetering,08:30,083000
+8,31,The Food Spot,08:30,083000
+8,32,Heldinnenlaan,08:32,083200
+8,33,Haarrijn,08:33,083300
+8,34,Burg. Waverijnweg,08:37,083700
+8,35,Antilopespoor,08:38,083800
+8,36,Station Maarssen,08:40,084000
+9,1,David Ben Goerionstraat,07:53,075300
+9,2,Pedro Luis Brionstraat,07:54,075400
+9,3,Simon Bolivarstraat,07:54,075400
+9,4,Kemal Ataturkstraat,07:55,075500
+9,5,De Gaard,07:56,075600
+9,6,Van Everdingenlaan,07:58,075800
+9,7,Eykmanplein,08:01,080100
+9,8,Kleinesingel,08:03,080300
+9,9,Wittevrouwenbrug,08:05,080500
+9,10,Stadsschouwburg,08:07,080700
+9,11,Janskerkhof,08:08,080800
+9,12,Neude,08:09,080900
+9,13,Vredenburg,08:10,081000
+9,14,CS Jaarbeurszijde,08:15,081500
+9,15,CS Jaarbeurszijde,08:16,081600
+10,1,David Ben Goerionstraat,08:09,080900
+10,2,Pedro Luis Brionstraat,08:10,081000
+10,3,Simon Bolivarstraat,08:10,081000
+10,4,Kemal Ataturkstraat,08:11,081100
+10,5,De Gaard,08:12,081200
+10,6,Van Everdingenlaan,08:14,081400
+10,7,Eykmanplein,08:17,081700
+10,8,Kleinesingel,08:19,081900
+10,9,Wittevrouwenbrug,08:21,082100
+10,10,Stadsschouwburg,08:23,082300
+10,11,Janskerkhof,08:24,082400
+10,12,Neude,08:25,082500
+10,13,Vredenburg,08:26,082600
+10,14,CS Jaarbeurszijde,08:31,083100
+10,15,CS Jaarbeurszijde,08:34,083400
+10,16,24 Oktoberplein,08:39,083900
+10,17,Den Hommel,08:41,084100
+10,18,Beethovenlaan,08:42,084200
+10,19,Everard Meysterlaan,08:44,084400
+10,20,Racinelaan,08:45,084500
+10,21,Thomas à Kempisplantsoen,08:47,084700
+10,22,Station Leidsche Rijn,08:50,085000
+10,23,Jan Wolkerssingel,08:52,085200
+10,24,Jazzsingel/Antonius Zkh,08:54,085400
+10,25,Duke Ellingtonstraat,08:55,085500
+10,26,Waterwinpark,08:57,085700
+10,27,Musicalkade,08:58,085800
+10,28,Walter Kollolaan,09:00,090000
+10,29,Rioolwaterzuivering,09:01,090100
+10,30,Meijewetering,09:01,090100
+10,31,The Food Spot,09:02,090200
+10,32,Heldinnenlaan,09:03,090300
+10,33,Haarrijn,09:04,090400
+10,34,Burg. Waverijnweg,09:07,090700
+10,35,Antilopespoor,09:08,090800
+10,36,Station Maarssen,09:10,091000
+11,1,David Ben Goerionstraat,08:25,082500
+11,2,Pedro Luis Brionstraat,08:26,082600
+11,3,Simon Bolivarstraat,08:26,082600
+11,4,Kemal Ataturkstraat,08:27,082700
+11,5,De Gaard,08:28,082800
+11,6,Van Everdingenlaan,08:30,083000
+11,7,Eykmanplein,08:33,083300
+11,8,Kleinesingel,08:35,083500
+11,9,Wittevrouwenbrug,08:37,083700
+11,10,Stadsschouwburg,08:39,083900
+11,11,Janskerkhof,08:40,084000
+11,12,Neude,08:41,084100
+11,13,Vredenburg,08:42,084200
+11,14,CS Jaarbeurszijde,08:47,084700
+11,15,CS Jaarbeurszijde,08:48,084800
+12,1,David Ben Goerionstraat,08:41,084100
+12,2,Pedro Luis Brionstraat,08:42,084200
+12,3,Simon Bolivarstraat,08:42,084200
+12,4,Kemal Ataturkstraat,08:43,084300
+12,5,De Gaard,08:44,084400
+12,6,Van Everdingenlaan,08:46,084600
+12,7,Eykmanplein,08:49,084900
+12,8,Kleinesingel,08:51,085100
+12,9,Wittevrouwenbrug,08:53,085300
+12,10,Stadsschouwburg,08:55,085500
+12,11,Janskerkhof,08:56,085600
+12,12,Neude,08:57,085700
+12,13,Vredenburg,08:58,085800
+12,14,CS Jaarbeurszijde,09:03,090300
+12,15,CS Jaarbeurszijde,09:06,090600
+12,16,24 Oktoberplein,09:11,091100
+12,17,Den Hommel,09:12,091200
+12,18,Beethovenlaan,09:13,091300
+12,19,Everard Meysterlaan,09:14,091400
+12,20,Racinelaan,09:15,091500
+12,21,Thomas à Kempisplantsoen,09:17,091700
+12,22,Station Leidsche Rijn,09:20,092000
+12,23,Jan Wolkerssingel,09:22,092200
+12,24,Jazzsingel/Antonius Zkh,09:24,092400
+12,25,Duke Ellingtonstraat,09:25,092500
+12,26,Waterwinpark,09:27,092700
+12,27,Musicalkade,09:28,092800
+12,28,Walter Kollolaan,09:30,093000
+12,29,Rioolwaterzuivering,09:31,093100
+12,30,Meijewetering,09:31,093100
+12,31,The Food Spot,09:32,093200
+12,32,Heldinnenlaan,09:33,093300
+12,33,Haarrijn,09:34,093400
+12,34,Burg. Waverijnweg,09:37,093700
+12,35,Antilopespoor,09:38,093800
+12,36,Station Maarssen,09:40,094000
+13,1,David Ben Goerionstraat,08:56,085600
+13,2,Pedro Luis Brionstraat,08:57,085700
+13,3,Simon Bolivarstraat,08:57,085700
+13,4,Kemal Ataturkstraat,08:58,085800
+13,5,De Gaard,08:59,085900
+13,6,Van Everdingenlaan,09:01,090100
+13,7,Eykmanplein,09:04,090400
+13,8,Kleinesingel,09:06,090600
+13,9,Wittevrouwenbrug,09:08,090800
+13,10,Stadsschouwburg,09:10,091000
+13,11,Janskerkhof,09:11,091100
+13,12,Neude,09:12,091200
+13,13,Vredenburg,09:13,091300
+13,14,CS Jaarbeurszijde,09:18,091800
+13,15,CS Jaarbeurszijde,09:19,091900
+14,1,David Ben Goerionstraat,09:11,091100
+14,2,Pedro Luis Brionstraat,09:12,091200
+14,3,Simon Bolivarstraat,09:12,091200
+14,4,Kemal Ataturkstraat,09:13,091300
+14,5,De Gaard,09:14,091400
+14,6,Van Everdingenlaan,09:16,091600
+14,7,Eykmanplein,09:19,091900
+14,8,Kleinesingel,09:21,092100
+14,9,Wittevrouwenbrug,09:23,092300
+14,10,Stadsschouwburg,09:25,092500
+14,11,Janskerkhof,09:26,092600
+14,12,Neude,09:27,092700
+14,13,Vredenburg,09:28,092800
+14,14,CS Jaarbeurszijde,09:33,093300
+14,15,CS Jaarbeurszijde,09:36,093600
+14,16,24 Oktoberplein,09:41,094100
+14,17,Den Hommel,09:42,094200
+14,18,Beethovenlaan,09:43,094300
+14,19,Everard Meysterlaan,09:44,094400
+14,20,Racinelaan,09:45,094500
+14,21,Thomas à Kempisplantsoen,09:47,094700
+14,22,Station Leidsche Rijn,09:50,095000
+14,23,Jan Wolkerssingel,09:52,095200
+14,24,Jazzsingel/Antonius Zkh,09:54,095400
+14,25,Duke Ellingtonstraat,09:55,095500
+14,26,Waterwinpark,09:57,095700
+14,27,Musicalkade,09:58,095800
+14,28,Walter Kollolaan,10:00,100000
+14,29,Rioolwaterzuivering,10:01,100100
+14,30,Meijewetering,10:01,100100
+14,31,The Food Spot,10:02,100200
+14,32,Heldinnenlaan,10:03,100300
+14,33,Haarrijn,10:04,100400
+14,34,Burg. Waverijnweg,10:07,100700
+14,35,Antilopespoor,10:08,100800
+14,36,Station Maarssen,10:10,101000
+15,1,David Ben Goerionstraat,09:26,092600
+15,2,Pedro Luis Brionstraat,09:27,092700
+15,3,Simon Bolivarstraat,09:27,092700
+15,4,Kemal Ataturkstraat,09:28,092800
+15,5,De Gaard,09:29,092900
+15,6,Van Everdingenlaan,09:31,093100
+15,7,Eykmanplein,09:34,093400
+15,8,Kleinesingel,09:36,093600
+15,9,Wittevrouwenbrug,09:38,093800
+15,10,Stadsschouwburg,09:40,094000
+15,11,Janskerkhof,09:41,094100
+15,12,Neude,09:42,094200
+15,13,Vredenburg,09:43,094300
+15,14,CS Jaarbeurszijde,09:48,094800
+15,15,CS Jaarbeurszijde,09:49,094900
+16,1,David Ben Goerionstraat,09:41,094100
+16,2,Pedro Luis Brionstraat,09:42,094200
+16,3,Simon Bolivarstraat,09:42,094200
+16,4,Kemal Ataturkstraat,09:43,094300
+16,5,De Gaard,09:44,094400
+16,6,Van Everdingenlaan,09:46,094600
+16,7,Eykmanplein,09:49,094900
+16,8,Kleinesingel,09:51,095100
+16,9,Wittevrouwenbrug,09:53,095300
+16,10,Stadsschouwburg,09:55,095500
+16,11,Janskerkhof,09:56,095600
+16,12,Neude,09:57,095700
+16,13,Vredenburg,09:58,095800
+16,14,CS Jaarbeurszijde,10:03,100300
+16,15,CS Jaarbeurszijde,10:06,100600
+16,16,24 Oktoberplein,10:11,101100
+16,17,Den Hommel,10:12,101200
+16,18,Beethovenlaan,10:13,101300
+16,19,Everard Meysterlaan,10:14,101400
+16,20,Racinelaan,10:15,101500
+16,21,Thomas à Kempisplantsoen,10:17,101700
+16,22,Station Leidsche Rijn,10:20,102000
+16,23,Jan Wolkerssingel,10:22,102200
+16,24,Jazzsingel/Antonius Zkh,10:24,102400
+16,25,Duke Ellingtonstraat,10:25,102500
+16,26,Waterwinpark,10:27,102700
+16,27,Musicalkade,10:28,102800
+16,28,Walter Kollolaan,10:30,103000
+16,29,Rioolwaterzuivering,10:31,103100
+16,30,Meijewetering,10:31,103100
+16,31,The Food Spot,10:32,103200
+16,32,Heldinnenlaan,10:33,103300
+16,33,Haarrijn,10:34,103400
+16,34,Burg. Waverijnweg,10:37,103700
+16,35,Antilopespoor,10:38,103800
+16,36,Station Maarssen,10:40,104000
+17,1,David Ben Goerionstraat,09:56,095600
+17,2,Pedro Luis Brionstraat,09:57,095700
+17,3,Simon Bolivarstraat,09:57,095700
+17,4,Kemal Ataturkstraat,09:58,095800
+17,5,De Gaard,09:59,095900
+17,6,Van Everdingenlaan,10:01,100100
+17,7,Eykmanplein,10:04,100400
+17,8,Kleinesingel,10:06,100600
+17,9,Wittevrouwenbrug,10:08,100800
+17,10,Stadsschouwburg,10:10,101000
+17,11,Janskerkhof,10:11,101100
+17,12,Neude,10:12,101200
+17,13,Vredenburg,10:13,101300
+17,14,CS Jaarbeurszijde,10:18,101800
+17,15,CS Jaarbeurszijde,10:19,101900
+18,1,David Ben Goerionstraat,10:11,101100
+18,2,Pedro Luis Brionstraat,10:12,101200
+18,3,Simon Bolivarstraat,10:12,101200
+18,4,Kemal Ataturkstraat,10:13,101300
+18,5,De Gaard,10:14,101400
+18,6,Van Everdingenlaan,10:16,101600
+18,7,Eykmanplein,10:19,101900
+18,8,Kleinesingel,10:21,102100
+18,9,Wittevrouwenbrug,10:23,102300
+18,10,Stadsschouwburg,10:25,102500
+18,11,Janskerkhof,10:26,102600
+18,12,Neude,10:27,102700
+18,13,Vredenburg,10:28,102800
+18,14,CS Jaarbeurszijde,10:33,103300
+18,15,CS Jaarbeurszijde,10:36,103600
+18,16,24 Oktoberplein,10:41,104100
+18,17,Den Hommel,10:42,104200
+18,18,Beethovenlaan,10:43,104300
+18,19,Everard Meysterlaan,10:44,104400
+18,20,Racinelaan,10:45,104500
+18,21,Thomas à Kempisplantsoen,10:47,104700
+18,22,Station Leidsche Rijn,10:50,105000
+18,23,Jan Wolkerssingel,10:52,105200
+18,24,Jazzsingel/Antonius Zkh,10:54,105400
+18,25,Duke Ellingtonstraat,10:55,105500
+18,26,Waterwinpark,10:57,105700
+18,27,Musicalkade,10:58,105800
+18,28,Walter Kollolaan,11:00,110000
+18,29,Rioolwaterzuivering,11:01,110100
+18,30,Meijewetering,11:01,110100
+18,31,The Food Spot,11:02,110200
+18,32,Heldinnenlaan,11:03,110300
+18,33,Haarrijn,11:04,110400
+18,34,Burg. Waverijnweg,11:07,110700
+18,35,Antilopespoor,11:08,110800
+18,36,Station Maarssen,11:10,111000
+19,1,David Ben Goerionstraat,10:26,102600
+19,2,Pedro Luis Brionstraat,10:27,102700
+19,3,Simon Bolivarstraat,10:27,102700
+19,4,Kemal Ataturkstraat,10:28,102800
+19,5,De Gaard,10:29,102900
+19,6,Van Everdingenlaan,10:31,103100
+19,7,Eykmanplein,10:34,103400
+19,8,Kleinesingel,10:36,103600
+19,9,Wittevrouwenbrug,10:38,103800
+19,10,Stadsschouwburg,10:40,104000
+19,11,Janskerkhof,10:41,104100
+19,12,Neude,10:42,104200
+19,13,Vredenburg,10:43,104300
+19,14,CS Jaarbeurszijde,10:48,104800
+19,15,CS Jaarbeurszijde,10:49,104900
+20,1,David Ben Goerionstraat,10:41,104100
+20,2,Pedro Luis Brionstraat,10:42,104200
+20,3,Simon Bolivarstraat,10:42,104200
+20,4,Kemal Ataturkstraat,10:43,104300
+20,5,De Gaard,10:44,104400
+20,6,Van Everdingenlaan,10:46,104600
+20,7,Eykmanplein,10:49,104900
+20,8,Kleinesingel,10:51,105100
+20,9,Wittevrouwenbrug,10:53,105300
+20,10,Stadsschouwburg,10:55,105500
+20,11,Janskerkhof,10:56,105600
+20,12,Neude,10:57,105700
+20,13,Vredenburg,10:58,105800
+20,14,CS Jaarbeurszijde,11:03,110300
+20,15,CS Jaarbeurszijde,11:06,110600
+20,16,24 Oktoberplein,11:11,111100
+20,17,Den Hommel,11:12,111200
+20,18,Beethovenlaan,11:13,111300
+20,19,Everard Meysterlaan,11:14,111400
+20,20,Racinelaan,11:15,111500
+20,21,Thomas à Kempisplantsoen,11:17,111700
+20,22,Station Leidsche Rijn,11:20,112000
+20,23,Jan Wolkerssingel,11:22,112200
+20,24,Jazzsingel/Antonius Zkh,11:24,112400
+20,25,Duke Ellingtonstraat,11:25,112500
+20,26,Waterwinpark,11:27,112700
+20,27,Musicalkade,11:28,112800
+20,28,Walter Kollolaan,11:30,113000
+20,29,Rioolwaterzuivering,11:31,113100
+20,30,Meijewetering,11:31,113100
+20,31,The Food Spot,11:32,113200
+20,32,Heldinnenlaan,11:33,113300
+20,33,Haarrijn,11:34,113400
+20,34,Burg. Waverijnweg,11:37,113700
+20,35,Antilopespoor,11:38,113800
+20,36,Station Maarssen,11:40,114000
+21,1,David Ben Goerionstraat,10:56,105600
+21,2,Pedro Luis Brionstraat,10:57,105700
+21,3,Simon Bolivarstraat,10:57,105700
+21,4,Kemal Ataturkstraat,10:58,105800
+21,5,De Gaard,10:59,105900
+21,6,Van Everdingenlaan,11:01,110100
+21,7,Eykmanplein,11:04,110400
+21,8,Kleinesingel,11:06,110600
+21,9,Wittevrouwenbrug,11:08,110800
+21,10,Stadsschouwburg,11:10,111000
+21,11,Janskerkhof,11:11,111100
+21,12,Neude,11:12,111200
+21,13,Vredenburg,11:13,111300
+21,14,CS Jaarbeurszijde,11:18,111800
+21,15,CS Jaarbeurszijde,11:19,111900
+22,1,David Ben Goerionstraat,11:10,111000
+22,2,Pedro Luis Brionstraat,11:11,111100
+22,3,Simon Bolivarstraat,11:11,111100
+22,4,Kemal Ataturkstraat,11:12,111200
+22,5,De Gaard,11:13,111300
+22,6,Van Everdingenlaan,11:15,111500
+22,7,Eykmanplein,11:18,111800
+22,8,Kleinesingel,11:20,112000
+22,9,Wittevrouwenbrug,11:22,112200
+22,10,Stadsschouwburg,11:24,112400
+22,11,Janskerkhof,11:25,112500
+22,12,Neude,11:26,112600
+22,13,Vredenburg,11:27,112700
+22,14,CS Jaarbeurszijde,11:32,113200
+22,15,CS Jaarbeurszijde,11:35,113500
+22,16,24 Oktoberplein,11:40,114000
+22,17,Den Hommel,11:41,114100
+22,18,Beethovenlaan,11:42,114200
+22,19,Everard Meysterlaan,11:43,114300
+22,20,Racinelaan,11:44,114400
+22,21,Thomas à Kempisplantsoen,11:46,114600
+22,22,Station Leidsche Rijn,11:49,114900
+22,23,Jan Wolkerssingel,11:51,115100
+22,24,Jazzsingel/Antonius Zkh,11:53,115300
+22,25,Duke Ellingtonstraat,11:54,115400
+22,26,Waterwinpark,11:56,115600
+22,27,Musicalkade,11:57,115700
+22,28,Walter Kollolaan,11:59,115900
+22,29,Rioolwaterzuivering,12:00,120000
+22,30,Meijewetering,12:01,120100
+22,31,The Food Spot,12:01,120100
+22,32,Heldinnenlaan,12:03,120300
+22,33,Haarrijn,12:04,120400
+22,34,Burg. Waverijnweg,12:07,120700
+22,35,Antilopespoor,12:08,120800
+22,36,Station Maarssen,12:10,121000
+23,1,David Ben Goerionstraat,11:24,112400
+23,2,Pedro Luis Brionstraat,11:25,112500
+23,3,Simon Bolivarstraat,11:25,112500
+23,4,Kemal Ataturkstraat,11:26,112600
+23,5,De Gaard,11:27,112700
+23,6,Van Everdingenlaan,11:29,112900
+23,7,Eykmanplein,11:32,113200
+23,8,Kleinesingel,11:34,113400
+23,9,Wittevrouwenbrug,11:36,113600
+23,10,Stadsschouwburg,11:38,113800
+23,11,Janskerkhof,11:39,113900
+23,12,Neude,11:40,114000
+23,13,Vredenburg,11:41,114100
+23,14,CS Jaarbeurszijde,11:46,114600
+23,15,CS Jaarbeurszijde,11:47,114700
+24,1,David Ben Goerionstraat,11:39,113900
+24,2,Pedro Luis Brionstraat,11:40,114000
+24,3,Simon Bolivarstraat,11:40,114000
+24,4,Kemal Ataturkstraat,11:41,114100
+24,5,De Gaard,11:42,114200
+24,6,Van Everdingenlaan,11:44,114400
+24,7,Eykmanplein,11:47,114700
+24,8,Kleinesingel,11:49,114900
+24,9,Wittevrouwenbrug,11:51,115100
+24,10,Stadsschouwburg,11:53,115300
+24,11,Janskerkhof,11:54,115400
+24,12,Neude,11:55,115500
+24,13,Vredenburg,11:56,115600
+24,14,CS Jaarbeurszijde,12:01,120100
+24,15,CS Jaarbeurszijde,12:04,120400
+24,16,24 Oktoberplein,12:09,120900
+24,17,Den Hommel,12:11,121100
+24,18,Beethovenlaan,12:12,121200
+24,19,Everard Meysterlaan,12:13,121300
+24,20,Racinelaan,12:14,121400
+24,21,Thomas à Kempisplantsoen,12:16,121600
+24,22,Station Leidsche Rijn,12:19,121900
+24,23,Jan Wolkerssingel,12:21,122100
+24,24,Jazzsingel/Antonius Zkh,12:23,122300
+24,25,Duke Ellingtonstraat,12:24,122400
+24,26,Waterwinpark,12:26,122600
+24,27,Musicalkade,12:27,122700
+24,28,Walter Kollolaan,12:29,122900
+24,29,Rioolwaterzuivering,12:30,123000
+24,30,Meijewetering,12:31,123100
+24,31,The Food Spot,12:31,123100
+24,32,Heldinnenlaan,12:33,123300
+24,33,Haarrijn,12:34,123400
+24,34,Burg. Waverijnweg,12:37,123700
+24,35,Antilopespoor,12:38,123800
+24,36,Station Maarssen,12:40,124000
+25,1,David Ben Goerionstraat,11:54,115400
+25,2,Pedro Luis Brionstraat,11:55,115500
+25,3,Simon Bolivarstraat,11:55,115500
+25,4,Kemal Ataturkstraat,11:56,115600
+25,5,De Gaard,11:57,115700
+25,6,Van Everdingenlaan,11:59,115900
+25,7,Eykmanplein,12:02,120200
+25,8,Kleinesingel,12:04,120400
+25,9,Wittevrouwenbrug,12:06,120600
+25,10,Stadsschouwburg,12:08,120800
+25,11,Janskerkhof,12:09,120900
+25,12,Neude,12:10,121000
+25,13,Vredenburg,12:11,121100
+25,14,CS Jaarbeurszijde,12:16,121600
+25,15,CS Jaarbeurszijde,12:17,121700
+26,1,David Ben Goerionstraat,12:09,120900
+26,2,Pedro Luis Brionstraat,12:10,121000
+26,3,Simon Bolivarstraat,12:10,121000
+26,4,Kemal Ataturkstraat,12:11,121100
+26,5,De Gaard,12:12,121200
+26,6,Van Everdingenlaan,12:14,121400
+26,7,Eykmanplein,12:17,121700
+26,8,Kleinesingel,12:19,121900
+26,9,Wittevrouwenbrug,12:21,122100
+26,10,Stadsschouwburg,12:23,122300
+26,11,Janskerkhof,12:24,122400
+26,12,Neude,12:25,122500
+26,13,Vredenburg,12:26,122600
+26,14,CS Jaarbeurszijde,12:31,123100
+26,15,CS Jaarbeurszijde,12:34,123400
+26,16,24 Oktoberplein,12:39,123900
+26,17,Den Hommel,12:41,124100
+26,18,Beethovenlaan,12:42,124200
+26,19,Everard Meysterlaan,12:43,124300
+26,20,Racinelaan,12:44,124400
+26,21,Thomas à Kempisplantsoen,12:46,124600
+26,22,Station Leidsche Rijn,12:49,124900
+26,23,Jan Wolkerssingel,12:51,125100
+26,24,Jazzsingel/Antonius Zkh,12:53,125300
+26,25,Duke Ellingtonstraat,12:54,125400
+26,26,Waterwinpark,12:56,125600
+26,27,Musicalkade,12:57,125700
+26,28,Walter Kollolaan,12:59,125900
+26,29,Rioolwaterzuivering,13:00,130000
+26,30,Meijewetering,13:01,130100
+26,31,The Food Spot,13:01,130100
+26,32,Heldinnenlaan,13:03,130300
+26,33,Haarrijn,13:04,130400
+26,34,Burg. Waverijnweg,13:07,130700
+26,35,Antilopespoor,13:08,130800
+26,36,Station Maarssen,13:10,131000
+27,1,David Ben Goerionstraat,12:24,122400
+27,2,Pedro Luis Brionstraat,12:25,122500
+27,3,Simon Bolivarstraat,12:25,122500
+27,4,Kemal Ataturkstraat,12:26,122600
+27,5,De Gaard,12:27,122700
+27,6,Van Everdingenlaan,12:29,122900
+27,7,Eykmanplein,12:32,123200
+27,8,Kleinesingel,12:34,123400
+27,9,Wittevrouwenbrug,12:36,123600
+27,10,Stadsschouwburg,12:38,123800
+27,11,Janskerkhof,12:39,123900
+27,12,Neude,12:40,124000
+27,13,Vredenburg,12:41,124100
+27,14,CS Jaarbeurszijde,12:46,124600
+27,15,CS Jaarbeurszijde,12:47,124700
+28,1,David Ben Goerionstraat,12:39,123900
+28,2,Pedro Luis Brionstraat,12:40,124000
+28,3,Simon Bolivarstraat,12:40,124000
+28,4,Kemal Ataturkstraat,12:41,124100
+28,5,De Gaard,12:42,124200
+28,6,Van Everdingenlaan,12:44,124400
+28,7,Eykmanplein,12:47,124700
+28,8,Kleinesingel,12:49,124900
+28,9,Wittevrouwenbrug,12:51,125100
+28,10,Stadsschouwburg,12:53,125300
+28,11,Janskerkhof,12:54,125400
+28,12,Neude,12:55,125500
+28,13,Vredenburg,12:56,125600
+28,14,CS Jaarbeurszijde,13:01,130100
+28,15,CS Jaarbeurszijde,13:04,130400
+28,16,24 Oktoberplein,13:09,130900
+28,17,Den Hommel,13:11,131100
+28,18,Beethovenlaan,13:12,131200
+28,19,Everard Meysterlaan,13:13,131300
+28,20,Racinelaan,13:14,131400
+28,21,Thomas à Kempisplantsoen,13:16,131600
+28,22,Station Leidsche Rijn,13:19,131900
+28,23,Jan Wolkerssingel,13:21,132100
+28,24,Jazzsingel/Antonius Zkh,13:23,132300
+28,25,Duke Ellingtonstraat,13:24,132400
+28,26,Waterwinpark,13:26,132600
+28,27,Musicalkade,13:27,132700
+28,28,Walter Kollolaan,13:29,132900
+28,29,Rioolwaterzuivering,13:30,133000
+28,30,Meijewetering,13:31,133100
+28,31,The Food Spot,13:31,133100
+28,32,Heldinnenlaan,13:33,133300
+28,33,Haarrijn,13:34,133400
+28,34,Burg. Waverijnweg,13:37,133700
+28,35,Antilopespoor,13:38,133800
+28,36,Station Maarssen,13:40,134000
+29,1,David Ben Goerionstraat,12:54,125400
+29,2,Pedro Luis Brionstraat,12:55,125500
+29,3,Simon Bolivarstraat,12:55,125500
+29,4,Kemal Ataturkstraat,12:56,125600
+29,5,De Gaard,12:57,125700
+29,6,Van Everdingenlaan,12:59,125900
+29,7,Eykmanplein,13:02,130200
+29,8,Kleinesingel,13:04,130400
+29,9,Wittevrouwenbrug,13:06,130600
+29,10,Stadsschouwburg,13:08,130800
+29,11,Janskerkhof,13:09,130900
+29,12,Neude,13:10,131000
+29,13,Vredenburg,13:11,131100
+29,14,CS Jaarbeurszijde,13:16,131600
+29,15,CS Jaarbeurszijde,13:17,131700
+30,1,David Ben Goerionstraat,13:09,130900
+30,2,Pedro Luis Brionstraat,13:10,131000
+30,3,Simon Bolivarstraat,13:10,131000
+30,4,Kemal Ataturkstraat,13:11,131100
+30,5,De Gaard,13:12,131200
+30,6,Van Everdingenlaan,13:14,131400
+30,7,Eykmanplein,13:17,131700
+30,8,Kleinesingel,13:19,131900
+30,9,Wittevrouwenbrug,13:21,132100
+30,10,Stadsschouwburg,13:23,132300
+30,11,Janskerkhof,13:24,132400
+30,12,Neude,13:25,132500
+30,13,Vredenburg,13:26,132600
+30,14,CS Jaarbeurszijde,13:31,133100
+30,15,CS Jaarbeurszijde,13:34,133400
+30,16,24 Oktoberplein,13:39,133900
+30,17,Den Hommel,13:41,134100
+30,18,Beethovenlaan,13:42,134200
+30,19,Everard Meysterlaan,13:43,134300
+30,20,Racinelaan,13:44,134400
+30,21,Thomas à Kempisplantsoen,13:46,134600
+30,22,Station Leidsche Rijn,13:49,134900
+30,23,Jan Wolkerssingel,13:51,135100
+30,24,Jazzsingel/Antonius Zkh,13:53,135300
+30,25,Duke Ellingtonstraat,13:54,135400
+30,26,Waterwinpark,13:56,135600
+30,27,Musicalkade,13:57,135700
+30,28,Walter Kollolaan,13:59,135900
+30,29,Rioolwaterzuivering,14:00,140000
+30,30,Meijewetering,14:01,140100
+30,31,The Food Spot,14:01,140100
+30,32,Heldinnenlaan,14:03,140300
+30,33,Haarrijn,14:04,140400
+30,34,Burg. Waverijnweg,14:07,140700
+30,35,Antilopespoor,14:08,140800
+30,36,Station Maarssen,14:10,141000
+31,1,David Ben Goerionstraat,13:24,132400
+31,2,Pedro Luis Brionstraat,13:25,132500
+31,3,Simon Bolivarstraat,13:25,132500
+31,4,Kemal Ataturkstraat,13:26,132600
+31,5,De Gaard,13:27,132700
+31,6,Van Everdingenlaan,13:29,132900
+31,7,Eykmanplein,13:32,133200
+31,8,Kleinesingel,13:34,133400
+31,9,Wittevrouwenbrug,13:36,133600
+31,10,Stadsschouwburg,13:38,133800
+31,11,Janskerkhof,13:39,133900
+31,12,Neude,13:40,134000
+31,13,Vredenburg,13:41,134100
+31,14,CS Jaarbeurszijde,13:46,134600
+31,15,CS Jaarbeurszijde,13:47,134700
+32,1,David Ben Goerionstraat,13:39,133900
+32,2,Pedro Luis Brionstraat,13:40,134000
+32,3,Simon Bolivarstraat,13:40,134000
+32,4,Kemal Ataturkstraat,13:41,134100
+32,5,De Gaard,13:42,134200
+32,6,Van Everdingenlaan,13:44,134400
+32,7,Eykmanplein,13:47,134700
+32,8,Kleinesingel,13:49,134900
+32,9,Wittevrouwenbrug,13:51,135100
+32,10,Stadsschouwburg,13:53,135300
+32,11,Janskerkhof,13:54,135400
+32,12,Neude,13:55,135500
+32,13,Vredenburg,13:56,135600
+32,14,CS Jaarbeurszijde,14:01,140100
+32,15,CS Jaarbeurszijde,14:04,140400
+32,16,24 Oktoberplein,14:09,140900
+32,17,Den Hommel,14:11,141100
+32,18,Beethovenlaan,14:12,141200
+32,19,Everard Meysterlaan,14:13,141300
+32,20,Racinelaan,14:14,141400
+32,21,Thomas à Kempisplantsoen,14:16,141600
+32,22,Station Leidsche Rijn,14:19,141900
+32,23,Jan Wolkerssingel,14:21,142100
+32,24,Jazzsingel/Antonius Zkh,14:23,142300
+32,25,Duke Ellingtonstraat,14:24,142400
+32,26,Waterwinpark,14:26,142600
+32,27,Musicalkade,14:27,142700
+32,28,Walter Kollolaan,14:29,142900
+32,29,Rioolwaterzuivering,14:30,143000
+32,30,Meijewetering,14:31,143100
+32,31,The Food Spot,14:31,143100
+32,32,Heldinnenlaan,14:33,143300
+32,33,Haarrijn,14:34,143400
+32,34,Burg. Waverijnweg,14:37,143700
+32,35,Antilopespoor,14:38,143800
+32,36,Station Maarssen,14:40,144000
+33,1,David Ben Goerionstraat,13:54,135400
+33,2,Pedro Luis Brionstraat,13:55,135500
+33,3,Simon Bolivarstraat,13:55,135500
+33,4,Kemal Ataturkstraat,13:56,135600
+33,5,De Gaard,13:57,135700
+33,6,Van Everdingenlaan,13:59,135900
+33,7,Eykmanplein,14:02,140200
+33,8,Kleinesingel,14:04,140400
+33,9,Wittevrouwenbrug,14:06,140600
+33,10,Stadsschouwburg,14:08,140800
+33,11,Janskerkhof,14:09,140900
+33,12,Neude,14:10,141000
+33,13,Vredenburg,14:11,141100
+33,14,CS Jaarbeurszijde,14:16,141600
+33,15,CS Jaarbeurszijde,14:17,141700
+34,1,David Ben Goerionstraat,14:09,140900
+34,2,Pedro Luis Brionstraat,14:10,141000
+34,3,Simon Bolivarstraat,14:10,141000
+34,4,Kemal Ataturkstraat,14:11,141100
+34,5,De Gaard,14:12,141200
+34,6,Van Everdingenlaan,14:14,141400
+34,7,Eykmanplein,14:17,141700
+34,8,Kleinesingel,14:19,141900
+34,9,Wittevrouwenbrug,14:21,142100
+34,10,Stadsschouwburg,14:23,142300
+34,11,Janskerkhof,14:24,142400
+34,12,Neude,14:25,142500
+34,13,Vredenburg,14:26,142600
+34,14,CS Jaarbeurszijde,14:31,143100
+34,15,CS Jaarbeurszijde,14:34,143400
+34,16,24 Oktoberplein,14:39,143900
+34,17,Den Hommel,14:41,144100
+34,18,Beethovenlaan,14:42,144200
+34,19,Everard Meysterlaan,14:43,144300
+34,20,Racinelaan,14:44,144400
+34,21,Thomas à Kempisplantsoen,14:46,144600
+34,22,Station Leidsche Rijn,14:49,144900
+34,23,Jan Wolkerssingel,14:51,145100
+34,24,Jazzsingel/Antonius Zkh,14:53,145300
+34,25,Duke Ellingtonstraat,14:54,145400
+34,26,Waterwinpark,14:56,145600
+34,27,Musicalkade,14:57,145700
+34,28,Walter Kollolaan,14:59,145900
+34,29,Rioolwaterzuivering,15:00,150000
+34,30,Meijewetering,15:01,150100
+34,31,The Food Spot,15:01,150100
+34,32,Heldinnenlaan,15:03,150300
+34,33,Haarrijn,15:04,150400
+34,34,Burg. Waverijnweg,15:07,150700
+34,35,Antilopespoor,15:08,150800
+34,36,Station Maarssen,15:10,151000
+35,1,David Ben Goerionstraat,14:24,142400
+35,2,Pedro Luis Brionstraat,14:25,142500
+35,3,Simon Bolivarstraat,14:25,142500
+35,4,Kemal Ataturkstraat,14:26,142600
+35,5,De Gaard,14:27,142700
+35,6,Van Everdingenlaan,14:29,142900
+35,7,Eykmanplein,14:32,143200
+35,8,Kleinesingel,14:34,143400
+35,9,Wittevrouwenbrug,14:36,143600
+35,10,Stadsschouwburg,14:38,143800
+35,11,Janskerkhof,14:39,143900
+35,12,Neude,14:40,144000
+35,13,Vredenburg,14:41,144100
+35,14,CS Jaarbeurszijde,14:46,144600
+35,15,CS Jaarbeurszijde,14:47,144700
+36,1,David Ben Goerionstraat,14:39,143900
+36,2,Pedro Luis Brionstraat,14:40,144000
+36,3,Simon Bolivarstraat,14:40,144000
+36,4,Kemal Ataturkstraat,14:41,144100
+36,5,De Gaard,14:42,144200
+36,6,Van Everdingenlaan,14:44,144400
+36,7,Eykmanplein,14:47,144700
+36,8,Kleinesingel,14:49,144900
+36,9,Wittevrouwenbrug,14:51,145100
+36,10,Stadsschouwburg,14:53,145300
+36,11,Janskerkhof,14:54,145400
+36,12,Neude,14:55,145500
+36,13,Vredenburg,14:56,145600
+36,14,CS Jaarbeurszijde,15:01,150100
+36,15,CS Jaarbeurszijde,15:04,150400
+36,16,24 Oktoberplein,15:09,150900
+36,17,Den Hommel,15:11,151100
+36,18,Beethovenlaan,15:12,151200
+36,19,Everard Meysterlaan,15:13,151300
+36,20,Racinelaan,15:14,151400
+36,21,Thomas à Kempisplantsoen,15:16,151600
+36,22,Station Leidsche Rijn,15:19,151900
+36,23,Jan Wolkerssingel,15:21,152100
+36,24,Jazzsingel/Antonius Zkh,15:23,152300
+36,25,Duke Ellingtonstraat,15:24,152400
+36,26,Waterwinpark,15:26,152600
+36,27,Musicalkade,15:27,152700
+36,28,Walter Kollolaan,15:29,152900
+36,29,Rioolwaterzuivering,15:30,153000
+36,30,Meijewetering,15:31,153100
+36,31,The Food Spot,15:31,153100
+36,32,Heldinnenlaan,15:33,153300
+36,33,Haarrijn,15:34,153400
+36,34,Burg. Waverijnweg,15:37,153700
+36,35,Antilopespoor,15:38,153800
+36,36,Station Maarssen,15:40,154000
+37,1,David Ben Goerionstraat,14:53,145300
+37,2,Pedro Luis Brionstraat,14:54,145400
+37,3,Simon Bolivarstraat,14:54,145400
+37,4,Kemal Ataturkstraat,14:55,145500
+37,5,De Gaard,14:56,145600
+37,6,Van Everdingenlaan,14:58,145800
+37,7,Eykmanplein,15:01,150100
+37,8,Kleinesingel,15:03,150300
+37,9,Wittevrouwenbrug,15:05,150500
+37,10,Stadsschouwburg,15:07,150700
+37,11,Janskerkhof,15:08,150800
+37,12,Neude,15:09,150900
+37,13,Vredenburg,15:10,151000
+37,14,CS Jaarbeurszijde,15:15,151500
+37,15,CS Jaarbeurszijde,15:16,151600
+38,1,David Ben Goerionstraat,15:07,150700
+38,2,Pedro Luis Brionstraat,15:08,150800
+38,3,Simon Bolivarstraat,15:08,150800
+38,4,Kemal Ataturkstraat,15:09,150900
+38,5,De Gaard,15:10,151000
+38,6,Van Everdingenlaan,15:12,151200
+38,7,Eykmanplein,15:15,151500
+38,8,Kleinesingel,15:17,151700
+38,9,Wittevrouwenbrug,15:19,151900
+38,10,Stadsschouwburg,15:21,152100
+38,11,Janskerkhof,15:22,152200
+38,12,Neude,15:23,152300
+38,13,Vredenburg,15:24,152400
+38,14,CS Jaarbeurszijde,15:29,152900
+38,15,CS Jaarbeurszijde,15:32,153200
+38,16,24 Oktoberplein,15:37,153700
+38,17,Den Hommel,15:39,153900
+38,18,Beethovenlaan,15:40,154000
+38,19,Everard Meysterlaan,15:41,154100
+38,20,Racinelaan,15:42,154200
+38,21,Thomas à Kempisplantsoen,15:44,154400
+38,22,Station Leidsche Rijn,15:47,154700
+38,23,Jan Wolkerssingel,15:49,154900
+38,24,Jazzsingel/Antonius Zkh,15:52,155200
+38,25,Duke Ellingtonstraat,15:53,155300
+38,26,Waterwinpark,15:55,155500
+38,27,Musicalkade,15:56,155600
+38,28,Walter Kollolaan,15:58,155800
+38,29,Rioolwaterzuivering,15:59,155900
+38,30,Meijewetering,16:00,160000
+38,31,The Food Spot,16:00,160000
+38,32,Heldinnenlaan,16:02,160200
+38,33,Haarrijn,16:03,160300
+38,34,Burg. Waverijnweg,16:07,160700
+38,35,Antilopespoor,16:08,160800
+38,36,Station Maarssen,16:10,161000
+39,1,David Ben Goerionstraat,15:21,152100
+39,2,Pedro Luis Brionstraat,15:22,152200
+39,3,Simon Bolivarstraat,15:22,152200
+39,4,Kemal Ataturkstraat,15:23,152300
+39,5,De Gaard,15:24,152400
+39,6,Van Everdingenlaan,15:26,152600
+39,7,Eykmanplein,15:29,152900
+39,8,Kleinesingel,15:31,153100
+39,9,Wittevrouwenbrug,15:33,153300
+39,10,Stadsschouwburg,15:35,153500
+39,11,Janskerkhof,15:36,153600
+39,12,Neude,15:37,153700
+39,13,Vredenburg,15:38,153800
+39,14,CS Jaarbeurszijde,15:43,154300
+39,15,CS Jaarbeurszijde,15:44,154400
+40,1,David Ben Goerionstraat,15:35,153500
+40,2,Pedro Luis Brionstraat,15:36,153600
+40,3,Simon Bolivarstraat,15:36,153600
+40,4,Kemal Ataturkstraat,15:37,153700
+40,5,De Gaard,15:38,153800
+40,6,Van Everdingenlaan,15:40,154000
+40,7,Eykmanplein,15:43,154300
+40,8,Kleinesingel,15:45,154500
+40,9,Wittevrouwenbrug,15:47,154700
+40,10,Stadsschouwburg,15:49,154900
+40,11,Janskerkhof,15:50,155000
+40,12,Neude,15:51,155100
+40,13,Vredenburg,15:52,155200
+40,14,CS Jaarbeurszijde,15:57,155700
+40,15,CS Jaarbeurszijde,16:00,160000
+40,16,24 Oktoberplein,16:05,160500
+40,17,Den Hommel,16:07,160700
+40,18,Beethovenlaan,16:08,160800
+40,19,Everard Meysterlaan,16:10,161000
+40,20,Racinelaan,16:11,161100
+40,21,Thomas à Kempisplantsoen,16:13,161300
+40,22,Station Leidsche Rijn,16:17,161700
+40,23,Jan Wolkerssingel,16:19,161900
+40,24,Jazzsingel/Antonius Zkh,16:22,162200
+40,25,Duke Ellingtonstraat,16:23,162300
+40,26,Waterwinpark,16:25,162500
+40,27,Musicalkade,16:26,162600
+40,28,Walter Kollolaan,16:28,162800
+40,29,Rioolwaterzuivering,16:29,162900
+40,30,Meijewetering,16:30,163000
+40,31,The Food Spot,16:30,163000
+40,32,Heldinnenlaan,16:32,163200
+40,33,Haarrijn,16:33,163300
+40,34,Burg. Waverijnweg,16:37,163700
+40,35,Antilopespoor,16:38,163800
+40,36,Station Maarssen,16:40,164000
+41,1,David Ben Goerionstraat,15:50,155000
+41,2,Pedro Luis Brionstraat,15:51,155100
+41,3,Simon Bolivarstraat,15:51,155100
+41,4,Kemal Ataturkstraat,15:52,155200
+41,5,De Gaard,15:53,155300
+41,6,Van Everdingenlaan,15:55,155500
+41,7,Eykmanplein,15:58,155800
+41,8,Kleinesingel,16:00,160000
+41,9,Wittevrouwenbrug,16:02,160200
+41,10,Stadsschouwburg,16:04,160400
+41,11,Janskerkhof,16:05,160500
+41,12,Neude,16:06,160600
+41,13,Vredenburg,16:07,160700
+41,14,CS Jaarbeurszijde,16:12,161200
+41,15,CS Jaarbeurszijde,16:13,161300
+42,1,David Ben Goerionstraat,16:05,160500
+42,2,Pedro Luis Brionstraat,16:06,160600
+42,3,Simon Bolivarstraat,16:06,160600
+42,4,Kemal Ataturkstraat,16:07,160700
+42,5,De Gaard,16:08,160800
+42,6,Van Everdingenlaan,16:10,161000
+42,7,Eykmanplein,16:13,161300
+42,8,Kleinesingel,16:15,161500
+42,9,Wittevrouwenbrug,16:17,161700
+42,10,Stadsschouwburg,16:19,161900
+42,11,Janskerkhof,16:20,162000
+42,12,Neude,16:21,162100
+42,13,Vredenburg,16:22,162200
+42,14,CS Jaarbeurszijde,16:27,162700
+42,15,CS Jaarbeurszijde,16:30,163000
+42,16,24 Oktoberplein,16:35,163500
+42,17,Den Hommel,16:37,163700
+42,18,Beethovenlaan,16:38,163800
+42,19,Everard Meysterlaan,16:40,164000
+42,20,Racinelaan,16:41,164100
+42,21,Thomas à Kempisplantsoen,16:43,164300
+42,22,Station Leidsche Rijn,16:47,164700
+42,23,Jan Wolkerssingel,16:49,164900
+42,24,Jazzsingel/Antonius Zkh,16:52,165200
+42,25,Duke Ellingtonstraat,16:53,165300
+42,26,Waterwinpark,16:55,165500
+42,27,Musicalkade,16:56,165600
+42,28,Walter Kollolaan,16:58,165800
+42,29,Rioolwaterzuivering,16:59,165900
+42,30,Meijewetering,17:00,170000
+42,31,The Food Spot,17:00,170000
+42,32,Heldinnenlaan,17:02,170200
+42,33,Haarrijn,17:03,170300
+42,34,Burg. Waverijnweg,17:07,170700
+42,35,Antilopespoor,17:08,170800
+42,36,Station Maarssen,17:10,171000
+43,1,David Ben Goerionstraat,16:20,162000
+43,2,Pedro Luis Brionstraat,16:21,162100
+43,3,Simon Bolivarstraat,16:21,162100
+43,4,Kemal Ataturkstraat,16:22,162200
+43,5,De Gaard,16:23,162300
+43,6,Van Everdingenlaan,16:25,162500
+43,7,Eykmanplein,16:28,162800
+43,8,Kleinesingel,16:30,163000
+43,9,Wittevrouwenbrug,16:32,163200
+43,10,Stadsschouwburg,16:34,163400
+43,11,Janskerkhof,16:35,163500
+43,12,Neude,16:36,163600
+43,13,Vredenburg,16:37,163700
+43,14,CS Jaarbeurszijde,16:42,164200
+43,15,CS Jaarbeurszijde,16:43,164300
+44,1,David Ben Goerionstraat,16:35,163500
+44,2,Pedro Luis Brionstraat,16:36,163600
+44,3,Simon Bolivarstraat,16:36,163600
+44,4,Kemal Ataturkstraat,16:37,163700
+44,5,De Gaard,16:38,163800
+44,6,Van Everdingenlaan,16:40,164000
+44,7,Eykmanplein,16:43,164300
+44,8,Kleinesingel,16:45,164500
+44,9,Wittevrouwenbrug,16:47,164700
+44,10,Stadsschouwburg,16:49,164900
+44,11,Janskerkhof,16:50,165000
+44,12,Neude,16:51,165100
+44,13,Vredenburg,16:52,165200
+44,14,CS Jaarbeurszijde,16:57,165700
+44,15,CS Jaarbeurszijde,17:00,170000
+44,16,24 Oktoberplein,17:05,170500
+44,17,Den Hommel,17:07,170700
+44,18,Beethovenlaan,17:08,170800
+44,19,Everard Meysterlaan,17:10,171000
+44,20,Racinelaan,17:11,171100
+44,21,Thomas à Kempisplantsoen,17:13,171300
+44,22,Station Leidsche Rijn,17:17,171700
+44,23,Jan Wolkerssingel,17:19,171900
+44,24,Jazzsingel/Antonius Zkh,17:22,172200
+44,25,Duke Ellingtonstraat,17:23,172300
+44,26,Waterwinpark,17:25,172500
+44,27,Musicalkade,17:26,172600
+44,28,Walter Kollolaan,17:28,172800
+44,29,Rioolwaterzuivering,17:29,172900
+44,30,Meijewetering,17:30,173000
+44,31,The Food Spot,17:30,173000
+44,32,Heldinnenlaan,17:32,173200
+44,33,Haarrijn,17:33,173300
+44,34,Burg. Waverijnweg,17:37,173700
+44,35,Antilopespoor,17:38,173800
+44,36,Station Maarssen,17:40,174000
+45,1,David Ben Goerionstraat,16:50,165000
+45,2,Pedro Luis Brionstraat,16:51,165100
+45,3,Simon Bolivarstraat,16:51,165100
+45,4,Kemal Ataturkstraat,16:52,165200
+45,5,De Gaard,16:53,165300
+45,6,Van Everdingenlaan,16:55,165500
+45,7,Eykmanplein,16:58,165800
+45,8,Kleinesingel,17:00,170000
+45,9,Wittevrouwenbrug,17:02,170200
+45,10,Stadsschouwburg,17:04,170400
+45,11,Janskerkhof,17:05,170500
+45,12,Neude,17:06,170600
+45,13,Vredenburg,17:07,170700
+45,14,CS Jaarbeurszijde,17:12,171200
+45,15,CS Jaarbeurszijde,17:13,171300
+46,1,David Ben Goerionstraat,17:05,170500
+46,2,Pedro Luis Brionstraat,17:06,170600
+46,3,Simon Bolivarstraat,17:06,170600
+46,4,Kemal Ataturkstraat,17:07,170700
+46,5,De Gaard,17:08,170800
+46,6,Van Everdingenlaan,17:10,171000
+46,7,Eykmanplein,17:13,171300
+46,8,Kleinesingel,17:15,171500
+46,9,Wittevrouwenbrug,17:17,171700
+46,10,Stadsschouwburg,17:19,171900
+46,11,Janskerkhof,17:20,172000
+46,12,Neude,17:21,172100
+46,13,Vredenburg,17:22,172200
+46,14,CS Jaarbeurszijde,17:27,172700
+46,15,CS Jaarbeurszijde,17:30,173000
+46,16,24 Oktoberplein,17:35,173500
+46,17,Den Hommel,17:37,173700
+46,18,Beethovenlaan,17:38,173800
+46,19,Everard Meysterlaan,17:40,174000
+46,20,Racinelaan,17:41,174100
+46,21,Thomas à Kempisplantsoen,17:43,174300
+46,22,Station Leidsche Rijn,17:47,174700
+46,23,Jan Wolkerssingel,17:49,174900
+46,24,Jazzsingel/Antonius Zkh,17:52,175200
+46,25,Duke Ellingtonstraat,17:53,175300
+46,26,Waterwinpark,17:55,175500
+46,27,Musicalkade,17:56,175600
+46,28,Walter Kollolaan,17:58,175800
+46,29,Rioolwaterzuivering,17:59,175900
+46,30,Meijewetering,18:00,180000
+46,31,The Food Spot,18:00,180000
+46,32,Heldinnenlaan,18:02,180200
+46,33,Haarrijn,18:03,180300
+46,34,Burg. Waverijnweg,18:07,180700
+46,35,Antilopespoor,18:08,180800
+46,36,Station Maarssen,18:10,181000
+47,1,David Ben Goerionstraat,17:21,172100
+47,2,Pedro Luis Brionstraat,17:22,172200
+47,3,Simon Bolivarstraat,17:22,172200
+47,4,Kemal Ataturkstraat,17:23,172300
+47,5,De Gaard,17:24,172400
+47,6,Van Everdingenlaan,17:26,172600
+47,7,Eykmanplein,17:29,172900
+47,8,Kleinesingel,17:31,173100
+47,9,Wittevrouwenbrug,17:33,173300
+47,10,Stadsschouwburg,17:35,173500
+47,11,Janskerkhof,17:36,173600
+47,12,Neude,17:37,173700
+47,13,Vredenburg,17:38,173800
+47,14,CS Jaarbeurszijde,17:43,174300
+47,15,CS Jaarbeurszijde,17:44,174400
+48,1,David Ben Goerionstraat,17:38,173800
+48,2,Pedro Luis Brionstraat,17:39,173900
+48,3,Simon Bolivarstraat,17:39,173900
+48,4,Kemal Ataturkstraat,17:40,174000
+48,5,De Gaard,17:41,174100
+48,6,Van Everdingenlaan,17:43,174300
+48,7,Eykmanplein,17:46,174600
+48,8,Kleinesingel,17:48,174800
+48,9,Wittevrouwenbrug,17:50,175000
+48,10,Stadsschouwburg,17:52,175200
+48,11,Janskerkhof,17:53,175300
+48,12,Neude,17:54,175400
+48,13,Vredenburg,17:55,175500
+48,14,CS Jaarbeurszijde,18:00,180000
+48,15,CS Jaarbeurszijde,18:03,180300
+48,16,24 Oktoberplein,18:08,180800
+48,17,Den Hommel,18:10,181000
+48,18,Beethovenlaan,18:11,181100
+48,19,Everard Meysterlaan,18:13,181300
+48,20,Racinelaan,18:14,181400
+48,21,Thomas à Kempisplantsoen,18:16,181600
+48,22,Station Leidsche Rijn,18:19,181900
+48,23,Jan Wolkerssingel,18:21,182100
+48,24,Jazzsingel/Antonius Zkh,18:23,182300
+48,25,Duke Ellingtonstraat,18:24,182400
+48,26,Waterwinpark,18:26,182600
+48,27,Musicalkade,18:27,182700
+48,28,Walter Kollolaan,18:29,182900
+48,29,Rioolwaterzuivering,18:30,183000
+48,30,Meijewetering,18:31,183100
+48,31,The Food Spot,18:31,183100
+48,32,Heldinnenlaan,18:33,183300
+48,33,Haarrijn,18:34,183400
+48,34,Burg. Waverijnweg,18:37,183700
+48,35,Antilopespoor,18:38,183800
+48,36,Station Maarssen,18:40,184000
+49,1,David Ben Goerionstraat,17:54,175400
+49,2,Pedro Luis Brionstraat,17:55,175500
+49,3,Simon Bolivarstraat,17:55,175500
+49,4,Kemal Ataturkstraat,17:56,175600
+49,5,De Gaard,17:57,175700
+49,6,Van Everdingenlaan,17:59,175900
+49,7,Eykmanplein,18:02,180200
+49,8,Kleinesingel,18:04,180400
+49,9,Wittevrouwenbrug,18:06,180600
+49,10,Stadsschouwburg,18:08,180800
+49,11,Janskerkhof,18:09,180900
+49,12,Neude,18:10,181000
+49,13,Vredenburg,18:11,181100
+49,14,CS Jaarbeurszijde,18:16,181600
+49,15,CS Jaarbeurszijde,18:17,181700
+50,1,David Ben Goerionstraat,18:10,181000
+50,2,Pedro Luis Brionstraat,18:11,181100
+50,3,Simon Bolivarstraat,18:11,181100
+50,4,Kemal Ataturkstraat,18:12,181200
+50,5,De Gaard,18:13,181300
+50,6,Van Everdingenlaan,18:15,181500
+50,7,Eykmanplein,18:18,181800
+50,8,Kleinesingel,18:20,182000
+50,9,Wittevrouwenbrug,18:22,182200
+50,10,Stadsschouwburg,18:24,182400
+50,11,Janskerkhof,18:25,182500
+50,12,Neude,18:26,182600
+50,13,Vredenburg,18:27,182700
+50,14,CS Jaarbeurszijde,18:32,183200
+50,15,CS Jaarbeurszijde,18:35,183500
+50,16,24 Oktoberplein,18:40,184000
+50,17,Den Hommel,18:42,184200
+50,18,Beethovenlaan,18:43,184300
+50,19,Everard Meysterlaan,18:44,184400
+50,20,Racinelaan,18:45,184500
+50,21,Thomas à Kempisplantsoen,18:47,184700
+50,22,Station Leidsche Rijn,18:50,185000
+50,23,Jan Wolkerssingel,18:52,185200
+50,24,Jazzsingel/Antonius Zkh,18:54,185400
+50,25,Duke Ellingtonstraat,18:55,185500
+50,26,Waterwinpark,18:57,185700
+50,27,Musicalkade,18:58,185800
+50,28,Walter Kollolaan,19:00,190000
+50,29,Rioolwaterzuivering,19:01,190100
+50,30,Meijewetering,19:01,190100
+50,31,The Food Spot,19:02,190200
+50,32,Heldinnenlaan,19:03,190300
+50,33,Haarrijn,19:04,190400
+50,34,Burg. Waverijnweg,19:07,190700
+50,35,Antilopespoor,19:08,190800
+50,36,Station Maarssen,19:10,191000
+51,1,David Ben Goerionstraat,18:24,182400
+51,2,Pedro Luis Brionstraat,18:25,182500
+51,3,Simon Bolivarstraat,18:25,182500
+51,4,Kemal Ataturkstraat,18:26,182600
+51,5,De Gaard,18:27,182700
+51,6,Van Everdingenlaan,18:29,182900
+51,7,Eykmanplein,18:32,183200
+51,8,Kleinesingel,18:34,183400
+51,9,Wittevrouwenbrug,18:36,183600
+51,10,Stadsschouwburg,18:38,183800
+51,11,Janskerkhof,18:39,183900
+51,12,Neude,18:40,184000
+51,13,Vredenburg,18:41,184100
+51,14,CS Jaarbeurszijde,18:46,184600
+51,15,CS Jaarbeurszijde,18:47,184700
+52,1,David Ben Goerionstraat,18:41,184100
+52,2,Pedro Luis Brionstraat,18:42,184200
+52,3,Simon Bolivarstraat,18:42,184200
+52,4,Kemal Ataturkstraat,18:43,184300
+52,5,De Gaard,18:44,184400
+52,6,Van Everdingenlaan,18:46,184600
+52,7,Eykmanplein,18:49,184900
+52,8,Kleinesingel,18:51,185100
+52,9,Wittevrouwenbrug,18:53,185300
+52,10,Stadsschouwburg,18:55,185500
+52,11,Janskerkhof,18:56,185600
+52,12,Neude,18:57,185700
+52,13,Vredenburg,18:58,185800
+52,14,CS Jaarbeurszijde,19:03,190300
+52,15,CS Jaarbeurszijde,19:06,190600
+52,16,24 Oktoberplein,19:11,191100
+52,17,Den Hommel,19:12,191200
+52,18,Beethovenlaan,19:13,191300
+52,19,Everard Meysterlaan,19:14,191400
+52,20,Racinelaan,19:15,191500
+52,21,Thomas à Kempisplantsoen,19:17,191700
+52,22,Station Leidsche Rijn,19:20,192000
+52,23,Jan Wolkerssingel,19:22,192200
+52,24,Jazzsingel/Antonius Zkh,19:24,192400
+52,25,Duke Ellingtonstraat,19:25,192500
+52,26,Waterwinpark,19:27,192700
+52,27,Musicalkade,19:28,192800
+52,28,Walter Kollolaan,19:30,193000
+52,29,Rioolwaterzuivering,19:31,193100
+52,30,Meijewetering,19:31,193100
+52,31,The Food Spot,19:32,193200
+52,32,Heldinnenlaan,19:33,193300
+52,33,Haarrijn,19:34,193400
+52,34,Burg. Waverijnweg,19:37,193700
+52,35,Antilopespoor,19:38,193800
+52,36,Station Maarssen,19:40,194000
+53,1,David Ben Goerionstraat,19:09,190900
+53,2,Pedro Luis Brionstraat,19:10,191000
+53,3,Simon Bolivarstraat,19:10,191000
+53,4,Kemal Ataturkstraat,19:11,191100
+53,5,De Gaard,19:12,191200
+53,6,Van Everdingenlaan,19:14,191400
+53,7,Eykmanplein,19:16,191600
+53,8,Kleinesingel,19:18,191800
+53,9,Wittevrouwenbrug,19:19,191900
+53,10,Stadsschouwburg,19:21,192100
+53,11,Janskerkhof,19:22,192200
+53,12,Neude,19:23,192300
+53,13,Vredenburg,19:24,192400
+53,14,CS Jaarbeurszijde,19:29,192900
+53,15,CS Jaarbeurszijde,19:32,193200
+53,16,24 Oktoberplein,19:37,193700
+53,17,Den Hommel,19:38,193800
+53,18,Beethovenlaan,19:39,193900
+53,19,Everard Meysterlaan,19:40,194000
+53,20,Racinelaan,19:41,194100
+53,21,Thomas à Kempisplantsoen,19:43,194300
+53,22,Station Leidsche Rijn,19:46,194600
+53,23,Jan Wolkerssingel,19:48,194800
+53,24,Jazzsingel/Antonius Zkh,19:50,195000
+53,25,Duke Ellingtonstraat,19:52,195200
+53,26,Waterwinpark,19:54,195400
+53,27,Musicalkade,19:55,195500
+53,28,Rioolwaterzuivering,20:00,200000
+53,29,Walter Kollolaan,20:01,200100
+54,1,David Ben Goerionstraat,19:39,193900
+54,2,Pedro Luis Brionstraat,19:40,194000
+54,3,Simon Bolivarstraat,19:40,194000
+54,4,Kemal Ataturkstraat,19:41,194100
+54,5,De Gaard,19:42,194200
+54,6,Van Everdingenlaan,19:44,194400
+54,7,Eykmanplein,19:46,194600
+54,8,Kleinesingel,19:48,194800
+54,9,Wittevrouwenbrug,19:49,194900
+54,10,Stadsschouwburg,19:51,195100
+54,11,Janskerkhof,19:52,195200
+54,12,Neude,19:53,195300
+54,13,Vredenburg,19:54,195400
+54,14,CS Jaarbeurszijde,19:59,195900
+54,15,CS Jaarbeurszijde,20:02,200200
+54,16,24 Oktoberplein,20:07,200700
+54,17,Den Hommel,20:08,200800
+54,18,Beethovenlaan,20:09,200900
+54,19,Everard Meysterlaan,20:10,201000
+54,20,Racinelaan,20:11,201100
+54,21,Thomas à Kempisplantsoen,20:13,201300
+54,22,Station Leidsche Rijn,20:16,201600
+54,23,Jan Wolkerssingel,20:18,201800
+54,24,Jazzsingel/Antonius Zkh,20:20,202000
+54,25,Duke Ellingtonstraat,20:22,202200
+54,26,Waterwinpark,20:24,202400
+54,27,Musicalkade,20:25,202500
+54,28,Rioolwaterzuivering,20:30,203000
+54,29,Walter Kollolaan,20:31,203100
+55,1,David Ben Goerionstraat,20:11,201100
+55,2,Pedro Luis Brionstraat,20:12,201200
+55,3,Simon Bolivarstraat,20:12,201200
+55,4,Kemal Ataturkstraat,20:13,201300
+55,5,De Gaard,20:14,201400
+55,6,Van Everdingenlaan,20:16,201600
+55,7,Eykmanplein,20:18,201800
+55,8,Kleinesingel,20:20,202000
+55,9,Wittevrouwenbrug,20:21,202100
+55,10,Stadsschouwburg,20:23,202300
+55,11,Janskerkhof,20:24,202400
+55,12,Neude,20:25,202500
+55,13,Vredenburg,20:26,202600
+55,14,CS Jaarbeurszijde,20:31,203100
+55,15,CS Jaarbeurszijde,20:34,203400
+55,16,24 Oktoberplein,20:39,203900
+55,17,Den Hommel,20:40,204000
+55,18,Beethovenlaan,20:41,204100
+55,19,Everard Meysterlaan,20:41,204100
+55,20,Racinelaan,20:42,204200
+55,21,Thomas à Kempisplantsoen,20:44,204400
+55,22,Station Leidsche Rijn,20:47,204700
+55,23,Jan Wolkerssingel,20:48,204800
+55,24,Jazzsingel/Antonius Zkh,20:50,205000
+55,25,Duke Ellingtonstraat,20:52,205200
+55,26,Waterwinpark,20:54,205400
+55,27,Musicalkade,20:55,205500
+55,28,Rioolwaterzuivering,21:00,210000
+55,29,Walter Kollolaan,21:01,210100
+56,1,David Ben Goerionstraat,20:43,204300
+56,2,Pedro Luis Brionstraat,20:43,204300
+56,3,Simon Bolivarstraat,20:44,204400
+56,4,Kemal Ataturkstraat,20:44,204400
+56,5,De Gaard,20:45,204500
+56,6,Van Everdingenlaan,20:47,204700
+56,7,Eykmanplein,20:49,204900
+56,8,Kleinesingel,20:51,205100
+56,9,Wittevrouwenbrug,20:52,205200
+56,10,Stadsschouwburg,20:53,205300
+56,11,Janskerkhof,20:54,205400
+56,12,Neude,20:55,205500
+56,13,Vredenburg,20:56,205600
+56,14,CS Jaarbeurszijde,21:01,210100
+56,15,CS Jaarbeurszijde,21:04,210400
+56,16,24 Oktoberplein,21:09,210900
+56,17,Den Hommel,21:10,211000
+56,18,Beethovenlaan,21:11,211100
+56,19,Everard Meysterlaan,21:11,211100
+56,20,Racinelaan,21:12,211200
+56,21,Thomas à Kempisplantsoen,21:14,211400
+56,22,Station Leidsche Rijn,21:17,211700
+56,23,Jan Wolkerssingel,21:18,211800
+56,24,Jazzsingel/Antonius Zkh,21:20,212000
+56,25,Duke Ellingtonstraat,21:22,212200
+56,26,Waterwinpark,21:24,212400
+56,27,Musicalkade,21:25,212500
+56,28,Rioolwaterzuivering,21:30,213000
+56,29,Walter Kollolaan,21:31,213100
+57,1,David Ben Goerionstraat,21:13,211300
+57,2,Pedro Luis Brionstraat,21:13,211300
+57,3,Simon Bolivarstraat,21:14,211400
+57,4,Kemal Ataturkstraat,21:14,211400
+57,5,De Gaard,21:15,211500
+57,6,Van Everdingenlaan,21:17,211700
+57,7,Eykmanplein,21:19,211900
+57,8,Kleinesingel,21:21,212100
+57,9,Wittevrouwenbrug,21:22,212200
+57,10,Stadsschouwburg,21:23,212300
+57,11,Janskerkhof,21:24,212400
+57,12,Neude,21:25,212500
+57,13,Vredenburg,21:26,212600
+57,14,CS Jaarbeurszijde,21:31,213100
+57,15,CS Jaarbeurszijde,21:34,213400
+57,16,24 Oktoberplein,21:39,213900
+57,17,Den Hommel,21:40,214000
+57,18,Beethovenlaan,21:41,214100
+57,19,Everard Meysterlaan,21:41,214100
+57,20,Racinelaan,21:42,214200
+57,21,Thomas à Kempisplantsoen,21:44,214400
+57,22,Station Leidsche Rijn,21:47,214700
+57,23,Jan Wolkerssingel,21:48,214800
+57,24,Jazzsingel/Antonius Zkh,21:50,215000
+57,25,Duke Ellingtonstraat,21:52,215200
+57,26,Waterwinpark,21:54,215400
+57,27,Musicalkade,21:55,215500
+57,28,Rioolwaterzuivering,22:00,220000
+57,29,Walter Kollolaan,22:01,220100
+58,1,David Ben Goerionstraat,21:44,214400
+58,2,Pedro Luis Brionstraat,21:44,214400
+58,3,Simon Bolivarstraat,21:45,214500
+58,4,Kemal Ataturkstraat,21:45,214500
+58,5,De Gaard,21:46,214600
+58,6,Van Everdingenlaan,21:48,214800
+58,7,Eykmanplein,21:50,215000
+58,8,Kleinesingel,21:52,215200
+58,9,Wittevrouwenbrug,21:53,215300
+58,10,Stadsschouwburg,21:54,215400
+58,11,Janskerkhof,21:55,215500
+58,12,Neude,21:56,215600
+58,13,Vredenburg,21:57,215700
+58,14,CS Jaarbeurszijde,22:01,220100
+58,15,CS Jaarbeurszijde,22:04,220400
+58,16,24 Oktoberplein,22:09,220900
+58,17,Den Hommel,22:10,221000
+58,18,Beethovenlaan,22:11,221100
+58,19,Everard Meysterlaan,22:11,221100
+58,20,Racinelaan,22:12,221200
+58,21,Thomas à Kempisplantsoen,22:14,221400
+58,22,Station Leidsche Rijn,22:17,221700
+58,23,Jan Wolkerssingel,22:18,221800
+58,24,Jazzsingel/Antonius Zkh,22:20,222000
+58,25,Duke Ellingtonstraat,22:22,222200
+58,26,Waterwinpark,22:24,222400
+58,27,Musicalkade,22:25,222500
+58,28,Rioolwaterzuivering,22:30,223000
+58,29,Walter Kollolaan,22:31,223100
+59,1,David Ben Goerionstraat,22:15,221500
+59,2,Pedro Luis Brionstraat,22:15,221500
+59,3,Simon Bolivarstraat,22:16,221600
+59,4,Kemal Ataturkstraat,22:16,221600
+59,5,De Gaard,22:17,221700
+59,6,Van Everdingenlaan,22:18,221800
+59,7,Eykmanplein,22:20,222000
+59,8,Kleinesingel,22:22,222200
+59,9,Wittevrouwenbrug,22:23,222300
+59,10,Stadsschouwburg,22:24,222400
+59,11,Janskerkhof,22:25,222500
+59,12,Neude,22:26,222600
+59,13,Vredenburg,22:27,222700
+59,14,CS Jaarbeurszijde,22:31,223100
+59,15,CS Jaarbeurszijde,22:34,223400
+59,16,24 Oktoberplein,22:39,223900
+59,17,Den Hommel,22:40,224000
+59,18,Beethovenlaan,22:41,224100
+59,19,Everard Meysterlaan,22:41,224100
+59,20,Racinelaan,22:42,224200
+59,21,Thomas à Kempisplantsoen,22:44,224400
+59,22,Station Leidsche Rijn,22:47,224700
+59,23,Jan Wolkerssingel,22:48,224800
+59,24,Jazzsingel/Antonius Zkh,22:50,225000
+59,25,Duke Ellingtonstraat,22:52,225200
+59,26,Waterwinpark,22:54,225400
+59,27,Musicalkade,22:55,225500
+59,28,Rioolwaterzuivering,23:00,230000
+59,29,Walter Kollolaan,23:01,230100
+60,1,David Ben Goerionstraat,22:45,224500
+60,2,Pedro Luis Brionstraat,22:45,224500
+60,3,Simon Bolivarstraat,22:46,224600
+60,4,Kemal Ataturkstraat,22:46,224600
+60,5,De Gaard,22:47,224700
+60,6,Van Everdingenlaan,22:48,224800
+60,7,Eykmanplein,22:50,225000
+60,8,Kleinesingel,22:52,225200
+60,9,Wittevrouwenbrug,22:53,225300
+60,10,Stadsschouwburg,22:54,225400
+60,11,Janskerkhof,22:55,225500
+60,12,Neude,22:56,225600
+60,13,Vredenburg,22:57,225700
+60,14,CS Jaarbeurszijde,23:01,230100
+60,15,CS Jaarbeurszijde,23:04,230400
+60,16,24 Oktoberplein,23:09,230900
+60,17,Den Hommel,23:10,231000
+60,18,Beethovenlaan,23:11,231100
+60,19,Everard Meysterlaan,23:11,231100
+60,20,Racinelaan,23:12,231200
+60,21,Thomas à Kempisplantsoen,23:14,231400
+60,22,Station Leidsche Rijn,23:17,231700
+60,23,Jan Wolkerssingel,23:18,231800
+60,24,Jazzsingel/Antonius Zkh,23:20,232000
+60,25,Duke Ellingtonstraat,23:22,232200
+60,26,Waterwinpark,23:24,232400
+60,27,Musicalkade,23:25,232500
+60,28,Rioolwaterzuivering,23:30,233000
+60,29,Walter Kollolaan,23:31,233100
+61,1,David Ben Goerionstraat,23:15,231500
+61,2,Pedro Luis Brionstraat,23:15,231500
+61,3,Simon Bolivarstraat,23:16,231600
+61,4,Kemal Ataturkstraat,23:16,231600
+61,5,De Gaard,23:17,231700
+61,6,Van Everdingenlaan,23:18,231800
+61,7,Eykmanplein,23:20,232000
+61,8,Kleinesingel,23:22,232200
+61,9,Wittevrouwenbrug,23:23,232300
+61,10,Stadsschouwburg,23:24,232400
+61,11,Janskerkhof,23:25,232500
+61,12,Neude,23:26,232600
+61,13,Vredenburg,23:27,232700
+61,14,CS Jaarbeurszijde,23:31,233100
+61,15,CS Jaarbeurszijde,23:34,233400
+61,16,24 Oktoberplein,23:39,233900
+61,17,Den Hommel,23:40,234000
+61,18,Beethovenlaan,23:41,234100
+61,19,Everard Meysterlaan,23:41,234100
+61,20,Racinelaan,23:42,234200
+61,21,Thomas à Kempisplantsoen,23:44,234400
+61,22,Station Leidsche Rijn,23:47,234700
+61,23,Jan Wolkerssingel,23:48,234800
+61,24,Jazzsingel/Antonius Zkh,23:50,235000
+61,25,Duke Ellingtonstraat,23:52,235200
+61,26,Waterwinpark,23:54,235400
+61,27,Musicalkade,23:55,235500
+61,28,Rioolwaterzuivering,00:00*,240000
+61,29,Walter Kollolaan,00:01*,240100
+62,1,David Ben Goerionstraat,23:45,234500
+62,2,Pedro Luis Brionstraat,23:45,234500
+62,3,Simon Bolivarstraat,23:46,234600
+62,4,Kemal Ataturkstraat,23:46,234600
+62,5,De Gaard,23:47,234700
+62,6,Van Everdingenlaan,23:48,234800
+62,7,Eykmanplein,23:50,235000
+62,8,Kleinesingel,23:52,235200
+62,9,Wittevrouwenbrug,23:53,235300
+62,10,Stadsschouwburg,23:54,235400
+62,11,Janskerkhof,23:55,235500
+62,12,Neude,23:56,235600
+62,13,Vredenburg,23:57,235700
+62,14,CS Jaarbeurszijde,00:01*,240100
+62,15,CS Jaarbeurszijde,00:04*,240400
+62,16,24 Oktoberplein,00:09*,240900
+62,17,Den Hommel,00:10*,241000
+62,18,Beethovenlaan,00:11*,241100
+62,19,Everard Meysterlaan,00:11*,241100
+62,20,Racinelaan,00:12*,241200
+62,21,Thomas à Kempisplantsoen,00:14*,241400
+62,22,Station Leidsche Rijn,00:17*,241700
+62,23,Jan Wolkerssingel,00:18*,241800
+62,24,Jazzsingel/Antonius Zkh,00:20*,242000
+62,25,Duke Ellingtonstraat,00:22*,242200
+62,26,Waterwinpark,00:24*,242400
+62,27,Musicalkade,00:25*,242500
+62,28,Rioolwaterzuivering,00:30*,243000
+62,29,Walter Kollolaan,00:31*,243100
+63,1,David Ben Goerionstraat,00:15*,241500
+63,2,Pedro Luis Brionstraat,00:15*,241500
+63,3,Simon Bolivarstraat,00:16*,241600
+63,4,Kemal Ataturkstraat,00:16*,241600
+63,5,De Gaard,00:17*,241700
+63,6,Van Everdingenlaan,00:18*,241800
+63,7,Eykmanplein,00:20*,242000
+63,8,Kleinesingel,00:22*,242200
+63,9,Wittevrouwenbrug,00:23*,242300
+63,10,Stadsschouwburg,00:24*,242400
+63,11,Janskerkhof,00:25*,242500
+63,12,Neude,00:26*,242600
+63,13,Vredenburg,00:27*,242700
+63,14,CS Jaarbeurszijde,00:31*,243100
+63,15,CS Jaarbeurszijde,00:34*,243400
+63,16,24 Oktoberplein,00:39*,243900
+63,17,Den Hommel,00:40*,244000
+63,18,Beethovenlaan,00:41*,244100
+63,19,Everard Meysterlaan,00:41*,244100
+63,20,Racinelaan,00:42*,244200
+63,21,Thomas à Kempisplantsoen,00:44*,244400
+63,22,Station Leidsche Rijn,00:47*,244700
+63,23,Jan Wolkerssingel,00:49*,244900
+63,24,Jazzsingel/Antonius Zkh,00:52*,245200
+63,25,Duke Ellingtonstraat,00:54*,245400
+63,26,Waterwinpark,00:56*,245600
+63,27,Musicalkade,00:57*,245700
+63,28,Walter Kollolaan,00:59*,245900
+64,1,David Ben Goerionstraat,00:38*,243800
+64,2,Pedro Luis Brionstraat,00:38*,243800
+64,3,Simon Bolivarstraat,00:39*,243900
+64,4,Kemal Ataturkstraat,00:39*,243900
+64,5,De Gaard,00:40*,244000
+64,6,Van Everdingenlaan,00:41*,244100
+64,7,Eykmanplein,00:43*,244300
+64,8,Kleinesingel,00:45*,244500
+64,9,Wittevrouwenbrug,00:46*,244600
+64,10,Stadsschouwburg,00:47*,244700
+64,11,Janskerkhof,00:48*,244800
+64,12,Neude,00:49*,244900
+64,13,Vredenburg,00:50*,245000
+64,14,CS Jaarbeurszijde,00:54*,245400
+64,15,CS Jaarbeurszijde,01:00*,250000
+64,16,24 Oktoberplein,01:05*,250500
+64,17,Den Hommel,01:06*,250600
+64,18,Beethovenlaan,01:07*,250700
+64,19,Everard Meysterlaan,01:07*,250700
+64,20,Racinelaan,01:08*,250800
+64,21,Thomas à Kempisplantsoen,01:10*,251000
+64,22,Station Leidsche Rijn,01:13*,251300
+64,23,Jan Wolkerssingel,01:15*,251500
+64,24,Jazzsingel/Antonius Zkh,01:18*,251800
+64,25,Duke Ellingtonstraat,01:20*,252000
+64,26,Waterwinpark,01:22*,252200
+64,27,Musicalkade,01:23*,252300
+64,28,Walter Kollolaan,01:25*,252500

@@ -1,0 +1,599 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,CS Centrumzijde,06:33,063300
+1,2,Vredenburg,06:35,063500
+1,3,Neude,06:36,063600
+1,4,Janskerkhof,06:37,063700
+1,5,Domplein,06:38,063800
+1,6,Catharijneconvent,06:39,063900
+1,7,Universiteitsmuseum,06:41,064100
+1,8,Centraal Museum,06:42,064200
+1,9,Tolsteegbrug,06:43,064300
+1,10,Hoogh Boulandt,06:44,064400
+1,11,Nicolaas Beetsstraat,06:45,064500
+1,12,Hoog Catharijne,06:48,064800
+1,13,CS Centrumzijde,06:52,065200
+2,1,CS Centrumzijde,06:33,063300
+2,2,Vredenburg,06:35,063500
+2,3,Neude,06:36,063600
+2,4,Janskerkhof,06:37,063700
+2,5,Domplein,06:38,063800
+2,6,Catharijneconvent,06:39,063900
+2,7,Universiteitsmuseum,06:41,064100
+2,8,Centraal Museum,06:42,064200
+2,9,Tolsteegbrug,06:43,064300
+2,10,CS Centrumzijde,06:52,065200
+3,1,CS Centrumzijde,07:03,070300
+3,2,Vredenburg,07:05,070500
+3,3,Neude,07:06,070600
+3,4,Janskerkhof,07:07,070700
+3,5,Domplein,07:08,070800
+3,6,Catharijneconvent,07:09,070900
+3,7,Universiteitsmuseum,07:11,071100
+3,8,Centraal Museum,07:12,071200
+3,9,Tolsteegbrug,07:13,071300
+3,10,Hoogh Boulandt,07:14,071400
+3,11,Nicolaas Beetsstraat,07:15,071500
+3,12,Hoog Catharijne,07:18,071800
+3,13,CS Centrumzijde,07:22,072200
+4,1,CS Centrumzijde,07:03,070300
+4,2,Vredenburg,07:05,070500
+4,3,Neude,07:06,070600
+4,4,Janskerkhof,07:07,070700
+4,5,Domplein,07:08,070800
+4,6,Catharijneconvent,07:09,070900
+4,7,Universiteitsmuseum,07:11,071100
+4,8,Centraal Museum,07:12,071200
+4,9,Tolsteegbrug,07:13,071300
+4,10,CS Centrumzijde,07:22,072200
+5,1,CS Centrumzijde,07:33,073300
+5,2,Vredenburg,07:35,073500
+5,3,Neude,07:36,073600
+5,4,Janskerkhof,07:37,073700
+5,5,Domplein,07:38,073800
+5,6,Catharijneconvent,07:39,073900
+5,7,Universiteitsmuseum,07:41,074100
+5,8,Centraal Museum,07:42,074200
+5,9,Tolsteegbrug,07:43,074300
+5,10,Hoogh Boulandt,07:44,074400
+5,11,Nicolaas Beetsstraat,07:45,074500
+5,12,Hoog Catharijne,07:48,074800
+5,13,CS Centrumzijde,07:52,075200
+6,1,CS Centrumzijde,07:33,073300
+6,2,Vredenburg,07:35,073500
+6,3,Neude,07:36,073600
+6,4,Janskerkhof,07:37,073700
+6,5,Domplein,07:38,073800
+6,6,Catharijneconvent,07:39,073900
+6,7,Universiteitsmuseum,07:41,074100
+6,8,Centraal Museum,07:42,074200
+6,9,Tolsteegbrug,07:43,074300
+6,10,CS Centrumzijde,07:52,075200
+7,1,CS Centrumzijde,08:03,080300
+7,2,Vredenburg,08:05,080500
+7,3,Neude,08:07,080700
+7,4,Janskerkhof,08:09,080900
+7,5,Domplein,08:10,081000
+7,6,Catharijneconvent,08:11,081100
+7,7,Universiteitsmuseum,08:13,081300
+7,8,Centraal Museum,08:14,081400
+7,9,Tolsteegbrug,08:15,081500
+7,10,CS Centrumzijde,08:26,082600
+8,1,CS Centrumzijde,08:03,080300
+8,2,Vredenburg,08:05,080500
+8,3,Neude,08:07,080700
+8,4,Janskerkhof,08:09,080900
+8,5,Domplein,08:10,081000
+8,6,Catharijneconvent,08:11,081100
+8,7,Universiteitsmuseum,08:13,081300
+8,8,Centraal Museum,08:14,081400
+8,9,Tolsteegbrug,08:15,081500
+8,10,Hoogh Boulandt,08:18,081800
+8,11,Nicolaas Beetsstraat,08:19,081900
+8,12,Hoog Catharijne,08:22,082200
+8,13,CS Centrumzijde,08:26,082600
+9,1,CS Centrumzijde,08:33,083300
+9,2,Vredenburg,08:35,083500
+9,3,Neude,08:37,083700
+9,4,Janskerkhof,08:39,083900
+9,5,Domplein,08:40,084000
+9,6,Catharijneconvent,08:41,084100
+9,7,Universiteitsmuseum,08:43,084300
+9,8,Centraal Museum,08:44,084400
+9,9,Tolsteegbrug,08:45,084500
+9,10,Hoogh Boulandt,08:48,084800
+9,11,Nicolaas Beetsstraat,08:49,084900
+9,12,Hoog Catharijne,08:52,085200
+9,13,CS Centrumzijde,08:56,085600
+10,1,CS Centrumzijde,08:33,083300
+10,2,Vredenburg,08:35,083500
+10,3,Neude,08:37,083700
+10,4,Janskerkhof,08:39,083900
+10,5,Domplein,08:40,084000
+10,6,Catharijneconvent,08:41,084100
+10,7,Universiteitsmuseum,08:43,084300
+10,8,Centraal Museum,08:44,084400
+10,9,Tolsteegbrug,08:45,084500
+10,10,CS Centrumzijde,08:56,085600
+11,1,CS Centrumzijde,09:03,090300
+11,2,Vredenburg,09:05,090500
+11,3,Neude,09:07,090700
+11,4,Janskerkhof,09:09,090900
+11,5,Domplein,09:10,091000
+11,6,Catharijneconvent,09:11,091100
+11,7,Universiteitsmuseum,09:13,091300
+11,8,Centraal Museum,09:14,091400
+11,9,Tolsteegbrug,09:15,091500
+11,10,Hoogh Boulandt,09:18,091800
+11,11,Nicolaas Beetsstraat,09:19,091900
+11,12,Hoog Catharijne,09:22,092200
+11,13,CS Centrumzijde,09:26,092600
+12,1,CS Centrumzijde,09:03,090300
+12,2,Vredenburg,09:05,090500
+12,3,Neude,09:07,090700
+12,4,Janskerkhof,09:09,090900
+12,5,Domplein,09:10,091000
+12,6,Catharijneconvent,09:11,091100
+12,7,Universiteitsmuseum,09:13,091300
+12,8,Centraal Museum,09:14,091400
+12,9,Tolsteegbrug,09:15,091500
+12,10,CS Centrumzijde,09:26,092600
+13,1,CS Centrumzijde,09:33,093300
+13,2,Vredenburg,09:35,093500
+13,3,Neude,09:37,093700
+13,4,Janskerkhof,09:39,093900
+13,5,Domplein,09:40,094000
+13,6,Catharijneconvent,09:41,094100
+13,7,Universiteitsmuseum,09:43,094300
+13,8,Centraal Museum,09:44,094400
+13,9,Tolsteegbrug,09:45,094500
+13,10,Hoogh Boulandt,09:48,094800
+13,11,Nicolaas Beetsstraat,09:49,094900
+13,12,Hoog Catharijne,09:52,095200
+13,13,CS Centrumzijde,09:56,095600
+14,1,CS Centrumzijde,09:33,093300
+14,2,Vredenburg,09:35,093500
+14,3,Neude,09:37,093700
+14,4,Janskerkhof,09:39,093900
+14,5,Domplein,09:40,094000
+14,6,Catharijneconvent,09:41,094100
+14,7,Universiteitsmuseum,09:43,094300
+14,8,Centraal Museum,09:44,094400
+14,9,Tolsteegbrug,09:45,094500
+14,10,CS Centrumzijde,09:56,095600
+15,1,CS Centrumzijde,10:03,100300
+15,2,Vredenburg,10:05,100500
+15,3,Neude,10:07,100700
+15,4,Janskerkhof,10:09,100900
+15,5,Domplein,10:10,101000
+15,6,Catharijneconvent,10:11,101100
+15,7,Universiteitsmuseum,10:13,101300
+15,8,Centraal Museum,10:14,101400
+15,9,Tolsteegbrug,10:15,101500
+15,10,CS Centrumzijde,10:26,102600
+16,1,CS Centrumzijde,10:03,100300
+16,2,Vredenburg,10:05,100500
+16,3,Neude,10:07,100700
+16,4,Janskerkhof,10:09,100900
+16,5,Domplein,10:10,101000
+16,6,Catharijneconvent,10:11,101100
+16,7,Universiteitsmuseum,10:13,101300
+16,8,Centraal Museum,10:14,101400
+16,9,Tolsteegbrug,10:15,101500
+16,10,Hoogh Boulandt,10:18,101800
+16,11,Nicolaas Beetsstraat,10:19,101900
+16,12,Hoog Catharijne,10:22,102200
+16,13,CS Centrumzijde,10:26,102600
+17,1,CS Centrumzijde,10:33,103300
+17,2,Vredenburg,10:35,103500
+17,3,Neude,10:37,103700
+17,4,Janskerkhof,10:39,103900
+17,5,Domplein,10:40,104000
+17,6,Catharijneconvent,10:41,104100
+17,7,Universiteitsmuseum,10:43,104300
+17,8,Centraal Museum,10:44,104400
+17,9,Tolsteegbrug,10:45,104500
+17,10,Hoogh Boulandt,10:48,104800
+17,11,Nicolaas Beetsstraat,10:49,104900
+17,12,Hoog Catharijne,10:52,105200
+17,13,CS Centrumzijde,10:56,105600
+18,1,CS Centrumzijde,10:33,103300
+18,2,Vredenburg,10:35,103500
+18,3,Neude,10:37,103700
+18,4,Janskerkhof,10:39,103900
+18,5,Domplein,10:40,104000
+18,6,Catharijneconvent,10:41,104100
+18,7,Universiteitsmuseum,10:43,104300
+18,8,Centraal Museum,10:44,104400
+18,9,Tolsteegbrug,10:45,104500
+18,10,CS Centrumzijde,10:56,105600
+19,1,CS Centrumzijde,11:03,110300
+19,2,Vredenburg,11:05,110500
+19,3,Neude,11:07,110700
+19,4,Janskerkhof,11:09,110900
+19,5,Domplein,11:10,111000
+19,6,Catharijneconvent,11:11,111100
+19,7,Universiteitsmuseum,11:13,111300
+19,8,Centraal Museum,11:14,111400
+19,9,Tolsteegbrug,11:15,111500
+19,10,CS Centrumzijde,11:26,112600
+20,1,CS Centrumzijde,11:03,110300
+20,2,Vredenburg,11:05,110500
+20,3,Neude,11:07,110700
+20,4,Janskerkhof,11:09,110900
+20,5,Domplein,11:10,111000
+20,6,Catharijneconvent,11:11,111100
+20,7,Universiteitsmuseum,11:13,111300
+20,8,Centraal Museum,11:14,111400
+20,9,Tolsteegbrug,11:15,111500
+20,10,Hoogh Boulandt,11:18,111800
+20,11,Nicolaas Beetsstraat,11:19,111900
+20,12,Hoog Catharijne,11:22,112200
+20,13,CS Centrumzijde,11:26,112600
+21,1,CS Centrumzijde,11:33,113300
+21,2,Vredenburg,11:35,113500
+21,3,Neude,11:37,113700
+21,4,Janskerkhof,11:39,113900
+21,5,Domplein,11:40,114000
+21,6,Catharijneconvent,11:41,114100
+21,7,Universiteitsmuseum,11:43,114300
+21,8,Centraal Museum,11:44,114400
+21,9,Tolsteegbrug,11:45,114500
+21,10,CS Centrumzijde,11:56,115600
+22,1,CS Centrumzijde,11:33,113300
+22,2,Vredenburg,11:35,113500
+22,3,Neude,11:37,113700
+22,4,Janskerkhof,11:39,113900
+22,5,Domplein,11:40,114000
+22,6,Catharijneconvent,11:41,114100
+22,7,Universiteitsmuseum,11:43,114300
+22,8,Centraal Museum,11:44,114400
+22,9,Tolsteegbrug,11:45,114500
+22,10,Hoogh Boulandt,11:48,114800
+22,11,Nicolaas Beetsstraat,11:49,114900
+22,12,Hoog Catharijne,11:52,115200
+22,13,CS Centrumzijde,11:56,115600
+23,1,CS Centrumzijde,12:03,120300
+23,2,Vredenburg,12:05,120500
+23,3,Neude,12:07,120700
+23,4,Janskerkhof,12:09,120900
+23,5,Domplein,12:10,121000
+23,6,Catharijneconvent,12:11,121100
+23,7,Universiteitsmuseum,12:13,121300
+23,8,Centraal Museum,12:14,121400
+23,9,Tolsteegbrug,12:15,121500
+23,10,Hoogh Boulandt,12:18,121800
+23,11,Nicolaas Beetsstraat,12:19,121900
+23,12,Hoog Catharijne,12:22,122200
+23,13,CS Centrumzijde,12:26,122600
+24,1,CS Centrumzijde,12:03,120300
+24,2,Vredenburg,12:05,120500
+24,3,Neude,12:07,120700
+24,4,Janskerkhof,12:09,120900
+24,5,Domplein,12:10,121000
+24,6,Catharijneconvent,12:11,121100
+24,7,Universiteitsmuseum,12:13,121300
+24,8,Centraal Museum,12:14,121400
+24,9,Tolsteegbrug,12:15,121500
+24,10,CS Centrumzijde,12:26,122600
+25,1,CS Centrumzijde,12:33,123300
+25,2,Vredenburg,12:35,123500
+25,3,Neude,12:37,123700
+25,4,Janskerkhof,12:39,123900
+25,5,Domplein,12:40,124000
+25,6,Catharijneconvent,12:41,124100
+25,7,Universiteitsmuseum,12:43,124300
+25,8,Centraal Museum,12:44,124400
+25,9,Tolsteegbrug,12:45,124500
+25,10,Hoogh Boulandt,12:48,124800
+25,11,Nicolaas Beetsstraat,12:49,124900
+25,12,Hoog Catharijne,12:52,125200
+25,13,CS Centrumzijde,12:56,125600
+26,1,CS Centrumzijde,12:33,123300
+26,2,Vredenburg,12:35,123500
+26,3,Neude,12:37,123700
+26,4,Janskerkhof,12:39,123900
+26,5,Domplein,12:40,124000
+26,6,Catharijneconvent,12:41,124100
+26,7,Universiteitsmuseum,12:43,124300
+26,8,Centraal Museum,12:44,124400
+26,9,Tolsteegbrug,12:45,124500
+26,10,CS Centrumzijde,12:56,125600
+27,1,CS Centrumzijde,13:03,130300
+27,2,Vredenburg,13:05,130500
+27,3,Neude,13:07,130700
+27,4,Janskerkhof,13:09,130900
+27,5,Domplein,13:10,131000
+27,6,Catharijneconvent,13:11,131100
+27,7,Universiteitsmuseum,13:13,131300
+27,8,Centraal Museum,13:14,131400
+27,9,Tolsteegbrug,13:15,131500
+27,10,Hoogh Boulandt,13:18,131800
+27,11,Nicolaas Beetsstraat,13:19,131900
+27,12,Hoog Catharijne,13:22,132200
+27,13,CS Centrumzijde,13:26,132600
+28,1,CS Centrumzijde,13:03,130300
+28,2,Vredenburg,13:05,130500
+28,3,Neude,13:07,130700
+28,4,Janskerkhof,13:09,130900
+28,5,Domplein,13:10,131000
+28,6,Catharijneconvent,13:11,131100
+28,7,Universiteitsmuseum,13:13,131300
+28,8,Centraal Museum,13:14,131400
+28,9,Tolsteegbrug,13:15,131500
+28,10,CS Centrumzijde,13:26,132600
+29,1,CS Centrumzijde,13:33,133300
+29,2,Vredenburg,13:35,133500
+29,3,Neude,13:37,133700
+29,4,Janskerkhof,13:39,133900
+29,5,Domplein,13:40,134000
+29,6,Catharijneconvent,13:41,134100
+29,7,Universiteitsmuseum,13:43,134300
+29,8,Centraal Museum,13:44,134400
+29,9,Tolsteegbrug,13:45,134500
+29,10,Hoogh Boulandt,13:48,134800
+29,11,Nicolaas Beetsstraat,13:49,134900
+29,12,Hoog Catharijne,13:52,135200
+29,13,CS Centrumzijde,13:56,135600
+30,1,CS Centrumzijde,13:33,133300
+30,2,Vredenburg,13:35,133500
+30,3,Neude,13:37,133700
+30,4,Janskerkhof,13:39,133900
+30,5,Domplein,13:40,134000
+30,6,Catharijneconvent,13:41,134100
+30,7,Universiteitsmuseum,13:43,134300
+30,8,Centraal Museum,13:44,134400
+30,9,Tolsteegbrug,13:45,134500
+30,10,CS Centrumzijde,13:56,135600
+31,1,CS Centrumzijde,14:03,140300
+31,2,Vredenburg,14:05,140500
+31,3,Neude,14:07,140700
+31,4,Janskerkhof,14:09,140900
+31,5,Domplein,14:10,141000
+31,6,Catharijneconvent,14:11,141100
+31,7,Universiteitsmuseum,14:13,141300
+31,8,Centraal Museum,14:14,141400
+31,9,Tolsteegbrug,14:15,141500
+31,10,CS Centrumzijde,14:26,142600
+32,1,CS Centrumzijde,14:03,140300
+32,2,Vredenburg,14:05,140500
+32,3,Neude,14:07,140700
+32,4,Janskerkhof,14:09,140900
+32,5,Domplein,14:10,141000
+32,6,Catharijneconvent,14:11,141100
+32,7,Universiteitsmuseum,14:13,141300
+32,8,Centraal Museum,14:14,141400
+32,9,Tolsteegbrug,14:15,141500
+32,10,Hoogh Boulandt,14:18,141800
+32,11,Nicolaas Beetsstraat,14:19,141900
+32,12,Hoog Catharijne,14:22,142200
+32,13,CS Centrumzijde,14:26,142600
+33,1,CS Centrumzijde,14:33,143300
+33,2,Vredenburg,14:35,143500
+33,3,Neude,14:37,143700
+33,4,Janskerkhof,14:39,143900
+33,5,Domplein,14:40,144000
+33,6,Catharijneconvent,14:41,144100
+33,7,Universiteitsmuseum,14:43,144300
+33,8,Centraal Museum,14:44,144400
+33,9,Tolsteegbrug,14:45,144500
+33,10,CS Centrumzijde,14:56,145600
+34,1,CS Centrumzijde,14:33,143300
+34,2,Vredenburg,14:35,143500
+34,3,Neude,14:37,143700
+34,4,Janskerkhof,14:39,143900
+34,5,Domplein,14:40,144000
+34,6,Catharijneconvent,14:41,144100
+34,7,Universiteitsmuseum,14:43,144300
+34,8,Centraal Museum,14:44,144400
+34,9,Tolsteegbrug,14:45,144500
+34,10,Hoogh Boulandt,14:48,144800
+34,11,Nicolaas Beetsstraat,14:49,144900
+34,12,Hoog Catharijne,14:52,145200
+34,13,CS Centrumzijde,14:56,145600
+35,1,CS Centrumzijde,15:03,150300
+35,2,Vredenburg,15:05,150500
+35,3,Neude,15:07,150700
+35,4,Janskerkhof,15:09,150900
+35,5,Domplein,15:10,151000
+35,6,Catharijneconvent,15:11,151100
+35,7,Universiteitsmuseum,15:13,151300
+35,8,Centraal Museum,15:14,151400
+35,9,Tolsteegbrug,15:15,151500
+35,10,Hoogh Boulandt,15:18,151800
+35,11,Nicolaas Beetsstraat,15:19,151900
+35,12,Hoog Catharijne,15:22,152200
+35,13,CS Centrumzijde,15:26,152600
+36,1,CS Centrumzijde,15:03,150300
+36,2,Vredenburg,15:05,150500
+36,3,Neude,15:07,150700
+36,4,Janskerkhof,15:09,150900
+36,5,Domplein,15:10,151000
+36,6,Catharijneconvent,15:11,151100
+36,7,Universiteitsmuseum,15:13,151300
+36,8,Centraal Museum,15:14,151400
+36,9,Tolsteegbrug,15:15,151500
+36,10,CS Centrumzijde,15:26,152600
+37,1,CS Centrumzijde,15:33,153300
+37,2,Vredenburg,15:35,153500
+37,3,Neude,15:37,153700
+37,4,Janskerkhof,15:39,153900
+37,5,Domplein,15:40,154000
+37,6,Catharijneconvent,15:41,154100
+37,7,Universiteitsmuseum,15:43,154300
+37,8,Centraal Museum,15:44,154400
+37,9,Tolsteegbrug,15:45,154500
+37,10,Hoogh Boulandt,15:48,154800
+37,11,Nicolaas Beetsstraat,15:49,154900
+37,12,Hoog Catharijne,15:52,155200
+37,13,CS Centrumzijde,15:56,155600
+38,1,CS Centrumzijde,15:33,153300
+38,2,Vredenburg,15:35,153500
+38,3,Neude,15:37,153700
+38,4,Janskerkhof,15:39,153900
+38,5,Domplein,15:40,154000
+38,6,Catharijneconvent,15:41,154100
+38,7,Universiteitsmuseum,15:43,154300
+38,8,Centraal Museum,15:44,154400
+38,9,Tolsteegbrug,15:45,154500
+38,10,CS Centrumzijde,15:56,155600
+39,1,CS Centrumzijde,16:03,160300
+39,2,Vredenburg,16:05,160500
+39,3,Neude,16:07,160700
+39,4,Janskerkhof,16:09,160900
+39,5,Domplein,16:10,161000
+39,6,Catharijneconvent,16:11,161100
+39,7,Universiteitsmuseum,16:13,161300
+39,8,Centraal Museum,16:14,161400
+39,9,Tolsteegbrug,16:15,161500
+39,10,Hoogh Boulandt,16:18,161800
+39,11,Nicolaas Beetsstraat,16:19,161900
+39,12,Hoog Catharijne,16:22,162200
+39,13,CS Centrumzijde,16:26,162600
+40,1,CS Centrumzijde,16:03,160300
+40,2,Vredenburg,16:05,160500
+40,3,Neude,16:07,160700
+40,4,Janskerkhof,16:09,160900
+40,5,Domplein,16:10,161000
+40,6,Catharijneconvent,16:11,161100
+40,7,Universiteitsmuseum,16:13,161300
+40,8,Centraal Museum,16:14,161400
+40,9,Tolsteegbrug,16:15,161500
+40,10,CS Centrumzijde,16:26,162600
+41,1,CS Centrumzijde,16:33,163300
+41,2,Vredenburg,16:35,163500
+41,3,Neude,16:37,163700
+41,4,Janskerkhof,16:39,163900
+41,5,Domplein,16:40,164000
+41,6,Catharijneconvent,16:41,164100
+41,7,Universiteitsmuseum,16:43,164300
+41,8,Centraal Museum,16:44,164400
+41,9,Tolsteegbrug,16:45,164500
+41,10,Hoogh Boulandt,16:48,164800
+41,11,Nicolaas Beetsstraat,16:49,164900
+41,12,Hoog Catharijne,16:52,165200
+41,13,CS Centrumzijde,16:56,165600
+42,1,CS Centrumzijde,16:33,163300
+42,2,Vredenburg,16:35,163500
+42,3,Neude,16:37,163700
+42,4,Janskerkhof,16:39,163900
+42,5,Domplein,16:40,164000
+42,6,Catharijneconvent,16:41,164100
+42,7,Universiteitsmuseum,16:43,164300
+42,8,Centraal Museum,16:44,164400
+42,9,Tolsteegbrug,16:45,164500
+42,10,CS Centrumzijde,16:56,165600
+43,1,CS Centrumzijde,17:03,170300
+43,2,Vredenburg,17:05,170500
+43,3,Neude,17:07,170700
+43,4,Janskerkhof,17:09,170900
+43,5,Domplein,17:10,171000
+43,6,Catharijneconvent,17:11,171100
+43,7,Universiteitsmuseum,17:13,171300
+43,8,Centraal Museum,17:14,171400
+43,9,Tolsteegbrug,17:15,171500
+43,10,Hoogh Boulandt,17:18,171800
+43,11,Nicolaas Beetsstraat,17:19,171900
+43,12,Hoog Catharijne,17:22,172200
+43,13,CS Centrumzijde,17:26,172600
+44,1,CS Centrumzijde,17:03,170300
+44,2,Vredenburg,17:05,170500
+44,3,Neude,17:07,170700
+44,4,Janskerkhof,17:09,170900
+44,5,Domplein,17:10,171000
+44,6,Catharijneconvent,17:11,171100
+44,7,Universiteitsmuseum,17:13,171300
+44,8,Centraal Museum,17:14,171400
+44,9,Tolsteegbrug,17:15,171500
+44,10,CS Centrumzijde,17:26,172600
+45,1,CS Centrumzijde,17:33,173300
+45,2,Vredenburg,17:35,173500
+45,3,Neude,17:37,173700
+45,4,Janskerkhof,17:39,173900
+45,5,Domplein,17:40,174000
+45,6,Catharijneconvent,17:41,174100
+45,7,Universiteitsmuseum,17:43,174300
+45,8,Centraal Museum,17:44,174400
+45,9,Tolsteegbrug,17:45,174500
+45,10,Hoogh Boulandt,17:48,174800
+45,11,Nicolaas Beetsstraat,17:49,174900
+45,12,Hoog Catharijne,17:52,175200
+45,13,CS Centrumzijde,17:56,175600
+46,1,CS Centrumzijde,17:33,173300
+46,2,Vredenburg,17:35,173500
+46,3,Neude,17:37,173700
+46,4,Janskerkhof,17:39,173900
+46,5,Domplein,17:40,174000
+46,6,Catharijneconvent,17:41,174100
+46,7,Universiteitsmuseum,17:43,174300
+46,8,Centraal Museum,17:44,174400
+46,9,Tolsteegbrug,17:45,174500
+46,10,CS Centrumzijde,17:56,175600
+47,1,CS Centrumzijde,18:03,180300
+47,2,Vredenburg,18:05,180500
+47,3,Neude,18:07,180700
+47,4,Janskerkhof,18:09,180900
+47,5,Domplein,18:10,181000
+47,6,Catharijneconvent,18:11,181100
+47,7,Universiteitsmuseum,18:13,181300
+47,8,Centraal Museum,18:14,181400
+47,9,Tolsteegbrug,18:15,181500
+47,10,Hoogh Boulandt,18:17,181700
+47,11,Nicolaas Beetsstraat,18:18,181800
+47,12,Hoog Catharijne,18:21,182100
+47,13,CS Centrumzijde,18:25,182500
+48,1,CS Centrumzijde,18:03,180300
+48,2,Vredenburg,18:05,180500
+48,3,Neude,18:07,180700
+48,4,Janskerkhof,18:09,180900
+48,5,Domplein,18:10,181000
+48,6,Catharijneconvent,18:11,181100
+48,7,Universiteitsmuseum,18:13,181300
+48,8,Centraal Museum,18:14,181400
+48,9,Tolsteegbrug,18:15,181500
+48,10,CS Centrumzijde,18:25,182500
+49,1,CS Centrumzijde,18:33,183300
+49,2,Vredenburg,18:35,183500
+49,3,Neude,18:37,183700
+49,4,Janskerkhof,18:38,183800
+49,5,Domplein,18:39,183900
+49,6,Catharijneconvent,18:40,184000
+49,7,Universiteitsmuseum,18:42,184200
+49,8,Centraal Museum,18:43,184300
+49,9,Tolsteegbrug,18:44,184400
+49,10,Hoogh Boulandt,18:46,184600
+49,11,Nicolaas Beetsstraat,18:47,184700
+49,12,Hoog Catharijne,18:50,185000
+49,13,CS Centrumzijde,18:54,185400
+50,1,CS Centrumzijde,18:33,183300
+50,2,Vredenburg,18:35,183500
+50,3,Neude,18:37,183700
+50,4,Janskerkhof,18:38,183800
+50,5,Domplein,18:39,183900
+50,6,Catharijneconvent,18:40,184000
+50,7,Universiteitsmuseum,18:42,184200
+50,8,Centraal Museum,18:43,184300
+50,9,Tolsteegbrug,18:44,184400
+50,10,CS Centrumzijde,18:54,185400
+51,1,CS Centrumzijde,19:03,190300
+51,2,Vredenburg,19:05,190500
+51,3,Neude,19:07,190700
+51,4,Janskerkhof,19:08,190800
+51,5,Domplein,19:09,190900
+51,6,Catharijneconvent,19:10,191000
+51,7,Universiteitsmuseum,19:12,191200
+51,8,Centraal Museum,19:13,191300
+51,9,Tolsteegbrug,19:14,191400
+51,10,Hoogh Boulandt,19:16,191600
+51,11,Nicolaas Beetsstraat,19:17,191700
+51,12,Hoog Catharijne,19:20,192000
+51,13,CS Centrumzijde,19:24,192400
+52,1,CS Centrumzijde,19:03,190300
+52,2,Vredenburg,19:05,190500
+52,3,Neude,19:07,190700
+52,4,Janskerkhof,19:08,190800
+52,5,Domplein,19:09,190900
+52,6,Catharijneconvent,19:10,191000
+52,7,Universiteitsmuseum,19:12,191200
+52,8,Centraal Museum,19:13,191300
+52,9,Tolsteegbrug,19:14,191400
+52,10,CS Centrumzijde,19:24,192400

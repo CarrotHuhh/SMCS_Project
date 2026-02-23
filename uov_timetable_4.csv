@@ -1,0 +1,815 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,CS Jaarbeurszijde,05:31,053100
+1,2,Dr. M.A. Tellegenlaan,05:33,053300
+1,3,Lanslaan,05:35,053500
+1,4,Europaplein-Noord,05:36,053600
+1,5,Kanaleneiland-Zuid,05:37,053700
+1,6,P+R Westraven,05:39,053900
+1,7,Remiseweg,05:40,054000
+1,8,Huis de Geer,05:41,054100
+1,9,Noorderveld,05:42,054200
+1,10,Buys Ballotbaan,05:43,054300
+1,11,Fahrenheitbaan,05:44,054400
+1,12,Wattbaan,05:45,054500
+1,13,Oosterlichtcollege,05:46,054600
+1,14,Marconi (laag),05:47,054700
+1,15,Galvanibaan,05:48,054800
+1,16,Brabanthaven,05:49,054900
+1,17,Groningenhaven,05:49,054900
+1,18,Nijverheidsweg,05:50,055000
+1,19,Waterliniedok,05:52,055200
+1,20,Tweede Regimentsdok,05:53,055300
+1,21,Eerste Garnizoensdok,05:55,055500
+1,22,Ravelijndok,05:56,055600
+2,1,CS Jaarbeurszijde,06:16,061600
+2,2,Dr. M.A. Tellegenlaan,06:18,061800
+2,3,Lanslaan,06:20,062000
+2,4,Europaplein-Noord,06:21,062100
+2,5,Kanaleneiland-Zuid,06:22,062200
+2,6,P+R Westraven,06:24,062400
+2,7,Remiseweg,06:25,062500
+2,8,Huis de Geer,06:26,062600
+2,9,Noorderveld,06:27,062700
+2,10,Buys Ballotbaan,06:28,062800
+2,11,Fahrenheitbaan,06:29,062900
+2,12,Wattbaan,06:30,063000
+2,13,Oosterlichtcollege,06:31,063100
+2,14,Marconi (laag),06:32,063200
+2,15,Galvanibaan,06:33,063300
+2,16,Brabanthaven,06:34,063400
+2,17,Groningenhaven,06:34,063400
+2,18,Nijverheidsweg,06:35,063500
+2,19,Waterliniedok,06:37,063700
+2,20,Tweede Regimentsdok,06:38,063800
+2,21,Eerste Garnizoensdok,06:40,064000
+2,22,Ravelijndok,06:41,064100
+3,1,CS Jaarbeurszijde,06:46,064600
+3,2,Dr. M.A. Tellegenlaan,06:48,064800
+3,3,Lanslaan,06:50,065000
+3,4,Europaplein-Noord,06:51,065100
+3,5,Kanaleneiland-Zuid,06:52,065200
+3,6,P+R Westraven,06:54,065400
+3,7,Remiseweg,06:55,065500
+3,8,Huis de Geer,06:56,065600
+3,9,Noorderveld,06:58,065800
+3,10,Buys Ballotbaan,07:00,070000
+3,11,Fahrenheitbaan,07:01,070100
+3,12,Wattbaan,07:02,070200
+3,13,Oosterlichtcollege,07:03,070300
+3,14,Marconi (laag),07:04,070400
+3,15,Galvanibaan,07:05,070500
+3,16,Brabanthaven,07:06,070600
+3,17,Groningenhaven,07:06,070600
+3,18,Nijverheidsweg,07:07,070700
+3,19,Waterliniedok,07:09,070900
+3,20,Tweede Regimentsdok,07:10,071000
+3,21,Eerste Garnizoensdok,07:12,071200
+3,22,Ravelijndok,07:13,071300
+4,1,CS Jaarbeurszijde,07:16,071600
+4,2,Dr. M.A. Tellegenlaan,07:18,071800
+4,3,Lanslaan,07:20,072000
+4,4,Europaplein-Noord,07:21,072100
+4,5,Kanaleneiland-Zuid,07:22,072200
+4,6,P+R Westraven,07:24,072400
+4,7,Remiseweg,07:25,072500
+4,8,Huis de Geer,07:26,072600
+4,9,Noorderveld,07:28,072800
+4,10,Buys Ballotbaan,07:30,073000
+4,11,Fahrenheitbaan,07:31,073100
+4,12,Wattbaan,07:32,073200
+4,13,Oosterlichtcollege,07:33,073300
+4,14,Marconi (laag),07:34,073400
+4,15,Galvanibaan,07:35,073500
+4,16,Brabanthaven,07:36,073600
+4,17,Groningenhaven,07:36,073600
+4,18,Nijverheidsweg,07:37,073700
+4,19,Waterliniedok,07:39,073900
+4,20,Tweede Regimentsdok,07:40,074000
+4,21,Eerste Garnizoensdok,07:42,074200
+4,22,Ravelijndok,07:43,074300
+5,1,CS Jaarbeurszijde,07:37,073700
+5,2,Dr. M.A. Tellegenlaan,07:41,074100
+5,3,Lanslaan,07:42,074200
+5,4,Europaplein-Noord,07:44,074400
+5,5,Kanaleneiland-Zuid,07:46,074600
+5,6,P+R Westraven,07:48,074800
+5,7,Remiseweg,07:49,074900
+5,8,Huis de Geer,07:51,075100
+5,9,Noorderveld,07:53,075300
+5,10,Buys Ballotbaan,07:55,075500
+5,11,Fahrenheitbaan,07:57,075700
+5,12,Wattbaan,07:59,075900
+5,13,Oosterlichtcollege,08:00,080000
+5,14,Marconi (laag),08:01,080100
+5,15,Galvanibaan,08:02,080200
+5,16,Brabanthaven,08:03,080300
+5,17,Groningenhaven,08:03,080300
+5,18,Nijverheidsweg,08:04,080400
+5,19,Waterliniedok,08:06,080600
+5,20,Tweede Regimentsdok,08:07,080700
+5,21,Eerste Garnizoensdok,08:09,080900
+5,22,Ravelijndok,08:10,081000
+6,1,CS Jaarbeurszijde,08:07,080700
+6,2,Dr. M.A. Tellegenlaan,08:11,081100
+6,3,Lanslaan,08:12,081200
+6,4,Europaplein-Noord,08:14,081400
+6,5,Kanaleneiland-Zuid,08:16,081600
+6,6,P+R Westraven,08:18,081800
+6,7,Remiseweg,08:19,081900
+6,8,Huis de Geer,08:21,082100
+6,9,Noorderveld,08:23,082300
+6,10,Buys Ballotbaan,08:25,082500
+6,11,Fahrenheitbaan,08:27,082700
+6,12,Wattbaan,08:29,082900
+6,13,Oosterlichtcollege,08:30,083000
+6,14,Marconi (laag),08:31,083100
+6,15,Galvanibaan,08:32,083200
+6,16,Brabanthaven,08:33,083300
+6,17,Groningenhaven,08:33,083300
+6,18,Nijverheidsweg,08:34,083400
+6,19,Waterliniedok,08:36,083600
+6,20,Tweede Regimentsdok,08:37,083700
+6,21,Eerste Garnizoensdok,08:39,083900
+6,22,Ravelijndok,08:40,084000
+7,1,CS Jaarbeurszijde,08:37,083700
+7,2,Dr. M.A. Tellegenlaan,08:41,084100
+7,3,Lanslaan,08:42,084200
+7,4,Europaplein-Noord,08:44,084400
+7,5,Kanaleneiland-Zuid,08:46,084600
+7,6,P+R Westraven,08:48,084800
+7,7,Remiseweg,08:49,084900
+7,8,Huis de Geer,08:50,085000
+7,9,Noorderveld,08:52,085200
+7,10,Buys Ballotbaan,08:54,085400
+7,11,Fahrenheitbaan,08:55,085500
+7,12,Wattbaan,08:57,085700
+7,13,Oosterlichtcollege,08:58,085800
+7,14,Marconi (laag),08:59,085900
+7,15,Galvanibaan,09:00,090000
+7,16,Brabanthaven,09:01,090100
+7,17,Groningenhaven,09:01,090100
+7,18,Nijverheidsweg,09:02,090200
+7,19,Waterliniedok,09:04,090400
+7,20,Tweede Regimentsdok,09:05,090500
+7,21,Eerste Garnizoensdok,09:06,090600
+7,22,Ravelijndok,09:07,090700
+8,1,CS Jaarbeurszijde,09:07,090700
+8,2,Dr. M.A. Tellegenlaan,09:11,091100
+8,3,Lanslaan,09:12,091200
+8,4,Europaplein-Noord,09:14,091400
+8,5,Kanaleneiland-Zuid,09:16,091600
+8,6,P+R Westraven,09:18,091800
+8,7,Remiseweg,09:19,091900
+8,8,Huis de Geer,09:20,092000
+8,9,Noorderveld,09:22,092200
+8,10,Buys Ballotbaan,09:24,092400
+8,11,Fahrenheitbaan,09:25,092500
+8,12,Wattbaan,09:27,092700
+8,13,Oosterlichtcollege,09:28,092800
+8,14,Marconi (laag),09:29,092900
+8,15,Galvanibaan,09:30,093000
+8,16,Brabanthaven,09:31,093100
+8,17,Groningenhaven,09:31,093100
+8,18,Nijverheidsweg,09:32,093200
+8,19,Waterliniedok,09:34,093400
+8,20,Tweede Regimentsdok,09:35,093500
+8,21,Eerste Garnizoensdok,09:36,093600
+8,22,Ravelijndok,09:37,093700
+9,1,CS Jaarbeurszijde,09:46,094600
+9,2,Dr. M.A. Tellegenlaan,09:49,094900
+9,3,Lanslaan,09:51,095100
+9,4,Europaplein-Noord,09:52,095200
+9,5,Kanaleneiland-Zuid,09:54,095400
+9,6,P+R Westraven,09:56,095600
+9,7,Remiseweg,09:57,095700
+9,8,Huis de Geer,09:58,095800
+9,9,Noorderveld,10:00,100000
+9,10,Buys Ballotbaan,10:02,100200
+9,11,Fahrenheitbaan,10:03,100300
+9,12,Wattbaan,10:04,100400
+9,13,Oosterlichtcollege,10:05,100500
+9,14,Marconi (laag),10:06,100600
+9,15,Galvanibaan,10:07,100700
+9,16,Brabanthaven,10:08,100800
+9,17,Groningenhaven,10:08,100800
+9,18,Nijverheidsweg,10:09,100900
+9,19,Waterliniedok,10:11,101100
+9,20,Tweede Regimentsdok,10:12,101200
+9,21,Eerste Garnizoensdok,10:13,101300
+9,22,Ravelijndok,10:14,101400
+10,1,CS Jaarbeurszijde,10:16,101600
+10,2,Dr. M.A. Tellegenlaan,10:19,101900
+10,3,Lanslaan,10:21,102100
+10,4,Europaplein-Noord,10:22,102200
+10,5,Kanaleneiland-Zuid,10:24,102400
+10,6,P+R Westraven,10:26,102600
+10,7,Remiseweg,10:27,102700
+10,8,Huis de Geer,10:28,102800
+10,9,Noorderveld,10:30,103000
+10,10,Buys Ballotbaan,10:32,103200
+10,11,Fahrenheitbaan,10:33,103300
+10,12,Wattbaan,10:34,103400
+10,13,Oosterlichtcollege,10:35,103500
+10,14,Marconi (laag),10:36,103600
+10,15,Galvanibaan,10:37,103700
+10,16,Brabanthaven,10:38,103800
+10,17,Groningenhaven,10:38,103800
+10,18,Nijverheidsweg,10:39,103900
+10,19,Waterliniedok,10:41,104100
+10,20,Tweede Regimentsdok,10:42,104200
+10,21,Eerste Garnizoensdok,10:43,104300
+10,22,Ravelijndok,10:44,104400
+11,1,CS Jaarbeurszijde,10:46,104600
+11,2,Dr. M.A. Tellegenlaan,10:49,104900
+11,3,Lanslaan,10:51,105100
+11,4,Europaplein-Noord,10:52,105200
+11,5,Kanaleneiland-Zuid,10:54,105400
+11,6,P+R Westraven,10:56,105600
+11,7,Remiseweg,10:57,105700
+11,8,Huis de Geer,10:58,105800
+11,9,Noorderveld,11:00,110000
+11,10,Buys Ballotbaan,11:02,110200
+11,11,Fahrenheitbaan,11:03,110300
+11,12,Wattbaan,11:04,110400
+11,13,Oosterlichtcollege,11:05,110500
+11,14,Marconi (laag),11:06,110600
+11,15,Galvanibaan,11:07,110700
+11,16,Brabanthaven,11:08,110800
+11,17,Groningenhaven,11:08,110800
+11,18,Nijverheidsweg,11:09,110900
+11,19,Waterliniedok,11:11,111100
+11,20,Tweede Regimentsdok,11:12,111200
+11,21,Eerste Garnizoensdok,11:13,111300
+11,22,Ravelijndok,11:14,111400
+12,1,CS Jaarbeurszijde,11:16,111600
+12,2,Dr. M.A. Tellegenlaan,11:19,111900
+12,3,Lanslaan,11:21,112100
+12,4,Europaplein-Noord,11:22,112200
+12,5,Kanaleneiland-Zuid,11:24,112400
+12,6,P+R Westraven,11:26,112600
+12,7,Remiseweg,11:27,112700
+12,8,Huis de Geer,11:28,112800
+12,9,Noorderveld,11:30,113000
+12,10,Buys Ballotbaan,11:32,113200
+12,11,Fahrenheitbaan,11:33,113300
+12,12,Wattbaan,11:34,113400
+12,13,Oosterlichtcollege,11:35,113500
+12,14,Marconi (laag),11:36,113600
+12,15,Galvanibaan,11:37,113700
+12,16,Brabanthaven,11:38,113800
+12,17,Groningenhaven,11:38,113800
+12,18,Nijverheidsweg,11:39,113900
+12,19,Waterliniedok,11:41,114100
+12,20,Tweede Regimentsdok,11:42,114200
+12,21,Eerste Garnizoensdok,11:43,114300
+12,22,Ravelijndok,11:44,114400
+13,1,CS Jaarbeurszijde,11:46,114600
+13,2,Dr. M.A. Tellegenlaan,11:49,114900
+13,3,Lanslaan,11:51,115100
+13,4,Europaplein-Noord,11:52,115200
+13,5,Kanaleneiland-Zuid,11:54,115400
+13,6,P+R Westraven,11:56,115600
+13,7,Remiseweg,11:57,115700
+13,8,Huis de Geer,11:58,115800
+13,9,Noorderveld,12:00,120000
+13,10,Buys Ballotbaan,12:02,120200
+13,11,Fahrenheitbaan,12:03,120300
+13,12,Wattbaan,12:04,120400
+13,13,Oosterlichtcollege,12:05,120500
+13,14,Marconi (laag),12:06,120600
+13,15,Galvanibaan,12:07,120700
+13,16,Brabanthaven,12:08,120800
+13,17,Groningenhaven,12:08,120800
+13,18,Nijverheidsweg,12:09,120900
+13,19,Waterliniedok,12:11,121100
+13,20,Tweede Regimentsdok,12:12,121200
+13,21,Eerste Garnizoensdok,12:13,121300
+13,22,Ravelijndok,12:14,121400
+14,1,CS Jaarbeurszijde,12:16,121600
+14,2,Dr. M.A. Tellegenlaan,12:19,121900
+14,3,Lanslaan,12:21,122100
+14,4,Europaplein-Noord,12:22,122200
+14,5,Kanaleneiland-Zuid,12:24,122400
+14,6,P+R Westraven,12:26,122600
+14,7,Remiseweg,12:27,122700
+14,8,Huis de Geer,12:28,122800
+14,9,Noorderveld,12:30,123000
+14,10,Buys Ballotbaan,12:32,123200
+14,11,Fahrenheitbaan,12:33,123300
+14,12,Wattbaan,12:34,123400
+14,13,Oosterlichtcollege,12:35,123500
+14,14,Marconi (laag),12:36,123600
+14,15,Galvanibaan,12:37,123700
+14,16,Brabanthaven,12:38,123800
+14,17,Groningenhaven,12:38,123800
+14,18,Nijverheidsweg,12:39,123900
+14,19,Waterliniedok,12:41,124100
+14,20,Tweede Regimentsdok,12:42,124200
+14,21,Eerste Garnizoensdok,12:43,124300
+14,22,Ravelijndok,12:44,124400
+15,1,CS Jaarbeurszijde,12:46,124600
+15,2,Dr. M.A. Tellegenlaan,12:49,124900
+15,3,Lanslaan,12:51,125100
+15,4,Europaplein-Noord,12:52,125200
+15,5,Kanaleneiland-Zuid,12:54,125400
+15,6,P+R Westraven,12:56,125600
+15,7,Remiseweg,12:57,125700
+15,8,Huis de Geer,12:58,125800
+15,9,Noorderveld,13:00,130000
+15,10,Buys Ballotbaan,13:02,130200
+15,11,Fahrenheitbaan,13:03,130300
+15,12,Wattbaan,13:04,130400
+15,13,Oosterlichtcollege,13:05,130500
+15,14,Marconi (laag),13:06,130600
+15,15,Galvanibaan,13:07,130700
+15,16,Brabanthaven,13:08,130800
+15,17,Groningenhaven,13:08,130800
+15,18,Nijverheidsweg,13:09,130900
+15,19,Waterliniedok,13:11,131100
+15,20,Tweede Regimentsdok,13:12,131200
+15,21,Eerste Garnizoensdok,13:13,131300
+15,22,Ravelijndok,13:14,131400
+16,1,CS Jaarbeurszijde,13:16,131600
+16,2,Dr. M.A. Tellegenlaan,13:19,131900
+16,3,Lanslaan,13:21,132100
+16,4,Europaplein-Noord,13:22,132200
+16,5,Kanaleneiland-Zuid,13:24,132400
+16,6,P+R Westraven,13:26,132600
+16,7,Remiseweg,13:27,132700
+16,8,Huis de Geer,13:28,132800
+16,9,Noorderveld,13:30,133000
+16,10,Buys Ballotbaan,13:32,133200
+16,11,Fahrenheitbaan,13:33,133300
+16,12,Wattbaan,13:34,133400
+16,13,Oosterlichtcollege,13:35,133500
+16,14,Marconi (laag),13:36,133600
+16,15,Galvanibaan,13:37,133700
+16,16,Brabanthaven,13:38,133800
+16,17,Groningenhaven,13:38,133800
+16,18,Nijverheidsweg,13:39,133900
+16,19,Waterliniedok,13:41,134100
+16,20,Tweede Regimentsdok,13:42,134200
+16,21,Eerste Garnizoensdok,13:43,134300
+16,22,Ravelijndok,13:44,134400
+17,1,CS Jaarbeurszijde,13:46,134600
+17,2,Dr. M.A. Tellegenlaan,13:49,134900
+17,3,Lanslaan,13:51,135100
+17,4,Europaplein-Noord,13:52,135200
+17,5,Kanaleneiland-Zuid,13:54,135400
+17,6,P+R Westraven,13:56,135600
+17,7,Remiseweg,13:57,135700
+17,8,Huis de Geer,13:58,135800
+17,9,Noorderveld,14:00,140000
+17,10,Buys Ballotbaan,14:02,140200
+17,11,Fahrenheitbaan,14:03,140300
+17,12,Wattbaan,14:04,140400
+17,13,Oosterlichtcollege,14:05,140500
+17,14,Marconi (laag),14:06,140600
+17,15,Galvanibaan,14:07,140700
+17,16,Brabanthaven,14:08,140800
+17,17,Groningenhaven,14:08,140800
+17,18,Nijverheidsweg,14:09,140900
+17,19,Waterliniedok,14:11,141100
+17,20,Tweede Regimentsdok,14:12,141200
+17,21,Eerste Garnizoensdok,14:13,141300
+17,22,Ravelijndok,14:14,141400
+18,1,CS Jaarbeurszijde,14:16,141600
+18,2,Dr. M.A. Tellegenlaan,14:19,141900
+18,3,Lanslaan,14:21,142100
+18,4,Europaplein-Noord,14:22,142200
+18,5,Kanaleneiland-Zuid,14:24,142400
+18,6,P+R Westraven,14:26,142600
+18,7,Remiseweg,14:27,142700
+18,8,Huis de Geer,14:28,142800
+18,9,Noorderveld,14:30,143000
+18,10,Buys Ballotbaan,14:32,143200
+18,11,Fahrenheitbaan,14:33,143300
+18,12,Wattbaan,14:34,143400
+18,13,Oosterlichtcollege,14:35,143500
+18,14,Marconi (laag),14:36,143600
+18,15,Galvanibaan,14:37,143700
+18,16,Brabanthaven,14:38,143800
+18,17,Groningenhaven,14:38,143800
+18,18,Nijverheidsweg,14:39,143900
+18,19,Waterliniedok,14:41,144100
+18,20,Tweede Regimentsdok,14:42,144200
+18,21,Eerste Garnizoensdok,14:43,144300
+18,22,Ravelijndok,14:44,144400
+19,1,CS Jaarbeurszijde,14:46,144600
+19,2,Dr. M.A. Tellegenlaan,14:49,144900
+19,3,Lanslaan,14:51,145100
+19,4,Europaplein-Noord,14:52,145200
+19,5,Kanaleneiland-Zuid,14:54,145400
+19,6,P+R Westraven,14:56,145600
+19,7,Remiseweg,14:57,145700
+19,8,Huis de Geer,14:58,145800
+19,9,Noorderveld,15:00,150000
+19,10,Buys Ballotbaan,15:02,150200
+19,11,Fahrenheitbaan,15:03,150300
+19,12,Wattbaan,15:04,150400
+19,13,Oosterlichtcollege,15:05,150500
+19,14,Marconi (laag),15:06,150600
+19,15,Galvanibaan,15:07,150700
+19,16,Brabanthaven,15:08,150800
+19,17,Groningenhaven,15:08,150800
+19,18,Nijverheidsweg,15:09,150900
+19,19,Waterliniedok,15:11,151100
+19,20,Tweede Regimentsdok,15:12,151200
+19,21,Eerste Garnizoensdok,15:13,151300
+19,22,Ravelijndok,15:14,151400
+20,1,CS Jaarbeurszijde,15:14,151400
+20,2,Dr. M.A. Tellegenlaan,15:17,151700
+20,3,Lanslaan,15:19,151900
+20,4,Europaplein-Noord,15:20,152000
+20,5,Kanaleneiland-Zuid,15:22,152200
+20,6,P+R Westraven,15:24,152400
+20,7,Remiseweg,15:25,152500
+20,8,Huis de Geer,15:26,152600
+20,9,Noorderveld,15:28,152800
+20,10,Buys Ballotbaan,15:30,153000
+20,11,Fahrenheitbaan,15:31,153100
+20,12,Wattbaan,15:32,153200
+20,13,Oosterlichtcollege,15:33,153300
+20,14,Marconi (laag),15:34,153400
+20,15,Galvanibaan,15:35,153500
+20,16,Brabanthaven,15:36,153600
+20,17,Groningenhaven,15:36,153600
+20,18,Nijverheidsweg,15:37,153700
+20,19,Waterliniedok,15:39,153900
+20,20,Tweede Regimentsdok,15:40,154000
+20,21,Eerste Garnizoensdok,15:41,154100
+20,22,Ravelijndok,15:42,154200
+21,1,CS Jaarbeurszijde,15:44,154400
+21,2,Dr. M.A. Tellegenlaan,15:47,154700
+21,3,Lanslaan,15:49,154900
+21,4,Europaplein-Noord,15:50,155000
+21,5,Kanaleneiland-Zuid,15:52,155200
+21,6,P+R Westraven,15:54,155400
+21,7,Remiseweg,15:55,155500
+21,8,Huis de Geer,15:56,155600
+21,9,Noorderveld,15:58,155800
+21,10,Buys Ballotbaan,16:00,160000
+21,11,Fahrenheitbaan,16:01,160100
+21,12,Wattbaan,16:03,160300
+21,13,Oosterlichtcollege,16:04,160400
+21,14,Marconi (laag),16:05,160500
+21,15,Galvanibaan,16:06,160600
+21,16,Brabanthaven,16:07,160700
+21,17,Groningenhaven,16:07,160700
+21,18,Nijverheidsweg,16:08,160800
+21,19,Waterliniedok,16:10,161000
+21,20,Tweede Regimentsdok,16:11,161100
+21,21,Eerste Garnizoensdok,16:12,161200
+21,22,Ravelijndok,16:13,161300
+22,1,CS Jaarbeurszijde,16:12,161200
+22,2,Dr. M.A. Tellegenlaan,16:16,161600
+22,3,Lanslaan,16:17,161700
+22,4,Europaplein-Noord,16:19,161900
+22,5,Kanaleneiland-Zuid,16:21,162100
+22,6,P+R Westraven,16:23,162300
+22,7,Remiseweg,16:24,162400
+22,8,Huis de Geer,16:25,162500
+22,9,Noorderveld,16:27,162700
+22,10,Buys Ballotbaan,16:29,162900
+22,11,Fahrenheitbaan,16:30,163000
+22,12,Wattbaan,16:32,163200
+22,13,Oosterlichtcollege,16:33,163300
+22,14,Marconi (laag),16:34,163400
+22,15,Galvanibaan,16:35,163500
+22,16,Brabanthaven,16:36,163600
+22,17,Groningenhaven,16:36,163600
+22,18,Nijverheidsweg,16:37,163700
+22,19,Waterliniedok,16:39,163900
+22,20,Tweede Regimentsdok,16:40,164000
+22,21,Eerste Garnizoensdok,16:41,164100
+22,22,Ravelijndok,16:42,164200
+23,1,CS Jaarbeurszijde,16:42,164200
+23,2,Dr. M.A. Tellegenlaan,16:46,164600
+23,3,Lanslaan,16:47,164700
+23,4,Europaplein-Noord,16:49,164900
+23,5,Kanaleneiland-Zuid,16:51,165100
+23,6,P+R Westraven,16:53,165300
+23,7,Remiseweg,16:54,165400
+23,8,Huis de Geer,16:55,165500
+23,9,Noorderveld,16:57,165700
+23,10,Buys Ballotbaan,16:59,165900
+23,11,Fahrenheitbaan,17:00,170000
+23,12,Wattbaan,17:02,170200
+23,13,Oosterlichtcollege,17:03,170300
+23,14,Marconi (laag),17:04,170400
+23,15,Galvanibaan,17:05,170500
+23,16,Brabanthaven,17:06,170600
+23,17,Groningenhaven,17:06,170600
+23,18,Nijverheidsweg,17:07,170700
+23,19,Waterliniedok,17:09,170900
+23,20,Tweede Regimentsdok,17:10,171000
+23,21,Eerste Garnizoensdok,17:11,171100
+23,22,Ravelijndok,17:12,171200
+24,1,CS Jaarbeurszijde,17:12,171200
+24,2,Dr. M.A. Tellegenlaan,17:16,171600
+24,3,Lanslaan,17:17,171700
+24,4,Europaplein-Noord,17:19,171900
+24,5,Kanaleneiland-Zuid,17:21,172100
+24,6,P+R Westraven,17:23,172300
+24,7,Remiseweg,17:24,172400
+24,8,Huis de Geer,17:25,172500
+24,9,Noorderveld,17:27,172700
+24,10,Buys Ballotbaan,17:29,172900
+24,11,Fahrenheitbaan,17:30,173000
+24,12,Wattbaan,17:32,173200
+24,13,Oosterlichtcollege,17:33,173300
+24,14,Marconi (laag),17:34,173400
+24,15,Galvanibaan,17:35,173500
+24,16,Brabanthaven,17:36,173600
+24,17,Groningenhaven,17:36,173600
+24,18,Nijverheidsweg,17:37,173700
+24,19,Waterliniedok,17:39,173900
+24,20,Tweede Regimentsdok,17:40,174000
+24,21,Eerste Garnizoensdok,17:41,174100
+24,22,Ravelijndok,17:42,174200
+25,1,CS Jaarbeurszijde,17:42,174200
+25,2,Dr. M.A. Tellegenlaan,17:46,174600
+25,3,Lanslaan,17:47,174700
+25,4,Europaplein-Noord,17:49,174900
+25,5,Kanaleneiland-Zuid,17:51,175100
+25,6,P+R Westraven,17:53,175300
+25,7,Remiseweg,17:54,175400
+25,8,Huis de Geer,17:55,175500
+25,9,Noorderveld,17:57,175700
+25,10,Buys Ballotbaan,17:59,175900
+25,11,Fahrenheitbaan,18:00,180000
+25,12,Wattbaan,18:02,180200
+25,13,Oosterlichtcollege,18:03,180300
+25,14,Marconi (laag),18:04,180400
+25,15,Galvanibaan,18:05,180500
+25,16,Brabanthaven,18:06,180600
+25,17,Groningenhaven,18:06,180600
+25,18,Nijverheidsweg,18:07,180700
+25,19,Waterliniedok,18:09,180900
+25,20,Tweede Regimentsdok,18:10,181000
+25,21,Eerste Garnizoensdok,18:11,181100
+25,22,Ravelijndok,18:12,181200
+26,1,CS Jaarbeurszijde,18:12,181200
+26,2,Dr. M.A. Tellegenlaan,18:16,181600
+26,3,Lanslaan,18:17,181700
+26,4,Europaplein-Noord,18:19,181900
+26,5,Kanaleneiland-Zuid,18:21,182100
+26,6,P+R Westraven,18:23,182300
+26,7,Remiseweg,18:24,182400
+26,8,Huis de Geer,18:25,182500
+26,9,Noorderveld,18:27,182700
+26,10,Buys Ballotbaan,18:29,182900
+26,11,Fahrenheitbaan,18:30,183000
+26,12,Wattbaan,18:32,183200
+26,13,Oosterlichtcollege,18:33,183300
+26,14,Marconi (laag),18:34,183400
+26,15,Galvanibaan,18:35,183500
+26,16,Brabanthaven,18:36,183600
+26,17,Groningenhaven,18:36,183600
+26,18,Nijverheidsweg,18:37,183700
+26,19,Waterliniedok,18:39,183900
+26,20,Tweede Regimentsdok,18:40,184000
+26,21,Eerste Garnizoensdok,18:41,184100
+26,22,Ravelijndok,18:42,184200
+27,1,CS Jaarbeurszijde,18:45,184500
+27,2,Dr. M.A. Tellegenlaan,18:48,184800
+27,3,Lanslaan,18:50,185000
+27,4,Europaplein-Noord,18:51,185100
+27,5,Kanaleneiland-Zuid,18:53,185300
+27,6,P+R Westraven,18:55,185500
+27,7,Remiseweg,18:56,185600
+27,8,Huis de Geer,18:57,185700
+27,9,Noorderveld,18:59,185900
+27,10,Buys Ballotbaan,19:01,190100
+27,11,Fahrenheitbaan,19:02,190200
+27,12,Wattbaan,19:03,190300
+27,13,Oosterlichtcollege,19:04,190400
+27,14,Marconi (laag),19:05,190500
+27,15,Galvanibaan,19:06,190600
+27,16,Brabanthaven,19:07,190700
+27,17,Groningenhaven,19:07,190700
+27,18,Nijverheidsweg,19:08,190800
+27,19,Waterliniedok,19:10,191000
+27,20,Tweede Regimentsdok,19:11,191100
+27,21,Eerste Garnizoensdok,19:12,191200
+27,22,Ravelijndok,19:13,191300
+28,1,CS Jaarbeurszijde,19:19,191900
+28,2,Dr. M.A. Tellegenlaan,19:21,192100
+28,3,Lanslaan,19:23,192300
+28,4,Europaplein-Noord,19:24,192400
+28,5,Kanaleneiland-Zuid,19:25,192500
+28,6,P+R Westraven,19:27,192700
+28,7,Remiseweg,19:28,192800
+28,8,Huis de Geer,19:29,192900
+28,9,Noorderveld,19:31,193100
+28,10,Buys Ballotbaan,19:33,193300
+28,11,Fahrenheitbaan,19:34,193400
+28,12,Wattbaan,19:35,193500
+28,13,Oosterlichtcollege,19:36,193600
+28,14,Marconi (laag),19:37,193700
+28,15,Galvanibaan,19:38,193800
+28,16,Brabanthaven,19:39,193900
+28,17,Groningenhaven,19:39,193900
+28,18,Nijverheidsweg,19:40,194000
+28,19,Waterliniedok,19:42,194200
+28,20,Tweede Regimentsdok,19:43,194300
+28,21,Eerste Garnizoensdok,19:44,194400
+28,22,Ravelijndok,19:45,194500
+29,1,CS Jaarbeurszijde,19:49,194900
+29,2,Dr. M.A. Tellegenlaan,19:51,195100
+29,3,Lanslaan,19:53,195300
+29,4,Europaplein-Noord,19:54,195400
+29,5,Kanaleneiland-Zuid,19:55,195500
+29,6,P+R Westraven,19:57,195700
+29,7,Remiseweg,19:58,195800
+29,8,Huis de Geer,19:59,195900
+29,9,Noorderveld,20:01,200100
+29,10,Buys Ballotbaan,20:03,200300
+29,11,Fahrenheitbaan,20:04,200400
+29,12,Wattbaan,20:05,200500
+29,13,Oosterlichtcollege,20:06,200600
+29,14,Marconi (laag),20:07,200700
+29,15,Galvanibaan,20:08,200800
+29,16,Brabanthaven,20:09,200900
+29,17,Groningenhaven,20:09,200900
+29,18,Nijverheidsweg,20:10,201000
+29,19,Waterliniedok,20:12,201200
+29,20,Tweede Regimentsdok,20:13,201300
+29,21,Eerste Garnizoensdok,20:14,201400
+29,22,Ravelijndok,20:15,201500
+30,1,CS Jaarbeurszijde,20:19,201900
+30,2,Dr. M.A. Tellegenlaan,20:21,202100
+30,3,Lanslaan,20:23,202300
+30,4,Europaplein-Noord,20:24,202400
+30,5,Kanaleneiland-Zuid,20:25,202500
+30,6,P+R Westraven,20:27,202700
+30,7,Remiseweg,20:28,202800
+30,8,Huis de Geer,20:29,202900
+30,9,Noorderveld,20:31,203100
+30,10,Buys Ballotbaan,20:33,203300
+30,11,Fahrenheitbaan,20:34,203400
+30,12,Wattbaan,20:35,203500
+30,13,Oosterlichtcollege,20:36,203600
+30,14,Marconi (laag),20:37,203700
+30,15,Galvanibaan,20:38,203800
+30,16,Brabanthaven,20:39,203900
+30,17,Groningenhaven,20:39,203900
+30,18,Nijverheidsweg,20:40,204000
+30,19,Waterliniedok,20:42,204200
+30,20,Tweede Regimentsdok,20:43,204300
+30,21,Eerste Garnizoensdok,20:44,204400
+30,22,Ravelijndok,20:45,204500
+31,1,CS Jaarbeurszijde,20:49,204900
+31,2,Dr. M.A. Tellegenlaan,20:51,205100
+31,3,Lanslaan,20:53,205300
+31,4,Europaplein-Noord,20:54,205400
+31,5,Kanaleneiland-Zuid,20:55,205500
+31,6,P+R Westraven,20:57,205700
+31,7,Remiseweg,20:58,205800
+31,8,Huis de Geer,20:59,205900
+31,9,Noorderveld,21:01,210100
+31,10,Buys Ballotbaan,21:03,210300
+31,11,Fahrenheitbaan,21:04,210400
+31,12,Wattbaan,21:05,210500
+31,13,Oosterlichtcollege,21:06,210600
+31,14,Marconi (laag),21:07,210700
+31,15,Galvanibaan,21:08,210800
+31,16,Brabanthaven,21:09,210900
+31,17,Groningenhaven,21:09,210900
+31,18,Nijverheidsweg,21:10,211000
+31,19,Waterliniedok,21:12,211200
+31,20,Tweede Regimentsdok,21:13,211300
+31,21,Eerste Garnizoensdok,21:14,211400
+31,22,Ravelijndok,21:15,211500
+32,1,CS Jaarbeurszijde,21:19,211900
+32,2,Dr. M.A. Tellegenlaan,21:21,212100
+32,3,Lanslaan,21:23,212300
+32,4,Europaplein-Noord,21:24,212400
+32,5,Kanaleneiland-Zuid,21:25,212500
+32,6,P+R Westraven,21:27,212700
+32,7,Remiseweg,21:28,212800
+32,8,Huis de Geer,21:29,212900
+32,9,Noorderveld,21:31,213100
+32,10,Buys Ballotbaan,21:33,213300
+32,11,Fahrenheitbaan,21:34,213400
+32,12,Wattbaan,21:35,213500
+32,13,Oosterlichtcollege,21:36,213600
+32,14,Marconi (laag),21:37,213700
+32,15,Galvanibaan,21:38,213800
+32,16,Brabanthaven,21:39,213900
+32,17,Groningenhaven,21:39,213900
+32,18,Nijverheidsweg,21:40,214000
+32,19,Waterliniedok,21:42,214200
+32,20,Tweede Regimentsdok,21:43,214300
+32,21,Eerste Garnizoensdok,21:44,214400
+32,22,Ravelijndok,21:45,214500
+33,1,CS Jaarbeurszijde,21:49,214900
+33,2,Dr. M.A. Tellegenlaan,21:51,215100
+33,3,Lanslaan,21:53,215300
+33,4,Europaplein-Noord,21:54,215400
+33,5,Kanaleneiland-Zuid,21:55,215500
+33,6,P+R Westraven,21:57,215700
+33,7,Remiseweg,21:58,215800
+33,8,Huis de Geer,21:59,215900
+33,9,Noorderveld,22:01,220100
+33,10,Buys Ballotbaan,22:03,220300
+33,11,Fahrenheitbaan,22:04,220400
+33,12,Wattbaan,22:05,220500
+33,13,Oosterlichtcollege,22:06,220600
+33,14,Marconi (laag),22:07,220700
+33,15,Galvanibaan,22:08,220800
+33,16,Brabanthaven,22:09,220900
+33,17,Groningenhaven,22:09,220900
+33,18,Nijverheidsweg,22:10,221000
+33,19,Waterliniedok,22:12,221200
+33,20,Tweede Regimentsdok,22:13,221300
+33,21,Eerste Garnizoensdok,22:14,221400
+33,22,Ravelijndok,22:15,221500
+34,1,CS Jaarbeurszijde,22:19,221900
+34,2,Dr. M.A. Tellegenlaan,22:21,222100
+34,3,Lanslaan,22:23,222300
+34,4,Europaplein-Noord,22:24,222400
+34,5,Kanaleneiland-Zuid,22:25,222500
+34,6,P+R Westraven,22:27,222700
+34,7,Remiseweg,22:28,222800
+34,8,Huis de Geer,22:29,222900
+34,9,Noorderveld,22:30,223000
+34,10,Buys Ballotbaan,22:31,223100
+34,11,Fahrenheitbaan,22:32,223200
+34,12,Wattbaan,22:33,223300
+34,13,Oosterlichtcollege,22:34,223400
+34,14,Marconi (laag),22:35,223500
+34,15,Galvanibaan,22:36,223600
+34,16,Brabanthaven,22:36,223600
+34,17,Groningenhaven,22:37,223700
+34,18,Nijverheidsweg,22:37,223700
+34,19,Waterliniedok,22:39,223900
+34,20,Tweede Regimentsdok,22:40,224000
+34,21,Eerste Garnizoensdok,22:41,224100
+34,22,Ravelijndok,22:42,224200
+35,1,CS Jaarbeurszijde,22:49,224900
+35,2,Dr. M.A. Tellegenlaan,22:51,225100
+35,3,Lanslaan,22:53,225300
+35,4,Europaplein-Noord,22:54,225400
+35,5,Kanaleneiland-Zuid,22:55,225500
+35,6,P+R Westraven,22:57,225700
+35,7,Remiseweg,22:58,225800
+35,8,Huis de Geer,22:59,225900
+35,9,Noorderveld,23:00,230000
+35,10,Buys Ballotbaan,23:01,230100
+35,11,Fahrenheitbaan,23:02,230200
+35,12,Wattbaan,23:03,230300
+35,13,Oosterlichtcollege,23:04,230400
+35,14,Marconi (laag),23:05,230500
+35,15,Galvanibaan,23:06,230600
+35,16,Brabanthaven,23:06,230600
+35,17,Groningenhaven,23:07,230700
+35,18,Nijverheidsweg,23:07,230700
+35,19,Waterliniedok,23:09,230900
+35,20,Tweede Regimentsdok,23:10,231000
+35,21,Eerste Garnizoensdok,23:11,231100
+35,22,Ravelijndok,23:12,231200
+36,1,CS Jaarbeurszijde,23:19,231900
+36,2,Dr. M.A. Tellegenlaan,23:21,232100
+36,3,Lanslaan,23:23,232300
+36,4,Europaplein-Noord,23:24,232400
+36,5,Kanaleneiland-Zuid,23:25,232500
+36,6,P+R Westraven,23:27,232700
+36,7,Remiseweg,23:28,232800
+36,8,Huis de Geer,23:29,232900
+36,9,Noorderveld,23:30,233000
+36,10,Buys Ballotbaan,23:31,233100
+36,11,Fahrenheitbaan,23:32,233200
+36,12,Wattbaan,23:33,233300
+36,13,Oosterlichtcollege,23:34,233400
+36,14,Marconi (laag),23:35,233500
+36,15,Galvanibaan,23:36,233600
+36,16,Brabanthaven,23:36,233600
+36,17,Groningenhaven,23:37,233700
+36,18,Nijverheidsweg,23:37,233700
+36,19,Waterliniedok,23:39,233900
+36,20,Tweede Regimentsdok,23:40,234000
+36,21,Eerste Garnizoensdok,23:41,234100
+36,22,Ravelijndok,23:42,234200
+37,1,CS Jaarbeurszijde,23:49,234900
+37,2,Dr. M.A. Tellegenlaan,23:51,235100
+37,3,Lanslaan,23:53,235300
+37,4,Europaplein-Noord,23:54,235400
+37,5,Kanaleneiland-Zuid,23:55,235500
+37,6,P+R Westraven,23:57,235700
+37,7,Remiseweg,23:58,235800
+37,8,Huis de Geer,23:59,235900
+37,9,Noorderveld,00:00*,240000
+37,10,Buys Ballotbaan,00:01*,240100
+37,11,Fahrenheitbaan,00:02*,240200
+37,12,Wattbaan,00:03*,240300
+37,13,Oosterlichtcollege,00:04*,240400
+37,14,Marconi (laag),00:05*,240500
+37,15,Galvanibaan,00:06*,240600
+37,16,Brabanthaven,00:06*,240600
+37,17,Groningenhaven,00:07*,240700
+37,18,Nijverheidsweg,00:07*,240700
+37,19,Waterliniedok,00:09*,240900
+37,20,Tweede Regimentsdok,00:10*,241000
+37,21,Eerste Garnizoensdok,00:11*,241100
+37,22,Ravelijndok,00:12*,241200
