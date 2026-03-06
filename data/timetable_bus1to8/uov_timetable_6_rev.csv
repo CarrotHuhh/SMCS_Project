@@ -1,0 +1,1995 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,Station Terwijde,06:06,060600
+1,2,Het Zand,06:08,060800
+1,3,Tweede Westerparklaan,06:09,060900
+1,4,De Woerd,06:11,061100
+1,5,Kreekraklaan,06:12,061200
+1,6,Klifrakplantsoen,06:13,061300
+1,7,Archeologiepark,06:14,061400
+1,8,Burgemeester Verderlaan,06:15,061500
+1,9,Dafne Schippersbrug,06:16,061600
+1,10,24 Oktoberplein,06:20,062000
+1,11,Overste den Oudenlaan,06:22,062200
+1,12,Graadt van Roggenweg,06:23,062300
+1,13,CS Jaarbeurszijde,06:25,062500
+1,14,CS Jaarbeurszijde,06:28,062800
+1,15,Sint Jacobsstraat,06:32,063200
+1,16,Oudenoord,06:34,063400
+1,17,David van Mollemstraat,06:35,063500
+1,18,Nijenoord,06:36,063600
+1,19,Anton Geesinkstraat,06:37,063700
+1,20,Loevenhoutsedijk,06:38,063800
+1,21,Brailledreef,06:39,063900
+1,22,Taagdreef,06:40,064000
+1,23,Winkelcentrum Overvecht,06:41,064100
+1,24,Theemsdreef,06:42,064200
+1,25,Landskroondreef,06:43,064300
+1,26,Neckardreef,06:44,064400
+1,27,Oderdreef,06:46,064600
+1,28,Atlasdreef,06:47,064700
+1,29,Donaudreef,06:48,064800
+1,30,Berezinadreef,06:49,064900
+1,31,Station Overvecht,06:50,065000
+2,1,CS Jaarbeurszijde,06:13,061300
+2,2,Sint Jacobsstraat,06:17,061700
+2,3,Oudenoord,06:19,061900
+2,4,David van Mollemstraat,06:20,062000
+2,5,Nijenoord,06:21,062100
+2,6,Anton Geesinkstraat,06:22,062200
+2,7,Loevenhoutsedijk,06:23,062300
+2,8,Brailledreef,06:24,062400
+2,9,Taagdreef,06:25,062500
+2,10,Winkelcentrum Overvecht,06:26,062600
+2,11,Theemsdreef,06:27,062700
+2,12,Landskroondreef,06:28,062800
+2,13,Neckardreef,06:29,062900
+2,14,Oderdreef,06:31,063100
+2,15,Atlasdreef,06:32,063200
+2,16,Donaudreef,06:33,063300
+2,17,Berezinadreef,06:34,063400
+2,18,Station Overvecht,06:35,063500
+3,1,Station Terwijde,06:21,062100
+3,2,Het Zand,06:23,062300
+3,3,Tweede Westerparklaan,06:24,062400
+3,4,De Woerd,06:26,062600
+3,5,Kreekraklaan,06:27,062700
+3,6,Klifrakplantsoen,06:28,062800
+3,7,Archeologiepark,06:29,062900
+3,8,Burgemeester Verderlaan,06:30,063000
+3,9,Dafne Schippersbrug,06:31,063100
+3,10,24 Oktoberplein,06:35,063500
+3,11,Overste den Oudenlaan,06:37,063700
+3,12,Graadt van Roggenweg,06:38,063800
+3,13,CS Jaarbeurszijde,06:40,064000
+3,14,CS Jaarbeurszijde,06:43,064300
+3,15,Sint Jacobsstraat,06:47,064700
+3,16,Oudenoord,06:49,064900
+3,17,David van Mollemstraat,06:50,065000
+3,18,Nijenoord,06:51,065100
+3,19,Anton Geesinkstraat,06:52,065200
+3,20,Loevenhoutsedijk,06:53,065300
+3,21,Brailledreef,06:54,065400
+3,22,Taagdreef,06:55,065500
+3,23,Winkelcentrum Overvecht,06:56,065600
+3,24,Theemsdreef,06:57,065700
+3,25,Landskroondreef,06:58,065800
+3,26,Neckardreef,06:59,065900
+3,27,Oderdreef,07:01,070100
+3,28,Atlasdreef,07:02,070200
+3,29,Donaudreef,07:03,070300
+3,30,Berezinadreef,07:04,070400
+3,31,Station Overvecht,07:05,070500
+4,1,Station Terwijde,06:36,063600
+4,2,Het Zand,06:38,063800
+4,3,Tweede Westerparklaan,06:39,063900
+4,4,De Woerd,06:41,064100
+4,5,Kreekraklaan,06:42,064200
+4,6,Klifrakplantsoen,06:43,064300
+4,7,Archeologiepark,06:44,064400
+4,8,Burgemeester Verderlaan,06:45,064500
+4,9,Dafne Schippersbrug,06:46,064600
+4,10,24 Oktoberplein,06:50,065000
+4,11,Overste den Oudenlaan,06:52,065200
+4,12,Graadt van Roggenweg,06:53,065300
+4,13,CS Jaarbeurszijde,06:55,065500
+4,14,CS Jaarbeurszijde,06:58,065800
+4,15,Sint Jacobsstraat,07:02,070200
+4,16,Oudenoord,07:04,070400
+4,17,David van Mollemstraat,07:05,070500
+4,18,Nijenoord,07:06,070600
+4,19,Anton Geesinkstraat,07:07,070700
+4,20,Loevenhoutsedijk,07:08,070800
+4,21,Brailledreef,07:09,070900
+4,22,Taagdreef,07:10,071000
+4,23,Winkelcentrum Overvecht,07:11,071100
+4,24,Theemsdreef,07:12,071200
+4,25,Landskroondreef,07:13,071300
+4,26,Neckardreef,07:14,071400
+4,27,Oderdreef,07:16,071600
+4,28,Atlasdreef,07:17,071700
+4,29,Donaudreef,07:18,071800
+4,30,Berezinadreef,07:19,071900
+4,31,Station Overvecht,07:20,072000
+5,1,Station Terwijde,06:49,064900
+5,2,Het Zand,06:51,065100
+5,3,Tweede Westerparklaan,06:52,065200
+5,4,De Woerd,06:54,065400
+5,5,Kreekraklaan,06:55,065500
+5,6,Klifrakplantsoen,06:56,065600
+5,7,Archeologiepark,06:57,065700
+5,8,Burgemeester Verderlaan,06:58,065800
+5,9,Dafne Schippersbrug,06:59,065900
+5,10,24 Oktoberplein,07:03,070300
+5,11,Overste den Oudenlaan,07:05,070500
+5,12,Graadt van Roggenweg,07:07,070700
+5,13,CS Jaarbeurszijde,07:10,071000
+5,14,CS Jaarbeurszijde,07:13,071300
+5,15,Sint Jacobsstraat,07:17,071700
+5,16,Oudenoord,07:19,071900
+5,17,David van Mollemstraat,07:20,072000
+5,18,Nijenoord,07:21,072100
+5,19,Anton Geesinkstraat,07:22,072200
+5,20,Loevenhoutsedijk,07:23,072300
+5,21,Brailledreef,07:24,072400
+5,22,Taagdreef,07:25,072500
+5,23,Winkelcentrum Overvecht,07:26,072600
+5,24,Theemsdreef,07:27,072700
+5,25,Landskroondreef,07:28,072800
+5,26,Neckardreef,07:29,072900
+5,27,Oderdreef,07:31,073100
+5,28,Atlasdreef,07:32,073200
+5,29,Donaudreef,07:33,073300
+5,30,Berezinadreef,07:34,073400
+5,31,Station Overvecht,07:35,073500
+6,1,Station Terwijde,07:01,070100
+6,2,Het Zand,07:03,070300
+6,3,Tweede Westerparklaan,07:05,070500
+6,4,De Woerd,07:07,070700
+6,5,Kreekraklaan,07:08,070800
+6,6,Klifrakplantsoen,07:09,070900
+6,7,Archeologiepark,07:10,071000
+6,8,Burgemeester Verderlaan,07:11,071100
+6,9,Dafne Schippersbrug,07:12,071200
+6,10,24 Oktoberplein,07:17,071700
+6,11,Overste den Oudenlaan,07:19,071900
+6,12,Graadt van Roggenweg,07:21,072100
+6,13,CS Jaarbeurszijde,07:24,072400
+6,14,CS Jaarbeurszijde,07:27,072700
+6,15,Sint Jacobsstraat,07:31,073100
+6,16,Oudenoord,07:33,073300
+6,17,David van Mollemstraat,07:34,073400
+6,18,Nijenoord,07:35,073500
+6,19,Anton Geesinkstraat,07:36,073600
+6,20,Loevenhoutsedijk,07:37,073700
+6,21,Brailledreef,07:38,073800
+6,22,Taagdreef,07:39,073900
+6,23,Winkelcentrum Overvecht,07:41,074100
+6,24,Theemsdreef,07:42,074200
+6,25,Landskroondreef,07:43,074300
+6,26,Neckardreef,07:44,074400
+6,27,Oderdreef,07:46,074600
+6,28,Atlasdreef,07:47,074700
+6,29,Donaudreef,07:48,074800
+6,30,Berezinadreef,07:49,074900
+6,31,Station Overvecht,07:50,075000
+7,1,Station Terwijde,07:15,071500
+7,2,Het Zand,07:17,071700
+7,3,Tweede Westerparklaan,07:19,071900
+7,4,De Woerd,07:21,072100
+7,5,Kreekraklaan,07:22,072200
+7,6,Klifrakplantsoen,07:23,072300
+7,7,Archeologiepark,07:24,072400
+7,8,Burgemeester Verderlaan,07:25,072500
+7,9,Dafne Schippersbrug,07:26,072600
+7,10,24 Oktoberplein,07:31,073100
+7,11,Overste den Oudenlaan,07:33,073300
+7,12,Graadt van Roggenweg,07:35,073500
+7,13,CS Jaarbeurszijde,07:38,073800
+7,14,CS Jaarbeurszijde,07:41,074100
+7,15,Sint Jacobsstraat,07:46,074600
+7,16,Oudenoord,07:48,074800
+7,17,David van Mollemstraat,07:49,074900
+7,18,Nijenoord,07:50,075000
+7,19,Anton Geesinkstraat,07:51,075100
+7,20,Loevenhoutsedijk,07:52,075200
+7,21,Brailledreef,07:53,075300
+7,22,Taagdreef,07:54,075400
+7,23,Winkelcentrum Overvecht,07:56,075600
+7,24,Theemsdreef,07:57,075700
+7,25,Landskroondreef,07:58,075800
+7,26,Neckardreef,07:59,075900
+7,27,Oderdreef,08:01,080100
+7,28,Atlasdreef,08:02,080200
+7,29,Donaudreef,08:03,080300
+7,30,Berezinadreef,08:04,080400
+7,31,Station Overvecht,08:05,080500
+8,1,Station Terwijde,07:30,073000
+8,2,Het Zand,07:32,073200
+8,3,Tweede Westerparklaan,07:34,073400
+8,4,De Woerd,07:36,073600
+8,5,Kreekraklaan,07:37,073700
+8,6,Klifrakplantsoen,07:38,073800
+8,7,Archeologiepark,07:39,073900
+8,8,Burgemeester Verderlaan,07:40,074000
+8,9,Dafne Schippersbrug,07:41,074100
+8,10,24 Oktoberplein,07:46,074600
+8,11,Overste den Oudenlaan,07:48,074800
+8,12,Graadt van Roggenweg,07:50,075000
+8,13,CS Jaarbeurszijde,07:53,075300
+8,14,CS Jaarbeurszijde,07:56,075600
+8,15,Sint Jacobsstraat,08:01,080100
+8,16,Oudenoord,08:03,080300
+8,17,David van Mollemstraat,08:04,080400
+8,18,Nijenoord,08:05,080500
+8,19,Anton Geesinkstraat,08:06,080600
+8,20,Loevenhoutsedijk,08:07,080700
+8,21,Brailledreef,08:08,080800
+8,22,Taagdreef,08:09,080900
+8,23,Winkelcentrum Overvecht,08:11,081100
+8,24,Theemsdreef,08:12,081200
+8,25,Landskroondreef,08:13,081300
+8,26,Neckardreef,08:14,081400
+8,27,Oderdreef,08:16,081600
+8,28,Atlasdreef,08:17,081700
+8,29,Donaudreef,08:18,081800
+8,30,Berezinadreef,08:19,081900
+8,31,Station Overvecht,08:20,082000
+9,1,Station Terwijde,07:44,074400
+9,2,Het Zand,07:46,074600
+9,3,Tweede Westerparklaan,07:48,074800
+9,4,De Woerd,07:50,075000
+9,5,Kreekraklaan,07:51,075100
+9,6,Klifrakplantsoen,07:52,075200
+9,7,Archeologiepark,07:53,075300
+9,8,Burgemeester Verderlaan,07:54,075400
+9,9,Dafne Schippersbrug,07:55,075500
+9,10,24 Oktoberplein,08:00,080000
+9,11,Overste den Oudenlaan,08:02,080200
+9,12,Graadt van Roggenweg,08:04,080400
+9,13,CS Jaarbeurszijde,08:07,080700
+9,14,CS Jaarbeurszijde,08:10,081000
+9,15,Sint Jacobsstraat,08:15,081500
+9,16,Oudenoord,08:17,081700
+9,17,David van Mollemstraat,08:18,081800
+9,18,Nijenoord,08:19,081900
+9,19,Anton Geesinkstraat,08:20,082000
+9,20,Loevenhoutsedijk,08:21,082100
+9,21,Brailledreef,08:22,082200
+9,22,Taagdreef,08:23,082300
+9,23,Winkelcentrum Overvecht,08:25,082500
+9,24,Theemsdreef,08:26,082600
+9,25,Landskroondreef,08:27,082700
+9,26,Neckardreef,08:28,082800
+9,27,Oderdreef,08:30,083000
+9,28,Atlasdreef,08:31,083100
+9,29,Donaudreef,08:33,083300
+9,30,Berezinadreef,08:34,083400
+9,31,Station Overvecht,08:35,083500
+10,1,Station Terwijde,07:59,075900
+10,2,Het Zand,08:01,080100
+10,3,Tweede Westerparklaan,08:03,080300
+10,4,De Woerd,08:05,080500
+10,5,Kreekraklaan,08:06,080600
+10,6,Klifrakplantsoen,08:07,080700
+10,7,Archeologiepark,08:08,080800
+10,8,Burgemeester Verderlaan,08:09,080900
+10,9,Dafne Schippersbrug,08:10,081000
+10,10,24 Oktoberplein,08:15,081500
+10,11,Overste den Oudenlaan,08:17,081700
+10,12,Graadt van Roggenweg,08:19,081900
+10,13,CS Jaarbeurszijde,08:22,082200
+10,14,CS Jaarbeurszijde,08:25,082500
+10,15,Sint Jacobsstraat,08:30,083000
+10,16,Oudenoord,08:32,083200
+10,17,David van Mollemstraat,08:33,083300
+10,18,Nijenoord,08:34,083400
+10,19,Anton Geesinkstraat,08:36,083600
+10,20,Loevenhoutsedijk,08:37,083700
+10,21,Brailledreef,08:38,083800
+10,22,Taagdreef,08:39,083900
+10,23,Winkelcentrum Overvecht,08:41,084100
+10,24,Theemsdreef,08:42,084200
+10,25,Landskroondreef,08:43,084300
+10,26,Neckardreef,08:44,084400
+10,27,Oderdreef,08:46,084600
+10,28,Atlasdreef,08:47,084700
+10,29,Donaudreef,08:49,084900
+10,30,Berezinadreef,08:50,085000
+10,31,Station Overvecht,08:51,085100
+11,1,Station Terwijde,08:15,081500
+11,2,Het Zand,08:17,081700
+11,3,Tweede Westerparklaan,08:19,081900
+11,4,De Woerd,08:21,082100
+11,5,Kreekraklaan,08:22,082200
+11,6,Klifrakplantsoen,08:23,082300
+11,7,Archeologiepark,08:24,082400
+11,8,Burgemeester Verderlaan,08:25,082500
+11,9,Dafne Schippersbrug,08:26,082600
+11,10,24 Oktoberplein,08:31,083100
+11,11,Overste den Oudenlaan,08:33,083300
+11,12,Graadt van Roggenweg,08:35,083500
+11,13,CS Jaarbeurszijde,08:38,083800
+11,14,CS Jaarbeurszijde,08:41,084100
+11,15,Sint Jacobsstraat,08:46,084600
+11,16,Oudenoord,08:48,084800
+11,17,David van Mollemstraat,08:49,084900
+11,18,Nijenoord,08:50,085000
+11,19,Anton Geesinkstraat,08:52,085200
+11,20,Loevenhoutsedijk,08:53,085300
+11,21,Brailledreef,08:54,085400
+11,22,Taagdreef,08:55,085500
+11,23,Winkelcentrum Overvecht,08:57,085700
+11,24,Theemsdreef,08:58,085800
+11,25,Landskroondreef,08:59,085900
+11,26,Neckardreef,09:00,090000
+11,27,Oderdreef,09:02,090200
+11,28,Atlasdreef,09:03,090300
+11,29,Donaudreef,09:04,090400
+11,30,Berezinadreef,09:05,090500
+11,31,Station Overvecht,09:06,090600
+12,1,CS Jaarbeurszijde,08:17,081700
+12,2,Sint Jacobsstraat,08:22,082200
+12,3,Oudenoord,08:24,082400
+12,4,David van Mollemstraat,08:25,082500
+12,5,Nijenoord,08:26,082600
+12,6,Anton Geesinkstraat,08:28,082800
+12,7,Loevenhoutsedijk,08:29,082900
+12,8,Brailledreef,08:30,083000
+12,9,Taagdreef,08:31,083100
+13,1,Station Terwijde,08:31,083100
+13,2,Het Zand,08:33,083300
+13,3,Tweede Westerparklaan,08:35,083500
+13,4,De Woerd,08:37,083700
+13,5,Kreekraklaan,08:38,083800
+13,6,Klifrakplantsoen,08:39,083900
+13,7,Archeologiepark,08:40,084000
+13,8,Burgemeester Verderlaan,08:41,084100
+13,9,Dafne Schippersbrug,08:42,084200
+13,10,24 Oktoberplein,08:47,084700
+13,11,Overste den Oudenlaan,08:49,084900
+13,12,Graadt van Roggenweg,08:51,085100
+13,13,CS Jaarbeurszijde,08:54,085400
+13,14,CS Jaarbeurszijde,08:57,085700
+13,15,Sint Jacobsstraat,09:02,090200
+13,16,Oudenoord,09:04,090400
+13,17,David van Mollemstraat,09:05,090500
+13,18,Nijenoord,09:06,090600
+13,19,Anton Geesinkstraat,09:07,090700
+13,20,Loevenhoutsedijk,09:08,090800
+13,21,Brailledreef,09:09,090900
+13,22,Taagdreef,09:10,091000
+13,23,Winkelcentrum Overvecht,09:12,091200
+13,24,Theemsdreef,09:13,091300
+13,25,Landskroondreef,09:14,091400
+13,26,Neckardreef,09:15,091500
+13,27,Oderdreef,09:17,091700
+13,28,Atlasdreef,09:18,091800
+13,29,Donaudreef,09:19,091900
+13,30,Berezinadreef,09:20,092000
+13,31,Station Overvecht,09:21,092100
+14,1,Station Terwijde,08:46,084600
+14,2,Het Zand,08:48,084800
+14,3,Tweede Westerparklaan,08:50,085000
+14,4,De Woerd,08:52,085200
+14,5,Kreekraklaan,08:53,085300
+14,6,Klifrakplantsoen,08:54,085400
+14,7,Archeologiepark,08:55,085500
+14,8,Burgemeester Verderlaan,08:56,085600
+14,9,Dafne Schippersbrug,08:57,085700
+14,10,24 Oktoberplein,09:02,090200
+14,11,Overste den Oudenlaan,09:04,090400
+14,12,Graadt van Roggenweg,09:05,090500
+14,13,CS Jaarbeurszijde,09:08,090800
+14,14,CS Jaarbeurszijde,09:11,091100
+14,15,Sint Jacobsstraat,09:16,091600
+14,16,Oudenoord,09:18,091800
+14,17,David van Mollemstraat,09:19,091900
+14,18,Nijenoord,09:20,092000
+14,19,Anton Geesinkstraat,09:21,092100
+14,20,Loevenhoutsedijk,09:22,092200
+14,21,Brailledreef,09:23,092300
+14,22,Taagdreef,09:24,092400
+14,23,Winkelcentrum Overvecht,09:26,092600
+14,24,Theemsdreef,09:27,092700
+14,25,Landskroondreef,09:28,092800
+14,26,Neckardreef,09:29,092900
+14,27,Oderdreef,09:31,093100
+14,28,Atlasdreef,09:32,093200
+14,29,Donaudreef,09:33,093300
+14,30,Berezinadreef,09:34,093400
+14,31,Station Overvecht,09:35,093500
+15,1,Station Terwijde,09:02,090200
+15,2,Het Zand,09:04,090400
+15,3,Tweede Westerparklaan,09:05,090500
+15,4,De Woerd,09:07,090700
+15,5,Kreekraklaan,09:08,090800
+15,6,Klifrakplantsoen,09:09,090900
+15,7,Archeologiepark,09:10,091000
+15,8,Burgemeester Verderlaan,09:11,091100
+15,9,Dafne Schippersbrug,09:12,091200
+15,10,24 Oktoberplein,09:17,091700
+15,11,Overste den Oudenlaan,09:19,091900
+15,12,Graadt van Roggenweg,09:20,092000
+15,13,CS Jaarbeurszijde,09:23,092300
+15,14,CS Jaarbeurszijde,09:26,092600
+15,15,Sint Jacobsstraat,09:31,093100
+15,16,Oudenoord,09:33,093300
+15,17,David van Mollemstraat,09:34,093400
+15,18,Nijenoord,09:35,093500
+15,19,Anton Geesinkstraat,09:36,093600
+15,20,Loevenhoutsedijk,09:37,093700
+15,21,Brailledreef,09:38,093800
+15,22,Taagdreef,09:39,093900
+15,23,Winkelcentrum Overvecht,09:41,094100
+15,24,Theemsdreef,09:42,094200
+15,25,Landskroondreef,09:43,094300
+15,26,Neckardreef,09:44,094400
+15,27,Oderdreef,09:46,094600
+15,28,Atlasdreef,09:47,094700
+15,29,Donaudreef,09:48,094800
+15,30,Berezinadreef,09:49,094900
+15,31,Station Overvecht,09:50,095000
+16,1,Station Terwijde,09:17,091700
+16,2,Het Zand,09:19,091900
+16,3,Tweede Westerparklaan,09:20,092000
+16,4,De Woerd,09:22,092200
+16,5,Kreekraklaan,09:23,092300
+16,6,Klifrakplantsoen,09:24,092400
+16,7,Archeologiepark,09:25,092500
+16,8,Burgemeester Verderlaan,09:26,092600
+16,9,Dafne Schippersbrug,09:27,092700
+16,10,24 Oktoberplein,09:32,093200
+16,11,Overste den Oudenlaan,09:34,093400
+16,12,Graadt van Roggenweg,09:35,093500
+16,13,CS Jaarbeurszijde,09:38,093800
+16,14,CS Jaarbeurszijde,09:41,094100
+16,15,Sint Jacobsstraat,09:46,094600
+16,16,Oudenoord,09:48,094800
+16,17,David van Mollemstraat,09:49,094900
+16,18,Nijenoord,09:50,095000
+16,19,Anton Geesinkstraat,09:51,095100
+16,20,Loevenhoutsedijk,09:52,095200
+16,21,Brailledreef,09:53,095300
+16,22,Taagdreef,09:54,095400
+16,23,Winkelcentrum Overvecht,09:56,095600
+16,24,Theemsdreef,09:57,095700
+16,25,Landskroondreef,09:58,095800
+16,26,Neckardreef,09:59,095900
+16,27,Oderdreef,10:01,100100
+16,28,Atlasdreef,10:02,100200
+16,29,Donaudreef,10:03,100300
+16,30,Berezinadreef,10:04,100400
+16,31,Station Overvecht,10:05,100500
+17,1,Station Terwijde,09:32,093200
+17,2,Het Zand,09:34,093400
+17,3,Tweede Westerparklaan,09:35,093500
+17,4,De Woerd,09:37,093700
+17,5,Kreekraklaan,09:38,093800
+17,6,Klifrakplantsoen,09:39,093900
+17,7,Archeologiepark,09:40,094000
+17,8,Burgemeester Verderlaan,09:41,094100
+17,9,Dafne Schippersbrug,09:42,094200
+17,10,24 Oktoberplein,09:47,094700
+17,11,Overste den Oudenlaan,09:49,094900
+17,12,Graadt van Roggenweg,09:50,095000
+17,13,CS Jaarbeurszijde,09:53,095300
+17,14,CS Jaarbeurszijde,09:56,095600
+17,15,Sint Jacobsstraat,10:01,100100
+17,16,Oudenoord,10:03,100300
+17,17,David van Mollemstraat,10:04,100400
+17,18,Nijenoord,10:05,100500
+17,19,Anton Geesinkstraat,10:06,100600
+17,20,Loevenhoutsedijk,10:07,100700
+17,21,Brailledreef,10:08,100800
+17,22,Taagdreef,10:09,100900
+17,23,Winkelcentrum Overvecht,10:11,101100
+17,24,Theemsdreef,10:12,101200
+17,25,Landskroondreef,10:13,101300
+17,26,Neckardreef,10:14,101400
+17,27,Oderdreef,10:16,101600
+17,28,Atlasdreef,10:17,101700
+17,29,Donaudreef,10:18,101800
+17,30,Berezinadreef,10:19,101900
+17,31,Station Overvecht,10:20,102000
+18,1,Station Terwijde,09:47,094700
+18,2,Het Zand,09:49,094900
+18,3,Tweede Westerparklaan,09:50,095000
+18,4,De Woerd,09:52,095200
+18,5,Kreekraklaan,09:53,095300
+18,6,Klifrakplantsoen,09:54,095400
+18,7,Archeologiepark,09:55,095500
+18,8,Burgemeester Verderlaan,09:56,095600
+18,9,Dafne Schippersbrug,09:57,095700
+18,10,24 Oktoberplein,10:02,100200
+18,11,Overste den Oudenlaan,10:04,100400
+18,12,Graadt van Roggenweg,10:05,100500
+18,13,CS Jaarbeurszijde,10:08,100800
+18,14,CS Jaarbeurszijde,10:11,101100
+18,15,Sint Jacobsstraat,10:16,101600
+18,16,Oudenoord,10:18,101800
+18,17,David van Mollemstraat,10:19,101900
+18,18,Nijenoord,10:20,102000
+18,19,Anton Geesinkstraat,10:21,102100
+18,20,Loevenhoutsedijk,10:22,102200
+18,21,Brailledreef,10:23,102300
+18,22,Taagdreef,10:24,102400
+18,23,Winkelcentrum Overvecht,10:26,102600
+18,24,Theemsdreef,10:27,102700
+18,25,Landskroondreef,10:28,102800
+18,26,Neckardreef,10:29,102900
+18,27,Oderdreef,10:31,103100
+18,28,Atlasdreef,10:32,103200
+18,29,Donaudreef,10:33,103300
+18,30,Berezinadreef,10:34,103400
+18,31,Station Overvecht,10:35,103500
+19,1,Station Terwijde,10:02,100200
+19,2,Het Zand,10:04,100400
+19,3,Tweede Westerparklaan,10:05,100500
+19,4,De Woerd,10:07,100700
+19,5,Kreekraklaan,10:08,100800
+19,6,Klifrakplantsoen,10:09,100900
+19,7,Archeologiepark,10:10,101000
+19,8,Burgemeester Verderlaan,10:11,101100
+19,9,Dafne Schippersbrug,10:12,101200
+19,10,24 Oktoberplein,10:17,101700
+19,11,Overste den Oudenlaan,10:19,101900
+19,12,Graadt van Roggenweg,10:20,102000
+19,13,CS Jaarbeurszijde,10:23,102300
+19,14,CS Jaarbeurszijde,10:26,102600
+19,15,Sint Jacobsstraat,10:31,103100
+19,16,Oudenoord,10:33,103300
+19,17,David van Mollemstraat,10:34,103400
+19,18,Nijenoord,10:35,103500
+19,19,Anton Geesinkstraat,10:36,103600
+19,20,Loevenhoutsedijk,10:37,103700
+19,21,Brailledreef,10:38,103800
+19,22,Taagdreef,10:39,103900
+19,23,Winkelcentrum Overvecht,10:41,104100
+19,24,Theemsdreef,10:42,104200
+19,25,Landskroondreef,10:43,104300
+19,26,Neckardreef,10:44,104400
+19,27,Oderdreef,10:46,104600
+19,28,Atlasdreef,10:47,104700
+19,29,Donaudreef,10:48,104800
+19,30,Berezinadreef,10:49,104900
+19,31,Station Overvecht,10:50,105000
+20,1,Station Terwijde,10:17,101700
+20,2,Het Zand,10:19,101900
+20,3,Tweede Westerparklaan,10:20,102000
+20,4,De Woerd,10:22,102200
+20,5,Kreekraklaan,10:23,102300
+20,6,Klifrakplantsoen,10:24,102400
+20,7,Archeologiepark,10:25,102500
+20,8,Burgemeester Verderlaan,10:26,102600
+20,9,Dafne Schippersbrug,10:27,102700
+20,10,24 Oktoberplein,10:32,103200
+20,11,Overste den Oudenlaan,10:34,103400
+20,12,Graadt van Roggenweg,10:35,103500
+20,13,CS Jaarbeurszijde,10:38,103800
+20,14,CS Jaarbeurszijde,10:41,104100
+20,15,Sint Jacobsstraat,10:46,104600
+20,16,Oudenoord,10:48,104800
+20,17,David van Mollemstraat,10:49,104900
+20,18,Nijenoord,10:50,105000
+20,19,Anton Geesinkstraat,10:51,105100
+20,20,Loevenhoutsedijk,10:52,105200
+20,21,Brailledreef,10:53,105300
+20,22,Taagdreef,10:54,105400
+20,23,Winkelcentrum Overvecht,10:56,105600
+20,24,Theemsdreef,10:57,105700
+20,25,Landskroondreef,10:58,105800
+20,26,Neckardreef,10:59,105900
+20,27,Oderdreef,11:01,110100
+20,28,Atlasdreef,11:02,110200
+20,29,Donaudreef,11:03,110300
+20,30,Berezinadreef,11:04,110400
+20,31,Station Overvecht,11:05,110500
+21,1,Station Terwijde,10:32,103200
+21,2,Het Zand,10:34,103400
+21,3,Tweede Westerparklaan,10:35,103500
+21,4,De Woerd,10:37,103700
+21,5,Kreekraklaan,10:38,103800
+21,6,Klifrakplantsoen,10:39,103900
+21,7,Archeologiepark,10:40,104000
+21,8,Burgemeester Verderlaan,10:41,104100
+21,9,Dafne Schippersbrug,10:42,104200
+21,10,24 Oktoberplein,10:47,104700
+21,11,Overste den Oudenlaan,10:49,104900
+21,12,Graadt van Roggenweg,10:50,105000
+21,13,CS Jaarbeurszijde,10:53,105300
+21,14,CS Jaarbeurszijde,10:56,105600
+21,15,Sint Jacobsstraat,11:01,110100
+21,16,Oudenoord,11:03,110300
+21,17,David van Mollemstraat,11:04,110400
+21,18,Nijenoord,11:05,110500
+21,19,Anton Geesinkstraat,11:06,110600
+21,20,Loevenhoutsedijk,11:07,110700
+21,21,Brailledreef,11:08,110800
+21,22,Taagdreef,11:09,110900
+21,23,Winkelcentrum Overvecht,11:11,111100
+21,24,Theemsdreef,11:12,111200
+21,25,Landskroondreef,11:13,111300
+21,26,Neckardreef,11:14,111400
+21,27,Oderdreef,11:16,111600
+21,28,Atlasdreef,11:17,111700
+21,29,Donaudreef,11:18,111800
+21,30,Berezinadreef,11:19,111900
+21,31,Station Overvecht,11:20,112000
+22,1,Station Terwijde,10:47,104700
+22,2,Het Zand,10:49,104900
+22,3,Tweede Westerparklaan,10:50,105000
+22,4,De Woerd,10:52,105200
+22,5,Kreekraklaan,10:53,105300
+22,6,Klifrakplantsoen,10:54,105400
+22,7,Archeologiepark,10:55,105500
+22,8,Burgemeester Verderlaan,10:56,105600
+22,9,Dafne Schippersbrug,10:57,105700
+22,10,24 Oktoberplein,11:02,110200
+22,11,Overste den Oudenlaan,11:04,110400
+22,12,Graadt van Roggenweg,11:05,110500
+22,13,CS Jaarbeurszijde,11:08,110800
+22,14,CS Jaarbeurszijde,11:11,111100
+22,15,Sint Jacobsstraat,11:16,111600
+22,16,Oudenoord,11:18,111800
+22,17,David van Mollemstraat,11:19,111900
+22,18,Nijenoord,11:20,112000
+22,19,Anton Geesinkstraat,11:21,112100
+22,20,Loevenhoutsedijk,11:22,112200
+22,21,Brailledreef,11:23,112300
+22,22,Taagdreef,11:24,112400
+22,23,Winkelcentrum Overvecht,11:26,112600
+22,24,Theemsdreef,11:27,112700
+22,25,Landskroondreef,11:28,112800
+22,26,Neckardreef,11:29,112900
+22,27,Oderdreef,11:31,113100
+22,28,Atlasdreef,11:32,113200
+22,29,Donaudreef,11:33,113300
+22,30,Berezinadreef,11:34,113400
+22,31,Station Overvecht,11:35,113500
+23,1,Station Terwijde,11:02,110200
+23,2,Het Zand,11:04,110400
+23,3,Tweede Westerparklaan,11:05,110500
+23,4,De Woerd,11:07,110700
+23,5,Kreekraklaan,11:08,110800
+23,6,Klifrakplantsoen,11:09,110900
+23,7,Archeologiepark,11:10,111000
+23,8,Burgemeester Verderlaan,11:11,111100
+23,9,Dafne Schippersbrug,11:12,111200
+23,10,24 Oktoberplein,11:17,111700
+23,11,Overste den Oudenlaan,11:19,111900
+23,12,Graadt van Roggenweg,11:20,112000
+23,13,CS Jaarbeurszijde,11:23,112300
+23,14,CS Jaarbeurszijde,11:26,112600
+23,15,Sint Jacobsstraat,11:31,113100
+23,16,Oudenoord,11:33,113300
+23,17,David van Mollemstraat,11:34,113400
+23,18,Nijenoord,11:35,113500
+23,19,Anton Geesinkstraat,11:36,113600
+23,20,Loevenhoutsedijk,11:37,113700
+23,21,Brailledreef,11:38,113800
+23,22,Taagdreef,11:39,113900
+23,23,Winkelcentrum Overvecht,11:41,114100
+23,24,Theemsdreef,11:42,114200
+23,25,Landskroondreef,11:43,114300
+23,26,Neckardreef,11:44,114400
+23,27,Oderdreef,11:46,114600
+23,28,Atlasdreef,11:47,114700
+23,29,Donaudreef,11:48,114800
+23,30,Berezinadreef,11:49,114900
+23,31,Station Overvecht,11:50,115000
+24,1,Station Terwijde,11:17,111700
+24,2,Het Zand,11:19,111900
+24,3,Tweede Westerparklaan,11:20,112000
+24,4,De Woerd,11:22,112200
+24,5,Kreekraklaan,11:23,112300
+24,6,Klifrakplantsoen,11:24,112400
+24,7,Archeologiepark,11:25,112500
+24,8,Burgemeester Verderlaan,11:26,112600
+24,9,Dafne Schippersbrug,11:27,112700
+24,10,24 Oktoberplein,11:32,113200
+24,11,Overste den Oudenlaan,11:34,113400
+24,12,Graadt van Roggenweg,11:35,113500
+24,13,CS Jaarbeurszijde,11:38,113800
+24,14,CS Jaarbeurszijde,11:41,114100
+24,15,Sint Jacobsstraat,11:46,114600
+24,16,Oudenoord,11:48,114800
+24,17,David van Mollemstraat,11:49,114900
+24,18,Nijenoord,11:50,115000
+24,19,Anton Geesinkstraat,11:51,115100
+24,20,Loevenhoutsedijk,11:52,115200
+24,21,Brailledreef,11:53,115300
+24,22,Taagdreef,11:54,115400
+24,23,Winkelcentrum Overvecht,11:56,115600
+24,24,Theemsdreef,11:57,115700
+24,25,Landskroondreef,11:58,115800
+24,26,Neckardreef,11:59,115900
+24,27,Oderdreef,12:01,120100
+24,28,Atlasdreef,12:02,120200
+24,29,Donaudreef,12:03,120300
+24,30,Berezinadreef,12:04,120400
+24,31,Station Overvecht,12:05,120500
+25,1,Station Terwijde,11:30,113000
+25,2,Het Zand,11:32,113200
+25,3,Tweede Westerparklaan,11:33,113300
+25,4,De Woerd,11:35,113500
+25,5,Kreekraklaan,11:36,113600
+25,6,Klifrakplantsoen,11:37,113700
+25,7,Archeologiepark,11:38,113800
+25,8,Burgemeester Verderlaan,11:39,113900
+25,9,Dafne Schippersbrug,11:40,114000
+25,10,24 Oktoberplein,11:45,114500
+25,11,Overste den Oudenlaan,11:47,114700
+25,12,Graadt van Roggenweg,11:48,114800
+25,13,CS Jaarbeurszijde,11:51,115100
+25,14,CS Jaarbeurszijde,11:54,115400
+25,15,Sint Jacobsstraat,11:59,115900
+25,16,Oudenoord,12:01,120100
+25,17,David van Mollemstraat,12:02,120200
+25,18,Nijenoord,12:03,120300
+25,19,Anton Geesinkstraat,12:05,120500
+25,20,Loevenhoutsedijk,12:06,120600
+25,21,Brailledreef,12:07,120700
+25,22,Taagdreef,12:08,120800
+25,23,Winkelcentrum Overvecht,12:10,121000
+25,24,Theemsdreef,12:11,121100
+25,25,Landskroondreef,12:12,121200
+25,26,Neckardreef,12:13,121300
+25,27,Oderdreef,12:15,121500
+25,28,Atlasdreef,12:16,121600
+25,29,Donaudreef,12:18,121800
+25,30,Berezinadreef,12:19,121900
+25,31,Station Overvecht,12:20,122000
+26,1,Station Terwijde,11:45,114500
+26,2,Het Zand,11:47,114700
+26,3,Tweede Westerparklaan,11:48,114800
+26,4,De Woerd,11:50,115000
+26,5,Kreekraklaan,11:51,115100
+26,6,Klifrakplantsoen,11:52,115200
+26,7,Archeologiepark,11:53,115300
+26,8,Burgemeester Verderlaan,11:54,115400
+26,9,Dafne Schippersbrug,11:55,115500
+26,10,24 Oktoberplein,12:00,120000
+26,11,Overste den Oudenlaan,12:02,120200
+26,12,Graadt van Roggenweg,12:03,120300
+26,13,CS Jaarbeurszijde,12:06,120600
+26,14,CS Jaarbeurszijde,12:09,120900
+26,15,Sint Jacobsstraat,12:14,121400
+26,16,Oudenoord,12:16,121600
+26,17,David van Mollemstraat,12:17,121700
+26,18,Nijenoord,12:18,121800
+26,19,Anton Geesinkstraat,12:20,122000
+26,20,Loevenhoutsedijk,12:21,122100
+26,21,Brailledreef,12:22,122200
+26,22,Taagdreef,12:23,122300
+26,23,Winkelcentrum Overvecht,12:25,122500
+26,24,Theemsdreef,12:26,122600
+26,25,Landskroondreef,12:27,122700
+26,26,Neckardreef,12:28,122800
+26,27,Oderdreef,12:30,123000
+26,28,Atlasdreef,12:31,123100
+26,29,Donaudreef,12:33,123300
+26,30,Berezinadreef,12:34,123400
+26,31,Station Overvecht,12:35,123500
+27,1,Station Terwijde,12:00,120000
+27,2,Het Zand,12:02,120200
+27,3,Tweede Westerparklaan,12:03,120300
+27,4,De Woerd,12:05,120500
+27,5,Kreekraklaan,12:06,120600
+27,6,Klifrakplantsoen,12:07,120700
+27,7,Archeologiepark,12:08,120800
+27,8,Burgemeester Verderlaan,12:09,120900
+27,9,Dafne Schippersbrug,12:10,121000
+27,10,24 Oktoberplein,12:15,121500
+27,11,Overste den Oudenlaan,12:17,121700
+27,12,Graadt van Roggenweg,12:18,121800
+27,13,CS Jaarbeurszijde,12:21,122100
+27,14,CS Jaarbeurszijde,12:24,122400
+27,15,Sint Jacobsstraat,12:29,122900
+27,16,Oudenoord,12:31,123100
+27,17,David van Mollemstraat,12:32,123200
+27,18,Nijenoord,12:33,123300
+27,19,Anton Geesinkstraat,12:35,123500
+27,20,Loevenhoutsedijk,12:36,123600
+27,21,Brailledreef,12:37,123700
+27,22,Taagdreef,12:38,123800
+27,23,Winkelcentrum Overvecht,12:40,124000
+27,24,Theemsdreef,12:41,124100
+27,25,Landskroondreef,12:42,124200
+27,26,Neckardreef,12:43,124300
+27,27,Oderdreef,12:45,124500
+27,28,Atlasdreef,12:46,124600
+27,29,Donaudreef,12:48,124800
+27,30,Berezinadreef,12:49,124900
+27,31,Station Overvecht,12:50,125000
+28,1,Station Terwijde,12:15,121500
+28,2,Het Zand,12:17,121700
+28,3,Tweede Westerparklaan,12:18,121800
+28,4,De Woerd,12:20,122000
+28,5,Kreekraklaan,12:21,122100
+28,6,Klifrakplantsoen,12:22,122200
+28,7,Archeologiepark,12:23,122300
+28,8,Burgemeester Verderlaan,12:24,122400
+28,9,Dafne Schippersbrug,12:25,122500
+28,10,24 Oktoberplein,12:30,123000
+28,11,Overste den Oudenlaan,12:32,123200
+28,12,Graadt van Roggenweg,12:33,123300
+28,13,CS Jaarbeurszijde,12:36,123600
+28,14,CS Jaarbeurszijde,12:39,123900
+28,15,Sint Jacobsstraat,12:44,124400
+28,16,Oudenoord,12:46,124600
+28,17,David van Mollemstraat,12:47,124700
+28,18,Nijenoord,12:48,124800
+28,19,Anton Geesinkstraat,12:50,125000
+28,20,Loevenhoutsedijk,12:51,125100
+28,21,Brailledreef,12:52,125200
+28,22,Taagdreef,12:53,125300
+28,23,Winkelcentrum Overvecht,12:55,125500
+28,24,Theemsdreef,12:56,125600
+28,25,Landskroondreef,12:57,125700
+28,26,Neckardreef,12:58,125800
+28,27,Oderdreef,13:00,130000
+28,28,Atlasdreef,13:01,130100
+28,29,Donaudreef,13:03,130300
+28,30,Berezinadreef,13:04,130400
+28,31,Station Overvecht,13:05,130500
+29,1,Station Terwijde,12:30,123000
+29,2,Het Zand,12:32,123200
+29,3,Tweede Westerparklaan,12:33,123300
+29,4,De Woerd,12:35,123500
+29,5,Kreekraklaan,12:36,123600
+29,6,Klifrakplantsoen,12:37,123700
+29,7,Archeologiepark,12:38,123800
+29,8,Burgemeester Verderlaan,12:39,123900
+29,9,Dafne Schippersbrug,12:40,124000
+29,10,24 Oktoberplein,12:45,124500
+29,11,Overste den Oudenlaan,12:47,124700
+29,12,Graadt van Roggenweg,12:48,124800
+29,13,CS Jaarbeurszijde,12:51,125100
+29,14,CS Jaarbeurszijde,12:54,125400
+29,15,Sint Jacobsstraat,12:59,125900
+29,16,Oudenoord,13:01,130100
+29,17,David van Mollemstraat,13:02,130200
+29,18,Nijenoord,13:03,130300
+29,19,Anton Geesinkstraat,13:05,130500
+29,20,Loevenhoutsedijk,13:06,130600
+29,21,Brailledreef,13:07,130700
+29,22,Taagdreef,13:08,130800
+29,23,Winkelcentrum Overvecht,13:10,131000
+29,24,Theemsdreef,13:11,131100
+29,25,Landskroondreef,13:12,131200
+29,26,Neckardreef,13:13,131300
+29,27,Oderdreef,13:15,131500
+29,28,Atlasdreef,13:16,131600
+29,29,Donaudreef,13:18,131800
+29,30,Berezinadreef,13:19,131900
+29,31,Station Overvecht,13:20,132000
+30,1,Station Terwijde,12:45,124500
+30,2,Het Zand,12:47,124700
+30,3,Tweede Westerparklaan,12:48,124800
+30,4,De Woerd,12:50,125000
+30,5,Kreekraklaan,12:51,125100
+30,6,Klifrakplantsoen,12:52,125200
+30,7,Archeologiepark,12:53,125300
+30,8,Burgemeester Verderlaan,12:54,125400
+30,9,Dafne Schippersbrug,12:55,125500
+30,10,24 Oktoberplein,13:00,130000
+30,11,Overste den Oudenlaan,13:02,130200
+30,12,Graadt van Roggenweg,13:03,130300
+30,13,CS Jaarbeurszijde,13:06,130600
+30,14,CS Jaarbeurszijde,13:09,130900
+30,15,Sint Jacobsstraat,13:14,131400
+30,16,Oudenoord,13:16,131600
+30,17,David van Mollemstraat,13:17,131700
+30,18,Nijenoord,13:18,131800
+30,19,Anton Geesinkstraat,13:20,132000
+30,20,Loevenhoutsedijk,13:21,132100
+30,21,Brailledreef,13:22,132200
+30,22,Taagdreef,13:23,132300
+30,23,Winkelcentrum Overvecht,13:25,132500
+30,24,Theemsdreef,13:26,132600
+30,25,Landskroondreef,13:27,132700
+30,26,Neckardreef,13:28,132800
+30,27,Oderdreef,13:30,133000
+30,28,Atlasdreef,13:31,133100
+30,29,Donaudreef,13:33,133300
+30,30,Berezinadreef,13:34,133400
+30,31,Station Overvecht,13:35,133500
+31,1,Station Terwijde,13:00,130000
+31,2,Het Zand,13:02,130200
+31,3,Tweede Westerparklaan,13:03,130300
+31,4,De Woerd,13:05,130500
+31,5,Kreekraklaan,13:06,130600
+31,6,Klifrakplantsoen,13:07,130700
+31,7,Archeologiepark,13:08,130800
+31,8,Burgemeester Verderlaan,13:09,130900
+31,9,Dafne Schippersbrug,13:10,131000
+31,10,24 Oktoberplein,13:15,131500
+31,11,Overste den Oudenlaan,13:17,131700
+31,12,Graadt van Roggenweg,13:18,131800
+31,13,CS Jaarbeurszijde,13:21,132100
+31,14,CS Jaarbeurszijde,13:24,132400
+31,15,Sint Jacobsstraat,13:29,132900
+31,16,Oudenoord,13:31,133100
+31,17,David van Mollemstraat,13:32,133200
+31,18,Nijenoord,13:33,133300
+31,19,Anton Geesinkstraat,13:35,133500
+31,20,Loevenhoutsedijk,13:36,133600
+31,21,Brailledreef,13:37,133700
+31,22,Taagdreef,13:38,133800
+31,23,Winkelcentrum Overvecht,13:40,134000
+31,24,Theemsdreef,13:41,134100
+31,25,Landskroondreef,13:42,134200
+31,26,Neckardreef,13:43,134300
+31,27,Oderdreef,13:45,134500
+31,28,Atlasdreef,13:46,134600
+31,29,Donaudreef,13:48,134800
+31,30,Berezinadreef,13:49,134900
+31,31,Station Overvecht,13:50,135000
+32,1,Station Terwijde,13:15,131500
+32,2,Het Zand,13:17,131700
+32,3,Tweede Westerparklaan,13:18,131800
+32,4,De Woerd,13:20,132000
+32,5,Kreekraklaan,13:21,132100
+32,6,Klifrakplantsoen,13:22,132200
+32,7,Archeologiepark,13:23,132300
+32,8,Burgemeester Verderlaan,13:24,132400
+32,9,Dafne Schippersbrug,13:25,132500
+32,10,24 Oktoberplein,13:30,133000
+32,11,Overste den Oudenlaan,13:32,133200
+32,12,Graadt van Roggenweg,13:33,133300
+32,13,CS Jaarbeurszijde,13:36,133600
+32,14,CS Jaarbeurszijde,13:39,133900
+32,15,Sint Jacobsstraat,13:44,134400
+32,16,Oudenoord,13:46,134600
+32,17,David van Mollemstraat,13:47,134700
+32,18,Nijenoord,13:48,134800
+32,19,Anton Geesinkstraat,13:50,135000
+32,20,Loevenhoutsedijk,13:51,135100
+32,21,Brailledreef,13:52,135200
+32,22,Taagdreef,13:53,135300
+32,23,Winkelcentrum Overvecht,13:55,135500
+32,24,Theemsdreef,13:56,135600
+32,25,Landskroondreef,13:57,135700
+32,26,Neckardreef,13:58,135800
+32,27,Oderdreef,14:00,140000
+32,28,Atlasdreef,14:01,140100
+32,29,Donaudreef,14:03,140300
+32,30,Berezinadreef,14:04,140400
+32,31,Station Overvecht,14:05,140500
+33,1,Station Terwijde,13:30,133000
+33,2,Het Zand,13:32,133200
+33,3,Tweede Westerparklaan,13:33,133300
+33,4,De Woerd,13:35,133500
+33,5,Kreekraklaan,13:36,133600
+33,6,Klifrakplantsoen,13:37,133700
+33,7,Archeologiepark,13:38,133800
+33,8,Burgemeester Verderlaan,13:39,133900
+33,9,Dafne Schippersbrug,13:40,134000
+33,10,24 Oktoberplein,13:45,134500
+33,11,Overste den Oudenlaan,13:47,134700
+33,12,Graadt van Roggenweg,13:48,134800
+33,13,CS Jaarbeurszijde,13:51,135100
+33,14,CS Jaarbeurszijde,13:54,135400
+33,15,Sint Jacobsstraat,13:59,135900
+33,16,Oudenoord,14:01,140100
+33,17,David van Mollemstraat,14:02,140200
+33,18,Nijenoord,14:03,140300
+33,19,Anton Geesinkstraat,14:05,140500
+33,20,Loevenhoutsedijk,14:06,140600
+33,21,Brailledreef,14:07,140700
+33,22,Taagdreef,14:08,140800
+33,23,Winkelcentrum Overvecht,14:10,141000
+33,24,Theemsdreef,14:11,141100
+33,25,Landskroondreef,14:12,141200
+33,26,Neckardreef,14:13,141300
+33,27,Oderdreef,14:15,141500
+33,28,Atlasdreef,14:16,141600
+33,29,Donaudreef,14:18,141800
+33,30,Berezinadreef,14:19,141900
+33,31,Station Overvecht,14:20,142000
+34,1,Station Terwijde,13:45,134500
+34,2,Het Zand,13:47,134700
+34,3,Tweede Westerparklaan,13:48,134800
+34,4,De Woerd,13:50,135000
+34,5,Kreekraklaan,13:51,135100
+34,6,Klifrakplantsoen,13:52,135200
+34,7,Archeologiepark,13:53,135300
+34,8,Burgemeester Verderlaan,13:54,135400
+34,9,Dafne Schippersbrug,13:55,135500
+34,10,24 Oktoberplein,14:00,140000
+34,11,Overste den Oudenlaan,14:02,140200
+34,12,Graadt van Roggenweg,14:03,140300
+34,13,CS Jaarbeurszijde,14:06,140600
+34,14,CS Jaarbeurszijde,14:09,140900
+34,15,Sint Jacobsstraat,14:14,141400
+34,16,Oudenoord,14:16,141600
+34,17,David van Mollemstraat,14:17,141700
+34,18,Nijenoord,14:18,141800
+34,19,Anton Geesinkstraat,14:20,142000
+34,20,Loevenhoutsedijk,14:21,142100
+34,21,Brailledreef,14:22,142200
+34,22,Taagdreef,14:23,142300
+34,23,Winkelcentrum Overvecht,14:25,142500
+34,24,Theemsdreef,14:26,142600
+34,25,Landskroondreef,14:27,142700
+34,26,Neckardreef,14:28,142800
+34,27,Oderdreef,14:30,143000
+34,28,Atlasdreef,14:31,143100
+34,29,Donaudreef,14:33,143300
+34,30,Berezinadreef,14:34,143400
+34,31,Station Overvecht,14:35,143500
+35,1,Station Terwijde,14:00,140000
+35,2,Het Zand,14:02,140200
+35,3,Tweede Westerparklaan,14:03,140300
+35,4,De Woerd,14:05,140500
+35,5,Kreekraklaan,14:06,140600
+35,6,Klifrakplantsoen,14:07,140700
+35,7,Archeologiepark,14:08,140800
+35,8,Burgemeester Verderlaan,14:09,140900
+35,9,Dafne Schippersbrug,14:10,141000
+35,10,24 Oktoberplein,14:15,141500
+35,11,Overste den Oudenlaan,14:17,141700
+35,12,Graadt van Roggenweg,14:18,141800
+35,13,CS Jaarbeurszijde,14:21,142100
+35,14,CS Jaarbeurszijde,14:24,142400
+35,15,Sint Jacobsstraat,14:29,142900
+35,16,Oudenoord,14:31,143100
+35,17,David van Mollemstraat,14:32,143200
+35,18,Nijenoord,14:33,143300
+35,19,Anton Geesinkstraat,14:35,143500
+35,20,Loevenhoutsedijk,14:36,143600
+35,21,Brailledreef,14:37,143700
+35,22,Taagdreef,14:38,143800
+35,23,Winkelcentrum Overvecht,14:40,144000
+35,24,Theemsdreef,14:41,144100
+35,25,Landskroondreef,14:42,144200
+35,26,Neckardreef,14:43,144300
+35,27,Oderdreef,14:45,144500
+35,28,Atlasdreef,14:46,144600
+35,29,Donaudreef,14:48,144800
+35,30,Berezinadreef,14:49,144900
+35,31,Station Overvecht,14:50,145000
+36,1,Station Terwijde,14:15,141500
+36,2,Het Zand,14:17,141700
+36,3,Tweede Westerparklaan,14:18,141800
+36,4,De Woerd,14:20,142000
+36,5,Kreekraklaan,14:21,142100
+36,6,Klifrakplantsoen,14:22,142200
+36,7,Archeologiepark,14:23,142300
+36,8,Burgemeester Verderlaan,14:24,142400
+36,9,Dafne Schippersbrug,14:25,142500
+36,10,24 Oktoberplein,14:30,143000
+36,11,Overste den Oudenlaan,14:32,143200
+36,12,Graadt van Roggenweg,14:33,143300
+36,13,CS Jaarbeurszijde,14:36,143600
+36,14,CS Jaarbeurszijde,14:39,143900
+36,15,Sint Jacobsstraat,14:44,144400
+36,16,Oudenoord,14:46,144600
+36,17,David van Mollemstraat,14:47,144700
+36,18,Nijenoord,14:48,144800
+36,19,Anton Geesinkstraat,14:50,145000
+36,20,Loevenhoutsedijk,14:51,145100
+36,21,Brailledreef,14:52,145200
+36,22,Taagdreef,14:53,145300
+36,23,Winkelcentrum Overvecht,14:55,145500
+36,24,Theemsdreef,14:56,145600
+36,25,Landskroondreef,14:57,145700
+36,26,Neckardreef,14:58,145800
+36,27,Oderdreef,15:00,150000
+36,28,Atlasdreef,15:01,150100
+36,29,Donaudreef,15:03,150300
+36,30,Berezinadreef,15:04,150400
+36,31,Station Overvecht,15:05,150500
+37,1,Station Terwijde,14:30,143000
+37,2,Het Zand,14:32,143200
+37,3,Tweede Westerparklaan,14:33,143300
+37,4,De Woerd,14:35,143500
+37,5,Kreekraklaan,14:36,143600
+37,6,Klifrakplantsoen,14:37,143700
+37,7,Archeologiepark,14:38,143800
+37,8,Burgemeester Verderlaan,14:39,143900
+37,9,Dafne Schippersbrug,14:40,144000
+37,10,24 Oktoberplein,14:45,144500
+37,11,Overste den Oudenlaan,14:47,144700
+37,12,Graadt van Roggenweg,14:48,144800
+37,13,CS Jaarbeurszijde,14:51,145100
+37,14,CS Jaarbeurszijde,14:54,145400
+37,15,Sint Jacobsstraat,14:59,145900
+37,16,Oudenoord,15:01,150100
+37,17,David van Mollemstraat,15:02,150200
+37,18,Nijenoord,15:03,150300
+37,19,Anton Geesinkstraat,15:05,150500
+37,20,Loevenhoutsedijk,15:06,150600
+37,21,Brailledreef,15:07,150700
+37,22,Taagdreef,15:08,150800
+37,23,Winkelcentrum Overvecht,15:10,151000
+37,24,Theemsdreef,15:11,151100
+37,25,Landskroondreef,15:12,151200
+37,26,Neckardreef,15:13,151300
+37,27,Oderdreef,15:15,151500
+37,28,Atlasdreef,15:16,151600
+37,29,Donaudreef,15:18,151800
+37,30,Berezinadreef,15:19,151900
+37,31,Station Overvecht,15:20,152000
+38,1,Station Terwijde,14:45,144500
+38,2,Het Zand,14:47,144700
+38,3,Tweede Westerparklaan,14:48,144800
+38,4,De Woerd,14:50,145000
+38,5,Kreekraklaan,14:51,145100
+38,6,Klifrakplantsoen,14:52,145200
+38,7,Archeologiepark,14:53,145300
+38,8,Burgemeester Verderlaan,14:54,145400
+38,9,Dafne Schippersbrug,14:55,145500
+38,10,24 Oktoberplein,15:00,150000
+38,11,Overste den Oudenlaan,15:02,150200
+38,12,Graadt van Roggenweg,15:03,150300
+38,13,CS Jaarbeurszijde,15:06,150600
+38,14,CS Jaarbeurszijde,15:09,150900
+38,15,Sint Jacobsstraat,15:14,151400
+38,16,Oudenoord,15:16,151600
+38,17,David van Mollemstraat,15:17,151700
+38,18,Nijenoord,15:18,151800
+38,19,Anton Geesinkstraat,15:20,152000
+38,20,Loevenhoutsedijk,15:21,152100
+38,21,Brailledreef,15:22,152200
+38,22,Taagdreef,15:23,152300
+38,23,Winkelcentrum Overvecht,15:25,152500
+38,24,Theemsdreef,15:26,152600
+38,25,Landskroondreef,15:27,152700
+38,26,Neckardreef,15:28,152800
+38,27,Oderdreef,15:30,153000
+38,28,Atlasdreef,15:31,153100
+38,29,Donaudreef,15:33,153300
+38,30,Berezinadreef,15:34,153400
+38,31,Station Overvecht,15:35,153500
+39,1,Station Terwijde,15:01,150100
+39,2,Het Zand,15:03,150300
+39,3,Tweede Westerparklaan,15:04,150400
+39,4,De Woerd,15:06,150600
+39,5,Kreekraklaan,15:07,150700
+39,6,Klifrakplantsoen,15:08,150800
+39,7,Archeologiepark,15:09,150900
+39,8,Burgemeester Verderlaan,15:10,151000
+39,9,Dafne Schippersbrug,15:11,151100
+39,10,24 Oktoberplein,15:16,151600
+39,11,Overste den Oudenlaan,15:18,151800
+39,12,Graadt van Roggenweg,15:19,151900
+39,13,CS Jaarbeurszijde,15:22,152200
+39,14,CS Jaarbeurszijde,15:25,152500
+39,15,Sint Jacobsstraat,15:30,153000
+39,16,Oudenoord,15:32,153200
+39,17,David van Mollemstraat,15:33,153300
+39,18,Nijenoord,15:34,153400
+39,19,Anton Geesinkstraat,15:36,153600
+39,20,Loevenhoutsedijk,15:37,153700
+39,21,Brailledreef,15:38,153800
+39,22,Taagdreef,15:39,153900
+39,23,Winkelcentrum Overvecht,15:41,154100
+39,24,Theemsdreef,15:42,154200
+39,25,Landskroondreef,15:43,154300
+39,26,Neckardreef,15:44,154400
+39,27,Oderdreef,15:46,154600
+39,28,Atlasdreef,15:47,154700
+39,29,Donaudreef,15:49,154900
+39,30,Berezinadreef,15:50,155000
+39,31,Station Overvecht,15:51,155100
+40,1,Station Terwijde,15:16,151600
+40,2,Het Zand,15:18,151800
+40,3,Tweede Westerparklaan,15:19,151900
+40,4,De Woerd,15:21,152100
+40,5,Kreekraklaan,15:22,152200
+40,6,Klifrakplantsoen,15:23,152300
+40,7,Archeologiepark,15:24,152400
+40,8,Burgemeester Verderlaan,15:25,152500
+40,9,Dafne Schippersbrug,15:26,152600
+40,10,24 Oktoberplein,15:31,153100
+40,11,Overste den Oudenlaan,15:33,153300
+40,12,Graadt van Roggenweg,15:34,153400
+40,13,CS Jaarbeurszijde,15:37,153700
+40,14,CS Jaarbeurszijde,15:40,154000
+40,15,Sint Jacobsstraat,15:45,154500
+40,16,Oudenoord,15:47,154700
+40,17,David van Mollemstraat,15:48,154800
+40,18,Nijenoord,15:49,154900
+40,19,Anton Geesinkstraat,15:51,155100
+40,20,Loevenhoutsedijk,15:52,155200
+40,21,Brailledreef,15:53,155300
+40,22,Taagdreef,15:54,155400
+40,23,Winkelcentrum Overvecht,15:56,155600
+40,24,Theemsdreef,15:57,155700
+40,25,Landskroondreef,15:58,155800
+40,26,Neckardreef,15:59,155900
+40,27,Oderdreef,16:01,160100
+40,28,Atlasdreef,16:02,160200
+40,29,Donaudreef,16:04,160400
+40,30,Berezinadreef,16:05,160500
+40,31,Station Overvecht,16:06,160600
+41,1,Station Terwijde,15:31,153100
+41,2,Het Zand,15:33,153300
+41,3,Tweede Westerparklaan,15:34,153400
+41,4,De Woerd,15:36,153600
+41,5,Kreekraklaan,15:37,153700
+41,6,Klifrakplantsoen,15:38,153800
+41,7,Archeologiepark,15:39,153900
+41,8,Burgemeester Verderlaan,15:40,154000
+41,9,Dafne Schippersbrug,15:41,154100
+41,10,24 Oktoberplein,15:46,154600
+41,11,Overste den Oudenlaan,15:48,154800
+41,12,Graadt van Roggenweg,15:49,154900
+41,13,CS Jaarbeurszijde,15:52,155200
+41,14,CS Jaarbeurszijde,15:55,155500
+41,15,Sint Jacobsstraat,16:00,160000
+41,16,Oudenoord,16:02,160200
+41,17,David van Mollemstraat,16:03,160300
+41,18,Nijenoord,16:04,160400
+41,19,Anton Geesinkstraat,16:06,160600
+41,20,Loevenhoutsedijk,16:07,160700
+41,21,Brailledreef,16:08,160800
+41,22,Taagdreef,16:09,160900
+41,23,Winkelcentrum Overvecht,16:11,161100
+41,24,Theemsdreef,16:12,161200
+41,25,Landskroondreef,16:13,161300
+41,26,Neckardreef,16:14,161400
+41,27,Oderdreef,16:16,161600
+41,28,Atlasdreef,16:17,161700
+41,29,Donaudreef,16:19,161900
+41,30,Berezinadreef,16:20,162000
+41,31,Station Overvecht,16:21,162100
+42,1,Station Terwijde,15:46,154600
+42,2,Het Zand,15:48,154800
+42,3,Tweede Westerparklaan,15:49,154900
+42,4,De Woerd,15:51,155100
+42,5,Kreekraklaan,15:52,155200
+42,6,Klifrakplantsoen,15:53,155300
+42,7,Archeologiepark,15:54,155400
+42,8,Burgemeester Verderlaan,15:55,155500
+42,9,Dafne Schippersbrug,15:56,155600
+42,10,24 Oktoberplein,16:01,160100
+42,11,Overste den Oudenlaan,16:03,160300
+42,12,Graadt van Roggenweg,16:04,160400
+42,13,CS Jaarbeurszijde,16:07,160700
+42,14,CS Jaarbeurszijde,16:10,161000
+42,15,Sint Jacobsstraat,16:15,161500
+42,16,Oudenoord,16:17,161700
+42,17,David van Mollemstraat,16:18,161800
+42,18,Nijenoord,16:19,161900
+42,19,Anton Geesinkstraat,16:21,162100
+42,20,Loevenhoutsedijk,16:22,162200
+42,21,Brailledreef,16:23,162300
+42,22,Taagdreef,16:24,162400
+42,23,Winkelcentrum Overvecht,16:26,162600
+42,24,Theemsdreef,16:27,162700
+42,25,Landskroondreef,16:28,162800
+42,26,Neckardreef,16:29,162900
+42,27,Oderdreef,16:31,163100
+42,28,Atlasdreef,16:32,163200
+42,29,Donaudreef,16:34,163400
+42,30,Berezinadreef,16:35,163500
+42,31,Station Overvecht,16:36,163600
+43,1,Station Terwijde,16:01,160100
+43,2,Het Zand,16:03,160300
+43,3,Tweede Westerparklaan,16:04,160400
+43,4,De Woerd,16:06,160600
+43,5,Kreekraklaan,16:07,160700
+43,6,Klifrakplantsoen,16:08,160800
+43,7,Archeologiepark,16:09,160900
+43,8,Burgemeester Verderlaan,16:10,161000
+43,9,Dafne Schippersbrug,16:11,161100
+43,10,24 Oktoberplein,16:16,161600
+43,11,Overste den Oudenlaan,16:18,161800
+43,12,Graadt van Roggenweg,16:19,161900
+43,13,CS Jaarbeurszijde,16:22,162200
+43,14,CS Jaarbeurszijde,16:25,162500
+43,15,Sint Jacobsstraat,16:30,163000
+43,16,Oudenoord,16:32,163200
+43,17,David van Mollemstraat,16:33,163300
+43,18,Nijenoord,16:34,163400
+43,19,Anton Geesinkstraat,16:36,163600
+43,20,Loevenhoutsedijk,16:37,163700
+43,21,Brailledreef,16:38,163800
+43,22,Taagdreef,16:39,163900
+43,23,Winkelcentrum Overvecht,16:41,164100
+43,24,Theemsdreef,16:42,164200
+43,25,Landskroondreef,16:43,164300
+43,26,Neckardreef,16:44,164400
+43,27,Oderdreef,16:46,164600
+43,28,Atlasdreef,16:47,164700
+43,29,Donaudreef,16:49,164900
+43,30,Berezinadreef,16:50,165000
+43,31,Station Overvecht,16:51,165100
+44,1,Station Terwijde,16:16,161600
+44,2,Het Zand,16:18,161800
+44,3,Tweede Westerparklaan,16:19,161900
+44,4,De Woerd,16:21,162100
+44,5,Kreekraklaan,16:22,162200
+44,6,Klifrakplantsoen,16:23,162300
+44,7,Archeologiepark,16:24,162400
+44,8,Burgemeester Verderlaan,16:25,162500
+44,9,Dafne Schippersbrug,16:26,162600
+44,10,24 Oktoberplein,16:31,163100
+44,11,Overste den Oudenlaan,16:33,163300
+44,12,Graadt van Roggenweg,16:35,163500
+44,13,CS Jaarbeurszijde,16:38,163800
+44,14,CS Jaarbeurszijde,16:41,164100
+44,15,Sint Jacobsstraat,16:46,164600
+44,16,Oudenoord,16:48,164800
+44,17,David van Mollemstraat,16:49,164900
+44,18,Nijenoord,16:50,165000
+44,19,Anton Geesinkstraat,16:52,165200
+44,20,Loevenhoutsedijk,16:53,165300
+44,21,Brailledreef,16:54,165400
+44,22,Taagdreef,16:55,165500
+44,23,Winkelcentrum Overvecht,16:57,165700
+44,24,Theemsdreef,16:58,165800
+44,25,Landskroondreef,16:59,165900
+44,26,Neckardreef,17:00,170000
+44,27,Oderdreef,17:02,170200
+44,28,Atlasdreef,17:03,170300
+44,29,Donaudreef,17:05,170500
+44,30,Berezinadreef,17:06,170600
+44,31,Station Overvecht,17:07,170700
+45,1,Station Terwijde,16:31,163100
+45,2,Het Zand,16:33,163300
+45,3,Tweede Westerparklaan,16:35,163500
+45,4,De Woerd,16:37,163700
+45,5,Kreekraklaan,16:38,163800
+45,6,Klifrakplantsoen,16:39,163900
+45,7,Archeologiepark,16:40,164000
+45,8,Burgemeester Verderlaan,16:41,164100
+45,9,Dafne Schippersbrug,16:42,164200
+45,10,24 Oktoberplein,16:47,164700
+45,11,Overste den Oudenlaan,16:49,164900
+45,12,Graadt van Roggenweg,16:51,165100
+45,13,CS Jaarbeurszijde,16:54,165400
+45,14,CS Jaarbeurszijde,16:57,165700
+45,15,Sint Jacobsstraat,17:02,170200
+45,16,Oudenoord,17:04,170400
+45,17,David van Mollemstraat,17:05,170500
+45,18,Nijenoord,17:06,170600
+45,19,Anton Geesinkstraat,17:08,170800
+45,20,Loevenhoutsedijk,17:09,170900
+45,21,Brailledreef,17:10,171000
+45,22,Taagdreef,17:11,171100
+45,23,Winkelcentrum Overvecht,17:13,171300
+45,24,Theemsdreef,17:14,171400
+45,25,Landskroondreef,17:15,171500
+45,26,Neckardreef,17:16,171600
+45,27,Oderdreef,17:18,171800
+45,28,Atlasdreef,17:19,171900
+45,29,Donaudreef,17:21,172100
+45,30,Berezinadreef,17:22,172200
+45,31,Station Overvecht,17:23,172300
+46,1,Station Terwijde,16:46,164600
+46,2,Het Zand,16:48,164800
+46,3,Tweede Westerparklaan,16:50,165000
+46,4,De Woerd,16:52,165200
+46,5,Kreekraklaan,16:53,165300
+46,6,Klifrakplantsoen,16:54,165400
+46,7,Archeologiepark,16:55,165500
+46,8,Burgemeester Verderlaan,16:56,165600
+46,9,Dafne Schippersbrug,16:57,165700
+46,10,24 Oktoberplein,17:02,170200
+46,11,Overste den Oudenlaan,17:04,170400
+46,12,Graadt van Roggenweg,17:06,170600
+46,13,CS Jaarbeurszijde,17:09,170900
+46,14,CS Jaarbeurszijde,17:12,171200
+46,15,Sint Jacobsstraat,17:17,171700
+46,16,Oudenoord,17:19,171900
+46,17,David van Mollemstraat,17:20,172000
+46,18,Nijenoord,17:21,172100
+46,19,Anton Geesinkstraat,17:23,172300
+46,20,Loevenhoutsedijk,17:24,172400
+46,21,Brailledreef,17:25,172500
+46,22,Taagdreef,17:26,172600
+46,23,Winkelcentrum Overvecht,17:28,172800
+46,24,Theemsdreef,17:29,172900
+46,25,Landskroondreef,17:30,173000
+46,26,Neckardreef,17:31,173100
+46,27,Oderdreef,17:33,173300
+46,28,Atlasdreef,17:34,173400
+46,29,Donaudreef,17:36,173600
+46,30,Berezinadreef,17:37,173700
+46,31,Station Overvecht,17:38,173800
+47,1,Station Terwijde,17:01,170100
+47,2,Het Zand,17:03,170300
+47,3,Tweede Westerparklaan,17:05,170500
+47,4,De Woerd,17:07,170700
+47,5,Kreekraklaan,17:08,170800
+47,6,Klifrakplantsoen,17:09,170900
+47,7,Archeologiepark,17:10,171000
+47,8,Burgemeester Verderlaan,17:11,171100
+47,9,Dafne Schippersbrug,17:12,171200
+47,10,24 Oktoberplein,17:17,171700
+47,11,Overste den Oudenlaan,17:19,171900
+47,12,Graadt van Roggenweg,17:21,172100
+47,13,CS Jaarbeurszijde,17:24,172400
+47,14,CS Jaarbeurszijde,17:27,172700
+47,15,Sint Jacobsstraat,17:32,173200
+47,16,Oudenoord,17:34,173400
+47,17,David van Mollemstraat,17:35,173500
+47,18,Nijenoord,17:36,173600
+47,19,Anton Geesinkstraat,17:38,173800
+47,20,Loevenhoutsedijk,17:39,173900
+47,21,Brailledreef,17:40,174000
+47,22,Taagdreef,17:41,174100
+47,23,Winkelcentrum Overvecht,17:43,174300
+47,24,Theemsdreef,17:44,174400
+47,25,Landskroondreef,17:45,174500
+47,26,Neckardreef,17:46,174600
+47,27,Oderdreef,17:48,174800
+47,28,Atlasdreef,17:49,174900
+47,29,Donaudreef,17:51,175100
+47,30,Berezinadreef,17:52,175200
+47,31,Station Overvecht,17:53,175300
+48,1,Station Terwijde,17:16,171600
+48,2,Het Zand,17:18,171800
+48,3,Tweede Westerparklaan,17:20,172000
+48,4,De Woerd,17:22,172200
+48,5,Kreekraklaan,17:23,172300
+48,6,Klifrakplantsoen,17:24,172400
+48,7,Archeologiepark,17:25,172500
+48,8,Burgemeester Verderlaan,17:26,172600
+48,9,Dafne Schippersbrug,17:27,172700
+48,10,24 Oktoberplein,17:32,173200
+48,11,Overste den Oudenlaan,17:34,173400
+48,12,Graadt van Roggenweg,17:36,173600
+48,13,CS Jaarbeurszijde,17:39,173900
+48,14,CS Jaarbeurszijde,17:42,174200
+48,15,Sint Jacobsstraat,17:47,174700
+48,16,Oudenoord,17:49,174900
+48,17,David van Mollemstraat,17:50,175000
+48,18,Nijenoord,17:51,175100
+48,19,Anton Geesinkstraat,17:53,175300
+48,20,Loevenhoutsedijk,17:54,175400
+48,21,Brailledreef,17:55,175500
+48,22,Taagdreef,17:56,175600
+48,23,Winkelcentrum Overvecht,17:58,175800
+48,24,Theemsdreef,17:59,175900
+48,25,Landskroondreef,18:00,180000
+48,26,Neckardreef,18:01,180100
+48,27,Oderdreef,18:03,180300
+48,28,Atlasdreef,18:04,180400
+48,29,Donaudreef,18:06,180600
+48,30,Berezinadreef,18:07,180700
+48,31,Station Overvecht,18:08,180800
+49,1,Station Terwijde,17:31,173100
+49,2,Het Zand,17:33,173300
+49,3,Tweede Westerparklaan,17:35,173500
+49,4,De Woerd,17:37,173700
+49,5,Kreekraklaan,17:38,173800
+49,6,Klifrakplantsoen,17:39,173900
+49,7,Archeologiepark,17:40,174000
+49,8,Burgemeester Verderlaan,17:41,174100
+49,9,Dafne Schippersbrug,17:42,174200
+49,10,24 Oktoberplein,17:47,174700
+49,11,Overste den Oudenlaan,17:49,174900
+49,12,Graadt van Roggenweg,17:51,175100
+49,13,CS Jaarbeurszijde,17:54,175400
+49,14,CS Jaarbeurszijde,17:57,175700
+49,15,Sint Jacobsstraat,18:02,180200
+49,16,Oudenoord,18:04,180400
+49,17,David van Mollemstraat,18:05,180500
+49,18,Nijenoord,18:06,180600
+49,19,Anton Geesinkstraat,18:08,180800
+49,20,Loevenhoutsedijk,18:09,180900
+49,21,Brailledreef,18:10,181000
+49,22,Taagdreef,18:11,181100
+49,23,Winkelcentrum Overvecht,18:13,181300
+49,24,Theemsdreef,18:14,181400
+49,25,Landskroondreef,18:15,181500
+49,26,Neckardreef,18:16,181600
+49,27,Oderdreef,18:18,181800
+49,28,Atlasdreef,18:19,181900
+49,29,Donaudreef,18:20,182000
+49,30,Berezinadreef,18:21,182100
+49,31,Station Overvecht,18:22,182200
+50,1,Station Terwijde,17:46,174600
+50,2,Het Zand,17:48,174800
+50,3,Tweede Westerparklaan,17:50,175000
+50,4,De Woerd,17:52,175200
+50,5,Kreekraklaan,17:53,175300
+50,6,Klifrakplantsoen,17:54,175400
+50,7,Archeologiepark,17:55,175500
+50,8,Burgemeester Verderlaan,17:56,175600
+50,9,Dafne Schippersbrug,17:57,175700
+50,10,24 Oktoberplein,18:02,180200
+50,11,Overste den Oudenlaan,18:04,180400
+50,12,Graadt van Roggenweg,18:05,180500
+50,13,CS Jaarbeurszijde,18:08,180800
+50,14,CS Jaarbeurszijde,18:11,181100
+50,15,Sint Jacobsstraat,18:16,181600
+50,16,Oudenoord,18:18,181800
+50,17,David van Mollemstraat,18:19,181900
+50,18,Nijenoord,18:20,182000
+50,19,Anton Geesinkstraat,18:21,182100
+50,20,Loevenhoutsedijk,18:22,182200
+50,21,Brailledreef,18:23,182300
+50,22,Taagdreef,18:24,182400
+50,23,Winkelcentrum Overvecht,18:26,182600
+50,24,Theemsdreef,18:27,182700
+50,25,Landskroondreef,18:28,182800
+50,26,Neckardreef,18:29,182900
+50,27,Oderdreef,18:31,183100
+50,28,Atlasdreef,18:32,183200
+50,29,Donaudreef,18:33,183300
+50,30,Berezinadreef,18:34,183400
+50,31,Station Overvecht,18:35,183500
+51,1,Station Terwijde,18:02,180200
+51,2,Het Zand,18:04,180400
+51,3,Tweede Westerparklaan,18:05,180500
+51,4,De Woerd,18:07,180700
+51,5,Kreekraklaan,18:08,180800
+51,6,Klifrakplantsoen,18:09,180900
+51,7,Archeologiepark,18:10,181000
+51,8,Burgemeester Verderlaan,18:11,181100
+51,9,Dafne Schippersbrug,18:12,181200
+51,10,24 Oktoberplein,18:17,181700
+51,11,Overste den Oudenlaan,18:19,181900
+51,12,Graadt van Roggenweg,18:20,182000
+51,13,CS Jaarbeurszijde,18:23,182300
+51,14,CS Jaarbeurszijde,18:26,182600
+51,15,Sint Jacobsstraat,18:31,183100
+51,16,Oudenoord,18:33,183300
+51,17,David van Mollemstraat,18:34,183400
+51,18,Nijenoord,18:35,183500
+51,19,Anton Geesinkstraat,18:36,183600
+51,20,Loevenhoutsedijk,18:37,183700
+51,21,Brailledreef,18:38,183800
+51,22,Taagdreef,18:39,183900
+51,23,Winkelcentrum Overvecht,18:41,184100
+51,24,Theemsdreef,18:42,184200
+51,25,Landskroondreef,18:43,184300
+51,26,Neckardreef,18:44,184400
+51,27,Oderdreef,18:46,184600
+51,28,Atlasdreef,18:47,184700
+51,29,Donaudreef,18:48,184800
+51,30,Berezinadreef,18:49,184900
+51,31,Station Overvecht,18:50,185000
+52,1,Station Terwijde,18:18,181800
+52,2,Het Zand,18:20,182000
+52,3,Tweede Westerparklaan,18:21,182100
+52,4,De Woerd,18:23,182300
+52,5,Kreekraklaan,18:24,182400
+52,6,Klifrakplantsoen,18:25,182500
+52,7,Archeologiepark,18:26,182600
+52,8,Burgemeester Verderlaan,18:27,182700
+52,9,Dafne Schippersbrug,18:28,182800
+52,10,24 Oktoberplein,18:33,183300
+52,11,Overste den Oudenlaan,18:35,183500
+52,12,Graadt van Roggenweg,18:36,183600
+52,13,CS Jaarbeurszijde,18:38,183800
+52,14,CS Jaarbeurszijde,18:41,184100
+52,15,Sint Jacobsstraat,18:46,184600
+52,16,Oudenoord,18:48,184800
+52,17,David van Mollemstraat,18:49,184900
+52,18,Nijenoord,18:50,185000
+52,19,Anton Geesinkstraat,18:51,185100
+52,20,Loevenhoutsedijk,18:52,185200
+52,21,Brailledreef,18:53,185300
+52,22,Taagdreef,18:54,185400
+52,23,Winkelcentrum Overvecht,18:56,185600
+52,24,Theemsdreef,18:57,185700
+52,25,Landskroondreef,18:58,185800
+52,26,Neckardreef,18:59,185900
+52,27,Oderdreef,19:01,190100
+52,28,Atlasdreef,19:02,190200
+52,29,Donaudreef,19:03,190300
+52,30,Berezinadreef,19:04,190400
+52,31,Station Overvecht,19:05,190500
+53,1,Station Terwijde,18:33,183300
+53,2,Het Zand,18:35,183500
+53,3,Tweede Westerparklaan,18:36,183600
+53,4,De Woerd,18:38,183800
+53,5,Kreekraklaan,18:39,183900
+53,6,Klifrakplantsoen,18:40,184000
+53,7,Archeologiepark,18:41,184100
+53,8,Burgemeester Verderlaan,18:42,184200
+53,9,Dafne Schippersbrug,18:43,184300
+53,10,24 Oktoberplein,18:47,184700
+53,11,Overste den Oudenlaan,18:49,184900
+53,12,Graadt van Roggenweg,18:50,185000
+53,13,CS Jaarbeurszijde,18:52,185200
+53,14,CS Jaarbeurszijde,18:53,185300
+54,1,Station Terwijde,18:45,184500
+54,2,Het Zand,18:47,184700
+54,3,Tweede Westerparklaan,18:48,184800
+54,4,De Woerd,18:50,185000
+54,5,Kreekraklaan,18:51,185100
+54,6,Klifrakplantsoen,18:52,185200
+54,7,Archeologiepark,18:53,185300
+54,8,Burgemeester Verderlaan,18:54,185400
+54,9,Dafne Schippersbrug,18:55,185500
+54,10,24 Oktoberplein,18:59,185900
+54,11,Overste den Oudenlaan,19:01,190100
+54,12,Graadt van Roggenweg,19:02,190200
+54,13,CS Jaarbeurszijde,19:04,190400
+54,14,CS Jaarbeurszijde,19:07,190700
+54,15,Sint Jacobsstraat,19:11,191100
+54,16,Oudenoord,19:13,191300
+54,17,David van Mollemstraat,19:14,191400
+54,18,Nijenoord,19:15,191500
+54,19,Anton Geesinkstraat,19:16,191600
+54,20,Loevenhoutsedijk,19:17,191700
+54,21,Brailledreef,19:18,191800
+54,22,Taagdreef,19:19,191900
+54,23,Winkelcentrum Overvecht,19:20,192000
+54,24,Theemsdreef,19:21,192100
+54,25,Landskroondreef,19:22,192200
+54,26,Neckardreef,19:23,192300
+54,27,Oderdreef,19:25,192500
+54,28,Atlasdreef,19:26,192600
+54,29,Donaudreef,19:27,192700
+54,30,Berezinadreef,19:28,192800
+54,31,Station Overvecht,19:29,192900
+55,1,Station Terwijde,19:15,191500
+55,2,Het Zand,19:17,191700
+55,3,Tweede Westerparklaan,19:18,191800
+55,4,De Woerd,19:20,192000
+55,5,Kreekraklaan,19:21,192100
+55,6,Klifrakplantsoen,19:22,192200
+55,7,Archeologiepark,19:23,192300
+55,8,Burgemeester Verderlaan,19:24,192400
+55,9,Dafne Schippersbrug,19:25,192500
+55,10,24 Oktoberplein,19:29,192900
+55,11,Overste den Oudenlaan,19:31,193100
+55,12,Graadt van Roggenweg,19:32,193200
+55,13,CS Jaarbeurszijde,19:34,193400
+55,14,CS Jaarbeurszijde,19:37,193700
+55,15,Sint Jacobsstraat,19:41,194100
+55,16,Oudenoord,19:43,194300
+55,17,David van Mollemstraat,19:44,194400
+55,18,Nijenoord,19:45,194500
+55,19,Anton Geesinkstraat,19:46,194600
+55,20,Loevenhoutsedijk,19:47,194700
+55,21,Brailledreef,19:48,194800
+55,22,Taagdreef,19:49,194900
+55,23,Winkelcentrum Overvecht,19:50,195000
+55,24,Theemsdreef,19:51,195100
+55,25,Landskroondreef,19:52,195200
+55,26,Neckardreef,19:53,195300
+55,27,Oderdreef,19:55,195500
+55,28,Atlasdreef,19:56,195600
+55,29,Donaudreef,19:57,195700
+55,30,Berezinadreef,19:58,195800
+55,31,Station Overvecht,19:59,195900
+56,1,Station Terwijde,19:45,194500
+56,2,Het Zand,19:47,194700
+56,3,Tweede Westerparklaan,19:48,194800
+56,4,De Woerd,19:49,194900
+56,5,Kreekraklaan,19:50,195000
+56,6,Klifrakplantsoen,19:51,195100
+56,7,Archeologiepark,19:52,195200
+56,8,Burgemeester Verderlaan,19:53,195300
+56,9,Dafne Schippersbrug,19:54,195400
+56,10,24 Oktoberplein,19:57,195700
+56,11,Overste den Oudenlaan,19:59,195900
+56,12,Graadt van Roggenweg,20:00,200000
+56,13,CS Jaarbeurszijde,20:02,200200
+56,14,CS Jaarbeurszijde,20:05,200500
+56,15,Sint Jacobsstraat,20:09,200900
+56,16,Oudenoord,20:11,201100
+56,17,David van Mollemstraat,20:12,201200
+56,18,Nijenoord,20:13,201300
+56,19,Anton Geesinkstraat,20:14,201400
+56,20,Loevenhoutsedijk,20:15,201500
+56,21,Brailledreef,20:16,201600
+56,22,Taagdreef,20:17,201700
+56,23,Winkelcentrum Overvecht,20:18,201800
+56,24,Theemsdreef,20:19,201900
+56,25,Landskroondreef,20:20,202000
+56,26,Neckardreef,20:21,202100
+56,27,Oderdreef,20:23,202300
+56,28,Atlasdreef,20:24,202400
+56,29,Donaudreef,20:25,202500
+56,30,Berezinadreef,20:26,202600
+56,31,Station Overvecht,20:27,202700
+57,1,Station Terwijde,20:15,201500
+57,2,Het Zand,20:17,201700
+57,3,Tweede Westerparklaan,20:18,201800
+57,4,De Woerd,20:19,201900
+57,5,Kreekraklaan,20:20,202000
+57,6,Klifrakplantsoen,20:21,202100
+57,7,Archeologiepark,20:22,202200
+57,8,Burgemeester Verderlaan,20:23,202300
+57,9,Dafne Schippersbrug,20:24,202400
+57,10,24 Oktoberplein,20:27,202700
+57,11,Overste den Oudenlaan,20:29,202900
+57,12,Graadt van Roggenweg,20:30,203000
+57,13,CS Jaarbeurszijde,20:32,203200
+57,14,CS Jaarbeurszijde,20:35,203500
+57,15,Sint Jacobsstraat,20:39,203900
+57,16,Oudenoord,20:41,204100
+57,17,David van Mollemstraat,20:42,204200
+57,18,Nijenoord,20:43,204300
+57,19,Anton Geesinkstraat,20:44,204400
+57,20,Loevenhoutsedijk,20:45,204500
+57,21,Brailledreef,20:46,204600
+57,22,Taagdreef,20:47,204700
+57,23,Winkelcentrum Overvecht,20:48,204800
+57,24,Theemsdreef,20:49,204900
+57,25,Landskroondreef,20:50,205000
+57,26,Neckardreef,20:51,205100
+57,27,Oderdreef,20:53,205300
+57,28,Atlasdreef,20:54,205400
+57,29,Donaudreef,20:55,205500
+57,30,Berezinadreef,20:56,205600
+57,31,Station Overvecht,20:57,205700
+58,1,Station Terwijde,20:45,204500
+58,2,Het Zand,20:47,204700
+58,3,Tweede Westerparklaan,20:48,204800
+58,4,De Woerd,20:49,204900
+58,5,Kreekraklaan,20:50,205000
+58,6,Klifrakplantsoen,20:51,205100
+58,7,Archeologiepark,20:52,205200
+58,8,Burgemeester Verderlaan,20:53,205300
+58,9,Dafne Schippersbrug,20:54,205400
+58,10,24 Oktoberplein,20:57,205700
+58,11,Overste den Oudenlaan,20:59,205900
+58,12,Graadt van Roggenweg,21:00,210000
+58,13,CS Jaarbeurszijde,21:02,210200
+58,14,CS Jaarbeurszijde,21:05,210500
+58,15,Sint Jacobsstraat,21:09,210900
+58,16,Oudenoord,21:11,211100
+58,17,David van Mollemstraat,21:12,211200
+58,18,Nijenoord,21:13,211300
+58,19,Anton Geesinkstraat,21:14,211400
+58,20,Loevenhoutsedijk,21:15,211500
+58,21,Brailledreef,21:16,211600
+58,22,Taagdreef,21:17,211700
+58,23,Winkelcentrum Overvecht,21:18,211800
+58,24,Theemsdreef,21:19,211900
+58,25,Landskroondreef,21:20,212000
+58,26,Neckardreef,21:21,212100
+58,27,Oderdreef,21:23,212300
+58,28,Atlasdreef,21:24,212400
+58,29,Donaudreef,21:25,212500
+58,30,Berezinadreef,21:26,212600
+58,31,Station Overvecht,21:27,212700
+59,1,Station Terwijde,21:15,211500
+59,2,Het Zand,21:17,211700
+59,3,Tweede Westerparklaan,21:18,211800
+59,4,De Woerd,21:19,211900
+59,5,Kreekraklaan,21:20,212000
+59,6,Klifrakplantsoen,21:21,212100
+59,7,Archeologiepark,21:22,212200
+59,8,Burgemeester Verderlaan,21:23,212300
+59,9,Dafne Schippersbrug,21:24,212400
+59,10,24 Oktoberplein,21:27,212700
+59,11,Overste den Oudenlaan,21:29,212900
+59,12,Graadt van Roggenweg,21:30,213000
+59,13,CS Jaarbeurszijde,21:32,213200
+59,14,CS Jaarbeurszijde,21:35,213500
+59,15,Sint Jacobsstraat,21:39,213900
+59,16,Oudenoord,21:41,214100
+59,17,David van Mollemstraat,21:42,214200
+59,18,Nijenoord,21:43,214300
+59,19,Anton Geesinkstraat,21:44,214400
+59,20,Loevenhoutsedijk,21:45,214500
+59,21,Brailledreef,21:46,214600
+59,22,Taagdreef,21:47,214700
+59,23,Winkelcentrum Overvecht,21:48,214800
+59,24,Theemsdreef,21:49,214900
+59,25,Landskroondreef,21:50,215000
+59,26,Neckardreef,21:51,215100
+59,27,Oderdreef,21:53,215300
+59,28,Atlasdreef,21:54,215400
+59,29,Donaudreef,21:55,215500
+59,30,Berezinadreef,21:56,215600
+59,31,Station Overvecht,21:57,215700
+60,1,Station Terwijde,21:45,214500
+60,2,Het Zand,21:47,214700
+60,3,Tweede Westerparklaan,21:48,214800
+60,4,De Woerd,21:49,214900
+60,5,Kreekraklaan,21:50,215000
+60,6,Klifrakplantsoen,21:51,215100
+60,7,Archeologiepark,21:52,215200
+60,8,Burgemeester Verderlaan,21:53,215300
+60,9,Dafne Schippersbrug,21:54,215400
+60,10,24 Oktoberplein,21:57,215700
+60,11,Overste den Oudenlaan,21:59,215900
+60,12,Graadt van Roggenweg,22:00,220000
+60,13,CS Jaarbeurszijde,22:02,220200
+60,14,CS Jaarbeurszijde,22:05,220500
+60,15,Sint Jacobsstraat,22:09,220900
+60,16,Oudenoord,22:11,221100
+60,17,David van Mollemstraat,22:12,221200
+60,18,Nijenoord,22:13,221300
+60,19,Anton Geesinkstraat,22:14,221400
+60,20,Loevenhoutsedijk,22:15,221500
+60,21,Brailledreef,22:16,221600
+60,22,Taagdreef,22:17,221700
+60,23,Winkelcentrum Overvecht,22:18,221800
+60,24,Theemsdreef,22:19,221900
+60,25,Landskroondreef,22:20,222000
+60,26,Neckardreef,22:21,222100
+60,27,Oderdreef,22:23,222300
+60,28,Atlasdreef,22:24,222400
+60,29,Donaudreef,22:25,222500
+60,30,Berezinadreef,22:26,222600
+60,31,Station Overvecht,22:27,222700
+61,1,Station Terwijde,22:15,221500
+61,2,Het Zand,22:17,221700
+61,3,Tweede Westerparklaan,22:18,221800
+61,4,De Woerd,22:19,221900
+61,5,Kreekraklaan,22:20,222000
+61,6,Klifrakplantsoen,22:21,222100
+61,7,Archeologiepark,22:22,222200
+61,8,Burgemeester Verderlaan,22:23,222300
+61,9,Dafne Schippersbrug,22:24,222400
+61,10,24 Oktoberplein,22:27,222700
+61,11,Overste den Oudenlaan,22:29,222900
+61,12,Graadt van Roggenweg,22:30,223000
+61,13,CS Jaarbeurszijde,22:32,223200
+61,14,CS Jaarbeurszijde,22:35,223500
+61,15,Sint Jacobsstraat,22:39,223900
+61,16,Oudenoord,22:41,224100
+61,17,David van Mollemstraat,22:42,224200
+61,18,Nijenoord,22:43,224300
+61,19,Anton Geesinkstraat,22:44,224400
+61,20,Loevenhoutsedijk,22:45,224500
+61,21,Brailledreef,22:46,224600
+61,22,Taagdreef,22:47,224700
+61,23,Winkelcentrum Overvecht,22:48,224800
+61,24,Theemsdreef,22:49,224900
+61,25,Landskroondreef,22:50,225000
+61,26,Neckardreef,22:51,225100
+61,27,Oderdreef,22:53,225300
+61,28,Atlasdreef,22:54,225400
+61,29,Donaudreef,22:55,225500
+61,30,Berezinadreef,22:56,225600
+61,31,Station Overvecht,22:57,225700
+62,1,Station Terwijde,22:45,224500
+62,2,Het Zand,22:47,224700
+62,3,Tweede Westerparklaan,22:48,224800
+62,4,De Woerd,22:49,224900
+62,5,Kreekraklaan,22:50,225000
+62,6,Klifrakplantsoen,22:51,225100
+62,7,Archeologiepark,22:52,225200
+62,8,Burgemeester Verderlaan,22:53,225300
+62,9,Dafne Schippersbrug,22:54,225400
+62,10,24 Oktoberplein,22:57,225700
+62,11,Overste den Oudenlaan,22:59,225900
+62,12,Graadt van Roggenweg,23:00,230000
+62,13,CS Jaarbeurszijde,23:02,230200
+62,14,CS Jaarbeurszijde,23:05,230500
+62,15,Sint Jacobsstraat,23:09,230900
+62,16,Oudenoord,23:11,231100
+62,17,David van Mollemstraat,23:12,231200
+62,18,Nijenoord,23:13,231300
+62,19,Anton Geesinkstraat,23:14,231400
+62,20,Loevenhoutsedijk,23:15,231500
+62,21,Brailledreef,23:16,231600
+62,22,Taagdreef,23:17,231700
+62,23,Winkelcentrum Overvecht,23:18,231800
+62,24,Theemsdreef,23:19,231900
+62,25,Landskroondreef,23:20,232000
+62,26,Neckardreef,23:21,232100
+62,27,Oderdreef,23:23,232300
+62,28,Atlasdreef,23:24,232400
+62,29,Donaudreef,23:25,232500
+62,30,Berezinadreef,23:26,232600
+62,31,Station Overvecht,23:27,232700
+63,1,Station Terwijde,23:14,231400
+63,2,Het Zand,23:16,231600
+63,3,Tweede Westerparklaan,23:17,231700
+63,4,De Woerd,23:18,231800
+63,5,Kreekraklaan,23:19,231900
+63,6,Klifrakplantsoen,23:20,232000
+63,7,Archeologiepark,23:21,232100
+63,8,Burgemeester Verderlaan,23:22,232200
+63,9,Dafne Schippersbrug,23:23,232300
+63,10,24 Oktoberplein,23:26,232600
+63,11,Overste den Oudenlaan,23:28,232800
+63,12,Graadt van Roggenweg,23:29,232900
+63,13,CS Jaarbeurszijde,23:31,233100
+63,14,CS Jaarbeurszijde,23:34,233400
+63,15,Sint Jacobsstraat,23:38,233800
+63,16,Oudenoord,23:40,234000
+63,17,David van Mollemstraat,23:41,234100
+63,18,Nijenoord,23:42,234200
+63,19,Anton Geesinkstraat,23:43,234300
+63,20,Loevenhoutsedijk,23:44,234400
+63,21,Brailledreef,23:45,234500
+63,22,Taagdreef,23:46,234600
+63,23,Winkelcentrum Overvecht,23:47,234700
+63,24,Theemsdreef,23:48,234800
+63,25,Landskroondreef,23:49,234900
+63,26,Neckardreef,23:50,235000
+63,27,Oderdreef,23:52,235200
+63,28,Atlasdreef,23:53,235300
+63,29,Donaudreef,23:54,235400
+63,30,Berezinadreef,23:55,235500
+63,31,Station Overvecht,23:56,235600
+64,1,Station Terwijde,23:45,234500
+64,2,Het Zand,23:47,234700
+64,3,Tweede Westerparklaan,23:48,234800
+64,4,De Woerd,23:49,234900
+64,5,Kreekraklaan,23:50,235000
+64,6,Klifrakplantsoen,23:51,235100
+64,7,Archeologiepark,23:52,235200
+64,8,Burgemeester Verderlaan,23:53,235300
+64,9,Dafne Schippersbrug,23:54,235400
+64,10,24 Oktoberplein,23:57,235700
+64,11,Overste den Oudenlaan,23:59,235900
+64,12,Graadt van Roggenweg,00:00*,240000
+64,13,CS Jaarbeurszijde,00:02*,240200
+64,14,CS Jaarbeurszijde,00:05*,240500
+64,15,Sint Jacobsstraat,00:09*,240900
+64,16,Oudenoord,00:11*,241100
+64,17,David van Mollemstraat,00:12*,241200
+64,18,Nijenoord,00:13*,241300
+64,19,Anton Geesinkstraat,00:14*,241400
+64,20,Loevenhoutsedijk,00:15*,241500
+64,21,Brailledreef,00:16*,241600
+64,22,Taagdreef,00:17*,241700
+64,23,Winkelcentrum Overvecht,00:18*,241800
+64,24,Theemsdreef,00:19*,241900
+64,25,Landskroondreef,00:20*,242000
+64,26,Neckardreef,00:21*,242100
+64,27,Oderdreef,00:23*,242300
+64,28,Atlasdreef,00:24*,242400
+64,29,Donaudreef,00:25*,242500
+64,30,Berezinadreef,00:26*,242600
+64,31,Station Overvecht,00:27*,242700
+65,1,Station Terwijde,00:15*,241500
+65,2,Het Zand,00:17*,241700
+65,3,Tweede Westerparklaan,00:18*,241800
+65,4,De Woerd,00:19*,241900
+65,5,Kreekraklaan,00:20*,242000
+65,6,Klifrakplantsoen,00:21*,242100
+65,7,Archeologiepark,00:22*,242200
+65,8,Burgemeester Verderlaan,00:23*,242300
+65,9,Dafne Schippersbrug,00:24*,242400
+65,10,24 Oktoberplein,00:27*,242700
+65,11,Overste den Oudenlaan,00:29*,242900
+65,12,Graadt van Roggenweg,00:30*,243000
+65,13,CS Jaarbeurszijde,00:32*,243200
+65,14,CS Jaarbeurszijde,00:35*,243500
+65,15,Sint Jacobsstraat,00:39*,243900
+65,16,Oudenoord,00:41*,244100
+65,17,David van Mollemstraat,00:42*,244200
+65,18,Nijenoord,00:43*,244300
+65,19,Anton Geesinkstraat,00:44*,244400
+65,20,Loevenhoutsedijk,00:45*,244500
+65,21,Brailledreef,00:46*,244600
+65,22,Taagdreef,00:47*,244700
+65,23,Winkelcentrum Overvecht,00:48*,244800
+65,24,Theemsdreef,00:49*,244900
+65,25,Landskroondreef,00:50*,245000
+65,26,Neckardreef,00:51*,245100
+65,27,Oderdreef,00:53*,245300
+65,28,Atlasdreef,00:54*,245400
+65,29,Donaudreef,00:55*,245500
+65,30,Berezinadreef,00:56*,245600
+65,31,Station Overvecht,00:57*,245700
+66,1,Station Terwijde,00:37*,243700
+66,2,Het Zand,00:39*,243900
+66,3,Tweede Westerparklaan,00:40*,244000
+66,4,De Woerd,00:41*,244100
+66,5,Kreekraklaan,00:42*,244200
+66,6,Klifrakplantsoen,00:43*,244300
+66,7,Archeologiepark,00:44*,244400
+66,8,Burgemeester Verderlaan,00:45*,244500
+66,9,Dafne Schippersbrug,00:46*,244600
+66,10,24 Oktoberplein,00:49*,244900
+66,11,Overste den Oudenlaan,00:51*,245100
+66,12,Graadt van Roggenweg,00:52*,245200
+66,13,CS Jaarbeurszijde,00:54*,245400
+66,14,CS Jaarbeurszijde,01:00*,250000
+66,15,Sint Jacobsstraat,01:04*,250400
+66,16,Oudenoord,01:06*,250600
+66,17,David van Mollemstraat,01:07*,250700
+66,18,Nijenoord,01:08*,250800
+66,19,Anton Geesinkstraat,01:09*,250900
+66,20,Loevenhoutsedijk,01:10*,251000
+66,21,Brailledreef,01:11*,251100
+66,22,Taagdreef,01:12*,251200
+66,23,Winkelcentrum Overvecht,01:13*,251300
+66,24,Theemsdreef,01:14*,251400
+66,25,Landskroondreef,01:15*,251500
+66,26,Neckardreef,01:16*,251600
+66,27,Oderdreef,01:18*,251800
+66,28,Atlasdreef,01:19*,251900
+66,29,Donaudreef,01:20*,252000
+66,30,Berezinadreef,01:21*,252100
+66,31,Station Overvecht,01:22*,252200

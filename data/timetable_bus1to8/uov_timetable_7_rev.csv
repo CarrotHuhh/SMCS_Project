@@ -1,0 +1,2065 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,Professor Bavinckstraat,05:46,054600
+1,2,Cornelis Smeenkstraat,05:47,054700
+1,3,De Bazelstraat,05:47,054700
+1,4,Prins Bernhardplein,05:48,054800
+1,5,Prins Bernhardlaan,05:49,054900
+1,6,Burg. Van Tuyllkade,05:51,055100
+1,7,Van Hoornekade,05:52,055200
+1,8,Ondiep,05:53,055300
+1,9,Nijenoord,05:54,055400
+1,10,David van Mollemstraat,05:56,055600
+1,11,Oudenoord,05:56,055600
+1,12,Sint Jacobsstraat,05:58,055800
+1,13,CS Jaarbeurszijde,06:04,060400
+1,14,CS Jaarbeurszijde,06:06,060600
+1,15,Overste den Oudenlaan,06:11,061100
+1,16,Van Bijnkershoeklaan,06:12,061200
+1,17,24 Oktoberplein-Zuid,06:14,061400
+1,18,Winkelcentrum Kanaleneiland,06:17,061700
+1,19,Marco Pololaan,06:19,061900
+1,20,Columbuslaan/Afrikalaan,06:19,061900
+1,21,Bontekoelaan,06:20,062000
+1,22,Woonboulevard,06:21,062100
+1,23,Rijkswaterstaat,06:24,062400
+1,24,P+R Westraven,06:26,062600
+2,1,Professor Bavinckstraat,06:01,060100
+2,2,Cornelis Smeenkstraat,06:02,060200
+2,3,De Bazelstraat,06:02,060200
+2,4,Prins Bernhardplein,06:03,060300
+2,5,Prins Bernhardlaan,06:04,060400
+2,6,Burg. Van Tuyllkade,06:06,060600
+2,7,Van Hoornekade,06:07,060700
+2,8,Ondiep,06:08,060800
+2,9,Nijenoord,06:09,060900
+2,10,David van Mollemstraat,06:11,061100
+2,11,Oudenoord,06:11,061100
+2,12,Sint Jacobsstraat,06:13,061300
+2,13,CS Jaarbeurszijde,06:19,061900
+2,14,CS Jaarbeurszijde,06:21,062100
+2,15,Overste den Oudenlaan,06:26,062600
+2,16,Van Bijnkershoeklaan,06:27,062700
+2,17,24 Oktoberplein-Zuid,06:29,062900
+2,18,Winkelcentrum Kanaleneiland,06:32,063200
+2,19,Marco Pololaan,06:34,063400
+2,20,Columbuslaan/Afrikalaan,06:34,063400
+2,21,Bontekoelaan,06:35,063500
+2,22,Woonboulevard,06:36,063600
+2,23,Rijkswaterstaat,06:39,063900
+2,24,P+R Westraven,06:41,064100
+3,1,Professor Bavinckstraat,06:16,061600
+3,2,Cornelis Smeenkstraat,06:17,061700
+3,3,De Bazelstraat,06:17,061700
+3,4,Prins Bernhardplein,06:18,061800
+3,5,Prins Bernhardlaan,06:19,061900
+3,6,Burg. Van Tuyllkade,06:21,062100
+3,7,Van Hoornekade,06:22,062200
+3,8,Ondiep,06:23,062300
+3,9,Nijenoord,06:24,062400
+3,10,David van Mollemstraat,06:26,062600
+3,11,Oudenoord,06:26,062600
+3,12,Sint Jacobsstraat,06:28,062800
+3,13,CS Jaarbeurszijde,06:34,063400
+3,14,CS Jaarbeurszijde,06:36,063600
+3,15,Overste den Oudenlaan,06:41,064100
+3,16,Van Bijnkershoeklaan,06:42,064200
+3,17,24 Oktoberplein-Zuid,06:44,064400
+3,18,Winkelcentrum Kanaleneiland,06:47,064700
+3,19,Marco Pololaan,06:49,064900
+3,20,Columbuslaan/Afrikalaan,06:49,064900
+3,21,Bontekoelaan,06:50,065000
+3,22,Woonboulevard,06:51,065100
+3,23,Rijkswaterstaat,06:54,065400
+3,24,P+R Westraven,06:56,065600
+4,1,Professor Bavinckstraat,06:31,063100
+4,2,Cornelis Smeenkstraat,06:32,063200
+4,3,De Bazelstraat,06:32,063200
+4,4,Prins Bernhardplein,06:33,063300
+4,5,Prins Bernhardlaan,06:34,063400
+4,6,Burg. Van Tuyllkade,06:36,063600
+4,7,Van Hoornekade,06:37,063700
+4,8,Ondiep,06:38,063800
+4,9,Nijenoord,06:39,063900
+4,10,David van Mollemstraat,06:41,064100
+4,11,Oudenoord,06:41,064100
+4,12,Sint Jacobsstraat,06:43,064300
+4,13,CS Jaarbeurszijde,06:49,064900
+4,14,CS Jaarbeurszijde,06:51,065100
+4,15,Overste den Oudenlaan,06:56,065600
+4,16,Van Bijnkershoeklaan,06:57,065700
+4,17,24 Oktoberplein-Zuid,06:59,065900
+4,18,Winkelcentrum Kanaleneiland,07:02,070200
+4,19,Marco Pololaan,07:04,070400
+4,20,Columbuslaan/Afrikalaan,07:05,070500
+4,21,Bontekoelaan,07:06,070600
+4,22,Woonboulevard,07:07,070700
+4,23,Rijkswaterstaat,07:10,071000
+4,24,P+R Westraven,07:12,071200
+5,1,Professor Bavinckstraat,06:46,064600
+5,2,Cornelis Smeenkstraat,06:47,064700
+5,3,De Bazelstraat,06:47,064700
+5,4,Prins Bernhardplein,06:48,064800
+5,5,Prins Bernhardlaan,06:49,064900
+5,6,Burg. Van Tuyllkade,06:51,065100
+5,7,Van Hoornekade,06:52,065200
+5,8,Ondiep,06:53,065300
+5,9,Nijenoord,06:54,065400
+5,10,David van Mollemstraat,06:56,065600
+5,11,Oudenoord,06:56,065600
+5,12,Sint Jacobsstraat,06:58,065800
+5,13,CS Jaarbeurszijde,07:05,070500
+5,14,CS Jaarbeurszijde,07:07,070700
+5,15,Overste den Oudenlaan,07:13,071300
+5,16,Van Bijnkershoeklaan,07:14,071400
+5,17,24 Oktoberplein-Zuid,07:16,071600
+5,18,Winkelcentrum Kanaleneiland,07:19,071900
+5,19,Marco Pololaan,07:21,072100
+5,20,Columbuslaan/Afrikalaan,07:22,072200
+5,21,Bontekoelaan,07:23,072300
+5,22,Woonboulevard,07:24,072400
+5,23,Rijkswaterstaat,07:27,072700
+5,24,P+R Westraven,07:30,073000
+6,1,Professor Bavinckstraat,07:01,070100
+6,2,Cornelis Smeenkstraat,07:02,070200
+6,3,De Bazelstraat,07:03,070300
+6,4,Prins Bernhardplein,07:04,070400
+6,5,Prins Bernhardlaan,07:05,070500
+6,6,Burg. Van Tuyllkade,07:07,070700
+6,7,Van Hoornekade,07:08,070800
+6,8,Ondiep,07:09,070900
+6,9,Nijenoord,07:10,071000
+6,10,David van Mollemstraat,07:12,071200
+6,11,Oudenoord,07:12,071200
+6,12,Sint Jacobsstraat,07:14,071400
+6,13,CS Jaarbeurszijde,07:21,072100
+6,14,CS Jaarbeurszijde,07:23,072300
+6,15,Overste den Oudenlaan,07:30,073000
+6,16,Van Bijnkershoeklaan,07:31,073100
+6,17,24 Oktoberplein-Zuid,07:33,073300
+6,18,Winkelcentrum Kanaleneiland,07:36,073600
+6,19,Marco Pololaan,07:38,073800
+6,20,Columbuslaan/Afrikalaan,07:39,073900
+6,21,Bontekoelaan,07:40,074000
+6,22,Woonboulevard,07:41,074100
+6,23,Rijkswaterstaat,07:44,074400
+6,24,P+R Westraven,07:47,074700
+7,1,Professor Bavinckstraat,07:11,071100
+7,2,Cornelis Smeenkstraat,07:12,071200
+7,3,De Bazelstraat,07:13,071300
+7,4,Prins Bernhardplein,07:14,071400
+7,5,Prins Bernhardlaan,07:15,071500
+7,6,Burg. Van Tuyllkade,07:17,071700
+7,7,Van Hoornekade,07:18,071800
+7,8,Ondiep,07:19,071900
+7,9,Nijenoord,07:20,072000
+7,10,David van Mollemstraat,07:22,072200
+7,11,Oudenoord,07:22,072200
+7,12,Sint Jacobsstraat,07:24,072400
+7,13,CS Jaarbeurszijde,07:31,073100
+7,14,CS Jaarbeurszijde,07:33,073300
+7,15,Overste den Oudenlaan,07:40,074000
+7,16,Van Bijnkershoeklaan,07:41,074100
+7,17,24 Oktoberplein-Zuid,07:43,074300
+7,18,Winkelcentrum Kanaleneiland,07:46,074600
+7,19,Marco Pololaan,07:48,074800
+7,20,Columbuslaan/Afrikalaan,07:49,074900
+7,21,Bontekoelaan,07:50,075000
+7,22,Woonboulevard,07:51,075100
+7,23,Rijkswaterstaat,07:54,075400
+7,24,P+R Westraven,07:57,075700
+8,1,Professor Bavinckstraat,07:21,072100
+8,2,Cornelis Smeenkstraat,07:22,072200
+8,3,De Bazelstraat,07:23,072300
+8,4,Prins Bernhardplein,07:24,072400
+8,5,Prins Bernhardlaan,07:25,072500
+8,6,Burg. Van Tuyllkade,07:27,072700
+8,7,Van Hoornekade,07:28,072800
+8,8,Ondiep,07:29,072900
+8,9,Nijenoord,07:30,073000
+8,10,David van Mollemstraat,07:32,073200
+8,11,Oudenoord,07:32,073200
+8,12,Sint Jacobsstraat,07:34,073400
+8,13,CS Jaarbeurszijde,07:41,074100
+8,14,CS Jaarbeurszijde,07:43,074300
+8,15,Overste den Oudenlaan,07:50,075000
+8,16,Van Bijnkershoeklaan,07:51,075100
+8,17,24 Oktoberplein-Zuid,07:53,075300
+8,18,Winkelcentrum Kanaleneiland,07:56,075600
+8,19,Marco Pololaan,07:58,075800
+8,20,Columbuslaan/Afrikalaan,07:59,075900
+8,21,Bontekoelaan,08:00,080000
+8,22,Woonboulevard,08:01,080100
+8,23,Rijkswaterstaat,08:04,080400
+8,24,P+R Westraven,08:07,080700
+9,1,Professor Bavinckstraat,07:31,073100
+9,2,Cornelis Smeenkstraat,07:32,073200
+9,3,De Bazelstraat,07:33,073300
+9,4,Prins Bernhardplein,07:34,073400
+9,5,Prins Bernhardlaan,07:35,073500
+9,6,Burg. Van Tuyllkade,07:37,073700
+9,7,Van Hoornekade,07:38,073800
+9,8,Ondiep,07:39,073900
+9,9,Nijenoord,07:41,074100
+9,10,David van Mollemstraat,07:43,074300
+9,11,Oudenoord,07:43,074300
+9,12,Sint Jacobsstraat,07:45,074500
+9,13,CS Jaarbeurszijde,07:54,075400
+9,14,CS Jaarbeurszijde,07:56,075600
+9,15,Overste den Oudenlaan,08:03,080300
+9,16,Van Bijnkershoeklaan,08:04,080400
+9,17,24 Oktoberplein-Zuid,08:06,080600
+9,18,Winkelcentrum Kanaleneiland,08:09,080900
+9,19,Marco Pololaan,08:11,081100
+9,20,Columbuslaan/Afrikalaan,08:12,081200
+9,21,Bontekoelaan,08:13,081300
+9,22,Woonboulevard,08:14,081400
+9,23,Rijkswaterstaat,08:17,081700
+9,24,P+R Westraven,08:20,082000
+10,1,Professor Bavinckstraat,07:41,074100
+10,2,Cornelis Smeenkstraat,07:42,074200
+10,3,De Bazelstraat,07:43,074300
+10,4,Prins Bernhardplein,07:44,074400
+10,5,Prins Bernhardlaan,07:45,074500
+10,6,Burg. Van Tuyllkade,07:48,074800
+10,7,Van Hoornekade,07:49,074900
+10,8,Ondiep,07:50,075000
+10,9,Nijenoord,07:52,075200
+10,10,David van Mollemstraat,07:54,075400
+10,11,Oudenoord,07:54,075400
+10,12,Sint Jacobsstraat,07:56,075600
+10,13,CS Jaarbeurszijde,08:05,080500
+10,14,CS Jaarbeurszijde,08:07,080700
+10,15,Overste den Oudenlaan,08:14,081400
+10,16,Van Bijnkershoeklaan,08:15,081500
+10,17,24 Oktoberplein-Zuid,08:17,081700
+10,18,Winkelcentrum Kanaleneiland,08:20,082000
+10,19,Marco Pololaan,08:22,082200
+10,20,Columbuslaan/Afrikalaan,08:23,082300
+10,21,Bontekoelaan,08:24,082400
+10,22,Woonboulevard,08:25,082500
+10,23,Rijkswaterstaat,08:28,082800
+10,24,P+R Westraven,08:30,083000
+11,1,Professor Bavinckstraat,07:51,075100
+11,2,Cornelis Smeenkstraat,07:52,075200
+11,3,De Bazelstraat,07:53,075300
+11,4,Prins Bernhardplein,07:54,075400
+11,5,Prins Bernhardlaan,07:55,075500
+11,6,Burg. Van Tuyllkade,07:58,075800
+11,7,Van Hoornekade,07:59,075900
+11,8,Ondiep,08:00,080000
+11,9,Nijenoord,08:02,080200
+11,10,David van Mollemstraat,08:04,080400
+11,11,Oudenoord,08:04,080400
+11,12,Sint Jacobsstraat,08:06,080600
+11,13,CS Jaarbeurszijde,08:15,081500
+11,14,CS Jaarbeurszijde,08:17,081700
+11,15,Overste den Oudenlaan,08:23,082300
+11,16,Van Bijnkershoeklaan,08:24,082400
+11,17,24 Oktoberplein-Zuid,08:26,082600
+11,18,Winkelcentrum Kanaleneiland,08:29,082900
+11,19,Marco Pololaan,08:31,083100
+11,20,Columbuslaan/Afrikalaan,08:32,083200
+11,21,Bontekoelaan,08:33,083300
+11,22,Woonboulevard,08:34,083400
+11,23,Rijkswaterstaat,08:37,083700
+11,24,P+R Westraven,08:39,083900
+12,1,Professor Bavinckstraat,08:01,080100
+12,2,Cornelis Smeenkstraat,08:02,080200
+12,3,De Bazelstraat,08:03,080300
+12,4,Prins Bernhardplein,08:04,080400
+12,5,Prins Bernhardlaan,08:05,080500
+12,6,Burg. Van Tuyllkade,08:08,080800
+12,7,Van Hoornekade,08:09,080900
+12,8,Ondiep,08:10,081000
+12,9,Nijenoord,08:12,081200
+12,10,David van Mollemstraat,08:14,081400
+12,11,Oudenoord,08:14,081400
+12,12,Sint Jacobsstraat,08:16,081600
+12,13,CS Jaarbeurszijde,08:25,082500
+12,14,CS Jaarbeurszijde,08:27,082700
+12,15,Overste den Oudenlaan,08:33,083300
+12,16,Van Bijnkershoeklaan,08:34,083400
+12,17,24 Oktoberplein-Zuid,08:36,083600
+12,18,Winkelcentrum Kanaleneiland,08:39,083900
+12,19,Marco Pololaan,08:41,084100
+12,20,Columbuslaan/Afrikalaan,08:42,084200
+12,21,Bontekoelaan,08:43,084300
+12,22,Woonboulevard,08:44,084400
+12,23,Rijkswaterstaat,08:47,084700
+12,24,P+R Westraven,08:49,084900
+13,1,Professor Bavinckstraat,08:11,081100
+13,2,Cornelis Smeenkstraat,08:12,081200
+13,3,De Bazelstraat,08:13,081300
+13,4,Prins Bernhardplein,08:14,081400
+13,5,Prins Bernhardlaan,08:15,081500
+13,6,Burg. Van Tuyllkade,08:18,081800
+13,7,Van Hoornekade,08:19,081900
+13,8,Ondiep,08:20,082000
+13,9,Nijenoord,08:22,082200
+13,10,David van Mollemstraat,08:24,082400
+13,11,Oudenoord,08:24,082400
+13,12,Sint Jacobsstraat,08:26,082600
+13,13,CS Jaarbeurszijde,08:35,083500
+13,14,CS Jaarbeurszijde,08:37,083700
+13,15,Overste den Oudenlaan,08:43,084300
+13,16,Van Bijnkershoeklaan,08:44,084400
+13,17,24 Oktoberplein-Zuid,08:46,084600
+13,18,Winkelcentrum Kanaleneiland,08:49,084900
+13,19,Marco Pololaan,08:51,085100
+13,20,Columbuslaan/Afrikalaan,08:52,085200
+13,21,Bontekoelaan,08:53,085300
+13,22,Woonboulevard,08:54,085400
+13,23,Rijkswaterstaat,08:57,085700
+13,24,P+R Westraven,08:59,085900
+14,1,Professor Bavinckstraat,08:21,082100
+14,2,Cornelis Smeenkstraat,08:22,082200
+14,3,De Bazelstraat,08:23,082300
+14,4,Prins Bernhardplein,08:24,082400
+14,5,Prins Bernhardlaan,08:25,082500
+14,6,Burg. Van Tuyllkade,08:28,082800
+14,7,Van Hoornekade,08:29,082900
+14,8,Ondiep,08:30,083000
+14,9,Nijenoord,08:32,083200
+14,10,David van Mollemstraat,08:34,083400
+14,11,Oudenoord,08:34,083400
+14,12,Sint Jacobsstraat,08:36,083600
+14,13,CS Jaarbeurszijde,08:45,084500
+14,14,CS Jaarbeurszijde,08:47,084700
+14,15,Overste den Oudenlaan,08:53,085300
+14,16,Van Bijnkershoeklaan,08:54,085400
+14,17,24 Oktoberplein-Zuid,08:56,085600
+14,18,Winkelcentrum Kanaleneiland,08:59,085900
+14,19,Marco Pololaan,09:01,090100
+14,20,Columbuslaan/Afrikalaan,09:02,090200
+14,21,Bontekoelaan,09:03,090300
+14,22,Woonboulevard,09:04,090400
+14,23,Rijkswaterstaat,09:07,090700
+14,24,P+R Westraven,09:09,090900
+15,1,Professor Bavinckstraat,08:31,083100
+15,2,Cornelis Smeenkstraat,08:32,083200
+15,3,De Bazelstraat,08:33,083300
+15,4,Prins Bernhardplein,08:34,083400
+15,5,Prins Bernhardlaan,08:35,083500
+15,6,Burg. Van Tuyllkade,08:38,083800
+15,7,Van Hoornekade,08:39,083900
+15,8,Ondiep,08:40,084000
+15,9,Nijenoord,08:42,084200
+15,10,David van Mollemstraat,08:44,084400
+15,11,Oudenoord,08:44,084400
+15,12,Sint Jacobsstraat,08:46,084600
+15,13,CS Jaarbeurszijde,08:54,085400
+15,14,CS Jaarbeurszijde,08:56,085600
+15,15,Overste den Oudenlaan,09:02,090200
+15,16,Van Bijnkershoeklaan,09:03,090300
+15,17,24 Oktoberplein-Zuid,09:05,090500
+15,18,Winkelcentrum Kanaleneiland,09:08,090800
+15,19,Marco Pololaan,09:10,091000
+15,20,Columbuslaan/Afrikalaan,09:11,091100
+15,21,Bontekoelaan,09:12,091200
+15,22,Woonboulevard,09:13,091300
+15,23,Rijkswaterstaat,09:16,091600
+15,24,P+R Westraven,09:18,091800
+16,1,Professor Bavinckstraat,08:41,084100
+16,2,Cornelis Smeenkstraat,08:42,084200
+16,3,De Bazelstraat,08:43,084300
+16,4,Prins Bernhardplein,08:44,084400
+16,5,Prins Bernhardlaan,08:45,084500
+16,6,Burg. Van Tuyllkade,08:48,084800
+16,7,Van Hoornekade,08:49,084900
+16,8,Ondiep,08:50,085000
+16,9,Nijenoord,08:52,085200
+16,10,David van Mollemstraat,08:54,085400
+16,11,Oudenoord,08:54,085400
+16,12,Sint Jacobsstraat,08:56,085600
+16,13,CS Jaarbeurszijde,09:04,090400
+16,14,CS Jaarbeurszijde,09:06,090600
+16,15,Overste den Oudenlaan,09:12,091200
+16,16,Van Bijnkershoeklaan,09:13,091300
+16,17,24 Oktoberplein-Zuid,09:15,091500
+16,18,Winkelcentrum Kanaleneiland,09:18,091800
+16,19,Marco Pololaan,09:20,092000
+16,20,Columbuslaan/Afrikalaan,09:21,092100
+16,21,Bontekoelaan,09:22,092200
+16,22,Woonboulevard,09:23,092300
+16,23,Rijkswaterstaat,09:26,092600
+16,24,P+R Westraven,09:28,092800
+17,1,Professor Bavinckstraat,08:51,085100
+17,2,Cornelis Smeenkstraat,08:52,085200
+17,3,De Bazelstraat,08:53,085300
+17,4,Prins Bernhardplein,08:54,085400
+17,5,Prins Bernhardlaan,08:55,085500
+17,6,Burg. Van Tuyllkade,08:57,085700
+17,7,Van Hoornekade,08:58,085800
+17,8,Ondiep,08:59,085900
+17,9,Nijenoord,09:01,090100
+17,10,David van Mollemstraat,09:03,090300
+17,11,Oudenoord,09:03,090300
+17,12,Sint Jacobsstraat,09:05,090500
+17,13,CS Jaarbeurszijde,09:13,091300
+17,14,CS Jaarbeurszijde,09:15,091500
+17,15,Overste den Oudenlaan,09:21,092100
+17,16,Van Bijnkershoeklaan,09:22,092200
+17,17,24 Oktoberplein-Zuid,09:24,092400
+17,18,Winkelcentrum Kanaleneiland,09:27,092700
+17,19,Marco Pololaan,09:29,092900
+17,20,Columbuslaan/Afrikalaan,09:30,093000
+17,21,Bontekoelaan,09:31,093100
+17,22,Woonboulevard,09:32,093200
+17,23,Rijkswaterstaat,09:35,093500
+17,24,P+R Westraven,09:37,093700
+18,1,Professor Bavinckstraat,09:01,090100
+18,2,Cornelis Smeenkstraat,09:02,090200
+18,3,De Bazelstraat,09:03,090300
+18,4,Prins Bernhardplein,09:04,090400
+18,5,Prins Bernhardlaan,09:05,090500
+18,6,Burg. Van Tuyllkade,09:07,090700
+18,7,Van Hoornekade,09:08,090800
+18,8,Ondiep,09:09,090900
+18,9,Nijenoord,09:11,091100
+18,10,David van Mollemstraat,09:13,091300
+18,11,Oudenoord,09:13,091300
+18,12,Sint Jacobsstraat,09:15,091500
+18,13,CS Jaarbeurszijde,09:23,092300
+18,14,CS Jaarbeurszijde,09:25,092500
+18,15,Overste den Oudenlaan,09:31,093100
+18,16,Van Bijnkershoeklaan,09:32,093200
+18,17,24 Oktoberplein-Zuid,09:34,093400
+18,18,Winkelcentrum Kanaleneiland,09:37,093700
+18,19,Marco Pololaan,09:39,093900
+18,20,Columbuslaan/Afrikalaan,09:40,094000
+18,21,Bontekoelaan,09:41,094100
+18,22,Woonboulevard,09:42,094200
+18,23,Rijkswaterstaat,09:45,094500
+18,24,P+R Westraven,09:47,094700
+19,1,Professor Bavinckstraat,09:16,091600
+19,2,Cornelis Smeenkstraat,09:17,091700
+19,3,De Bazelstraat,09:18,091800
+19,4,Prins Bernhardplein,09:19,091900
+19,5,Prins Bernhardlaan,09:20,092000
+19,6,Burg. Van Tuyllkade,09:22,092200
+19,7,Van Hoornekade,09:23,092300
+19,8,Ondiep,09:24,092400
+19,9,Nijenoord,09:26,092600
+19,10,David van Mollemstraat,09:28,092800
+19,11,Oudenoord,09:28,092800
+19,12,Sint Jacobsstraat,09:30,093000
+19,13,CS Jaarbeurszijde,09:38,093800
+19,14,CS Jaarbeurszijde,09:40,094000
+19,15,Overste den Oudenlaan,09:46,094600
+19,16,Van Bijnkershoeklaan,09:47,094700
+19,17,24 Oktoberplein-Zuid,09:49,094900
+19,18,Winkelcentrum Kanaleneiland,09:52,095200
+19,19,Marco Pololaan,09:54,095400
+19,20,Columbuslaan/Afrikalaan,09:55,095500
+19,21,Bontekoelaan,09:56,095600
+19,22,Woonboulevard,09:57,095700
+19,23,Rijkswaterstaat,10:00,100000
+19,24,P+R Westraven,10:02,100200
+20,1,Professor Bavinckstraat,09:31,093100
+20,2,Cornelis Smeenkstraat,09:32,093200
+20,3,De Bazelstraat,09:33,093300
+20,4,Prins Bernhardplein,09:34,093400
+20,5,Prins Bernhardlaan,09:35,093500
+20,6,Burg. Van Tuyllkade,09:37,093700
+20,7,Van Hoornekade,09:38,093800
+20,8,Ondiep,09:39,093900
+20,9,Nijenoord,09:41,094100
+20,10,David van Mollemstraat,09:43,094300
+20,11,Oudenoord,09:43,094300
+20,12,Sint Jacobsstraat,09:45,094500
+20,13,CS Jaarbeurszijde,09:53,095300
+20,14,CS Jaarbeurszijde,09:55,095500
+20,15,Overste den Oudenlaan,10:01,100100
+20,16,Van Bijnkershoeklaan,10:02,100200
+20,17,24 Oktoberplein-Zuid,10:04,100400
+20,18,Winkelcentrum Kanaleneiland,10:07,100700
+20,19,Marco Pololaan,10:09,100900
+20,20,Columbuslaan/Afrikalaan,10:10,101000
+20,21,Bontekoelaan,10:11,101100
+20,22,Woonboulevard,10:12,101200
+20,23,Rijkswaterstaat,10:15,101500
+20,24,P+R Westraven,10:17,101700
+21,1,Professor Bavinckstraat,09:46,094600
+21,2,Cornelis Smeenkstraat,09:47,094700
+21,3,De Bazelstraat,09:48,094800
+21,4,Prins Bernhardplein,09:49,094900
+21,5,Prins Bernhardlaan,09:50,095000
+21,6,Burg. Van Tuyllkade,09:52,095200
+21,7,Van Hoornekade,09:53,095300
+21,8,Ondiep,09:54,095400
+21,9,Nijenoord,09:56,095600
+21,10,David van Mollemstraat,09:58,095800
+21,11,Oudenoord,09:58,095800
+21,12,Sint Jacobsstraat,10:00,100000
+21,13,CS Jaarbeurszijde,10:08,100800
+21,14,CS Jaarbeurszijde,10:10,101000
+21,15,Overste den Oudenlaan,10:16,101600
+21,16,Van Bijnkershoeklaan,10:17,101700
+21,17,24 Oktoberplein-Zuid,10:19,101900
+21,18,Winkelcentrum Kanaleneiland,10:22,102200
+21,19,Marco Pololaan,10:24,102400
+21,20,Columbuslaan/Afrikalaan,10:25,102500
+21,21,Bontekoelaan,10:26,102600
+21,22,Woonboulevard,10:27,102700
+21,23,Rijkswaterstaat,10:30,103000
+21,24,P+R Westraven,10:32,103200
+22,1,Professor Bavinckstraat,10:01,100100
+22,2,Cornelis Smeenkstraat,10:02,100200
+22,3,De Bazelstraat,10:03,100300
+22,4,Prins Bernhardplein,10:04,100400
+22,5,Prins Bernhardlaan,10:05,100500
+22,6,Burg. Van Tuyllkade,10:07,100700
+22,7,Van Hoornekade,10:08,100800
+22,8,Ondiep,10:09,100900
+22,9,Nijenoord,10:11,101100
+22,10,David van Mollemstraat,10:13,101300
+22,11,Oudenoord,10:13,101300
+22,12,Sint Jacobsstraat,10:15,101500
+22,13,CS Jaarbeurszijde,10:23,102300
+22,14,CS Jaarbeurszijde,10:25,102500
+22,15,Overste den Oudenlaan,10:31,103100
+22,16,Van Bijnkershoeklaan,10:32,103200
+22,17,24 Oktoberplein-Zuid,10:34,103400
+22,18,Winkelcentrum Kanaleneiland,10:37,103700
+22,19,Marco Pololaan,10:39,103900
+22,20,Columbuslaan/Afrikalaan,10:40,104000
+22,21,Bontekoelaan,10:41,104100
+22,22,Woonboulevard,10:42,104200
+22,23,Rijkswaterstaat,10:45,104500
+22,24,P+R Westraven,10:47,104700
+23,1,Professor Bavinckstraat,10:16,101600
+23,2,Cornelis Smeenkstraat,10:17,101700
+23,3,De Bazelstraat,10:18,101800
+23,4,Prins Bernhardplein,10:19,101900
+23,5,Prins Bernhardlaan,10:20,102000
+23,6,Burg. Van Tuyllkade,10:22,102200
+23,7,Van Hoornekade,10:23,102300
+23,8,Ondiep,10:24,102400
+23,9,Nijenoord,10:26,102600
+23,10,David van Mollemstraat,10:28,102800
+23,11,Oudenoord,10:28,102800
+23,12,Sint Jacobsstraat,10:30,103000
+23,13,CS Jaarbeurszijde,10:38,103800
+23,14,CS Jaarbeurszijde,10:40,104000
+23,15,Overste den Oudenlaan,10:46,104600
+23,16,Van Bijnkershoeklaan,10:47,104700
+23,17,24 Oktoberplein-Zuid,10:49,104900
+23,18,Winkelcentrum Kanaleneiland,10:52,105200
+23,19,Marco Pololaan,10:54,105400
+23,20,Columbuslaan/Afrikalaan,10:55,105500
+23,21,Bontekoelaan,10:56,105600
+23,22,Woonboulevard,10:57,105700
+23,23,Rijkswaterstaat,11:00,110000
+23,24,P+R Westraven,11:02,110200
+24,1,Professor Bavinckstraat,10:31,103100
+24,2,Cornelis Smeenkstraat,10:32,103200
+24,3,De Bazelstraat,10:33,103300
+24,4,Prins Bernhardplein,10:34,103400
+24,5,Prins Bernhardlaan,10:35,103500
+24,6,Burg. Van Tuyllkade,10:37,103700
+24,7,Van Hoornekade,10:38,103800
+24,8,Ondiep,10:39,103900
+24,9,Nijenoord,10:41,104100
+24,10,David van Mollemstraat,10:43,104300
+24,11,Oudenoord,10:43,104300
+24,12,Sint Jacobsstraat,10:45,104500
+24,13,CS Jaarbeurszijde,10:53,105300
+24,14,CS Jaarbeurszijde,10:55,105500
+24,15,Overste den Oudenlaan,11:01,110100
+24,16,Van Bijnkershoeklaan,11:02,110200
+24,17,24 Oktoberplein-Zuid,11:04,110400
+24,18,Winkelcentrum Kanaleneiland,11:07,110700
+24,19,Marco Pololaan,11:09,110900
+24,20,Columbuslaan/Afrikalaan,11:10,111000
+24,21,Bontekoelaan,11:11,111100
+24,22,Woonboulevard,11:12,111200
+24,23,Rijkswaterstaat,11:15,111500
+24,24,P+R Westraven,11:17,111700
+25,1,Professor Bavinckstraat,10:46,104600
+25,2,Cornelis Smeenkstraat,10:47,104700
+25,3,De Bazelstraat,10:48,104800
+25,4,Prins Bernhardplein,10:49,104900
+25,5,Prins Bernhardlaan,10:50,105000
+25,6,Burg. Van Tuyllkade,10:52,105200
+25,7,Van Hoornekade,10:53,105300
+25,8,Ondiep,10:54,105400
+25,9,Nijenoord,10:56,105600
+25,10,David van Mollemstraat,10:58,105800
+25,11,Oudenoord,10:58,105800
+25,12,Sint Jacobsstraat,11:00,110000
+25,13,CS Jaarbeurszijde,11:08,110800
+25,14,CS Jaarbeurszijde,11:10,111000
+25,15,Overste den Oudenlaan,11:16,111600
+25,16,Van Bijnkershoeklaan,11:17,111700
+25,17,24 Oktoberplein-Zuid,11:19,111900
+25,18,Winkelcentrum Kanaleneiland,11:22,112200
+25,19,Marco Pololaan,11:24,112400
+25,20,Columbuslaan/Afrikalaan,11:25,112500
+25,21,Bontekoelaan,11:26,112600
+25,22,Woonboulevard,11:27,112700
+25,23,Rijkswaterstaat,11:30,113000
+25,24,P+R Westraven,11:32,113200
+26,1,Professor Bavinckstraat,11:01,110100
+26,2,Cornelis Smeenkstraat,11:02,110200
+26,3,De Bazelstraat,11:03,110300
+26,4,Prins Bernhardplein,11:04,110400
+26,5,Prins Bernhardlaan,11:05,110500
+26,6,Burg. Van Tuyllkade,11:07,110700
+26,7,Van Hoornekade,11:08,110800
+26,8,Ondiep,11:09,110900
+26,9,Nijenoord,11:11,111100
+26,10,David van Mollemstraat,11:13,111300
+26,11,Oudenoord,11:13,111300
+26,12,Sint Jacobsstraat,11:15,111500
+26,13,CS Jaarbeurszijde,11:23,112300
+26,14,CS Jaarbeurszijde,11:25,112500
+26,15,Overste den Oudenlaan,11:31,113100
+26,16,Van Bijnkershoeklaan,11:32,113200
+26,17,24 Oktoberplein-Zuid,11:34,113400
+26,18,Winkelcentrum Kanaleneiland,11:37,113700
+26,19,Marco Pololaan,11:39,113900
+26,20,Columbuslaan/Afrikalaan,11:40,114000
+26,21,Bontekoelaan,11:41,114100
+26,22,Woonboulevard,11:42,114200
+26,23,Rijkswaterstaat,11:45,114500
+26,24,P+R Westraven,11:47,114700
+27,1,Professor Bavinckstraat,11:16,111600
+27,2,Cornelis Smeenkstraat,11:17,111700
+27,3,De Bazelstraat,11:18,111800
+27,4,Prins Bernhardplein,11:19,111900
+27,5,Prins Bernhardlaan,11:20,112000
+27,6,Burg. Van Tuyllkade,11:22,112200
+27,7,Van Hoornekade,11:23,112300
+27,8,Ondiep,11:24,112400
+27,9,Nijenoord,11:26,112600
+27,10,David van Mollemstraat,11:28,112800
+27,11,Oudenoord,11:28,112800
+27,12,Sint Jacobsstraat,11:30,113000
+27,13,CS Jaarbeurszijde,11:38,113800
+27,14,CS Jaarbeurszijde,11:40,114000
+27,15,Overste den Oudenlaan,11:46,114600
+27,16,Van Bijnkershoeklaan,11:47,114700
+27,17,24 Oktoberplein-Zuid,11:49,114900
+27,18,Winkelcentrum Kanaleneiland,11:52,115200
+27,19,Marco Pololaan,11:54,115400
+27,20,Columbuslaan/Afrikalaan,11:55,115500
+27,21,Bontekoelaan,11:56,115600
+27,22,Woonboulevard,11:57,115700
+27,23,Rijkswaterstaat,12:00,120000
+27,24,P+R Westraven,12:02,120200
+28,1,Professor Bavinckstraat,11:31,113100
+28,2,Cornelis Smeenkstraat,11:32,113200
+28,3,De Bazelstraat,11:33,113300
+28,4,Prins Bernhardplein,11:34,113400
+28,5,Prins Bernhardlaan,11:35,113500
+28,6,Burg. Van Tuyllkade,11:37,113700
+28,7,Van Hoornekade,11:38,113800
+28,8,Ondiep,11:39,113900
+28,9,Nijenoord,11:41,114100
+28,10,David van Mollemstraat,11:43,114300
+28,11,Oudenoord,11:43,114300
+28,12,Sint Jacobsstraat,11:45,114500
+28,13,CS Jaarbeurszijde,11:53,115300
+28,14,CS Jaarbeurszijde,11:55,115500
+28,15,Overste den Oudenlaan,12:01,120100
+28,16,Van Bijnkershoeklaan,12:02,120200
+28,17,24 Oktoberplein-Zuid,12:04,120400
+28,18,Winkelcentrum Kanaleneiland,12:07,120700
+28,19,Marco Pololaan,12:09,120900
+28,20,Columbuslaan/Afrikalaan,12:10,121000
+28,21,Bontekoelaan,12:11,121100
+28,22,Woonboulevard,12:12,121200
+28,23,Rijkswaterstaat,12:15,121500
+28,24,P+R Westraven,12:17,121700
+29,1,Professor Bavinckstraat,11:46,114600
+29,2,Cornelis Smeenkstraat,11:47,114700
+29,3,De Bazelstraat,11:48,114800
+29,4,Prins Bernhardplein,11:49,114900
+29,5,Prins Bernhardlaan,11:50,115000
+29,6,Burg. Van Tuyllkade,11:52,115200
+29,7,Van Hoornekade,11:53,115300
+29,8,Ondiep,11:54,115400
+29,9,Nijenoord,11:56,115600
+29,10,David van Mollemstraat,11:58,115800
+29,11,Oudenoord,11:58,115800
+29,12,Sint Jacobsstraat,12:00,120000
+29,13,CS Jaarbeurszijde,12:08,120800
+29,14,CS Jaarbeurszijde,12:10,121000
+29,15,Overste den Oudenlaan,12:16,121600
+29,16,Van Bijnkershoeklaan,12:17,121700
+29,17,24 Oktoberplein-Zuid,12:19,121900
+29,18,Winkelcentrum Kanaleneiland,12:22,122200
+29,19,Marco Pololaan,12:24,122400
+29,20,Columbuslaan/Afrikalaan,12:25,122500
+29,21,Bontekoelaan,12:26,122600
+29,22,Woonboulevard,12:27,122700
+29,23,Rijkswaterstaat,12:30,123000
+29,24,P+R Westraven,12:32,123200
+30,1,Professor Bavinckstraat,12:01,120100
+30,2,Cornelis Smeenkstraat,12:02,120200
+30,3,De Bazelstraat,12:03,120300
+30,4,Prins Bernhardplein,12:04,120400
+30,5,Prins Bernhardlaan,12:05,120500
+30,6,Burg. Van Tuyllkade,12:07,120700
+30,7,Van Hoornekade,12:08,120800
+30,8,Ondiep,12:09,120900
+30,9,Nijenoord,12:11,121100
+30,10,David van Mollemstraat,12:13,121300
+30,11,Oudenoord,12:13,121300
+30,12,Sint Jacobsstraat,12:15,121500
+30,13,CS Jaarbeurszijde,12:23,122300
+30,14,CS Jaarbeurszijde,12:25,122500
+30,15,Overste den Oudenlaan,12:31,123100
+30,16,Van Bijnkershoeklaan,12:32,123200
+30,17,24 Oktoberplein-Zuid,12:34,123400
+30,18,Winkelcentrum Kanaleneiland,12:37,123700
+30,19,Marco Pololaan,12:39,123900
+30,20,Columbuslaan/Afrikalaan,12:40,124000
+30,21,Bontekoelaan,12:41,124100
+30,22,Woonboulevard,12:42,124200
+30,23,Rijkswaterstaat,12:45,124500
+30,24,P+R Westraven,12:47,124700
+31,1,Professor Bavinckstraat,12:16,121600
+31,2,Cornelis Smeenkstraat,12:17,121700
+31,3,De Bazelstraat,12:18,121800
+31,4,Prins Bernhardplein,12:19,121900
+31,5,Prins Bernhardlaan,12:20,122000
+31,6,Burg. Van Tuyllkade,12:22,122200
+31,7,Van Hoornekade,12:23,122300
+31,8,Ondiep,12:24,122400
+31,9,Nijenoord,12:26,122600
+31,10,David van Mollemstraat,12:28,122800
+31,11,Oudenoord,12:28,122800
+31,12,Sint Jacobsstraat,12:30,123000
+31,13,CS Jaarbeurszijde,12:38,123800
+31,14,CS Jaarbeurszijde,12:40,124000
+31,15,Overste den Oudenlaan,12:46,124600
+31,16,Van Bijnkershoeklaan,12:47,124700
+31,17,24 Oktoberplein-Zuid,12:49,124900
+31,18,Winkelcentrum Kanaleneiland,12:52,125200
+31,19,Marco Pololaan,12:54,125400
+31,20,Columbuslaan/Afrikalaan,12:55,125500
+31,21,Bontekoelaan,12:56,125600
+31,22,Woonboulevard,12:57,125700
+31,23,Rijkswaterstaat,13:00,130000
+31,24,P+R Westraven,13:02,130200
+32,1,Professor Bavinckstraat,12:31,123100
+32,2,Cornelis Smeenkstraat,12:32,123200
+32,3,De Bazelstraat,12:33,123300
+32,4,Prins Bernhardplein,12:34,123400
+32,5,Prins Bernhardlaan,12:35,123500
+32,6,Burg. Van Tuyllkade,12:37,123700
+32,7,Van Hoornekade,12:38,123800
+32,8,Ondiep,12:39,123900
+32,9,Nijenoord,12:41,124100
+32,10,David van Mollemstraat,12:43,124300
+32,11,Oudenoord,12:43,124300
+32,12,Sint Jacobsstraat,12:45,124500
+32,13,CS Jaarbeurszijde,12:53,125300
+32,14,CS Jaarbeurszijde,12:55,125500
+32,15,Overste den Oudenlaan,13:01,130100
+32,16,Van Bijnkershoeklaan,13:02,130200
+32,17,24 Oktoberplein-Zuid,13:04,130400
+32,18,Winkelcentrum Kanaleneiland,13:07,130700
+32,19,Marco Pololaan,13:09,130900
+32,20,Columbuslaan/Afrikalaan,13:10,131000
+32,21,Bontekoelaan,13:11,131100
+32,22,Woonboulevard,13:12,131200
+32,23,Rijkswaterstaat,13:15,131500
+32,24,P+R Westraven,13:17,131700
+33,1,Professor Bavinckstraat,12:46,124600
+33,2,Cornelis Smeenkstraat,12:47,124700
+33,3,De Bazelstraat,12:48,124800
+33,4,Prins Bernhardplein,12:49,124900
+33,5,Prins Bernhardlaan,12:50,125000
+33,6,Burg. Van Tuyllkade,12:52,125200
+33,7,Van Hoornekade,12:53,125300
+33,8,Ondiep,12:54,125400
+33,9,Nijenoord,12:56,125600
+33,10,David van Mollemstraat,12:58,125800
+33,11,Oudenoord,12:58,125800
+33,12,Sint Jacobsstraat,13:00,130000
+33,13,CS Jaarbeurszijde,13:08,130800
+33,14,CS Jaarbeurszijde,13:10,131000
+33,15,Overste den Oudenlaan,13:16,131600
+33,16,Van Bijnkershoeklaan,13:17,131700
+33,17,24 Oktoberplein-Zuid,13:19,131900
+33,18,Winkelcentrum Kanaleneiland,13:22,132200
+33,19,Marco Pololaan,13:24,132400
+33,20,Columbuslaan/Afrikalaan,13:25,132500
+33,21,Bontekoelaan,13:26,132600
+33,22,Woonboulevard,13:27,132700
+33,23,Rijkswaterstaat,13:30,133000
+33,24,P+R Westraven,13:32,133200
+34,1,Professor Bavinckstraat,13:01,130100
+34,2,Cornelis Smeenkstraat,13:02,130200
+34,3,De Bazelstraat,13:03,130300
+34,4,Prins Bernhardplein,13:04,130400
+34,5,Prins Bernhardlaan,13:05,130500
+34,6,Burg. Van Tuyllkade,13:07,130700
+34,7,Van Hoornekade,13:08,130800
+34,8,Ondiep,13:09,130900
+34,9,Nijenoord,13:11,131100
+34,10,David van Mollemstraat,13:13,131300
+34,11,Oudenoord,13:13,131300
+34,12,Sint Jacobsstraat,13:15,131500
+34,13,CS Jaarbeurszijde,13:23,132300
+34,14,CS Jaarbeurszijde,13:25,132500
+34,15,Overste den Oudenlaan,13:31,133100
+34,16,Van Bijnkershoeklaan,13:32,133200
+34,17,24 Oktoberplein-Zuid,13:34,133400
+34,18,Winkelcentrum Kanaleneiland,13:37,133700
+34,19,Marco Pololaan,13:39,133900
+34,20,Columbuslaan/Afrikalaan,13:40,134000
+34,21,Bontekoelaan,13:41,134100
+34,22,Woonboulevard,13:42,134200
+34,23,Rijkswaterstaat,13:45,134500
+34,24,P+R Westraven,13:47,134700
+35,1,Professor Bavinckstraat,13:16,131600
+35,2,Cornelis Smeenkstraat,13:17,131700
+35,3,De Bazelstraat,13:18,131800
+35,4,Prins Bernhardplein,13:19,131900
+35,5,Prins Bernhardlaan,13:20,132000
+35,6,Burg. Van Tuyllkade,13:22,132200
+35,7,Van Hoornekade,13:23,132300
+35,8,Ondiep,13:24,132400
+35,9,Nijenoord,13:26,132600
+35,10,David van Mollemstraat,13:28,132800
+35,11,Oudenoord,13:28,132800
+35,12,Sint Jacobsstraat,13:30,133000
+35,13,CS Jaarbeurszijde,13:38,133800
+35,14,CS Jaarbeurszijde,13:40,134000
+35,15,Overste den Oudenlaan,13:46,134600
+35,16,Van Bijnkershoeklaan,13:47,134700
+35,17,24 Oktoberplein-Zuid,13:49,134900
+35,18,Winkelcentrum Kanaleneiland,13:52,135200
+35,19,Marco Pololaan,13:54,135400
+35,20,Columbuslaan/Afrikalaan,13:55,135500
+35,21,Bontekoelaan,13:56,135600
+35,22,Woonboulevard,13:57,135700
+35,23,Rijkswaterstaat,14:00,140000
+35,24,P+R Westraven,14:02,140200
+36,1,Professor Bavinckstraat,13:31,133100
+36,2,Cornelis Smeenkstraat,13:32,133200
+36,3,De Bazelstraat,13:33,133300
+36,4,Prins Bernhardplein,13:34,133400
+36,5,Prins Bernhardlaan,13:35,133500
+36,6,Burg. Van Tuyllkade,13:37,133700
+36,7,Van Hoornekade,13:38,133800
+36,8,Ondiep,13:39,133900
+36,9,Nijenoord,13:41,134100
+36,10,David van Mollemstraat,13:43,134300
+36,11,Oudenoord,13:43,134300
+36,12,Sint Jacobsstraat,13:45,134500
+36,13,CS Jaarbeurszijde,13:53,135300
+36,14,CS Jaarbeurszijde,13:55,135500
+36,15,Overste den Oudenlaan,14:01,140100
+36,16,Van Bijnkershoeklaan,14:02,140200
+36,17,24 Oktoberplein-Zuid,14:04,140400
+36,18,Winkelcentrum Kanaleneiland,14:07,140700
+36,19,Marco Pololaan,14:09,140900
+36,20,Columbuslaan/Afrikalaan,14:10,141000
+36,21,Bontekoelaan,14:11,141100
+36,22,Woonboulevard,14:12,141200
+36,23,Rijkswaterstaat,14:15,141500
+36,24,P+R Westraven,14:17,141700
+37,1,Professor Bavinckstraat,13:46,134600
+37,2,Cornelis Smeenkstraat,13:47,134700
+37,3,De Bazelstraat,13:48,134800
+37,4,Prins Bernhardplein,13:49,134900
+37,5,Prins Bernhardlaan,13:50,135000
+37,6,Burg. Van Tuyllkade,13:52,135200
+37,7,Van Hoornekade,13:53,135300
+37,8,Ondiep,13:54,135400
+37,9,Nijenoord,13:56,135600
+37,10,David van Mollemstraat,13:58,135800
+37,11,Oudenoord,13:58,135800
+37,12,Sint Jacobsstraat,14:00,140000
+37,13,CS Jaarbeurszijde,14:08,140800
+37,14,CS Jaarbeurszijde,14:10,141000
+37,15,Overste den Oudenlaan,14:16,141600
+37,16,Van Bijnkershoeklaan,14:17,141700
+37,17,24 Oktoberplein-Zuid,14:19,141900
+37,18,Winkelcentrum Kanaleneiland,14:22,142200
+37,19,Marco Pololaan,14:24,142400
+37,20,Columbuslaan/Afrikalaan,14:25,142500
+37,21,Bontekoelaan,14:26,142600
+37,22,Woonboulevard,14:27,142700
+37,23,Rijkswaterstaat,14:30,143000
+37,24,P+R Westraven,14:32,143200
+38,1,Professor Bavinckstraat,14:01,140100
+38,2,Cornelis Smeenkstraat,14:02,140200
+38,3,De Bazelstraat,14:03,140300
+38,4,Prins Bernhardplein,14:04,140400
+38,5,Prins Bernhardlaan,14:05,140500
+38,6,Burg. Van Tuyllkade,14:07,140700
+38,7,Van Hoornekade,14:08,140800
+38,8,Ondiep,14:09,140900
+38,9,Nijenoord,14:11,141100
+38,10,David van Mollemstraat,14:13,141300
+38,11,Oudenoord,14:13,141300
+38,12,Sint Jacobsstraat,14:15,141500
+38,13,CS Jaarbeurszijde,14:23,142300
+38,14,CS Jaarbeurszijde,14:25,142500
+38,15,Overste den Oudenlaan,14:31,143100
+38,16,Van Bijnkershoeklaan,14:32,143200
+38,17,24 Oktoberplein-Zuid,14:34,143400
+38,18,Winkelcentrum Kanaleneiland,14:37,143700
+38,19,Marco Pololaan,14:39,143900
+38,20,Columbuslaan/Afrikalaan,14:40,144000
+38,21,Bontekoelaan,14:41,144100
+38,22,Woonboulevard,14:42,144200
+38,23,Rijkswaterstaat,14:45,144500
+38,24,P+R Westraven,14:48,144800
+39,1,Professor Bavinckstraat,14:16,141600
+39,2,Cornelis Smeenkstraat,14:17,141700
+39,3,De Bazelstraat,14:18,141800
+39,4,Prins Bernhardplein,14:19,141900
+39,5,Prins Bernhardlaan,14:20,142000
+39,6,Burg. Van Tuyllkade,14:22,142200
+39,7,Van Hoornekade,14:23,142300
+39,8,Ondiep,14:24,142400
+39,9,Nijenoord,14:26,142600
+39,10,David van Mollemstraat,14:28,142800
+39,11,Oudenoord,14:28,142800
+39,12,Sint Jacobsstraat,14:30,143000
+39,13,CS Jaarbeurszijde,14:38,143800
+39,14,CS Jaarbeurszijde,14:40,144000
+39,15,Overste den Oudenlaan,14:47,144700
+39,16,Van Bijnkershoeklaan,14:48,144800
+39,17,24 Oktoberplein-Zuid,14:50,145000
+39,18,Winkelcentrum Kanaleneiland,14:53,145300
+39,19,Marco Pololaan,14:55,145500
+39,20,Columbuslaan/Afrikalaan,14:56,145600
+39,21,Bontekoelaan,14:57,145700
+39,22,Woonboulevard,14:58,145800
+39,23,Rijkswaterstaat,15:01,150100
+39,24,P+R Westraven,15:04,150400
+40,1,Professor Bavinckstraat,14:31,143100
+40,2,Cornelis Smeenkstraat,14:32,143200
+40,3,De Bazelstraat,14:33,143300
+40,4,Prins Bernhardplein,14:34,143400
+40,5,Prins Bernhardlaan,14:35,143500
+40,6,Burg. Van Tuyllkade,14:37,143700
+40,7,Van Hoornekade,14:38,143800
+40,8,Ondiep,14:39,143900
+40,9,Nijenoord,14:41,144100
+40,10,David van Mollemstraat,14:43,144300
+40,11,Oudenoord,14:43,144300
+40,12,Sint Jacobsstraat,14:45,144500
+40,13,CS Jaarbeurszijde,14:53,145300
+40,14,CS Jaarbeurszijde,14:55,145500
+40,15,Overste den Oudenlaan,15:02,150200
+40,16,Van Bijnkershoeklaan,15:03,150300
+40,17,24 Oktoberplein-Zuid,15:05,150500
+40,18,Winkelcentrum Kanaleneiland,15:08,150800
+40,19,Marco Pololaan,15:10,151000
+40,20,Columbuslaan/Afrikalaan,15:11,151100
+40,21,Bontekoelaan,15:12,151200
+40,22,Woonboulevard,15:13,151300
+40,23,Rijkswaterstaat,15:16,151600
+40,24,P+R Westraven,15:19,151900
+41,1,Professor Bavinckstraat,14:46,144600
+41,2,Cornelis Smeenkstraat,14:47,144700
+41,3,De Bazelstraat,14:48,144800
+41,4,Prins Bernhardplein,14:49,144900
+41,5,Prins Bernhardlaan,14:50,145000
+41,6,Burg. Van Tuyllkade,14:52,145200
+41,7,Van Hoornekade,14:53,145300
+41,8,Ondiep,14:54,145400
+41,9,Nijenoord,14:56,145600
+41,10,David van Mollemstraat,14:58,145800
+41,11,Oudenoord,14:58,145800
+41,12,Sint Jacobsstraat,15:00,150000
+41,13,CS Jaarbeurszijde,15:08,150800
+41,14,CS Jaarbeurszijde,15:10,151000
+41,15,Overste den Oudenlaan,15:17,151700
+41,16,Van Bijnkershoeklaan,15:18,151800
+41,17,24 Oktoberplein-Zuid,15:20,152000
+41,18,Winkelcentrum Kanaleneiland,15:23,152300
+41,19,Marco Pololaan,15:25,152500
+41,20,Columbuslaan/Afrikalaan,15:26,152600
+41,21,Bontekoelaan,15:27,152700
+41,22,Woonboulevard,15:28,152800
+41,23,Rijkswaterstaat,15:31,153100
+41,24,P+R Westraven,15:34,153400
+42,1,Professor Bavinckstraat,15:01,150100
+42,2,Cornelis Smeenkstraat,15:02,150200
+42,3,De Bazelstraat,15:03,150300
+42,4,Prins Bernhardplein,15:04,150400
+42,5,Prins Bernhardlaan,15:05,150500
+42,6,Burg. Van Tuyllkade,15:07,150700
+42,7,Van Hoornekade,15:08,150800
+42,8,Ondiep,15:09,150900
+42,9,Nijenoord,15:11,151100
+42,10,David van Mollemstraat,15:13,151300
+42,11,Oudenoord,15:13,151300
+42,12,Sint Jacobsstraat,15:15,151500
+42,13,CS Jaarbeurszijde,15:23,152300
+42,14,CS Jaarbeurszijde,15:25,152500
+42,15,Overste den Oudenlaan,15:32,153200
+42,16,Van Bijnkershoeklaan,15:33,153300
+42,17,24 Oktoberplein-Zuid,15:35,153500
+42,18,Winkelcentrum Kanaleneiland,15:38,153800
+42,19,Marco Pololaan,15:40,154000
+42,20,Columbuslaan/Afrikalaan,15:41,154100
+42,21,Bontekoelaan,15:42,154200
+42,22,Woonboulevard,15:43,154300
+42,23,Rijkswaterstaat,15:46,154600
+42,24,P+R Westraven,15:49,154900
+43,1,Professor Bavinckstraat,15:11,151100
+43,2,Cornelis Smeenkstraat,15:12,151200
+43,3,De Bazelstraat,15:13,151300
+43,4,Prins Bernhardplein,15:14,151400
+43,5,Prins Bernhardlaan,15:15,151500
+43,6,Burg. Van Tuyllkade,15:17,151700
+43,7,Van Hoornekade,15:18,151800
+43,8,Ondiep,15:19,151900
+43,9,Nijenoord,15:21,152100
+43,10,David van Mollemstraat,15:23,152300
+43,11,Oudenoord,15:23,152300
+43,12,Sint Jacobsstraat,15:25,152500
+43,13,CS Jaarbeurszijde,15:33,153300
+43,14,CS Jaarbeurszijde,15:35,153500
+43,15,Overste den Oudenlaan,15:42,154200
+43,16,Van Bijnkershoeklaan,15:43,154300
+43,17,24 Oktoberplein-Zuid,15:45,154500
+43,18,Winkelcentrum Kanaleneiland,15:48,154800
+43,19,Marco Pololaan,15:50,155000
+43,20,Columbuslaan/Afrikalaan,15:51,155100
+43,21,Bontekoelaan,15:52,155200
+43,22,Woonboulevard,15:53,155300
+43,23,Rijkswaterstaat,15:56,155600
+43,24,P+R Westraven,15:59,155900
+44,1,Professor Bavinckstraat,15:21,152100
+44,2,Cornelis Smeenkstraat,15:22,152200
+44,3,De Bazelstraat,15:23,152300
+44,4,Prins Bernhardplein,15:24,152400
+44,5,Prins Bernhardlaan,15:25,152500
+44,6,Burg. Van Tuyllkade,15:27,152700
+44,7,Van Hoornekade,15:28,152800
+44,8,Ondiep,15:29,152900
+44,9,Nijenoord,15:31,153100
+44,10,David van Mollemstraat,15:33,153300
+44,11,Oudenoord,15:33,153300
+44,12,Sint Jacobsstraat,15:35,153500
+44,13,CS Jaarbeurszijde,15:43,154300
+44,14,CS Jaarbeurszijde,15:45,154500
+44,15,Overste den Oudenlaan,15:52,155200
+44,16,Van Bijnkershoeklaan,15:53,155300
+44,17,24 Oktoberplein-Zuid,15:55,155500
+44,18,Winkelcentrum Kanaleneiland,15:58,155800
+44,19,Marco Pololaan,16:00,160000
+44,20,Columbuslaan/Afrikalaan,16:01,160100
+44,21,Bontekoelaan,16:02,160200
+44,22,Woonboulevard,16:03,160300
+44,23,Rijkswaterstaat,16:06,160600
+44,24,P+R Westraven,16:09,160900
+45,1,Professor Bavinckstraat,15:31,153100
+45,2,Cornelis Smeenkstraat,15:32,153200
+45,3,De Bazelstraat,15:33,153300
+45,4,Prins Bernhardplein,15:34,153400
+45,5,Prins Bernhardlaan,15:35,153500
+45,6,Burg. Van Tuyllkade,15:37,153700
+45,7,Van Hoornekade,15:38,153800
+45,8,Ondiep,15:39,153900
+45,9,Nijenoord,15:41,154100
+45,10,David van Mollemstraat,15:43,154300
+45,11,Oudenoord,15:43,154300
+45,12,Sint Jacobsstraat,15:45,154500
+45,13,CS Jaarbeurszijde,15:53,155300
+45,14,CS Jaarbeurszijde,15:55,155500
+45,15,Overste den Oudenlaan,16:02,160200
+45,16,Van Bijnkershoeklaan,16:03,160300
+45,17,24 Oktoberplein-Zuid,16:05,160500
+45,18,Winkelcentrum Kanaleneiland,16:08,160800
+45,19,Marco Pololaan,16:10,161000
+45,20,Columbuslaan/Afrikalaan,16:11,161100
+45,21,Bontekoelaan,16:12,161200
+45,22,Woonboulevard,16:13,161300
+45,23,Rijkswaterstaat,16:16,161600
+45,24,P+R Westraven,16:19,161900
+46,1,Professor Bavinckstraat,15:41,154100
+46,2,Cornelis Smeenkstraat,15:42,154200
+46,3,De Bazelstraat,15:43,154300
+46,4,Prins Bernhardplein,15:44,154400
+46,5,Prins Bernhardlaan,15:45,154500
+46,6,Burg. Van Tuyllkade,15:47,154700
+46,7,Van Hoornekade,15:48,154800
+46,8,Ondiep,15:49,154900
+46,9,Nijenoord,15:51,155100
+46,10,David van Mollemstraat,15:53,155300
+46,11,Oudenoord,15:53,155300
+46,12,Sint Jacobsstraat,15:55,155500
+46,13,CS Jaarbeurszijde,16:03,160300
+46,14,CS Jaarbeurszijde,16:05,160500
+46,15,Overste den Oudenlaan,16:12,161200
+46,16,Van Bijnkershoeklaan,16:13,161300
+46,17,24 Oktoberplein-Zuid,16:15,161500
+46,18,Winkelcentrum Kanaleneiland,16:18,161800
+46,19,Marco Pololaan,16:20,162000
+46,20,Columbuslaan/Afrikalaan,16:21,162100
+46,21,Bontekoelaan,16:22,162200
+46,22,Woonboulevard,16:23,162300
+46,23,Rijkswaterstaat,16:26,162600
+46,24,P+R Westraven,16:29,162900
+47,1,Professor Bavinckstraat,15:51,155100
+47,2,Cornelis Smeenkstraat,15:52,155200
+47,3,De Bazelstraat,15:53,155300
+47,4,Prins Bernhardplein,15:54,155400
+47,5,Prins Bernhardlaan,15:55,155500
+47,6,Burg. Van Tuyllkade,15:57,155700
+47,7,Van Hoornekade,15:58,155800
+47,8,Ondiep,15:59,155900
+47,9,Nijenoord,16:01,160100
+47,10,David van Mollemstraat,16:03,160300
+47,11,Oudenoord,16:03,160300
+47,12,Sint Jacobsstraat,16:05,160500
+47,13,CS Jaarbeurszijde,16:13,161300
+47,14,CS Jaarbeurszijde,16:15,161500
+47,15,Overste den Oudenlaan,16:22,162200
+47,16,Van Bijnkershoeklaan,16:23,162300
+47,17,24 Oktoberplein-Zuid,16:25,162500
+47,18,Winkelcentrum Kanaleneiland,16:28,162800
+47,19,Marco Pololaan,16:30,163000
+47,20,Columbuslaan/Afrikalaan,16:31,163100
+47,21,Bontekoelaan,16:32,163200
+47,22,Woonboulevard,16:33,163300
+47,23,Rijkswaterstaat,16:36,163600
+47,24,P+R Westraven,16:39,163900
+48,1,Professor Bavinckstraat,16:01,160100
+48,2,Cornelis Smeenkstraat,16:02,160200
+48,3,De Bazelstraat,16:03,160300
+48,4,Prins Bernhardplein,16:04,160400
+48,5,Prins Bernhardlaan,16:05,160500
+48,6,Burg. Van Tuyllkade,16:07,160700
+48,7,Van Hoornekade,16:08,160800
+48,8,Ondiep,16:09,160900
+48,9,Nijenoord,16:11,161100
+48,10,David van Mollemstraat,16:13,161300
+48,11,Oudenoord,16:13,161300
+48,12,Sint Jacobsstraat,16:15,161500
+48,13,CS Jaarbeurszijde,16:23,162300
+48,14,CS Jaarbeurszijde,16:25,162500
+48,15,Overste den Oudenlaan,16:32,163200
+48,16,Van Bijnkershoeklaan,16:33,163300
+48,17,24 Oktoberplein-Zuid,16:35,163500
+48,18,Winkelcentrum Kanaleneiland,16:38,163800
+48,19,Marco Pololaan,16:40,164000
+48,20,Columbuslaan/Afrikalaan,16:41,164100
+48,21,Bontekoelaan,16:42,164200
+48,22,Woonboulevard,16:43,164300
+48,23,Rijkswaterstaat,16:46,164600
+48,24,P+R Westraven,16:49,164900
+49,1,Professor Bavinckstraat,16:11,161100
+49,2,Cornelis Smeenkstraat,16:12,161200
+49,3,De Bazelstraat,16:13,161300
+49,4,Prins Bernhardplein,16:14,161400
+49,5,Prins Bernhardlaan,16:15,161500
+49,6,Burg. Van Tuyllkade,16:17,161700
+49,7,Van Hoornekade,16:18,161800
+49,8,Ondiep,16:19,161900
+49,9,Nijenoord,16:21,162100
+49,10,David van Mollemstraat,16:23,162300
+49,11,Oudenoord,16:23,162300
+49,12,Sint Jacobsstraat,16:25,162500
+49,13,CS Jaarbeurszijde,16:33,163300
+49,14,CS Jaarbeurszijde,16:35,163500
+49,15,Overste den Oudenlaan,16:42,164200
+49,16,Van Bijnkershoeklaan,16:43,164300
+49,17,24 Oktoberplein-Zuid,16:45,164500
+49,18,Winkelcentrum Kanaleneiland,16:48,164800
+49,19,Marco Pololaan,16:50,165000
+49,20,Columbuslaan/Afrikalaan,16:51,165100
+49,21,Bontekoelaan,16:52,165200
+49,22,Woonboulevard,16:53,165300
+49,23,Rijkswaterstaat,16:56,165600
+49,24,P+R Westraven,16:59,165900
+50,1,Professor Bavinckstraat,16:21,162100
+50,2,Cornelis Smeenkstraat,16:22,162200
+50,3,De Bazelstraat,16:23,162300
+50,4,Prins Bernhardplein,16:24,162400
+50,5,Prins Bernhardlaan,16:25,162500
+50,6,Burg. Van Tuyllkade,16:27,162700
+50,7,Van Hoornekade,16:28,162800
+50,8,Ondiep,16:29,162900
+50,9,Nijenoord,16:31,163100
+50,10,David van Mollemstraat,16:33,163300
+50,11,Oudenoord,16:33,163300
+50,12,Sint Jacobsstraat,16:35,163500
+50,13,CS Jaarbeurszijde,16:43,164300
+50,14,CS Jaarbeurszijde,16:45,164500
+50,15,Overste den Oudenlaan,16:52,165200
+50,16,Van Bijnkershoeklaan,16:53,165300
+50,17,24 Oktoberplein-Zuid,16:55,165500
+50,18,Winkelcentrum Kanaleneiland,16:58,165800
+50,19,Marco Pololaan,17:00,170000
+50,20,Columbuslaan/Afrikalaan,17:01,170100
+50,21,Bontekoelaan,17:02,170200
+50,22,Woonboulevard,17:03,170300
+50,23,Rijkswaterstaat,17:06,170600
+50,24,P+R Westraven,17:09,170900
+51,1,Professor Bavinckstraat,16:31,163100
+51,2,Cornelis Smeenkstraat,16:32,163200
+51,3,De Bazelstraat,16:33,163300
+51,4,Prins Bernhardplein,16:34,163400
+51,5,Prins Bernhardlaan,16:35,163500
+51,6,Burg. Van Tuyllkade,16:37,163700
+51,7,Van Hoornekade,16:38,163800
+51,8,Ondiep,16:39,163900
+51,9,Nijenoord,16:41,164100
+51,10,David van Mollemstraat,16:43,164300
+51,11,Oudenoord,16:43,164300
+51,12,Sint Jacobsstraat,16:45,164500
+51,13,CS Jaarbeurszijde,16:53,165300
+51,14,CS Jaarbeurszijde,16:55,165500
+51,15,Overste den Oudenlaan,17:02,170200
+51,16,Van Bijnkershoeklaan,17:03,170300
+51,17,24 Oktoberplein-Zuid,17:05,170500
+51,18,Winkelcentrum Kanaleneiland,17:08,170800
+51,19,Marco Pololaan,17:10,171000
+51,20,Columbuslaan/Afrikalaan,17:11,171100
+51,21,Bontekoelaan,17:12,171200
+51,22,Woonboulevard,17:13,171300
+51,23,Rijkswaterstaat,17:16,171600
+51,24,P+R Westraven,17:19,171900
+52,1,Professor Bavinckstraat,16:41,164100
+52,2,Cornelis Smeenkstraat,16:42,164200
+52,3,De Bazelstraat,16:43,164300
+52,4,Prins Bernhardplein,16:44,164400
+52,5,Prins Bernhardlaan,16:45,164500
+52,6,Burg. Van Tuyllkade,16:47,164700
+52,7,Van Hoornekade,16:48,164800
+52,8,Ondiep,16:49,164900
+52,9,Nijenoord,16:51,165100
+52,10,David van Mollemstraat,16:53,165300
+52,11,Oudenoord,16:53,165300
+52,12,Sint Jacobsstraat,16:55,165500
+52,13,CS Jaarbeurszijde,17:03,170300
+52,14,CS Jaarbeurszijde,17:05,170500
+52,15,Overste den Oudenlaan,17:12,171200
+52,16,Van Bijnkershoeklaan,17:13,171300
+52,17,24 Oktoberplein-Zuid,17:15,171500
+52,18,Winkelcentrum Kanaleneiland,17:18,171800
+52,19,Marco Pololaan,17:20,172000
+52,20,Columbuslaan/Afrikalaan,17:21,172100
+52,21,Bontekoelaan,17:22,172200
+52,22,Woonboulevard,17:23,172300
+52,23,Rijkswaterstaat,17:26,172600
+52,24,P+R Westraven,17:29,172900
+53,1,Professor Bavinckstraat,16:51,165100
+53,2,Cornelis Smeenkstraat,16:52,165200
+53,3,De Bazelstraat,16:53,165300
+53,4,Prins Bernhardplein,16:54,165400
+53,5,Prins Bernhardlaan,16:55,165500
+53,6,Burg. Van Tuyllkade,16:57,165700
+53,7,Van Hoornekade,16:58,165800
+53,8,Ondiep,16:59,165900
+53,9,Nijenoord,17:01,170100
+53,10,David van Mollemstraat,17:03,170300
+53,11,Oudenoord,17:03,170300
+53,12,Sint Jacobsstraat,17:05,170500
+53,13,CS Jaarbeurszijde,17:13,171300
+53,14,CS Jaarbeurszijde,17:15,171500
+53,15,Overste den Oudenlaan,17:22,172200
+53,16,Van Bijnkershoeklaan,17:23,172300
+53,17,24 Oktoberplein-Zuid,17:25,172500
+53,18,Winkelcentrum Kanaleneiland,17:28,172800
+53,19,Marco Pololaan,17:30,173000
+53,20,Columbuslaan/Afrikalaan,17:31,173100
+53,21,Bontekoelaan,17:32,173200
+53,22,Woonboulevard,17:33,173300
+53,23,Rijkswaterstaat,17:36,173600
+53,24,P+R Westraven,17:39,173900
+54,1,Professor Bavinckstraat,17:01,170100
+54,2,Cornelis Smeenkstraat,17:02,170200
+54,3,De Bazelstraat,17:03,170300
+54,4,Prins Bernhardplein,17:04,170400
+54,5,Prins Bernhardlaan,17:05,170500
+54,6,Burg. Van Tuyllkade,17:07,170700
+54,7,Van Hoornekade,17:08,170800
+54,8,Ondiep,17:09,170900
+54,9,Nijenoord,17:11,171100
+54,10,David van Mollemstraat,17:13,171300
+54,11,Oudenoord,17:13,171300
+54,12,Sint Jacobsstraat,17:15,171500
+54,13,CS Jaarbeurszijde,17:23,172300
+54,14,CS Jaarbeurszijde,17:25,172500
+54,15,Overste den Oudenlaan,17:32,173200
+54,16,Van Bijnkershoeklaan,17:33,173300
+54,17,24 Oktoberplein-Zuid,17:35,173500
+54,18,Winkelcentrum Kanaleneiland,17:38,173800
+54,19,Marco Pololaan,17:40,174000
+54,20,Columbuslaan/Afrikalaan,17:41,174100
+54,21,Bontekoelaan,17:42,174200
+54,22,Woonboulevard,17:43,174300
+54,23,Rijkswaterstaat,17:46,174600
+54,24,P+R Westraven,17:48,174800
+55,1,Professor Bavinckstraat,17:11,171100
+55,2,Cornelis Smeenkstraat,17:12,171200
+55,3,De Bazelstraat,17:13,171300
+55,4,Prins Bernhardplein,17:14,171400
+55,5,Prins Bernhardlaan,17:15,171500
+55,6,Burg. Van Tuyllkade,17:17,171700
+55,7,Van Hoornekade,17:18,171800
+55,8,Ondiep,17:19,171900
+55,9,Nijenoord,17:21,172100
+55,10,David van Mollemstraat,17:23,172300
+55,11,Oudenoord,17:23,172300
+55,12,Sint Jacobsstraat,17:25,172500
+55,13,CS Jaarbeurszijde,17:33,173300
+55,14,CS Jaarbeurszijde,17:35,173500
+55,15,Overste den Oudenlaan,17:42,174200
+55,16,Van Bijnkershoeklaan,17:43,174300
+55,17,24 Oktoberplein-Zuid,17:45,174500
+55,18,Winkelcentrum Kanaleneiland,17:48,174800
+55,19,Marco Pololaan,17:50,175000
+55,20,Columbuslaan/Afrikalaan,17:51,175100
+55,21,Bontekoelaan,17:52,175200
+55,22,Woonboulevard,17:53,175300
+55,23,Rijkswaterstaat,17:56,175600
+55,24,P+R Westraven,17:58,175800
+56,1,Professor Bavinckstraat,17:21,172100
+56,2,Cornelis Smeenkstraat,17:22,172200
+56,3,De Bazelstraat,17:23,172300
+56,4,Prins Bernhardplein,17:24,172400
+56,5,Prins Bernhardlaan,17:25,172500
+56,6,Burg. Van Tuyllkade,17:27,172700
+56,7,Van Hoornekade,17:28,172800
+56,8,Ondiep,17:29,172900
+56,9,Nijenoord,17:31,173100
+56,10,David van Mollemstraat,17:33,173300
+56,11,Oudenoord,17:33,173300
+56,12,Sint Jacobsstraat,17:35,173500
+56,13,CS Jaarbeurszijde,17:43,174300
+56,14,CS Jaarbeurszijde,17:45,174500
+56,15,Overste den Oudenlaan,17:51,175100
+56,16,Van Bijnkershoeklaan,17:52,175200
+56,17,24 Oktoberplein-Zuid,17:54,175400
+56,18,Winkelcentrum Kanaleneiland,17:57,175700
+56,19,Marco Pololaan,17:59,175900
+56,20,Columbuslaan/Afrikalaan,18:00,180000
+56,21,Bontekoelaan,18:01,180100
+56,22,Woonboulevard,18:02,180200
+56,23,Rijkswaterstaat,18:05,180500
+56,24,P+R Westraven,18:07,180700
+57,1,Professor Bavinckstraat,17:31,173100
+57,2,Cornelis Smeenkstraat,17:32,173200
+57,3,De Bazelstraat,17:33,173300
+57,4,Prins Bernhardplein,17:34,173400
+57,5,Prins Bernhardlaan,17:35,173500
+57,6,Burg. Van Tuyllkade,17:37,173700
+57,7,Van Hoornekade,17:38,173800
+57,8,Ondiep,17:39,173900
+57,9,Nijenoord,17:41,174100
+57,10,David van Mollemstraat,17:43,174300
+57,11,Oudenoord,17:43,174300
+57,12,Sint Jacobsstraat,17:45,174500
+57,13,CS Jaarbeurszijde,17:53,175300
+57,14,CS Jaarbeurszijde,17:55,175500
+57,15,Overste den Oudenlaan,18:01,180100
+57,16,Van Bijnkershoeklaan,18:02,180200
+57,17,24 Oktoberplein-Zuid,18:04,180400
+57,18,Winkelcentrum Kanaleneiland,18:07,180700
+57,19,Marco Pololaan,18:09,180900
+57,20,Columbuslaan/Afrikalaan,18:10,181000
+57,21,Bontekoelaan,18:11,181100
+57,22,Woonboulevard,18:12,181200
+57,23,Rijkswaterstaat,18:15,181500
+57,24,P+R Westraven,18:17,181700
+58,1,Professor Bavinckstraat,17:41,174100
+58,2,Cornelis Smeenkstraat,17:42,174200
+58,3,De Bazelstraat,17:43,174300
+58,4,Prins Bernhardplein,17:44,174400
+58,5,Prins Bernhardlaan,17:45,174500
+58,6,Burg. Van Tuyllkade,17:47,174700
+58,7,Van Hoornekade,17:48,174800
+58,8,Ondiep,17:49,174900
+58,9,Nijenoord,17:51,175100
+58,10,David van Mollemstraat,17:53,175300
+58,11,Oudenoord,17:53,175300
+58,12,Sint Jacobsstraat,17:55,175500
+58,13,CS Jaarbeurszijde,18:03,180300
+58,14,CS Jaarbeurszijde,18:05,180500
+58,15,Overste den Oudenlaan,18:11,181100
+58,16,Van Bijnkershoeklaan,18:12,181200
+58,17,24 Oktoberplein-Zuid,18:14,181400
+58,18,Winkelcentrum Kanaleneiland,18:17,181700
+58,19,Marco Pololaan,18:19,181900
+58,20,Columbuslaan/Afrikalaan,18:20,182000
+58,21,Bontekoelaan,18:21,182100
+58,22,Woonboulevard,18:22,182200
+58,23,Rijkswaterstaat,18:25,182500
+58,24,P+R Westraven,18:27,182700
+59,1,Professor Bavinckstraat,17:51,175100
+59,2,Cornelis Smeenkstraat,17:52,175200
+59,3,De Bazelstraat,17:53,175300
+59,4,Prins Bernhardplein,17:54,175400
+59,5,Prins Bernhardlaan,17:55,175500
+59,6,Burg. Van Tuyllkade,17:57,175700
+59,7,Van Hoornekade,17:58,175800
+59,8,Ondiep,17:59,175900
+59,9,Nijenoord,18:01,180100
+59,10,David van Mollemstraat,18:03,180300
+59,11,Oudenoord,18:03,180300
+59,12,Sint Jacobsstraat,18:05,180500
+59,13,CS Jaarbeurszijde,18:13,181300
+59,14,CS Jaarbeurszijde,18:15,181500
+59,15,Overste den Oudenlaan,18:21,182100
+59,16,Van Bijnkershoeklaan,18:22,182200
+59,17,24 Oktoberplein-Zuid,18:24,182400
+59,18,Winkelcentrum Kanaleneiland,18:27,182700
+59,19,Marco Pololaan,18:29,182900
+59,20,Columbuslaan/Afrikalaan,18:30,183000
+59,21,Bontekoelaan,18:31,183100
+59,22,Woonboulevard,18:32,183200
+59,23,Rijkswaterstaat,18:35,183500
+59,24,P+R Westraven,18:37,183700
+60,1,Professor Bavinckstraat,18:01,180100
+60,2,Cornelis Smeenkstraat,18:02,180200
+60,3,De Bazelstraat,18:03,180300
+60,4,Prins Bernhardplein,18:04,180400
+60,5,Prins Bernhardlaan,18:05,180500
+60,6,Burg. Van Tuyllkade,18:07,180700
+60,7,Van Hoornekade,18:08,180800
+60,8,Ondiep,18:09,180900
+60,9,Nijenoord,18:11,181100
+60,10,David van Mollemstraat,18:13,181300
+60,11,Oudenoord,18:13,181300
+60,12,Sint Jacobsstraat,18:15,181500
+60,13,CS Jaarbeurszijde,18:23,182300
+60,14,CS Jaarbeurszijde,18:25,182500
+60,15,Overste den Oudenlaan,18:31,183100
+60,16,Van Bijnkershoeklaan,18:32,183200
+60,17,24 Oktoberplein-Zuid,18:34,183400
+60,18,Winkelcentrum Kanaleneiland,18:37,183700
+60,19,Marco Pololaan,18:39,183900
+60,20,Columbuslaan/Afrikalaan,18:40,184000
+60,21,Bontekoelaan,18:41,184100
+60,22,Woonboulevard,18:42,184200
+60,23,Rijkswaterstaat,18:45,184500
+60,24,P+R Westraven,18:47,184700
+61,1,Professor Bavinckstraat,18:16,181600
+61,2,Cornelis Smeenkstraat,18:17,181700
+61,3,De Bazelstraat,18:18,181800
+61,4,Prins Bernhardplein,18:19,181900
+61,5,Prins Bernhardlaan,18:20,182000
+61,6,Burg. Van Tuyllkade,18:22,182200
+61,7,Van Hoornekade,18:23,182300
+61,8,Ondiep,18:24,182400
+61,9,Nijenoord,18:25,182500
+61,10,David van Mollemstraat,18:27,182700
+61,11,Oudenoord,18:27,182700
+61,12,Sint Jacobsstraat,18:29,182900
+61,13,CS Jaarbeurszijde,18:36,183600
+61,14,CS Jaarbeurszijde,18:38,183800
+61,15,Overste den Oudenlaan,18:44,184400
+61,16,Van Bijnkershoeklaan,18:45,184500
+61,17,24 Oktoberplein-Zuid,18:47,184700
+61,18,Winkelcentrum Kanaleneiland,18:50,185000
+61,19,Marco Pololaan,18:52,185200
+61,20,Columbuslaan/Afrikalaan,18:53,185300
+61,21,Bontekoelaan,18:54,185400
+61,22,Woonboulevard,18:55,185500
+61,23,Rijkswaterstaat,18:58,185800
+61,24,P+R Westraven,19:00,190000
+62,1,Professor Bavinckstraat,18:31,183100
+62,2,Cornelis Smeenkstraat,18:32,183200
+62,3,De Bazelstraat,18:33,183300
+62,4,Prins Bernhardplein,18:34,183400
+62,5,Prins Bernhardlaan,18:35,183500
+62,6,Burg. Van Tuyllkade,18:37,183700
+62,7,Van Hoornekade,18:38,183800
+62,8,Ondiep,18:39,183900
+62,9,Nijenoord,18:40,184000
+62,10,David van Mollemstraat,18:42,184200
+62,11,Oudenoord,18:42,184200
+62,12,Sint Jacobsstraat,18:44,184400
+62,13,CS Jaarbeurszijde,18:51,185100
+62,14,CS Jaarbeurszijde,18:53,185300
+62,15,Overste den Oudenlaan,18:59,185900
+62,16,Van Bijnkershoeklaan,19:00,190000
+62,17,24 Oktoberplein-Zuid,19:02,190200
+62,18,Winkelcentrum Kanaleneiland,19:05,190500
+62,19,Marco Pololaan,19:07,190700
+62,20,Columbuslaan/Afrikalaan,19:08,190800
+62,21,Bontekoelaan,19:09,190900
+62,22,Woonboulevard,19:10,191000
+62,23,Rijkswaterstaat,19:13,191300
+62,24,P+R Westraven,19:15,191500
+63,1,Professor Bavinckstraat,18:46,184600
+63,2,Cornelis Smeenkstraat,18:47,184700
+63,3,De Bazelstraat,18:48,184800
+63,4,Prins Bernhardplein,18:49,184900
+63,5,Prins Bernhardlaan,18:50,185000
+63,6,Burg. Van Tuyllkade,18:52,185200
+63,7,Van Hoornekade,18:53,185300
+63,8,Ondiep,18:54,185400
+63,9,Nijenoord,18:55,185500
+63,10,David van Mollemstraat,18:57,185700
+63,11,Oudenoord,18:57,185700
+63,12,Sint Jacobsstraat,18:59,185900
+63,13,CS Jaarbeurszijde,19:06,190600
+63,14,CS Jaarbeurszijde,19:08,190800
+63,15,Overste den Oudenlaan,19:13,191300
+63,16,Van Bijnkershoeklaan,19:14,191400
+63,17,24 Oktoberplein-Zuid,19:16,191600
+63,18,Winkelcentrum Kanaleneiland,19:19,191900
+63,19,Marco Pololaan,19:21,192100
+63,20,Columbuslaan/Afrikalaan,19:21,192100
+63,21,Bontekoelaan,19:22,192200
+63,22,Woonboulevard,19:23,192300
+63,23,Rijkswaterstaat,19:26,192600
+63,24,P+R Westraven,19:28,192800
+64,1,Professor Bavinckstraat,19:01,190100
+64,2,Cornelis Smeenkstraat,19:02,190200
+64,3,De Bazelstraat,19:03,190300
+64,4,Prins Bernhardplein,19:04,190400
+64,5,Prins Bernhardlaan,19:05,190500
+64,6,Burg. Van Tuyllkade,19:07,190700
+64,7,Van Hoornekade,19:08,190800
+64,8,Ondiep,19:09,190900
+64,9,Nijenoord,19:10,191000
+64,10,David van Mollemstraat,19:12,191200
+64,11,Oudenoord,19:12,191200
+64,12,Sint Jacobsstraat,19:14,191400
+64,13,CS Jaarbeurszijde,19:21,192100
+64,14,CS Jaarbeurszijde,19:23,192300
+64,15,Overste den Oudenlaan,19:28,192800
+64,16,Van Bijnkershoeklaan,19:29,192900
+64,17,24 Oktoberplein-Zuid,19:31,193100
+64,18,Winkelcentrum Kanaleneiland,19:34,193400
+64,19,Marco Pololaan,19:36,193600
+64,20,Columbuslaan/Afrikalaan,19:36,193600
+64,21,Bontekoelaan,19:37,193700
+64,22,Woonboulevard,19:38,193800
+64,23,Rijkswaterstaat,19:41,194100
+64,24,P+R Westraven,19:43,194300
+65,1,Professor Bavinckstraat,19:16,191600
+65,2,Cornelis Smeenkstraat,19:17,191700
+65,3,De Bazelstraat,19:18,191800
+65,4,Prins Bernhardplein,19:19,191900
+65,5,Prins Bernhardlaan,19:20,192000
+65,6,Burg. Van Tuyllkade,19:22,192200
+65,7,Van Hoornekade,19:23,192300
+65,8,Ondiep,19:24,192400
+65,9,Nijenoord,19:25,192500
+65,10,David van Mollemstraat,19:27,192700
+65,11,Oudenoord,19:27,192700
+65,12,Sint Jacobsstraat,19:29,192900
+65,13,CS Jaarbeurszijde,19:36,193600
+65,14,CS Jaarbeurszijde,19:38,193800
+65,15,Overste den Oudenlaan,19:43,194300
+65,16,Van Bijnkershoeklaan,19:44,194400
+65,17,24 Oktoberplein-Zuid,19:46,194600
+65,18,Winkelcentrum Kanaleneiland,19:49,194900
+65,19,Marco Pololaan,19:51,195100
+65,20,Columbuslaan/Afrikalaan,19:51,195100
+65,21,Bontekoelaan,19:52,195200
+65,22,Woonboulevard,19:53,195300
+65,23,Rijkswaterstaat,19:56,195600
+65,24,P+R Westraven,19:58,195800
+66,1,Professor Bavinckstraat,19:31,193100
+66,2,Cornelis Smeenkstraat,19:32,193200
+66,3,De Bazelstraat,19:33,193300
+66,4,Prins Bernhardplein,19:34,193400
+66,5,Prins Bernhardlaan,19:35,193500
+66,6,Burg. Van Tuyllkade,19:37,193700
+66,7,Van Hoornekade,19:38,193800
+66,8,Ondiep,19:39,193900
+66,9,Nijenoord,19:40,194000
+66,10,David van Mollemstraat,19:42,194200
+66,11,Oudenoord,19:42,194200
+66,12,Sint Jacobsstraat,19:44,194400
+66,13,CS Jaarbeurszijde,19:51,195100
+66,14,CS Jaarbeurszijde,19:53,195300
+66,15,Overste den Oudenlaan,19:58,195800
+66,16,Van Bijnkershoeklaan,19:59,195900
+66,17,24 Oktoberplein-Zuid,20:01,200100
+66,18,Winkelcentrum Kanaleneiland,20:04,200400
+66,19,Marco Pololaan,20:06,200600
+66,20,Columbuslaan/Afrikalaan,20:06,200600
+66,21,Bontekoelaan,20:07,200700
+66,22,Woonboulevard,20:08,200800
+66,23,Rijkswaterstaat,20:11,201100
+66,24,P+R Westraven,20:13,201300
+67,1,Professor Bavinckstraat,19:46,194600
+67,2,Cornelis Smeenkstraat,19:47,194700
+67,3,De Bazelstraat,19:48,194800
+67,4,Prins Bernhardplein,19:49,194900
+67,5,Prins Bernhardlaan,19:50,195000
+67,6,Burg. Van Tuyllkade,19:52,195200
+67,7,Van Hoornekade,19:53,195300
+67,8,Ondiep,19:54,195400
+67,9,Nijenoord,19:55,195500
+67,10,David van Mollemstraat,19:57,195700
+67,11,Oudenoord,19:57,195700
+67,12,Sint Jacobsstraat,19:59,195900
+67,13,CS Jaarbeurszijde,20:06,200600
+67,14,CS Jaarbeurszijde,20:08,200800
+67,15,Overste den Oudenlaan,20:13,201300
+67,16,Van Bijnkershoeklaan,20:14,201400
+67,17,24 Oktoberplein-Zuid,20:16,201600
+67,18,Winkelcentrum Kanaleneiland,20:19,201900
+67,19,Marco Pololaan,20:21,202100
+67,20,Columbuslaan/Afrikalaan,20:21,202100
+67,21,Bontekoelaan,20:22,202200
+67,22,Woonboulevard,20:23,202300
+67,23,Rijkswaterstaat,20:26,202600
+67,24,P+R Westraven,20:28,202800
+68,1,Professor Bavinckstraat,20:01,200100
+68,2,Cornelis Smeenkstraat,20:02,200200
+68,3,De Bazelstraat,20:03,200300
+68,4,Prins Bernhardplein,20:04,200400
+68,5,Prins Bernhardlaan,20:05,200500
+68,6,Burg. Van Tuyllkade,20:07,200700
+68,7,Van Hoornekade,20:08,200800
+68,8,Ondiep,20:09,200900
+68,9,Nijenoord,20:10,201000
+68,10,David van Mollemstraat,20:12,201200
+68,11,Oudenoord,20:12,201200
+68,12,Sint Jacobsstraat,20:14,201400
+68,13,CS Jaarbeurszijde,20:21,202100
+68,14,CS Jaarbeurszijde,20:23,202300
+68,15,Overste den Oudenlaan,20:28,202800
+68,16,Van Bijnkershoeklaan,20:29,202900
+68,17,24 Oktoberplein-Zuid,20:31,203100
+68,18,Winkelcentrum Kanaleneiland,20:34,203400
+68,19,Marco Pololaan,20:36,203600
+68,20,Columbuslaan/Afrikalaan,20:36,203600
+68,21,Bontekoelaan,20:37,203700
+68,22,Woonboulevard,20:38,203800
+68,23,Rijkswaterstaat,20:41,204100
+68,24,P+R Westraven,20:43,204300
+69,1,Professor Bavinckstraat,20:16,201600
+69,2,Cornelis Smeenkstraat,20:17,201700
+69,3,De Bazelstraat,20:17,201700
+69,4,Prins Bernhardplein,20:18,201800
+69,5,Prins Bernhardlaan,20:19,201900
+69,6,Burg. Van Tuyllkade,20:21,202100
+69,7,Van Hoornekade,20:22,202200
+69,8,Ondiep,20:23,202300
+69,9,Nijenoord,20:24,202400
+69,10,David van Mollemstraat,20:26,202600
+69,11,Oudenoord,20:26,202600
+69,12,Sint Jacobsstraat,20:28,202800
+69,13,CS Jaarbeurszijde,20:34,203400
+69,14,CS Jaarbeurszijde,20:36,203600
+69,15,Overste den Oudenlaan,20:41,204100
+69,16,Van Bijnkershoeklaan,20:42,204200
+69,17,24 Oktoberplein-Zuid,20:44,204400
+69,18,Winkelcentrum Kanaleneiland,20:47,204700
+69,19,Marco Pololaan,20:49,204900
+69,20,Columbuslaan/Afrikalaan,20:49,204900
+69,21,Bontekoelaan,20:50,205000
+69,22,Woonboulevard,20:51,205100
+69,23,Rijkswaterstaat,20:54,205400
+69,24,P+R Westraven,20:56,205600
+70,1,Professor Bavinckstraat,20:31,203100
+70,2,Cornelis Smeenkstraat,20:32,203200
+70,3,De Bazelstraat,20:32,203200
+70,4,Prins Bernhardplein,20:33,203300
+70,5,Prins Bernhardlaan,20:34,203400
+70,6,Burg. Van Tuyllkade,20:36,203600
+70,7,Van Hoornekade,20:37,203700
+70,8,Ondiep,20:38,203800
+70,9,Nijenoord,20:39,203900
+70,10,David van Mollemstraat,20:41,204100
+70,11,Oudenoord,20:41,204100
+70,12,Sint Jacobsstraat,20:43,204300
+70,13,CS Jaarbeurszijde,20:49,204900
+70,14,CS Jaarbeurszijde,20:51,205100
+70,15,Overste den Oudenlaan,20:56,205600
+70,16,Van Bijnkershoeklaan,20:57,205700
+70,17,24 Oktoberplein-Zuid,20:59,205900
+70,18,Winkelcentrum Kanaleneiland,21:02,210200
+70,19,Marco Pololaan,21:04,210400
+70,20,Columbuslaan/Afrikalaan,21:04,210400
+70,21,Bontekoelaan,21:05,210500
+70,22,Woonboulevard,21:06,210600
+70,23,Rijkswaterstaat,21:09,210900
+70,24,P+R Westraven,21:11,211100
+71,1,Professor Bavinckstraat,20:46,204600
+71,2,Cornelis Smeenkstraat,20:47,204700
+71,3,De Bazelstraat,20:47,204700
+71,4,Prins Bernhardplein,20:48,204800
+71,5,Prins Bernhardlaan,20:49,204900
+71,6,Burg. Van Tuyllkade,20:51,205100
+71,7,Van Hoornekade,20:52,205200
+71,8,Ondiep,20:53,205300
+71,9,Nijenoord,20:54,205400
+71,10,David van Mollemstraat,20:56,205600
+71,11,Oudenoord,20:56,205600
+71,12,Sint Jacobsstraat,20:58,205800
+71,13,CS Jaarbeurszijde,21:04,210400
+71,14,CS Jaarbeurszijde,21:06,210600
+71,15,Overste den Oudenlaan,21:11,211100
+71,16,Van Bijnkershoeklaan,21:12,211200
+71,17,24 Oktoberplein-Zuid,21:14,211400
+71,18,Winkelcentrum Kanaleneiland,21:17,211700
+71,19,Marco Pololaan,21:19,211900
+71,20,Columbuslaan/Afrikalaan,21:19,211900
+71,21,Bontekoelaan,21:20,212000
+71,22,Woonboulevard,21:21,212100
+71,23,Rijkswaterstaat,21:24,212400
+71,24,P+R Westraven,21:26,212600
+72,1,Professor Bavinckstraat,21:01,210100
+72,2,Cornelis Smeenkstraat,21:02,210200
+72,3,De Bazelstraat,21:02,210200
+72,4,Prins Bernhardplein,21:03,210300
+72,5,Prins Bernhardlaan,21:04,210400
+72,6,Burg. Van Tuyllkade,21:06,210600
+72,7,Van Hoornekade,21:07,210700
+72,8,Ondiep,21:08,210800
+72,9,Nijenoord,21:09,210900
+72,10,David van Mollemstraat,21:11,211100
+72,11,Oudenoord,21:11,211100
+72,12,Sint Jacobsstraat,21:13,211300
+72,13,CS Jaarbeurszijde,21:19,211900
+72,14,CS Jaarbeurszijde,21:21,212100
+72,15,Overste den Oudenlaan,21:26,212600
+72,16,Van Bijnkershoeklaan,21:27,212700
+72,17,24 Oktoberplein-Zuid,21:29,212900
+72,18,Winkelcentrum Kanaleneiland,21:32,213200
+72,19,Marco Pololaan,21:34,213400
+72,20,Columbuslaan/Afrikalaan,21:34,213400
+72,21,Bontekoelaan,21:35,213500
+72,22,Woonboulevard,21:36,213600
+72,23,Rijkswaterstaat,21:39,213900
+72,24,P+R Westraven,21:41,214100
+73,1,Professor Bavinckstraat,21:16,211600
+73,2,Cornelis Smeenkstraat,21:17,211700
+73,3,De Bazelstraat,21:17,211700
+73,4,Prins Bernhardplein,21:18,211800
+73,5,Prins Bernhardlaan,21:19,211900
+73,6,Burg. Van Tuyllkade,21:21,212100
+73,7,Van Hoornekade,21:22,212200
+73,8,Ondiep,21:23,212300
+73,9,Nijenoord,21:24,212400
+73,10,David van Mollemstraat,21:26,212600
+73,11,Oudenoord,21:26,212600
+73,12,Sint Jacobsstraat,21:28,212800
+73,13,CS Jaarbeurszijde,21:34,213400
+73,14,CS Jaarbeurszijde,21:36,213600
+73,15,Overste den Oudenlaan,21:41,214100
+73,16,Van Bijnkershoeklaan,21:42,214200
+73,17,24 Oktoberplein-Zuid,21:44,214400
+73,18,Winkelcentrum Kanaleneiland,21:47,214700
+73,19,Marco Pololaan,21:49,214900
+73,20,Columbuslaan/Afrikalaan,21:49,214900
+73,21,Bontekoelaan,21:50,215000
+73,22,Woonboulevard,21:51,215100
+73,23,Rijkswaterstaat,21:54,215400
+73,24,P+R Westraven,21:56,215600
+74,1,Professor Bavinckstraat,21:31,213100
+74,2,Cornelis Smeenkstraat,21:32,213200
+74,3,De Bazelstraat,21:32,213200
+74,4,Prins Bernhardplein,21:33,213300
+74,5,Prins Bernhardlaan,21:34,213400
+74,6,Burg. Van Tuyllkade,21:36,213600
+74,7,Van Hoornekade,21:37,213700
+74,8,Ondiep,21:38,213800
+74,9,Nijenoord,21:39,213900
+74,10,David van Mollemstraat,21:41,214100
+74,11,Oudenoord,21:41,214100
+74,12,Sint Jacobsstraat,21:43,214300
+74,13,CS Jaarbeurszijde,21:49,214900
+74,14,CS Jaarbeurszijde,21:51,215100
+74,15,Overste den Oudenlaan,21:56,215600
+74,16,Van Bijnkershoeklaan,21:57,215700
+74,17,24 Oktoberplein-Zuid,21:59,215900
+74,18,Winkelcentrum Kanaleneiland,22:02,220200
+74,19,Marco Pololaan,22:04,220400
+74,20,Columbuslaan/Afrikalaan,22:04,220400
+74,21,Bontekoelaan,22:05,220500
+74,22,Woonboulevard,22:06,220600
+74,23,Rijkswaterstaat,22:09,220900
+74,24,P+R Westraven,22:11,221100
+75,1,Professor Bavinckstraat,21:46,214600
+75,2,Cornelis Smeenkstraat,21:47,214700
+75,3,De Bazelstraat,21:47,214700
+75,4,Prins Bernhardplein,21:48,214800
+75,5,Prins Bernhardlaan,21:49,214900
+75,6,Burg. Van Tuyllkade,21:51,215100
+75,7,Van Hoornekade,21:52,215200
+75,8,Ondiep,21:53,215300
+75,9,Nijenoord,21:54,215400
+75,10,David van Mollemstraat,21:56,215600
+75,11,Oudenoord,21:56,215600
+75,12,Sint Jacobsstraat,21:58,215800
+75,13,CS Jaarbeurszijde,22:04,220400
+75,14,CS Jaarbeurszijde,22:06,220600
+75,15,Overste den Oudenlaan,22:11,221100
+75,16,Van Bijnkershoeklaan,22:12,221200
+75,17,24 Oktoberplein-Zuid,22:14,221400
+75,18,Winkelcentrum Kanaleneiland,22:17,221700
+75,19,Marco Pololaan,22:19,221900
+75,20,Columbuslaan/Afrikalaan,22:19,221900
+75,21,Bontekoelaan,22:20,222000
+75,22,Woonboulevard,22:21,222100
+75,23,Rijkswaterstaat,22:24,222400
+75,24,P+R Westraven,22:26,222600
+76,1,Professor Bavinckstraat,22:01,220100
+76,2,Cornelis Smeenkstraat,22:02,220200
+76,3,De Bazelstraat,22:02,220200
+76,4,Prins Bernhardplein,22:03,220300
+76,5,Prins Bernhardlaan,22:04,220400
+76,6,Burg. Van Tuyllkade,22:06,220600
+76,7,Van Hoornekade,22:07,220700
+76,8,Ondiep,22:08,220800
+76,9,Nijenoord,22:09,220900
+76,10,David van Mollemstraat,22:11,221100
+76,11,Oudenoord,22:11,221100
+76,12,Sint Jacobsstraat,22:13,221300
+76,13,CS Jaarbeurszijde,22:19,221900
+76,14,CS Jaarbeurszijde,22:21,222100
+76,15,Overste den Oudenlaan,22:26,222600
+76,16,Van Bijnkershoeklaan,22:27,222700
+76,17,24 Oktoberplein-Zuid,22:29,222900
+76,18,Winkelcentrum Kanaleneiland,22:32,223200
+76,19,Marco Pololaan,22:34,223400
+76,20,Columbuslaan/Afrikalaan,22:34,223400
+76,21,Bontekoelaan,22:35,223500
+76,22,Woonboulevard,22:36,223600
+76,23,Rijkswaterstaat,22:39,223900
+76,24,P+R Westraven,22:41,224100
+77,1,Professor Bavinckstraat,22:16,221600
+77,2,Cornelis Smeenkstraat,22:17,221700
+77,3,De Bazelstraat,22:17,221700
+77,4,Prins Bernhardplein,22:18,221800
+77,5,Prins Bernhardlaan,22:19,221900
+77,6,Burg. Van Tuyllkade,22:21,222100
+77,7,Van Hoornekade,22:22,222200
+77,8,Ondiep,22:23,222300
+77,9,Nijenoord,22:24,222400
+77,10,David van Mollemstraat,22:26,222600
+77,11,Oudenoord,22:26,222600
+77,12,Sint Jacobsstraat,22:28,222800
+77,13,CS Jaarbeurszijde,22:34,223400
+77,14,CS Jaarbeurszijde,22:36,223600
+77,15,Overste den Oudenlaan,22:41,224100
+77,16,Van Bijnkershoeklaan,22:42,224200
+77,17,24 Oktoberplein-Zuid,22:44,224400
+77,18,Winkelcentrum Kanaleneiland,22:47,224700
+77,19,Marco Pololaan,22:49,224900
+77,20,Columbuslaan/Afrikalaan,22:49,224900
+77,21,Bontekoelaan,22:50,225000
+77,22,Woonboulevard,22:51,225100
+77,23,Rijkswaterstaat,22:54,225400
+77,24,P+R Westraven,22:56,225600
+78,1,Professor Bavinckstraat,22:31,223100
+78,2,Cornelis Smeenkstraat,22:32,223200
+78,3,De Bazelstraat,22:32,223200
+78,4,Prins Bernhardplein,22:33,223300
+78,5,Prins Bernhardlaan,22:34,223400
+78,6,Burg. Van Tuyllkade,22:36,223600
+78,7,Van Hoornekade,22:37,223700
+78,8,Ondiep,22:38,223800
+78,9,Nijenoord,22:39,223900
+78,10,David van Mollemstraat,22:41,224100
+78,11,Oudenoord,22:41,224100
+78,12,Sint Jacobsstraat,22:43,224300
+78,13,CS Jaarbeurszijde,22:49,224900
+78,14,CS Jaarbeurszijde,22:51,225100
+78,15,Overste den Oudenlaan,22:56,225600
+78,16,Van Bijnkershoeklaan,22:57,225700
+78,17,24 Oktoberplein-Zuid,22:59,225900
+78,18,Winkelcentrum Kanaleneiland,23:02,230200
+78,19,Marco Pololaan,23:04,230400
+78,20,Columbuslaan/Afrikalaan,23:04,230400
+78,21,Bontekoelaan,23:05,230500
+78,22,Woonboulevard,23:06,230600
+78,23,Rijkswaterstaat,23:09,230900
+78,24,P+R Westraven,23:11,231100
+79,1,Professor Bavinckstraat,22:46,224600
+79,2,Cornelis Smeenkstraat,22:47,224700
+79,3,De Bazelstraat,22:47,224700
+79,4,Prins Bernhardplein,22:48,224800
+79,5,Prins Bernhardlaan,22:49,224900
+79,6,Burg. Van Tuyllkade,22:51,225100
+79,7,Van Hoornekade,22:52,225200
+79,8,Ondiep,22:53,225300
+79,9,Nijenoord,22:54,225400
+79,10,David van Mollemstraat,22:56,225600
+79,11,Oudenoord,22:56,225600
+79,12,Sint Jacobsstraat,22:58,225800
+79,13,CS Jaarbeurszijde,23:04,230400
+79,14,CS Jaarbeurszijde,23:06,230600
+79,15,Overste den Oudenlaan,23:11,231100
+79,16,Van Bijnkershoeklaan,23:12,231200
+79,17,24 Oktoberplein-Zuid,23:14,231400
+79,18,Winkelcentrum Kanaleneiland,23:17,231700
+79,19,Marco Pololaan,23:19,231900
+79,20,Columbuslaan/Afrikalaan,23:19,231900
+79,21,Bontekoelaan,23:20,232000
+79,22,Woonboulevard,23:21,232100
+79,23,Rijkswaterstaat,23:23,232300
+79,24,P+R Westraven,23:25,232500
+80,1,Professor Bavinckstraat,23:01,230100
+80,2,Cornelis Smeenkstraat,23:02,230200
+80,3,De Bazelstraat,23:02,230200
+80,4,Prins Bernhardplein,23:03,230300
+80,5,Prins Bernhardlaan,23:04,230400
+80,6,Burg. Van Tuyllkade,23:06,230600
+80,7,Van Hoornekade,23:07,230700
+80,8,Ondiep,23:08,230800
+80,9,Nijenoord,23:09,230900
+80,10,David van Mollemstraat,23:11,231100
+80,11,Oudenoord,23:11,231100
+80,12,Sint Jacobsstraat,23:13,231300
+80,13,CS Jaarbeurszijde,23:19,231900
+80,14,CS Jaarbeurszijde,23:21,232100
+80,15,Overste den Oudenlaan,23:26,232600
+80,16,Van Bijnkershoeklaan,23:27,232700
+80,17,24 Oktoberplein-Zuid,23:29,232900
+80,18,Winkelcentrum Kanaleneiland,23:31,233100
+80,19,Marco Pololaan,23:33,233300
+80,20,Columbuslaan/Afrikalaan,23:33,233300
+80,21,Bontekoelaan,23:34,233400
+80,22,Woonboulevard,23:35,233500
+80,23,Rijkswaterstaat,23:37,233700
+80,24,P+R Westraven,23:39,233900
+81,1,Professor Bavinckstraat,23:16,231600
+81,2,Cornelis Smeenkstraat,23:17,231700
+81,3,De Bazelstraat,23:17,231700
+81,4,Prins Bernhardplein,23:18,231800
+81,5,Prins Bernhardlaan,23:19,231900
+81,6,Burg. Van Tuyllkade,23:21,232100
+81,7,Van Hoornekade,23:22,232200
+81,8,Ondiep,23:23,232300
+81,9,Nijenoord,23:24,232400
+81,10,David van Mollemstraat,23:26,232600
+81,11,Oudenoord,23:26,232600
+81,12,Sint Jacobsstraat,23:28,232800
+81,13,CS Jaarbeurszijde,23:34,233400
+81,14,CS Jaarbeurszijde,23:36,233600
+81,15,Overste den Oudenlaan,23:41,234100
+81,16,Van Bijnkershoeklaan,23:42,234200
+81,17,24 Oktoberplein-Zuid,23:44,234400
+81,18,Winkelcentrum Kanaleneiland,23:46,234600
+81,19,Marco Pololaan,23:48,234800
+81,20,Columbuslaan/Afrikalaan,23:48,234800
+81,21,Bontekoelaan,23:49,234900
+81,22,Woonboulevard,23:50,235000
+81,23,Rijkswaterstaat,23:52,235200
+81,24,P+R Westraven,23:54,235400
+82,1,Professor Bavinckstraat,23:31,233100
+82,2,Cornelis Smeenkstraat,23:32,233200
+82,3,De Bazelstraat,23:32,233200
+82,4,Prins Bernhardplein,23:33,233300
+82,5,Prins Bernhardlaan,23:34,233400
+82,6,Burg. Van Tuyllkade,23:36,233600
+82,7,Van Hoornekade,23:37,233700
+82,8,Ondiep,23:38,233800
+82,9,Nijenoord,23:39,233900
+82,10,David van Mollemstraat,23:41,234100
+82,11,Oudenoord,23:41,234100
+82,12,Sint Jacobsstraat,23:43,234300
+82,13,CS Jaarbeurszijde,23:49,234900
+82,14,CS Jaarbeurszijde,23:51,235100
+82,15,Overste den Oudenlaan,23:56,235600
+82,16,Van Bijnkershoeklaan,23:57,235700
+82,17,24 Oktoberplein-Zuid,23:59,235900
+82,18,Winkelcentrum Kanaleneiland,00:01*,240100
+82,19,Marco Pololaan,00:03*,240300
+82,20,Columbuslaan/Afrikalaan,00:03*,240300
+82,21,Bontekoelaan,00:04*,240400
+82,22,Woonboulevard,00:05*,240500
+82,23,Rijkswaterstaat,00:07*,240700
+82,24,P+R Westraven,00:09*,240900
+83,1,Professor Bavinckstraat,23:46,234600
+83,2,Cornelis Smeenkstraat,23:47,234700
+83,3,De Bazelstraat,23:47,234700
+83,4,Prins Bernhardplein,23:48,234800
+83,5,Prins Bernhardlaan,23:49,234900
+83,6,Burg. Van Tuyllkade,23:51,235100
+83,7,Van Hoornekade,23:52,235200
+83,8,Ondiep,23:53,235300
+83,9,Nijenoord,23:54,235400
+83,10,David van Mollemstraat,23:56,235600
+83,11,Oudenoord,23:56,235600
+83,12,Sint Jacobsstraat,23:58,235800
+83,13,CS Jaarbeurszijde,00:04*,240400
+83,14,CS Jaarbeurszijde,00:06*,240600
+83,15,Overste den Oudenlaan,00:11*,241100
+83,16,Van Bijnkershoeklaan,00:12*,241200
+83,17,24 Oktoberplein-Zuid,00:14*,241400
+83,18,Winkelcentrum Kanaleneiland,00:16*,241600
+83,19,Marco Pololaan,00:18*,241800
+83,20,Columbuslaan/Afrikalaan,00:18*,241800
+83,21,Bontekoelaan,00:19*,241900
+83,22,Woonboulevard,00:20*,242000
+83,23,Rijkswaterstaat,00:22*,242200
+83,24,P+R Westraven,00:24*,242400
+84,1,Professor Bavinckstraat,00:01*,240100
+84,2,Cornelis Smeenkstraat,00:02*,240200
+84,3,De Bazelstraat,00:02*,240200
+84,4,Prins Bernhardplein,00:03*,240300
+84,5,Prins Bernhardlaan,00:04*,240400
+84,6,Burg. Van Tuyllkade,00:06*,240600
+84,7,Van Hoornekade,00:07*,240700
+84,8,Ondiep,00:08*,240800
+84,9,Nijenoord,00:09*,240900
+84,10,David van Mollemstraat,00:11*,241100
+84,11,Oudenoord,00:11*,241100
+84,12,Sint Jacobsstraat,00:13*,241300
+84,13,CS Jaarbeurszijde,00:19*,241900
+84,14,CS Jaarbeurszijde,00:21*,242100
+84,15,Overste den Oudenlaan,00:26*,242600
+84,16,Van Bijnkershoeklaan,00:27*,242700
+84,17,24 Oktoberplein-Zuid,00:29*,242900
+84,18,Winkelcentrum Kanaleneiland,00:31*,243100
+84,19,Marco Pololaan,00:33*,243300
+84,20,Columbuslaan/Afrikalaan,00:33*,243300
+84,21,Bontekoelaan,00:34*,243400
+84,22,Woonboulevard,00:35*,243500
+84,23,Rijkswaterstaat,00:37*,243700
+84,24,P+R Westraven,00:39*,243900
+85,1,Professor Bavinckstraat,00:16*,241600
+85,2,Cornelis Smeenkstraat,00:17*,241700
+85,3,De Bazelstraat,00:17*,241700
+85,4,Prins Bernhardplein,00:18*,241800
+85,5,Prins Bernhardlaan,00:19*,241900
+85,6,Burg. Van Tuyllkade,00:21*,242100
+85,7,Van Hoornekade,00:22*,242200
+85,8,Ondiep,00:23*,242300
+85,9,Nijenoord,00:24*,242400
+85,10,David van Mollemstraat,00:26*,242600
+85,11,Oudenoord,00:26*,242600
+85,12,Sint Jacobsstraat,00:28*,242800
+85,13,CS Jaarbeurszijde,00:34*,243400
+85,14,CS Jaarbeurszijde,00:36*,243600
+85,15,Overste den Oudenlaan,00:41*,244100
+85,16,Van Bijnkershoeklaan,00:42*,244200
+85,17,24 Oktoberplein-Zuid,00:44*,244400
+85,18,Winkelcentrum Kanaleneiland,00:46*,244600
+85,19,Marco Pololaan,00:48*,244800
+85,20,Columbuslaan/Afrikalaan,00:48*,244800
+85,21,Bontekoelaan,00:49*,244900
+85,22,Woonboulevard,00:50*,245000
+85,23,Rijkswaterstaat,00:52*,245200
+85,24,P+R Westraven,00:54*,245400
+86,1,Professor Bavinckstraat,00:37*,243700
+86,2,Cornelis Smeenkstraat,00:38*,243800
+86,3,De Bazelstraat,00:38*,243800
+86,4,Prins Bernhardplein,00:39*,243900
+86,5,Prins Bernhardlaan,00:40*,244000
+86,6,Burg. Van Tuyllkade,00:42*,244200
+86,7,Van Hoornekade,00:43*,244300
+86,8,Ondiep,00:44*,244400
+86,9,Nijenoord,00:45*,244500
+86,10,David van Mollemstraat,00:47*,244700
+86,11,Oudenoord,00:47*,244700
+86,12,Sint Jacobsstraat,00:49*,244900
+86,13,CS Jaarbeurszijde,00:55*,245500
+86,14,CS Jaarbeurszijde,01:00*,250000
+86,15,Overste den Oudenlaan,01:05*,250500
+86,16,Van Bijnkershoeklaan,01:06*,250600
+86,17,24 Oktoberplein-Zuid,01:08*,250800
+86,18,Winkelcentrum Kanaleneiland,01:10*,251000
+86,19,Marco Pololaan,01:12*,251200
+86,20,Columbuslaan/Afrikalaan,01:12*,251200
+86,21,Bontekoelaan,01:13*,251300
+86,22,Woonboulevard,01:14*,251400
+86,23,Rijkswaterstaat,01:16*,251600
+86,24,P+R Westraven,01:18*,251800

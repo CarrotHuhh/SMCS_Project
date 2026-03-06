@@ -1,0 +1,3052 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,Vechtsebanen,05:46,054600
+1,2,Nebraskadreef,05:47,054700
+1,3,Klopvaart,05:48,054800
+1,4,Orinocodreef,05:49,054900
+1,5,Bogotádreef,05:50,055000
+1,6,Amazonedreef,05:51,055100
+1,7,Paranadreef,05:52,055200
+1,8,Kaap Hoorndreef,05:53,055300
+1,9,Winkelcentrum Overvecht,05:54,055400
+1,10,Theemsdreef,05:55,055500
+1,11,Korfoedreef,05:56,055600
+1,12,Rubicondreef,05:57,055700
+1,13,Station Overvecht,05:58,055800
+1,14,Mr. Tripkade,05:59,055900
+1,15,Willem van Noortplein,06:01,060100
+1,16,Willem van Noortstraat,06:02,060200
+1,17,Adelaarstraat,06:03,060300
+1,18,Sint Jacobsstraat,06:05,060500
+1,19,CS Jaarbeurszijde,06:10,061000
+1,20,CS Jaarbeurszijde,06:13,061300
+1,21,Van der Goesstraat,06:15,061500
+1,22,Brederoplein,06:15,061500
+1,23,Balijelaan,06:16,061600
+1,24,Waalstraat,06:17,061700
+1,25,Maasplein,06:18,061800
+1,26,Socrateslaan,06:20,062000
+1,27,Hooft Graaflandstraat,06:21,062100
+1,28,Karperstraat,06:22,062200
+1,29,Kastelenplantsoen,06:24,062400
+1,30,IJsselsteinlaan,06:25,062500
+2,1,Vechtsebanen,06:01,060100
+2,2,Nebraskadreef,06:02,060200
+2,3,Klopvaart,06:03,060300
+2,4,Orinocodreef,06:04,060400
+2,5,Bogotádreef,06:05,060500
+2,6,Amazonedreef,06:06,060600
+2,7,Paranadreef,06:07,060700
+2,8,Kaap Hoorndreef,06:08,060800
+2,9,Winkelcentrum Overvecht,06:09,060900
+2,10,Theemsdreef,06:10,061000
+2,11,Korfoedreef,06:11,061100
+2,12,Rubicondreef,06:12,061200
+2,13,Station Overvecht,06:13,061300
+2,14,Mr. Tripkade,06:14,061400
+2,15,Willem van Noortplein,06:16,061600
+2,16,Willem van Noortstraat,06:17,061700
+2,17,Adelaarstraat,06:18,061800
+2,18,Sint Jacobsstraat,06:20,062000
+2,19,CS Jaarbeurszijde,06:25,062500
+2,20,CS Jaarbeurszijde,06:28,062800
+2,21,Van der Goesstraat,06:30,063000
+2,22,Brederoplein,06:30,063000
+2,23,Balijelaan,06:31,063100
+2,24,Waalstraat,06:32,063200
+2,25,Maasplein,06:33,063300
+2,26,Socrateslaan,06:35,063500
+2,27,Hooft Graaflandstraat,06:36,063600
+2,28,Karperstraat,06:37,063700
+2,29,Kastelenplantsoen,06:39,063900
+2,30,IJsselsteinlaan,06:40,064000
+3,1,Vechtsebanen,06:16,061600
+3,2,Nebraskadreef,06:17,061700
+3,3,Klopvaart,06:18,061800
+3,4,Orinocodreef,06:19,061900
+3,5,Bogotádreef,06:20,062000
+3,6,Amazonedreef,06:21,062100
+3,7,Paranadreef,06:22,062200
+3,8,Kaap Hoorndreef,06:23,062300
+3,9,Winkelcentrum Overvecht,06:24,062400
+3,10,Theemsdreef,06:25,062500
+3,11,Korfoedreef,06:26,062600
+3,12,Rubicondreef,06:27,062700
+3,13,Station Overvecht,06:28,062800
+3,14,Mr. Tripkade,06:29,062900
+3,15,Willem van Noortplein,06:31,063100
+3,16,Willem van Noortstraat,06:32,063200
+3,17,Adelaarstraat,06:33,063300
+3,18,Sint Jacobsstraat,06:35,063500
+3,19,CS Jaarbeurszijde,06:40,064000
+3,20,CS Jaarbeurszijde,06:43,064300
+3,21,Van der Goesstraat,06:45,064500
+3,22,Brederoplein,06:45,064500
+3,23,Balijelaan,06:46,064600
+3,24,Waalstraat,06:47,064700
+3,25,Maasplein,06:48,064800
+3,26,Socrateslaan,06:50,065000
+3,27,Hooft Graaflandstraat,06:51,065100
+3,28,Karperstraat,06:52,065200
+3,29,Kastelenplantsoen,06:54,065400
+3,30,IJsselsteinlaan,06:55,065500
+4,1,Vechtsebanen,06:31,063100
+4,2,Nebraskadreef,06:32,063200
+4,3,Klopvaart,06:33,063300
+4,4,Orinocodreef,06:34,063400
+4,5,Bogotádreef,06:35,063500
+4,6,Amazonedreef,06:36,063600
+4,7,Paranadreef,06:37,063700
+4,8,Kaap Hoorndreef,06:38,063800
+4,9,Winkelcentrum Overvecht,06:39,063900
+4,10,Theemsdreef,06:40,064000
+4,11,Korfoedreef,06:41,064100
+4,12,Rubicondreef,06:42,064200
+4,13,Station Overvecht,06:43,064300
+4,14,Mr. Tripkade,06:44,064400
+4,15,Willem van Noortplein,06:46,064600
+4,16,Willem van Noortstraat,06:47,064700
+4,17,Adelaarstraat,06:48,064800
+4,18,Sint Jacobsstraat,06:50,065000
+4,19,CS Jaarbeurszijde,06:56,065600
+4,20,CS Jaarbeurszijde,06:59,065900
+4,21,Van der Goesstraat,07:01,070100
+4,22,Brederoplein,07:01,070100
+4,23,Balijelaan,07:02,070200
+4,24,Waalstraat,07:03,070300
+4,25,Maasplein,07:04,070400
+4,26,Socrateslaan,07:06,070600
+4,27,Hooft Graaflandstraat,07:07,070700
+4,28,Karperstraat,07:08,070800
+4,29,Kastelenplantsoen,07:10,071000
+4,30,IJsselsteinlaan,07:11,071100
+5,1,Vechtsebanen,06:41,064100
+5,2,Nebraskadreef,06:42,064200
+5,3,Klopvaart,06:43,064300
+5,4,Orinocodreef,06:44,064400
+5,5,Bogotádreef,06:45,064500
+5,6,Amazonedreef,06:46,064600
+5,7,Paranadreef,06:47,064700
+5,8,Kaap Hoorndreef,06:48,064800
+5,9,Winkelcentrum Overvecht,06:49,064900
+5,10,Theemsdreef,06:50,065000
+5,11,Korfoedreef,06:51,065100
+5,12,Rubicondreef,06:52,065200
+5,13,Station Overvecht,06:53,065300
+5,14,Mr. Tripkade,06:54,065400
+5,15,Willem van Noortplein,06:56,065600
+5,16,Willem van Noortstraat,06:57,065700
+5,17,Adelaarstraat,06:58,065800
+5,18,Sint Jacobsstraat,07:00,070000
+5,19,CS Jaarbeurszijde,07:06,070600
+5,20,CS Jaarbeurszijde,07:09,070900
+5,21,Van der Goesstraat,07:11,071100
+5,22,Brederoplein,07:12,071200
+5,23,Balijelaan,07:13,071300
+5,24,Waalstraat,07:14,071400
+5,25,Maasplein,07:15,071500
+5,26,Socrateslaan,07:17,071700
+5,27,Hooft Graaflandstraat,07:18,071800
+5,28,Karperstraat,07:20,072000
+5,29,Kastelenplantsoen,07:21,072100
+5,30,IJsselsteinlaan,07:23,072300
+6,1,Vechtsebanen,06:51,065100
+6,2,Nebraskadreef,06:53,065300
+6,3,Klopvaart,06:54,065400
+6,4,Orinocodreef,06:55,065500
+6,5,Bogotádreef,06:56,065600
+6,6,Amazonedreef,06:57,065700
+6,7,Paranadreef,06:58,065800
+6,8,Kaap Hoorndreef,06:59,065900
+6,9,Winkelcentrum Overvecht,07:00,070000
+6,10,Theemsdreef,07:01,070100
+6,11,Korfoedreef,07:02,070200
+6,12,Rubicondreef,07:03,070300
+6,13,Station Overvecht,07:04,070400
+6,14,Mr. Tripkade,07:05,070500
+6,15,Willem van Noortplein,07:07,070700
+6,16,Willem van Noortstraat,07:08,070800
+6,17,Adelaarstraat,07:09,070900
+6,18,Sint Jacobsstraat,07:11,071100
+6,19,CS Jaarbeurszijde,07:17,071700
+6,20,CS Jaarbeurszijde,07:20,072000
+6,21,Van der Goesstraat,07:22,072200
+6,22,Brederoplein,07:23,072300
+6,23,Balijelaan,07:24,072400
+6,24,Waalstraat,07:25,072500
+6,25,Maasplein,07:26,072600
+6,26,Socrateslaan,07:28,072800
+6,27,Hooft Graaflandstraat,07:29,072900
+6,28,Karperstraat,07:31,073100
+6,29,Kastelenplantsoen,07:32,073200
+6,30,IJsselsteinlaan,07:34,073400
+7,1,Vechtsebanen,07:01,070100
+7,2,Nebraskadreef,07:03,070300
+7,3,Klopvaart,07:04,070400
+7,4,Orinocodreef,07:05,070500
+7,5,Bogotádreef,07:06,070600
+7,6,Amazonedreef,07:07,070700
+7,7,Paranadreef,07:08,070800
+7,8,Kaap Hoorndreef,07:09,070900
+7,9,Winkelcentrum Overvecht,07:10,071000
+7,10,Theemsdreef,07:11,071100
+7,11,Korfoedreef,07:12,071200
+7,12,Rubicondreef,07:13,071300
+7,13,Station Overvecht,07:14,071400
+7,14,Mr. Tripkade,07:16,071600
+7,15,Willem van Noortplein,07:18,071800
+7,16,Willem van Noortstraat,07:19,071900
+7,17,Adelaarstraat,07:20,072000
+7,18,Sint Jacobsstraat,07:22,072200
+7,19,CS Jaarbeurszijde,07:28,072800
+7,20,CS Jaarbeurszijde,07:31,073100
+7,21,Van der Goesstraat,07:33,073300
+7,22,Brederoplein,07:34,073400
+7,23,Balijelaan,07:35,073500
+7,24,Waalstraat,07:36,073600
+7,25,Maasplein,07:37,073700
+7,26,Socrateslaan,07:39,073900
+7,27,Hooft Graaflandstraat,07:40,074000
+7,28,Karperstraat,07:42,074200
+7,29,Kastelenplantsoen,07:43,074300
+7,30,IJsselsteinlaan,07:45,074500
+8,1,Vechtsebanen,07:11,071100
+8,2,Nebraskadreef,07:13,071300
+8,3,Klopvaart,07:14,071400
+8,4,Orinocodreef,07:16,071600
+8,5,Bogotádreef,07:17,071700
+8,6,Amazonedreef,07:18,071800
+8,7,Paranadreef,07:19,071900
+8,8,Kaap Hoorndreef,07:20,072000
+8,9,Winkelcentrum Overvecht,07:21,072100
+8,10,Theemsdreef,07:22,072200
+8,11,Korfoedreef,07:23,072300
+8,12,Rubicondreef,07:24,072400
+8,13,Station Overvecht,07:25,072500
+8,14,Mr. Tripkade,07:27,072700
+8,15,Willem van Noortplein,07:29,072900
+8,16,Willem van Noortstraat,07:30,073000
+8,17,Adelaarstraat,07:31,073100
+8,18,Sint Jacobsstraat,07:33,073300
+8,19,CS Jaarbeurszijde,07:39,073900
+8,20,CS Jaarbeurszijde,07:42,074200
+8,21,Van der Goesstraat,07:44,074400
+8,22,Brederoplein,07:45,074500
+8,23,Balijelaan,07:46,074600
+8,24,Waalstraat,07:47,074700
+8,25,Maasplein,07:48,074800
+8,26,Socrateslaan,07:50,075000
+8,27,Hooft Graaflandstraat,07:51,075100
+8,28,Karperstraat,07:53,075300
+8,29,Kastelenplantsoen,07:54,075400
+8,30,IJsselsteinlaan,07:56,075600
+9,1,Vechtsebanen,07:21,072100
+9,2,Nebraskadreef,07:23,072300
+9,3,Klopvaart,07:24,072400
+9,4,Orinocodreef,07:26,072600
+9,5,Bogotádreef,07:27,072700
+9,6,Amazonedreef,07:28,072800
+9,7,Paranadreef,07:29,072900
+9,8,Kaap Hoorndreef,07:30,073000
+9,9,Winkelcentrum Overvecht,07:31,073100
+9,10,Theemsdreef,07:32,073200
+9,11,Korfoedreef,07:33,073300
+9,12,Rubicondreef,07:34,073400
+9,13,Station Overvecht,07:35,073500
+9,14,Mr. Tripkade,07:37,073700
+9,15,Willem van Noortplein,07:39,073900
+9,16,Willem van Noortstraat,07:40,074000
+9,17,Adelaarstraat,07:41,074100
+9,18,Sint Jacobsstraat,07:44,074400
+9,19,CS Jaarbeurszijde,07:51,075100
+9,20,CS Jaarbeurszijde,07:54,075400
+9,21,Van der Goesstraat,07:56,075600
+9,22,Brederoplein,07:57,075700
+9,23,Balijelaan,07:58,075800
+9,24,Waalstraat,07:59,075900
+9,25,Maasplein,08:00,080000
+9,26,Socrateslaan,08:02,080200
+9,27,Hooft Graaflandstraat,08:03,080300
+9,28,Karperstraat,08:05,080500
+9,29,Kastelenplantsoen,08:06,080600
+9,30,IJsselsteinlaan,08:08,080800
+10,1,Vechtsebanen,07:31,073100
+10,2,Nebraskadreef,07:33,073300
+10,3,Klopvaart,07:34,073400
+10,4,Orinocodreef,07:36,073600
+10,5,Bogotádreef,07:37,073700
+10,6,Amazonedreef,07:38,073800
+10,7,Paranadreef,07:39,073900
+10,8,Kaap Hoorndreef,07:40,074000
+10,9,Winkelcentrum Overvecht,07:41,074100
+10,10,Theemsdreef,07:42,074200
+10,11,Korfoedreef,07:43,074300
+10,12,Rubicondreef,07:45,074500
+10,13,Station Overvecht,07:46,074600
+10,14,Mr. Tripkade,07:48,074800
+10,15,Willem van Noortplein,07:50,075000
+10,16,Willem van Noortstraat,07:51,075100
+10,17,Adelaarstraat,07:52,075200
+10,18,Sint Jacobsstraat,07:55,075500
+10,19,CS Jaarbeurszijde,08:02,080200
+10,20,CS Jaarbeurszijde,08:05,080500
+10,21,Van der Goesstraat,08:07,080700
+10,22,Brederoplein,08:08,080800
+10,23,Balijelaan,08:09,080900
+10,24,Waalstraat,08:10,081000
+10,25,Maasplein,08:11,081100
+10,26,Socrateslaan,08:13,081300
+10,27,Hooft Graaflandstraat,08:14,081400
+10,28,Karperstraat,08:16,081600
+10,29,Kastelenplantsoen,08:17,081700
+10,30,IJsselsteinlaan,08:19,081900
+11,1,Vechtsebanen,07:41,074100
+11,2,Nebraskadreef,07:43,074300
+11,3,Klopvaart,07:44,074400
+11,4,Orinocodreef,07:46,074600
+11,5,Bogotádreef,07:47,074700
+11,6,Amazonedreef,07:48,074800
+11,7,Paranadreef,07:49,074900
+11,8,Kaap Hoorndreef,07:50,075000
+11,9,Winkelcentrum Overvecht,07:52,075200
+11,10,Theemsdreef,07:53,075300
+11,11,Korfoedreef,07:54,075400
+11,12,Rubicondreef,07:56,075600
+11,13,Station Overvecht,07:57,075700
+11,14,Mr. Tripkade,07:59,075900
+11,15,Willem van Noortplein,08:01,080100
+11,16,Willem van Noortstraat,08:02,080200
+11,17,Adelaarstraat,08:03,080300
+11,18,Sint Jacobsstraat,08:06,080600
+11,19,CS Jaarbeurszijde,08:13,081300
+11,20,CS Jaarbeurszijde,08:16,081600
+11,21,Van der Goesstraat,08:18,081800
+11,22,Brederoplein,08:19,081900
+11,23,Balijelaan,08:20,082000
+11,24,Waalstraat,08:21,082100
+11,25,Maasplein,08:22,082200
+11,26,Socrateslaan,08:24,082400
+11,27,Hooft Graaflandstraat,08:25,082500
+11,28,Karperstraat,08:27,082700
+11,29,Kastelenplantsoen,08:28,082800
+11,30,IJsselsteinlaan,08:30,083000
+12,1,Vechtsebanen,07:51,075100
+12,2,Nebraskadreef,07:53,075300
+12,3,Klopvaart,07:54,075400
+12,4,Orinocodreef,07:56,075600
+12,5,Bogotádreef,07:57,075700
+12,6,Amazonedreef,07:58,075800
+12,7,Paranadreef,07:59,075900
+12,8,Kaap Hoorndreef,08:00,080000
+12,9,Winkelcentrum Overvecht,08:02,080200
+12,10,Theemsdreef,08:03,080300
+12,11,Korfoedreef,08:04,080400
+12,12,Rubicondreef,08:06,080600
+12,13,Station Overvecht,08:07,080700
+12,14,Mr. Tripkade,08:09,080900
+12,15,Willem van Noortplein,08:11,081100
+12,16,Willem van Noortstraat,08:12,081200
+12,17,Adelaarstraat,08:13,081300
+12,18,Sint Jacobsstraat,08:16,081600
+12,19,CS Jaarbeurszijde,08:23,082300
+12,20,CS Jaarbeurszijde,08:26,082600
+12,21,Van der Goesstraat,08:28,082800
+12,22,Brederoplein,08:29,082900
+12,23,Balijelaan,08:30,083000
+12,24,Waalstraat,08:31,083100
+12,25,Maasplein,08:32,083200
+12,26,Socrateslaan,08:34,083400
+12,27,Hooft Graaflandstraat,08:35,083500
+12,28,Karperstraat,08:37,083700
+12,29,Kastelenplantsoen,08:38,083800
+12,30,IJsselsteinlaan,08:40,084000
+13,1,Vechtsebanen,08:01,080100
+13,2,Nebraskadreef,08:03,080300
+13,3,Klopvaart,08:04,080400
+13,4,Orinocodreef,08:06,080600
+13,5,Bogotádreef,08:07,080700
+13,6,Amazonedreef,08:08,080800
+13,7,Paranadreef,08:09,080900
+13,8,Kaap Hoorndreef,08:10,081000
+13,9,Winkelcentrum Overvecht,08:12,081200
+13,10,Theemsdreef,08:13,081300
+13,11,Korfoedreef,08:14,081400
+13,12,Rubicondreef,08:16,081600
+13,13,Station Overvecht,08:17,081700
+13,14,Mr. Tripkade,08:19,081900
+13,15,Willem van Noortplein,08:21,082100
+13,16,Willem van Noortstraat,08:22,082200
+13,17,Adelaarstraat,08:23,082300
+13,18,Sint Jacobsstraat,08:26,082600
+13,19,CS Jaarbeurszijde,08:33,083300
+13,20,CS Jaarbeurszijde,08:36,083600
+13,21,Van der Goesstraat,08:38,083800
+13,22,Brederoplein,08:39,083900
+13,23,Balijelaan,08:40,084000
+13,24,Waalstraat,08:41,084100
+13,25,Maasplein,08:42,084200
+13,26,Socrateslaan,08:44,084400
+13,27,Hooft Graaflandstraat,08:45,084500
+13,28,Karperstraat,08:47,084700
+13,29,Kastelenplantsoen,08:48,084800
+13,30,IJsselsteinlaan,08:50,085000
+14,1,Vechtsebanen,08:11,081100
+14,2,Nebraskadreef,08:13,081300
+14,3,Klopvaart,08:14,081400
+14,4,Orinocodreef,08:16,081600
+14,5,Bogotádreef,08:17,081700
+14,6,Amazonedreef,08:18,081800
+14,7,Paranadreef,08:19,081900
+14,8,Kaap Hoorndreef,08:20,082000
+14,9,Winkelcentrum Overvecht,08:22,082200
+14,10,Theemsdreef,08:23,082300
+14,11,Korfoedreef,08:24,082400
+14,12,Rubicondreef,08:26,082600
+14,13,Station Overvecht,08:27,082700
+14,14,Mr. Tripkade,08:29,082900
+14,15,Willem van Noortplein,08:31,083100
+14,16,Willem van Noortstraat,08:32,083200
+14,17,Adelaarstraat,08:33,083300
+14,18,Sint Jacobsstraat,08:35,083500
+14,19,CS Jaarbeurszijde,08:42,084200
+14,20,CS Jaarbeurszijde,08:45,084500
+14,21,Van der Goesstraat,08:47,084700
+14,22,Brederoplein,08:48,084800
+14,23,Balijelaan,08:49,084900
+14,24,Waalstraat,08:50,085000
+14,25,Maasplein,08:51,085100
+14,26,Socrateslaan,08:53,085300
+14,27,Hooft Graaflandstraat,08:54,085400
+14,28,Karperstraat,08:56,085600
+14,29,Kastelenplantsoen,08:57,085700
+14,30,IJsselsteinlaan,08:59,085900
+15,1,Vechtsebanen,08:21,082100
+15,2,Nebraskadreef,08:23,082300
+15,3,Klopvaart,08:24,082400
+15,4,Orinocodreef,08:26,082600
+15,5,Bogotádreef,08:27,082700
+15,6,Amazonedreef,08:28,082800
+15,7,Paranadreef,08:29,082900
+15,8,Kaap Hoorndreef,08:30,083000
+15,9,Winkelcentrum Overvecht,08:32,083200
+15,10,Theemsdreef,08:33,083300
+15,11,Korfoedreef,08:34,083400
+15,12,Rubicondreef,08:35,083500
+15,13,Station Overvecht,08:36,083600
+15,14,Mr. Tripkade,08:38,083800
+15,15,Willem van Noortplein,08:40,084000
+15,16,Willem van Noortstraat,08:41,084100
+15,17,Adelaarstraat,08:42,084200
+15,18,Sint Jacobsstraat,08:44,084400
+15,19,CS Jaarbeurszijde,08:51,085100
+15,20,CS Jaarbeurszijde,08:54,085400
+15,21,Van der Goesstraat,08:56,085600
+15,22,Brederoplein,08:57,085700
+15,23,Balijelaan,08:58,085800
+15,24,Waalstraat,08:59,085900
+15,25,Maasplein,09:00,090000
+15,26,Socrateslaan,09:02,090200
+15,27,Hooft Graaflandstraat,09:03,090300
+15,28,Karperstraat,09:05,090500
+15,29,Kastelenplantsoen,09:06,090600
+15,30,IJsselsteinlaan,09:08,090800
+16,1,Vechtsebanen,08:31,083100
+16,2,Nebraskadreef,08:33,083300
+16,3,Klopvaart,08:34,083400
+16,4,Orinocodreef,08:36,083600
+16,5,Bogotádreef,08:37,083700
+16,6,Amazonedreef,08:38,083800
+16,7,Paranadreef,08:39,083900
+16,8,Kaap Hoorndreef,08:40,084000
+16,9,Winkelcentrum Overvecht,08:42,084200
+16,10,Theemsdreef,08:43,084300
+16,11,Korfoedreef,08:44,084400
+16,12,Rubicondreef,08:45,084500
+16,13,Station Overvecht,08:46,084600
+16,14,Mr. Tripkade,08:48,084800
+16,15,Willem van Noortplein,08:50,085000
+16,16,Willem van Noortstraat,08:51,085100
+16,17,Adelaarstraat,08:52,085200
+16,18,Sint Jacobsstraat,08:54,085400
+16,19,CS Jaarbeurszijde,09:00,090000
+16,20,CS Jaarbeurszijde,09:03,090300
+16,21,Van der Goesstraat,09:05,090500
+16,22,Brederoplein,09:06,090600
+16,23,Balijelaan,09:07,090700
+16,24,Waalstraat,09:08,090800
+16,25,Maasplein,09:09,090900
+16,26,Socrateslaan,09:11,091100
+16,27,Hooft Graaflandstraat,09:12,091200
+16,28,Karperstraat,09:14,091400
+16,29,Kastelenplantsoen,09:15,091500
+16,30,IJsselsteinlaan,09:17,091700
+17,1,Vechtsebanen,08:41,084100
+17,2,Nebraskadreef,08:43,084300
+17,3,Klopvaart,08:44,084400
+17,4,Orinocodreef,08:46,084600
+17,5,Bogotádreef,08:47,084700
+17,6,Amazonedreef,08:48,084800
+17,7,Paranadreef,08:49,084900
+17,8,Kaap Hoorndreef,08:50,085000
+17,9,Winkelcentrum Overvecht,08:52,085200
+17,10,Theemsdreef,08:53,085300
+17,11,Korfoedreef,08:54,085400
+17,12,Rubicondreef,08:55,085500
+17,13,Station Overvecht,08:56,085600
+17,14,Mr. Tripkade,08:58,085800
+17,15,Willem van Noortplein,09:00,090000
+17,16,Willem van Noortstraat,09:01,090100
+17,17,Adelaarstraat,09:02,090200
+17,18,Sint Jacobsstraat,09:04,090400
+17,19,CS Jaarbeurszijde,09:10,091000
+17,20,CS Jaarbeurszijde,09:13,091300
+17,21,Van der Goesstraat,09:15,091500
+17,22,Brederoplein,09:16,091600
+17,23,Balijelaan,09:17,091700
+17,24,Waalstraat,09:18,091800
+17,25,Maasplein,09:19,091900
+17,26,Socrateslaan,09:21,092100
+17,27,Hooft Graaflandstraat,09:22,092200
+17,28,Karperstraat,09:24,092400
+17,29,Kastelenplantsoen,09:25,092500
+17,30,IJsselsteinlaan,09:27,092700
+18,1,Vechtsebanen,08:51,085100
+18,2,Nebraskadreef,08:53,085300
+18,3,Klopvaart,08:54,085400
+18,4,Orinocodreef,08:56,085600
+18,5,Bogotádreef,08:57,085700
+18,6,Amazonedreef,08:58,085800
+18,7,Paranadreef,08:59,085900
+18,8,Kaap Hoorndreef,09:00,090000
+18,9,Winkelcentrum Overvecht,09:01,090100
+18,10,Theemsdreef,09:02,090200
+18,11,Korfoedreef,09:03,090300
+18,12,Rubicondreef,09:04,090400
+18,13,Station Overvecht,09:05,090500
+18,14,Mr. Tripkade,09:07,090700
+18,15,Willem van Noortplein,09:09,090900
+18,16,Willem van Noortstraat,09:10,091000
+18,17,Adelaarstraat,09:11,091100
+18,18,Sint Jacobsstraat,09:13,091300
+18,19,CS Jaarbeurszijde,09:19,091900
+18,20,CS Jaarbeurszijde,09:22,092200
+18,21,Van der Goesstraat,09:24,092400
+18,22,Brederoplein,09:25,092500
+18,23,Balijelaan,09:26,092600
+18,24,Waalstraat,09:27,092700
+18,25,Maasplein,09:28,092800
+18,26,Socrateslaan,09:30,093000
+18,27,Hooft Graaflandstraat,09:31,093100
+18,28,Karperstraat,09:33,093300
+18,29,Kastelenplantsoen,09:34,093400
+18,30,IJsselsteinlaan,09:36,093600
+19,1,Vechtsebanen,09:01,090100
+19,2,Nebraskadreef,09:03,090300
+19,3,Klopvaart,09:04,090400
+19,4,Orinocodreef,09:06,090600
+19,5,Bogotádreef,09:07,090700
+19,6,Amazonedreef,09:08,090800
+19,7,Paranadreef,09:09,090900
+19,8,Kaap Hoorndreef,09:10,091000
+19,9,Winkelcentrum Overvecht,09:11,091100
+19,10,Theemsdreef,09:12,091200
+19,11,Korfoedreef,09:13,091300
+19,12,Rubicondreef,09:14,091400
+19,13,Station Overvecht,09:15,091500
+19,14,Mr. Tripkade,09:17,091700
+19,15,Willem van Noortplein,09:19,091900
+19,16,Willem van Noortstraat,09:20,092000
+19,17,Adelaarstraat,09:21,092100
+19,18,Sint Jacobsstraat,09:23,092300
+19,19,CS Jaarbeurszijde,09:29,092900
+19,20,CS Jaarbeurszijde,09:32,093200
+19,21,Van der Goesstraat,09:34,093400
+19,22,Brederoplein,09:35,093500
+19,23,Balijelaan,09:36,093600
+19,24,Waalstraat,09:37,093700
+19,25,Maasplein,09:38,093800
+19,26,Socrateslaan,09:40,094000
+19,27,Hooft Graaflandstraat,09:41,094100
+19,28,Karperstraat,09:43,094300
+19,29,Kastelenplantsoen,09:44,094400
+19,30,IJsselsteinlaan,09:46,094600
+20,1,Vechtsebanen,09:11,091100
+20,2,Nebraskadreef,09:13,091300
+20,3,Klopvaart,09:14,091400
+20,4,Orinocodreef,09:16,091600
+20,5,Bogotádreef,09:17,091700
+20,6,Amazonedreef,09:18,091800
+20,7,Paranadreef,09:19,091900
+20,8,Kaap Hoorndreef,09:20,092000
+20,9,Winkelcentrum Overvecht,09:21,092100
+20,10,Theemsdreef,09:22,092200
+20,11,Korfoedreef,09:23,092300
+20,12,Rubicondreef,09:24,092400
+20,13,Station Overvecht,09:25,092500
+20,14,Mr. Tripkade,09:27,092700
+20,15,Willem van Noortplein,09:29,092900
+20,16,Willem van Noortstraat,09:30,093000
+20,17,Adelaarstraat,09:31,093100
+20,18,Sint Jacobsstraat,09:33,093300
+20,19,CS Jaarbeurszijde,09:39,093900
+20,20,CS Jaarbeurszijde,09:42,094200
+20,21,Van der Goesstraat,09:44,094400
+20,22,Brederoplein,09:45,094500
+20,23,Balijelaan,09:46,094600
+20,24,Waalstraat,09:47,094700
+20,25,Maasplein,09:48,094800
+20,26,Socrateslaan,09:50,095000
+20,27,Hooft Graaflandstraat,09:51,095100
+20,28,Karperstraat,09:53,095300
+20,29,Kastelenplantsoen,09:54,095400
+20,30,IJsselsteinlaan,09:56,095600
+21,1,Vechtsebanen,09:21,092100
+21,2,Nebraskadreef,09:23,092300
+21,3,Klopvaart,09:24,092400
+21,4,Orinocodreef,09:26,092600
+21,5,Bogotádreef,09:27,092700
+21,6,Amazonedreef,09:28,092800
+21,7,Paranadreef,09:29,092900
+21,8,Kaap Hoorndreef,09:30,093000
+21,9,Winkelcentrum Overvecht,09:31,093100
+21,10,Theemsdreef,09:32,093200
+21,11,Korfoedreef,09:33,093300
+21,12,Rubicondreef,09:34,093400
+21,13,Station Overvecht,09:35,093500
+21,14,Mr. Tripkade,09:37,093700
+21,15,Willem van Noortplein,09:39,093900
+21,16,Willem van Noortstraat,09:40,094000
+21,17,Adelaarstraat,09:41,094100
+21,18,Sint Jacobsstraat,09:43,094300
+21,19,CS Jaarbeurszijde,09:49,094900
+21,20,CS Jaarbeurszijde,09:52,095200
+21,21,Van der Goesstraat,09:54,095400
+21,22,Brederoplein,09:55,095500
+21,23,Balijelaan,09:56,095600
+21,24,Waalstraat,09:57,095700
+21,25,Maasplein,09:58,095800
+21,26,Socrateslaan,10:00,100000
+21,27,Hooft Graaflandstraat,10:01,100100
+21,28,Karperstraat,10:03,100300
+21,29,Kastelenplantsoen,10:04,100400
+21,30,IJsselsteinlaan,10:06,100600
+22,1,Vechtsebanen,09:31,093100
+22,2,Nebraskadreef,09:33,093300
+22,3,Klopvaart,09:34,093400
+22,4,Orinocodreef,09:36,093600
+22,5,Bogotádreef,09:37,093700
+22,6,Amazonedreef,09:38,093800
+22,7,Paranadreef,09:39,093900
+22,8,Kaap Hoorndreef,09:40,094000
+22,9,Winkelcentrum Overvecht,09:41,094100
+22,10,Theemsdreef,09:42,094200
+22,11,Korfoedreef,09:43,094300
+22,12,Rubicondreef,09:44,094400
+22,13,Station Overvecht,09:45,094500
+22,14,Mr. Tripkade,09:47,094700
+22,15,Willem van Noortplein,09:49,094900
+22,16,Willem van Noortstraat,09:50,095000
+22,17,Adelaarstraat,09:51,095100
+22,18,Sint Jacobsstraat,09:53,095300
+22,19,CS Jaarbeurszijde,09:59,095900
+22,20,CS Jaarbeurszijde,10:02,100200
+22,21,Van der Goesstraat,10:04,100400
+22,22,Brederoplein,10:05,100500
+22,23,Balijelaan,10:06,100600
+22,24,Waalstraat,10:07,100700
+22,25,Maasplein,10:08,100800
+22,26,Socrateslaan,10:10,101000
+22,27,Hooft Graaflandstraat,10:11,101100
+22,28,Karperstraat,10:13,101300
+22,29,Kastelenplantsoen,10:14,101400
+22,30,IJsselsteinlaan,10:16,101600
+23,1,Vechtsebanen,09:41,094100
+23,2,Nebraskadreef,09:43,094300
+23,3,Klopvaart,09:44,094400
+23,4,Orinocodreef,09:46,094600
+23,5,Bogotádreef,09:47,094700
+23,6,Amazonedreef,09:48,094800
+23,7,Paranadreef,09:49,094900
+23,8,Kaap Hoorndreef,09:50,095000
+23,9,Winkelcentrum Overvecht,09:51,095100
+23,10,Theemsdreef,09:52,095200
+23,11,Korfoedreef,09:53,095300
+23,12,Rubicondreef,09:54,095400
+23,13,Station Overvecht,09:55,095500
+23,14,Mr. Tripkade,09:57,095700
+23,15,Willem van Noortplein,09:59,095900
+23,16,Willem van Noortstraat,10:00,100000
+23,17,Adelaarstraat,10:01,100100
+23,18,Sint Jacobsstraat,10:03,100300
+23,19,CS Jaarbeurszijde,10:09,100900
+23,20,CS Jaarbeurszijde,10:12,101200
+23,21,Van der Goesstraat,10:14,101400
+23,22,Brederoplein,10:15,101500
+23,23,Balijelaan,10:16,101600
+23,24,Waalstraat,10:17,101700
+23,25,Maasplein,10:18,101800
+23,26,Socrateslaan,10:20,102000
+23,27,Hooft Graaflandstraat,10:21,102100
+23,28,Karperstraat,10:23,102300
+23,29,Kastelenplantsoen,10:24,102400
+23,30,IJsselsteinlaan,10:26,102600
+24,1,Vechtsebanen,09:51,095100
+24,2,Nebraskadreef,09:53,095300
+24,3,Klopvaart,09:54,095400
+24,4,Orinocodreef,09:56,095600
+24,5,Bogotádreef,09:57,095700
+24,6,Amazonedreef,09:58,095800
+24,7,Paranadreef,09:59,095900
+24,8,Kaap Hoorndreef,10:00,100000
+24,9,Winkelcentrum Overvecht,10:01,100100
+24,10,Theemsdreef,10:02,100200
+24,11,Korfoedreef,10:03,100300
+24,12,Rubicondreef,10:04,100400
+24,13,Station Overvecht,10:05,100500
+24,14,Mr. Tripkade,10:07,100700
+24,15,Willem van Noortplein,10:09,100900
+24,16,Willem van Noortstraat,10:10,101000
+24,17,Adelaarstraat,10:11,101100
+24,18,Sint Jacobsstraat,10:13,101300
+24,19,CS Jaarbeurszijde,10:19,101900
+24,20,CS Jaarbeurszijde,10:22,102200
+24,21,Van der Goesstraat,10:24,102400
+24,22,Brederoplein,10:25,102500
+24,23,Balijelaan,10:26,102600
+24,24,Waalstraat,10:27,102700
+24,25,Maasplein,10:28,102800
+24,26,Socrateslaan,10:30,103000
+24,27,Hooft Graaflandstraat,10:31,103100
+24,28,Karperstraat,10:33,103300
+24,29,Kastelenplantsoen,10:34,103400
+24,30,IJsselsteinlaan,10:36,103600
+25,1,Vechtsebanen,10:01,100100
+25,2,Nebraskadreef,10:03,100300
+25,3,Klopvaart,10:04,100400
+25,4,Orinocodreef,10:06,100600
+25,5,Bogotádreef,10:07,100700
+25,6,Amazonedreef,10:08,100800
+25,7,Paranadreef,10:09,100900
+25,8,Kaap Hoorndreef,10:10,101000
+25,9,Winkelcentrum Overvecht,10:11,101100
+25,10,Theemsdreef,10:12,101200
+25,11,Korfoedreef,10:13,101300
+25,12,Rubicondreef,10:14,101400
+25,13,Station Overvecht,10:15,101500
+25,14,Mr. Tripkade,10:17,101700
+25,15,Willem van Noortplein,10:19,101900
+25,16,Willem van Noortstraat,10:20,102000
+25,17,Adelaarstraat,10:21,102100
+25,18,Sint Jacobsstraat,10:23,102300
+25,19,CS Jaarbeurszijde,10:29,102900
+25,20,CS Jaarbeurszijde,10:32,103200
+25,21,Van der Goesstraat,10:34,103400
+25,22,Brederoplein,10:35,103500
+25,23,Balijelaan,10:36,103600
+25,24,Waalstraat,10:37,103700
+25,25,Maasplein,10:38,103800
+25,26,Socrateslaan,10:40,104000
+25,27,Hooft Graaflandstraat,10:41,104100
+25,28,Karperstraat,10:43,104300
+25,29,Kastelenplantsoen,10:44,104400
+25,30,IJsselsteinlaan,10:46,104600
+26,1,Vechtsebanen,10:11,101100
+26,2,Nebraskadreef,10:13,101300
+26,3,Klopvaart,10:14,101400
+26,4,Orinocodreef,10:16,101600
+26,5,Bogotádreef,10:17,101700
+26,6,Amazonedreef,10:18,101800
+26,7,Paranadreef,10:19,101900
+26,8,Kaap Hoorndreef,10:20,102000
+26,9,Winkelcentrum Overvecht,10:21,102100
+26,10,Theemsdreef,10:22,102200
+26,11,Korfoedreef,10:23,102300
+26,12,Rubicondreef,10:24,102400
+26,13,Station Overvecht,10:25,102500
+26,14,Mr. Tripkade,10:27,102700
+26,15,Willem van Noortplein,10:29,102900
+26,16,Willem van Noortstraat,10:30,103000
+26,17,Adelaarstraat,10:31,103100
+26,18,Sint Jacobsstraat,10:33,103300
+26,19,CS Jaarbeurszijde,10:39,103900
+26,20,CS Jaarbeurszijde,10:42,104200
+26,21,Van der Goesstraat,10:44,104400
+26,22,Brederoplein,10:45,104500
+26,23,Balijelaan,10:46,104600
+26,24,Waalstraat,10:47,104700
+26,25,Maasplein,10:48,104800
+26,26,Socrateslaan,10:50,105000
+26,27,Hooft Graaflandstraat,10:51,105100
+26,28,Karperstraat,10:53,105300
+26,29,Kastelenplantsoen,10:54,105400
+26,30,IJsselsteinlaan,10:56,105600
+27,1,Vechtsebanen,10:21,102100
+27,2,Nebraskadreef,10:23,102300
+27,3,Klopvaart,10:24,102400
+27,4,Orinocodreef,10:26,102600
+27,5,Bogotádreef,10:27,102700
+27,6,Amazonedreef,10:28,102800
+27,7,Paranadreef,10:29,102900
+27,8,Kaap Hoorndreef,10:30,103000
+27,9,Winkelcentrum Overvecht,10:31,103100
+27,10,Theemsdreef,10:32,103200
+27,11,Korfoedreef,10:33,103300
+27,12,Rubicondreef,10:34,103400
+27,13,Station Overvecht,10:35,103500
+27,14,Mr. Tripkade,10:37,103700
+27,15,Willem van Noortplein,10:39,103900
+27,16,Willem van Noortstraat,10:40,104000
+27,17,Adelaarstraat,10:41,104100
+27,18,Sint Jacobsstraat,10:43,104300
+27,19,CS Jaarbeurszijde,10:49,104900
+27,20,CS Jaarbeurszijde,10:52,105200
+27,21,Van der Goesstraat,10:54,105400
+27,22,Brederoplein,10:55,105500
+27,23,Balijelaan,10:56,105600
+27,24,Waalstraat,10:57,105700
+27,25,Maasplein,10:58,105800
+27,26,Socrateslaan,11:00,110000
+27,27,Hooft Graaflandstraat,11:01,110100
+27,28,Karperstraat,11:03,110300
+27,29,Kastelenplantsoen,11:04,110400
+27,30,IJsselsteinlaan,11:06,110600
+28,1,Vechtsebanen,10:31,103100
+28,2,Nebraskadreef,10:33,103300
+28,3,Klopvaart,10:34,103400
+28,4,Orinocodreef,10:36,103600
+28,5,Bogotádreef,10:37,103700
+28,6,Amazonedreef,10:38,103800
+28,7,Paranadreef,10:39,103900
+28,8,Kaap Hoorndreef,10:40,104000
+28,9,Winkelcentrum Overvecht,10:41,104100
+28,10,Theemsdreef,10:42,104200
+28,11,Korfoedreef,10:43,104300
+28,12,Rubicondreef,10:44,104400
+28,13,Station Overvecht,10:45,104500
+28,14,Mr. Tripkade,10:47,104700
+28,15,Willem van Noortplein,10:49,104900
+28,16,Willem van Noortstraat,10:50,105000
+28,17,Adelaarstraat,10:51,105100
+28,18,Sint Jacobsstraat,10:53,105300
+28,19,CS Jaarbeurszijde,10:59,105900
+28,20,CS Jaarbeurszijde,11:02,110200
+28,21,Van der Goesstraat,11:04,110400
+28,22,Brederoplein,11:05,110500
+28,23,Balijelaan,11:06,110600
+28,24,Waalstraat,11:07,110700
+28,25,Maasplein,11:08,110800
+28,26,Socrateslaan,11:10,111000
+28,27,Hooft Graaflandstraat,11:11,111100
+28,28,Karperstraat,11:13,111300
+28,29,Kastelenplantsoen,11:14,111400
+28,30,IJsselsteinlaan,11:16,111600
+29,1,Vechtsebanen,10:41,104100
+29,2,Nebraskadreef,10:43,104300
+29,3,Klopvaart,10:44,104400
+29,4,Orinocodreef,10:46,104600
+29,5,Bogotádreef,10:47,104700
+29,6,Amazonedreef,10:48,104800
+29,7,Paranadreef,10:49,104900
+29,8,Kaap Hoorndreef,10:50,105000
+29,9,Winkelcentrum Overvecht,10:51,105100
+29,10,Theemsdreef,10:52,105200
+29,11,Korfoedreef,10:53,105300
+29,12,Rubicondreef,10:54,105400
+29,13,Station Overvecht,10:55,105500
+29,14,Mr. Tripkade,10:57,105700
+29,15,Willem van Noortplein,10:59,105900
+29,16,Willem van Noortstraat,11:00,110000
+29,17,Adelaarstraat,11:01,110100
+29,18,Sint Jacobsstraat,11:03,110300
+29,19,CS Jaarbeurszijde,11:09,110900
+29,20,CS Jaarbeurszijde,11:12,111200
+29,21,Van der Goesstraat,11:14,111400
+29,22,Brederoplein,11:15,111500
+29,23,Balijelaan,11:16,111600
+29,24,Waalstraat,11:17,111700
+29,25,Maasplein,11:18,111800
+29,26,Socrateslaan,11:20,112000
+29,27,Hooft Graaflandstraat,11:21,112100
+29,28,Karperstraat,11:23,112300
+29,29,Kastelenplantsoen,11:24,112400
+29,30,IJsselsteinlaan,11:26,112600
+30,1,Vechtsebanen,10:51,105100
+30,2,Nebraskadreef,10:53,105300
+30,3,Klopvaart,10:54,105400
+30,4,Orinocodreef,10:56,105600
+30,5,Bogotádreef,10:57,105700
+30,6,Amazonedreef,10:58,105800
+30,7,Paranadreef,10:59,105900
+30,8,Kaap Hoorndreef,11:00,110000
+30,9,Winkelcentrum Overvecht,11:01,110100
+30,10,Theemsdreef,11:02,110200
+30,11,Korfoedreef,11:03,110300
+30,12,Rubicondreef,11:04,110400
+30,13,Station Overvecht,11:05,110500
+30,14,Mr. Tripkade,11:07,110700
+30,15,Willem van Noortplein,11:09,110900
+30,16,Willem van Noortstraat,11:10,111000
+30,17,Adelaarstraat,11:11,111100
+30,18,Sint Jacobsstraat,11:13,111300
+30,19,CS Jaarbeurszijde,11:19,111900
+30,20,CS Jaarbeurszijde,11:22,112200
+30,21,Van der Goesstraat,11:24,112400
+30,22,Brederoplein,11:25,112500
+30,23,Balijelaan,11:26,112600
+30,24,Waalstraat,11:27,112700
+30,25,Maasplein,11:28,112800
+30,26,Socrateslaan,11:30,113000
+30,27,Hooft Graaflandstraat,11:31,113100
+30,28,Karperstraat,11:33,113300
+30,29,Kastelenplantsoen,11:34,113400
+30,30,IJsselsteinlaan,11:36,113600
+31,1,Vechtsebanen,11:01,110100
+31,2,Nebraskadreef,11:03,110300
+31,3,Klopvaart,11:04,110400
+31,4,Orinocodreef,11:06,110600
+31,5,Bogotádreef,11:07,110700
+31,6,Amazonedreef,11:08,110800
+31,7,Paranadreef,11:09,110900
+31,8,Kaap Hoorndreef,11:10,111000
+31,9,Winkelcentrum Overvecht,11:11,111100
+31,10,Theemsdreef,11:12,111200
+31,11,Korfoedreef,11:13,111300
+31,12,Rubicondreef,11:14,111400
+31,13,Station Overvecht,11:15,111500
+31,14,Mr. Tripkade,11:17,111700
+31,15,Willem van Noortplein,11:19,111900
+31,16,Willem van Noortstraat,11:20,112000
+31,17,Adelaarstraat,11:21,112100
+31,18,Sint Jacobsstraat,11:23,112300
+31,19,CS Jaarbeurszijde,11:29,112900
+31,20,CS Jaarbeurszijde,11:32,113200
+31,21,Van der Goesstraat,11:34,113400
+31,22,Brederoplein,11:35,113500
+31,23,Balijelaan,11:36,113600
+31,24,Waalstraat,11:37,113700
+31,25,Maasplein,11:38,113800
+31,26,Socrateslaan,11:40,114000
+31,27,Hooft Graaflandstraat,11:41,114100
+31,28,Karperstraat,11:43,114300
+31,29,Kastelenplantsoen,11:44,114400
+31,30,IJsselsteinlaan,11:46,114600
+32,1,Vechtsebanen,11:11,111100
+32,2,Nebraskadreef,11:13,111300
+32,3,Klopvaart,11:14,111400
+32,4,Orinocodreef,11:16,111600
+32,5,Bogotádreef,11:17,111700
+32,6,Amazonedreef,11:18,111800
+32,7,Paranadreef,11:19,111900
+32,8,Kaap Hoorndreef,11:20,112000
+32,9,Winkelcentrum Overvecht,11:21,112100
+32,10,Theemsdreef,11:22,112200
+32,11,Korfoedreef,11:23,112300
+32,12,Rubicondreef,11:24,112400
+32,13,Station Overvecht,11:25,112500
+32,14,Mr. Tripkade,11:27,112700
+32,15,Willem van Noortplein,11:29,112900
+32,16,Willem van Noortstraat,11:30,113000
+32,17,Adelaarstraat,11:31,113100
+32,18,Sint Jacobsstraat,11:33,113300
+32,19,CS Jaarbeurszijde,11:39,113900
+32,20,CS Jaarbeurszijde,11:42,114200
+32,21,Van der Goesstraat,11:44,114400
+32,22,Brederoplein,11:45,114500
+32,23,Balijelaan,11:46,114600
+32,24,Waalstraat,11:47,114700
+32,25,Maasplein,11:48,114800
+32,26,Socrateslaan,11:50,115000
+32,27,Hooft Graaflandstraat,11:51,115100
+32,28,Karperstraat,11:53,115300
+32,29,Kastelenplantsoen,11:54,115400
+32,30,IJsselsteinlaan,11:56,115600
+33,1,Vechtsebanen,11:21,112100
+33,2,Nebraskadreef,11:23,112300
+33,3,Klopvaart,11:24,112400
+33,4,Orinocodreef,11:26,112600
+33,5,Bogotádreef,11:27,112700
+33,6,Amazonedreef,11:28,112800
+33,7,Paranadreef,11:29,112900
+33,8,Kaap Hoorndreef,11:30,113000
+33,9,Winkelcentrum Overvecht,11:31,113100
+33,10,Theemsdreef,11:32,113200
+33,11,Korfoedreef,11:33,113300
+33,12,Rubicondreef,11:34,113400
+33,13,Station Overvecht,11:35,113500
+33,14,Mr. Tripkade,11:37,113700
+33,15,Willem van Noortplein,11:39,113900
+33,16,Willem van Noortstraat,11:40,114000
+33,17,Adelaarstraat,11:41,114100
+33,18,Sint Jacobsstraat,11:43,114300
+33,19,CS Jaarbeurszijde,11:49,114900
+33,20,CS Jaarbeurszijde,11:52,115200
+33,21,Van der Goesstraat,11:54,115400
+33,22,Brederoplein,11:55,115500
+33,23,Balijelaan,11:56,115600
+33,24,Waalstraat,11:57,115700
+33,25,Maasplein,11:58,115800
+33,26,Socrateslaan,12:00,120000
+33,27,Hooft Graaflandstraat,12:01,120100
+33,28,Karperstraat,12:03,120300
+33,29,Kastelenplantsoen,12:04,120400
+33,30,IJsselsteinlaan,12:06,120600
+34,1,Vechtsebanen,11:31,113100
+34,2,Nebraskadreef,11:33,113300
+34,3,Klopvaart,11:34,113400
+34,4,Orinocodreef,11:36,113600
+34,5,Bogotádreef,11:37,113700
+34,6,Amazonedreef,11:38,113800
+34,7,Paranadreef,11:39,113900
+34,8,Kaap Hoorndreef,11:40,114000
+34,9,Winkelcentrum Overvecht,11:41,114100
+34,10,Theemsdreef,11:42,114200
+34,11,Korfoedreef,11:43,114300
+34,12,Rubicondreef,11:44,114400
+34,13,Station Overvecht,11:45,114500
+34,14,Mr. Tripkade,11:47,114700
+34,15,Willem van Noortplein,11:49,114900
+34,16,Willem van Noortstraat,11:50,115000
+34,17,Adelaarstraat,11:51,115100
+34,18,Sint Jacobsstraat,11:53,115300
+34,19,CS Jaarbeurszijde,11:59,115900
+34,20,CS Jaarbeurszijde,12:02,120200
+34,21,Van der Goesstraat,12:04,120400
+34,22,Brederoplein,12:05,120500
+34,23,Balijelaan,12:06,120600
+34,24,Waalstraat,12:07,120700
+34,25,Maasplein,12:08,120800
+34,26,Socrateslaan,12:10,121000
+34,27,Hooft Graaflandstraat,12:11,121100
+34,28,Karperstraat,12:13,121300
+34,29,Kastelenplantsoen,12:14,121400
+34,30,IJsselsteinlaan,12:16,121600
+35,1,Vechtsebanen,11:41,114100
+35,2,Nebraskadreef,11:43,114300
+35,3,Klopvaart,11:44,114400
+35,4,Orinocodreef,11:46,114600
+35,5,Bogotádreef,11:47,114700
+35,6,Amazonedreef,11:48,114800
+35,7,Paranadreef,11:49,114900
+35,8,Kaap Hoorndreef,11:50,115000
+35,9,Winkelcentrum Overvecht,11:51,115100
+35,10,Theemsdreef,11:52,115200
+35,11,Korfoedreef,11:53,115300
+35,12,Rubicondreef,11:54,115400
+35,13,Station Overvecht,11:55,115500
+35,14,Mr. Tripkade,11:57,115700
+35,15,Willem van Noortplein,11:59,115900
+35,16,Willem van Noortstraat,12:00,120000
+35,17,Adelaarstraat,12:01,120100
+35,18,Sint Jacobsstraat,12:03,120300
+35,19,CS Jaarbeurszijde,12:09,120900
+35,20,CS Jaarbeurszijde,12:12,121200
+35,21,Van der Goesstraat,12:14,121400
+35,22,Brederoplein,12:15,121500
+35,23,Balijelaan,12:16,121600
+35,24,Waalstraat,12:17,121700
+35,25,Maasplein,12:18,121800
+35,26,Socrateslaan,12:20,122000
+35,27,Hooft Graaflandstraat,12:21,122100
+35,28,Karperstraat,12:23,122300
+35,29,Kastelenplantsoen,12:24,122400
+35,30,IJsselsteinlaan,12:26,122600
+36,1,Vechtsebanen,11:51,115100
+36,2,Nebraskadreef,11:53,115300
+36,3,Klopvaart,11:54,115400
+36,4,Orinocodreef,11:56,115600
+36,5,Bogotádreef,11:57,115700
+36,6,Amazonedreef,11:58,115800
+36,7,Paranadreef,11:59,115900
+36,8,Kaap Hoorndreef,12:00,120000
+36,9,Winkelcentrum Overvecht,12:01,120100
+36,10,Theemsdreef,12:02,120200
+36,11,Korfoedreef,12:03,120300
+36,12,Rubicondreef,12:04,120400
+36,13,Station Overvecht,12:05,120500
+36,14,Mr. Tripkade,12:07,120700
+36,15,Willem van Noortplein,12:09,120900
+36,16,Willem van Noortstraat,12:10,121000
+36,17,Adelaarstraat,12:11,121100
+36,18,Sint Jacobsstraat,12:13,121300
+36,19,CS Jaarbeurszijde,12:19,121900
+36,20,CS Jaarbeurszijde,12:22,122200
+36,21,Van der Goesstraat,12:24,122400
+36,22,Brederoplein,12:25,122500
+36,23,Balijelaan,12:26,122600
+36,24,Waalstraat,12:27,122700
+36,25,Maasplein,12:28,122800
+36,26,Socrateslaan,12:30,123000
+36,27,Hooft Graaflandstraat,12:31,123100
+36,28,Karperstraat,12:33,123300
+36,29,Kastelenplantsoen,12:34,123400
+36,30,IJsselsteinlaan,12:36,123600
+37,1,Vechtsebanen,12:01,120100
+37,2,Oregondreef,12:02,120200
+37,3,Hudsondreef,12:03,120300
+37,4,Arizonadreef,12:04,120400
+37,5,Nebraskadreef,12:05,120500
+37,6,Klopvaart,12:06,120600
+37,7,Orinocodreef,12:08,120800
+37,8,Bogotádreef,12:09,120900
+37,9,Amazonedreef,12:10,121000
+37,10,Paranadreef,12:11,121100
+37,11,Kaap Hoorndreef,12:12,121200
+37,12,Winkelcentrum Overvecht,12:14,121400
+37,13,Theemsdreef,12:15,121500
+37,14,Korfoedreef,12:16,121600
+37,15,Rubicondreef,12:17,121700
+37,16,Station Overvecht,12:18,121800
+37,17,Mr. Tripkade,12:20,122000
+37,18,Willem van Noortplein,12:22,122200
+37,19,Willem van Noortstraat,12:23,122300
+37,20,Adelaarstraat,12:24,122400
+37,21,Sint Jacobsstraat,12:26,122600
+37,22,CS Jaarbeurszijde,12:33,123300
+37,23,CS Jaarbeurszijde,12:36,123600
+37,24,Van der Goesstraat,12:38,123800
+37,25,Brederoplein,12:39,123900
+37,26,Balijelaan,12:40,124000
+37,27,Waalstraat,12:41,124100
+37,28,Maasplein,12:42,124200
+37,29,Socrateslaan,12:44,124400
+37,30,Hooft Graaflandstraat,12:45,124500
+37,31,Karperstraat,12:47,124700
+37,32,Kastelenplantsoen,12:48,124800
+37,33,IJsselsteinlaan,12:50,125000
+38,1,Vechtsebanen,12:11,121100
+38,2,Oregondreef,12:12,121200
+38,3,Hudsondreef,12:13,121300
+38,4,Arizonadreef,12:14,121400
+38,5,Nebraskadreef,12:15,121500
+38,6,Klopvaart,12:16,121600
+38,7,Orinocodreef,12:18,121800
+38,8,Bogotádreef,12:19,121900
+38,9,Amazonedreef,12:20,122000
+38,10,Paranadreef,12:21,122100
+38,11,Kaap Hoorndreef,12:22,122200
+38,12,Winkelcentrum Overvecht,12:24,122400
+38,13,Theemsdreef,12:25,122500
+38,14,Korfoedreef,12:26,122600
+38,15,Rubicondreef,12:27,122700
+38,16,Station Overvecht,12:28,122800
+38,17,Mr. Tripkade,12:30,123000
+38,18,Willem van Noortplein,12:32,123200
+38,19,Willem van Noortstraat,12:33,123300
+38,20,Adelaarstraat,12:34,123400
+38,21,Sint Jacobsstraat,12:36,123600
+38,22,CS Jaarbeurszijde,12:43,124300
+38,23,CS Jaarbeurszijde,12:46,124600
+38,24,Van der Goesstraat,12:48,124800
+38,25,Brederoplein,12:49,124900
+38,26,Balijelaan,12:50,125000
+38,27,Waalstraat,12:51,125100
+38,28,Maasplein,12:52,125200
+38,29,Socrateslaan,12:54,125400
+38,30,Hooft Graaflandstraat,12:55,125500
+38,31,Karperstraat,12:57,125700
+38,32,Kastelenplantsoen,12:58,125800
+38,33,IJsselsteinlaan,13:00,130000
+39,1,Vechtsebanen,12:21,122100
+39,2,Oregondreef,12:22,122200
+39,3,Hudsondreef,12:23,122300
+39,4,Arizonadreef,12:24,122400
+39,5,Nebraskadreef,12:25,122500
+39,6,Klopvaart,12:26,122600
+39,7,Orinocodreef,12:28,122800
+39,8,Bogotádreef,12:29,122900
+39,9,Amazonedreef,12:30,123000
+39,10,Paranadreef,12:31,123100
+39,11,Kaap Hoorndreef,12:32,123200
+39,12,Winkelcentrum Overvecht,12:34,123400
+39,13,Theemsdreef,12:35,123500
+39,14,Korfoedreef,12:36,123600
+39,15,Rubicondreef,12:37,123700
+39,16,Station Overvecht,12:38,123800
+39,17,Mr. Tripkade,12:40,124000
+39,18,Willem van Noortplein,12:42,124200
+39,19,Willem van Noortstraat,12:43,124300
+39,20,Adelaarstraat,12:44,124400
+39,21,Sint Jacobsstraat,12:46,124600
+39,22,CS Jaarbeurszijde,12:53,125300
+39,23,CS Jaarbeurszijde,12:56,125600
+39,24,Van der Goesstraat,12:58,125800
+39,25,Brederoplein,12:59,125900
+39,26,Balijelaan,13:00,130000
+39,27,Waalstraat,13:01,130100
+39,28,Maasplein,13:02,130200
+39,29,Socrateslaan,13:04,130400
+39,30,Hooft Graaflandstraat,13:05,130500
+39,31,Karperstraat,13:07,130700
+39,32,Kastelenplantsoen,13:08,130800
+39,33,IJsselsteinlaan,13:10,131000
+40,1,Vechtsebanen,12:31,123100
+40,2,Oregondreef,12:32,123200
+40,3,Hudsondreef,12:33,123300
+40,4,Arizonadreef,12:34,123400
+40,5,Nebraskadreef,12:35,123500
+40,6,Klopvaart,12:36,123600
+40,7,Orinocodreef,12:38,123800
+40,8,Bogotádreef,12:39,123900
+40,9,Amazonedreef,12:40,124000
+40,10,Paranadreef,12:41,124100
+40,11,Kaap Hoorndreef,12:42,124200
+40,12,Winkelcentrum Overvecht,12:44,124400
+40,13,Theemsdreef,12:45,124500
+40,14,Korfoedreef,12:46,124600
+40,15,Rubicondreef,12:47,124700
+40,16,Station Overvecht,12:48,124800
+40,17,Mr. Tripkade,12:50,125000
+40,18,Willem van Noortplein,12:52,125200
+40,19,Willem van Noortstraat,12:53,125300
+40,20,Adelaarstraat,12:54,125400
+40,21,Sint Jacobsstraat,12:56,125600
+40,22,CS Jaarbeurszijde,13:03,130300
+40,23,CS Jaarbeurszijde,13:06,130600
+40,24,Van der Goesstraat,13:08,130800
+40,25,Brederoplein,13:09,130900
+40,26,Balijelaan,13:10,131000
+40,27,Waalstraat,13:11,131100
+40,28,Maasplein,13:12,131200
+40,29,Socrateslaan,13:14,131400
+40,30,Hooft Graaflandstraat,13:15,131500
+40,31,Karperstraat,13:17,131700
+40,32,Kastelenplantsoen,13:18,131800
+40,33,IJsselsteinlaan,13:20,132000
+41,1,Vechtsebanen,12:41,124100
+41,2,Oregondreef,12:42,124200
+41,3,Hudsondreef,12:43,124300
+41,4,Arizonadreef,12:44,124400
+41,5,Nebraskadreef,12:45,124500
+41,6,Klopvaart,12:46,124600
+41,7,Orinocodreef,12:48,124800
+41,8,Bogotádreef,12:49,124900
+41,9,Amazonedreef,12:50,125000
+41,10,Paranadreef,12:51,125100
+41,11,Kaap Hoorndreef,12:52,125200
+41,12,Winkelcentrum Overvecht,12:54,125400
+41,13,Theemsdreef,12:55,125500
+41,14,Korfoedreef,12:56,125600
+41,15,Rubicondreef,12:57,125700
+41,16,Station Overvecht,12:58,125800
+41,17,Mr. Tripkade,13:00,130000
+41,18,Willem van Noortplein,13:02,130200
+41,19,Willem van Noortstraat,13:03,130300
+41,20,Adelaarstraat,13:04,130400
+41,21,Sint Jacobsstraat,13:06,130600
+41,22,CS Jaarbeurszijde,13:13,131300
+41,23,CS Jaarbeurszijde,13:16,131600
+41,24,Van der Goesstraat,13:18,131800
+41,25,Brederoplein,13:19,131900
+41,26,Balijelaan,13:20,132000
+41,27,Waalstraat,13:21,132100
+41,28,Maasplein,13:22,132200
+41,29,Socrateslaan,13:24,132400
+41,30,Hooft Graaflandstraat,13:25,132500
+41,31,Karperstraat,13:27,132700
+41,32,Kastelenplantsoen,13:28,132800
+41,33,IJsselsteinlaan,13:30,133000
+42,1,Vechtsebanen,12:51,125100
+42,2,Oregondreef,12:52,125200
+42,3,Hudsondreef,12:53,125300
+42,4,Arizonadreef,12:54,125400
+42,5,Nebraskadreef,12:55,125500
+42,6,Klopvaart,12:56,125600
+42,7,Orinocodreef,12:58,125800
+42,8,Bogotádreef,12:59,125900
+42,9,Amazonedreef,13:00,130000
+42,10,Paranadreef,13:01,130100
+42,11,Kaap Hoorndreef,13:02,130200
+42,12,Winkelcentrum Overvecht,13:04,130400
+42,13,Theemsdreef,13:05,130500
+42,14,Korfoedreef,13:06,130600
+42,15,Rubicondreef,13:07,130700
+42,16,Station Overvecht,13:08,130800
+42,17,Mr. Tripkade,13:10,131000
+42,18,Willem van Noortplein,13:12,131200
+42,19,Willem van Noortstraat,13:13,131300
+42,20,Adelaarstraat,13:14,131400
+42,21,Sint Jacobsstraat,13:16,131600
+42,22,CS Jaarbeurszijde,13:23,132300
+42,23,CS Jaarbeurszijde,13:26,132600
+42,24,Van der Goesstraat,13:28,132800
+42,25,Brederoplein,13:29,132900
+42,26,Balijelaan,13:30,133000
+42,27,Waalstraat,13:31,133100
+42,28,Maasplein,13:32,133200
+42,29,Socrateslaan,13:34,133400
+42,30,Hooft Graaflandstraat,13:35,133500
+42,31,Karperstraat,13:37,133700
+42,32,Kastelenplantsoen,13:38,133800
+42,33,IJsselsteinlaan,13:40,134000
+43,1,Vechtsebanen,13:01,130100
+43,2,Oregondreef,13:02,130200
+43,3,Hudsondreef,13:03,130300
+43,4,Arizonadreef,13:04,130400
+43,5,Nebraskadreef,13:05,130500
+43,6,Klopvaart,13:06,130600
+43,7,Orinocodreef,13:08,130800
+43,8,Bogotádreef,13:09,130900
+43,9,Amazonedreef,13:10,131000
+43,10,Paranadreef,13:11,131100
+43,11,Kaap Hoorndreef,13:12,131200
+43,12,Winkelcentrum Overvecht,13:14,131400
+43,13,Theemsdreef,13:15,131500
+43,14,Korfoedreef,13:16,131600
+43,15,Rubicondreef,13:17,131700
+43,16,Station Overvecht,13:18,131800
+43,17,Mr. Tripkade,13:20,132000
+43,18,Willem van Noortplein,13:22,132200
+43,19,Willem van Noortstraat,13:23,132300
+43,20,Adelaarstraat,13:24,132400
+43,21,Sint Jacobsstraat,13:26,132600
+43,22,CS Jaarbeurszijde,13:33,133300
+43,23,CS Jaarbeurszijde,13:36,133600
+43,24,Van der Goesstraat,13:38,133800
+43,25,Brederoplein,13:39,133900
+43,26,Balijelaan,13:40,134000
+43,27,Waalstraat,13:41,134100
+43,28,Maasplein,13:42,134200
+43,29,Socrateslaan,13:44,134400
+43,30,Hooft Graaflandstraat,13:45,134500
+43,31,Karperstraat,13:47,134700
+43,32,Kastelenplantsoen,13:48,134800
+43,33,IJsselsteinlaan,13:50,135000
+44,1,Vechtsebanen,13:11,131100
+44,2,Oregondreef,13:12,131200
+44,3,Hudsondreef,13:13,131300
+44,4,Arizonadreef,13:14,131400
+44,5,Nebraskadreef,13:15,131500
+44,6,Klopvaart,13:16,131600
+44,7,Orinocodreef,13:18,131800
+44,8,Bogotádreef,13:19,131900
+44,9,Amazonedreef,13:20,132000
+44,10,Paranadreef,13:21,132100
+44,11,Kaap Hoorndreef,13:22,132200
+44,12,Winkelcentrum Overvecht,13:24,132400
+44,13,Theemsdreef,13:25,132500
+44,14,Korfoedreef,13:26,132600
+44,15,Rubicondreef,13:27,132700
+44,16,Station Overvecht,13:28,132800
+44,17,Mr. Tripkade,13:30,133000
+44,18,Willem van Noortplein,13:32,133200
+44,19,Willem van Noortstraat,13:33,133300
+44,20,Adelaarstraat,13:34,133400
+44,21,Sint Jacobsstraat,13:36,133600
+44,22,CS Jaarbeurszijde,13:43,134300
+44,23,CS Jaarbeurszijde,13:46,134600
+44,24,Van der Goesstraat,13:48,134800
+44,25,Brederoplein,13:49,134900
+44,26,Balijelaan,13:50,135000
+44,27,Waalstraat,13:51,135100
+44,28,Maasplein,13:52,135200
+44,29,Socrateslaan,13:54,135400
+44,30,Hooft Graaflandstraat,13:55,135500
+44,31,Karperstraat,13:57,135700
+44,32,Kastelenplantsoen,13:58,135800
+44,33,IJsselsteinlaan,14:00,140000
+45,1,Vechtsebanen,13:21,132100
+45,2,Oregondreef,13:22,132200
+45,3,Hudsondreef,13:23,132300
+45,4,Arizonadreef,13:24,132400
+45,5,Nebraskadreef,13:25,132500
+45,6,Klopvaart,13:26,132600
+45,7,Orinocodreef,13:28,132800
+45,8,Bogotádreef,13:29,132900
+45,9,Amazonedreef,13:30,133000
+45,10,Paranadreef,13:31,133100
+45,11,Kaap Hoorndreef,13:32,133200
+45,12,Winkelcentrum Overvecht,13:34,133400
+45,13,Theemsdreef,13:35,133500
+45,14,Korfoedreef,13:36,133600
+45,15,Rubicondreef,13:37,133700
+45,16,Station Overvecht,13:38,133800
+45,17,Mr. Tripkade,13:40,134000
+45,18,Willem van Noortplein,13:42,134200
+45,19,Willem van Noortstraat,13:43,134300
+45,20,Adelaarstraat,13:44,134400
+45,21,Sint Jacobsstraat,13:46,134600
+45,22,CS Jaarbeurszijde,13:53,135300
+45,23,CS Jaarbeurszijde,13:56,135600
+45,24,Van der Goesstraat,13:58,135800
+45,25,Brederoplein,13:59,135900
+45,26,Balijelaan,14:00,140000
+45,27,Waalstraat,14:01,140100
+45,28,Maasplein,14:02,140200
+45,29,Socrateslaan,14:04,140400
+45,30,Hooft Graaflandstraat,14:05,140500
+45,31,Karperstraat,14:07,140700
+45,32,Kastelenplantsoen,14:08,140800
+45,33,IJsselsteinlaan,14:10,141000
+46,1,Vechtsebanen,13:31,133100
+46,2,Oregondreef,13:32,133200
+46,3,Hudsondreef,13:33,133300
+46,4,Arizonadreef,13:34,133400
+46,5,Nebraskadreef,13:35,133500
+46,6,Klopvaart,13:36,133600
+46,7,Orinocodreef,13:38,133800
+46,8,Bogotádreef,13:39,133900
+46,9,Amazonedreef,13:40,134000
+46,10,Paranadreef,13:41,134100
+46,11,Kaap Hoorndreef,13:42,134200
+46,12,Winkelcentrum Overvecht,13:44,134400
+46,13,Theemsdreef,13:45,134500
+46,14,Korfoedreef,13:46,134600
+46,15,Rubicondreef,13:47,134700
+46,16,Station Overvecht,13:48,134800
+46,17,Mr. Tripkade,13:50,135000
+46,18,Willem van Noortplein,13:52,135200
+46,19,Willem van Noortstraat,13:53,135300
+46,20,Adelaarstraat,13:54,135400
+46,21,Sint Jacobsstraat,13:56,135600
+46,22,CS Jaarbeurszijde,14:03,140300
+46,23,CS Jaarbeurszijde,14:06,140600
+46,24,Van der Goesstraat,14:08,140800
+46,25,Brederoplein,14:09,140900
+46,26,Balijelaan,14:10,141000
+46,27,Waalstraat,14:11,141100
+46,28,Maasplein,14:12,141200
+46,29,Socrateslaan,14:14,141400
+46,30,Hooft Graaflandstraat,14:15,141500
+46,31,Karperstraat,14:17,141700
+46,32,Kastelenplantsoen,14:18,141800
+46,33,IJsselsteinlaan,14:20,142000
+47,1,Vechtsebanen,13:41,134100
+47,2,Oregondreef,13:42,134200
+47,3,Hudsondreef,13:43,134300
+47,4,Arizonadreef,13:44,134400
+47,5,Nebraskadreef,13:45,134500
+47,6,Klopvaart,13:46,134600
+47,7,Orinocodreef,13:48,134800
+47,8,Bogotádreef,13:49,134900
+47,9,Amazonedreef,13:50,135000
+47,10,Paranadreef,13:51,135100
+47,11,Kaap Hoorndreef,13:52,135200
+47,12,Winkelcentrum Overvecht,13:54,135400
+47,13,Theemsdreef,13:55,135500
+47,14,Korfoedreef,13:56,135600
+47,15,Rubicondreef,13:57,135700
+47,16,Station Overvecht,13:58,135800
+47,17,Mr. Tripkade,14:00,140000
+47,18,Willem van Noortplein,14:02,140200
+47,19,Willem van Noortstraat,14:03,140300
+47,20,Adelaarstraat,14:04,140400
+47,21,Sint Jacobsstraat,14:06,140600
+47,22,CS Jaarbeurszijde,14:13,141300
+47,23,CS Jaarbeurszijde,14:16,141600
+47,24,Van der Goesstraat,14:18,141800
+47,25,Brederoplein,14:19,141900
+47,26,Balijelaan,14:20,142000
+47,27,Waalstraat,14:21,142100
+47,28,Maasplein,14:22,142200
+47,29,Socrateslaan,14:24,142400
+47,30,Hooft Graaflandstraat,14:25,142500
+47,31,Karperstraat,14:27,142700
+47,32,Kastelenplantsoen,14:28,142800
+47,33,IJsselsteinlaan,14:30,143000
+48,1,Vechtsebanen,13:51,135100
+48,2,Oregondreef,13:52,135200
+48,3,Hudsondreef,13:53,135300
+48,4,Arizonadreef,13:54,135400
+48,5,Nebraskadreef,13:55,135500
+48,6,Klopvaart,13:56,135600
+48,7,Orinocodreef,13:58,135800
+48,8,Bogotádreef,13:59,135900
+48,9,Amazonedreef,14:00,140000
+48,10,Paranadreef,14:01,140100
+48,11,Kaap Hoorndreef,14:02,140200
+48,12,Winkelcentrum Overvecht,14:04,140400
+48,13,Theemsdreef,14:05,140500
+48,14,Korfoedreef,14:06,140600
+48,15,Rubicondreef,14:07,140700
+48,16,Station Overvecht,14:08,140800
+48,17,Mr. Tripkade,14:10,141000
+48,18,Willem van Noortplein,14:12,141200
+48,19,Willem van Noortstraat,14:13,141300
+48,20,Adelaarstraat,14:14,141400
+48,21,Sint Jacobsstraat,14:16,141600
+48,22,CS Jaarbeurszijde,14:23,142300
+48,23,CS Jaarbeurszijde,14:26,142600
+48,24,Van der Goesstraat,14:28,142800
+48,25,Brederoplein,14:29,142900
+48,26,Balijelaan,14:30,143000
+48,27,Waalstraat,14:31,143100
+48,28,Maasplein,14:32,143200
+48,29,Socrateslaan,14:34,143400
+48,30,Hooft Graaflandstraat,14:35,143500
+48,31,Karperstraat,14:37,143700
+48,32,Kastelenplantsoen,14:38,143800
+48,33,IJsselsteinlaan,14:40,144000
+49,1,Vechtsebanen,14:01,140100
+49,2,Oregondreef,14:02,140200
+49,3,Hudsondreef,14:03,140300
+49,4,Arizonadreef,14:04,140400
+49,5,Nebraskadreef,14:05,140500
+49,6,Klopvaart,14:06,140600
+49,7,Orinocodreef,14:08,140800
+49,8,Bogotádreef,14:09,140900
+49,9,Amazonedreef,14:10,141000
+49,10,Paranadreef,14:11,141100
+49,11,Kaap Hoorndreef,14:12,141200
+49,12,Winkelcentrum Overvecht,14:14,141400
+49,13,Theemsdreef,14:15,141500
+49,14,Korfoedreef,14:16,141600
+49,15,Rubicondreef,14:17,141700
+49,16,Station Overvecht,14:18,141800
+49,17,Mr. Tripkade,14:20,142000
+49,18,Willem van Noortplein,14:22,142200
+49,19,Willem van Noortstraat,14:23,142300
+49,20,Adelaarstraat,14:24,142400
+49,21,Sint Jacobsstraat,14:26,142600
+49,22,CS Jaarbeurszijde,14:33,143300
+49,23,CS Jaarbeurszijde,14:36,143600
+49,24,Van der Goesstraat,14:38,143800
+49,25,Brederoplein,14:39,143900
+49,26,Balijelaan,14:40,144000
+49,27,Waalstraat,14:41,144100
+49,28,Maasplein,14:42,144200
+49,29,Socrateslaan,14:44,144400
+49,30,Hooft Graaflandstraat,14:45,144500
+49,31,Karperstraat,14:47,144700
+49,32,Kastelenplantsoen,14:48,144800
+49,33,IJsselsteinlaan,14:50,145000
+50,1,Vechtsebanen,14:11,141100
+50,2,Oregondreef,14:12,141200
+50,3,Hudsondreef,14:13,141300
+50,4,Arizonadreef,14:14,141400
+50,5,Nebraskadreef,14:15,141500
+50,6,Klopvaart,14:16,141600
+50,7,Orinocodreef,14:18,141800
+50,8,Bogotádreef,14:19,141900
+50,9,Amazonedreef,14:20,142000
+50,10,Paranadreef,14:21,142100
+50,11,Kaap Hoorndreef,14:22,142200
+50,12,Winkelcentrum Overvecht,14:24,142400
+50,13,Theemsdreef,14:25,142500
+50,14,Korfoedreef,14:26,142600
+50,15,Rubicondreef,14:27,142700
+50,16,Station Overvecht,14:28,142800
+50,17,Mr. Tripkade,14:30,143000
+50,18,Willem van Noortplein,14:32,143200
+50,19,Willem van Noortstraat,14:33,143300
+50,20,Adelaarstraat,14:34,143400
+50,21,Sint Jacobsstraat,14:36,143600
+50,22,CS Jaarbeurszijde,14:43,144300
+50,23,CS Jaarbeurszijde,14:46,144600
+50,24,Van der Goesstraat,14:48,144800
+50,25,Brederoplein,14:49,144900
+50,26,Balijelaan,14:50,145000
+50,27,Waalstraat,14:51,145100
+50,28,Maasplein,14:52,145200
+50,29,Socrateslaan,14:54,145400
+50,30,Hooft Graaflandstraat,14:55,145500
+50,31,Karperstraat,14:57,145700
+50,32,Kastelenplantsoen,14:58,145800
+50,33,IJsselsteinlaan,15:00,150000
+51,1,Vechtsebanen,14:21,142100
+51,2,Oregondreef,14:22,142200
+51,3,Hudsondreef,14:23,142300
+51,4,Arizonadreef,14:24,142400
+51,5,Nebraskadreef,14:25,142500
+51,6,Klopvaart,14:26,142600
+51,7,Orinocodreef,14:28,142800
+51,8,Bogotádreef,14:29,142900
+51,9,Amazonedreef,14:30,143000
+51,10,Paranadreef,14:31,143100
+51,11,Kaap Hoorndreef,14:32,143200
+51,12,Winkelcentrum Overvecht,14:34,143400
+51,13,Theemsdreef,14:35,143500
+51,14,Korfoedreef,14:36,143600
+51,15,Rubicondreef,14:37,143700
+51,16,Station Overvecht,14:38,143800
+51,17,Mr. Tripkade,14:40,144000
+51,18,Willem van Noortplein,14:42,144200
+51,19,Willem van Noortstraat,14:43,144300
+51,20,Adelaarstraat,14:44,144400
+51,21,Sint Jacobsstraat,14:46,144600
+51,22,CS Jaarbeurszijde,14:53,145300
+51,23,CS Jaarbeurszijde,14:56,145600
+51,24,Van der Goesstraat,14:58,145800
+51,25,Brederoplein,14:59,145900
+51,26,Balijelaan,15:00,150000
+51,27,Waalstraat,15:01,150100
+51,28,Maasplein,15:02,150200
+51,29,Socrateslaan,15:04,150400
+51,30,Hooft Graaflandstraat,15:05,150500
+51,31,Karperstraat,15:07,150700
+51,32,Kastelenplantsoen,15:08,150800
+51,33,IJsselsteinlaan,15:10,151000
+52,1,Vechtsebanen,14:31,143100
+52,2,Oregondreef,14:32,143200
+52,3,Hudsondreef,14:33,143300
+52,4,Arizonadreef,14:34,143400
+52,5,Nebraskadreef,14:35,143500
+52,6,Klopvaart,14:36,143600
+52,7,Orinocodreef,14:38,143800
+52,8,Bogotádreef,14:39,143900
+52,9,Amazonedreef,14:40,144000
+52,10,Paranadreef,14:41,144100
+52,11,Kaap Hoorndreef,14:42,144200
+52,12,Winkelcentrum Overvecht,14:44,144400
+52,13,Theemsdreef,14:45,144500
+52,14,Korfoedreef,14:46,144600
+52,15,Rubicondreef,14:47,144700
+52,16,Station Overvecht,14:48,144800
+52,17,Mr. Tripkade,14:50,145000
+52,18,Willem van Noortplein,14:52,145200
+52,19,Willem van Noortstraat,14:53,145300
+52,20,Adelaarstraat,14:54,145400
+52,21,Sint Jacobsstraat,14:56,145600
+52,22,CS Jaarbeurszijde,15:03,150300
+52,23,CS Jaarbeurszijde,15:06,150600
+52,24,Van der Goesstraat,15:08,150800
+52,25,Brederoplein,15:09,150900
+52,26,Balijelaan,15:10,151000
+52,27,Waalstraat,15:11,151100
+52,28,Maasplein,15:12,151200
+52,29,Socrateslaan,15:14,151400
+52,30,Hooft Graaflandstraat,15:15,151500
+52,31,Karperstraat,15:17,151700
+52,32,Kastelenplantsoen,15:18,151800
+52,33,IJsselsteinlaan,15:20,152000
+53,1,Vechtsebanen,14:41,144100
+53,2,Oregondreef,14:42,144200
+53,3,Hudsondreef,14:43,144300
+53,4,Arizonadreef,14:44,144400
+53,5,Nebraskadreef,14:45,144500
+53,6,Klopvaart,14:46,144600
+53,7,Orinocodreef,14:48,144800
+53,8,Bogotádreef,14:49,144900
+53,9,Amazonedreef,14:50,145000
+53,10,Paranadreef,14:51,145100
+53,11,Kaap Hoorndreef,14:52,145200
+53,12,Winkelcentrum Overvecht,14:54,145400
+53,13,Theemsdreef,14:55,145500
+53,14,Korfoedreef,14:56,145600
+53,15,Rubicondreef,14:57,145700
+53,16,Station Overvecht,14:58,145800
+53,17,Mr. Tripkade,15:00,150000
+53,18,Willem van Noortplein,15:02,150200
+53,19,Willem van Noortstraat,15:03,150300
+53,20,Adelaarstraat,15:04,150400
+53,21,Sint Jacobsstraat,15:06,150600
+53,22,CS Jaarbeurszijde,15:13,151300
+53,23,CS Jaarbeurszijde,15:16,151600
+53,24,Van der Goesstraat,15:18,151800
+53,25,Brederoplein,15:19,151900
+53,26,Balijelaan,15:20,152000
+53,27,Waalstraat,15:21,152100
+53,28,Maasplein,15:22,152200
+53,29,Socrateslaan,15:24,152400
+53,30,Hooft Graaflandstraat,15:25,152500
+53,31,Karperstraat,15:27,152700
+53,32,Kastelenplantsoen,15:28,152800
+53,33,IJsselsteinlaan,15:30,153000
+54,1,Vechtsebanen,14:51,145100
+54,2,Oregondreef,14:52,145200
+54,3,Hudsondreef,14:53,145300
+54,4,Arizonadreef,14:54,145400
+54,5,Nebraskadreef,14:55,145500
+54,6,Klopvaart,14:56,145600
+54,7,Orinocodreef,14:58,145800
+54,8,Bogotádreef,14:59,145900
+54,9,Amazonedreef,15:00,150000
+54,10,Paranadreef,15:01,150100
+54,11,Kaap Hoorndreef,15:02,150200
+54,12,Winkelcentrum Overvecht,15:04,150400
+54,13,Theemsdreef,15:05,150500
+54,14,Korfoedreef,15:06,150600
+54,15,Rubicondreef,15:07,150700
+54,16,Station Overvecht,15:08,150800
+54,17,Mr. Tripkade,15:10,151000
+54,18,Willem van Noortplein,15:12,151200
+54,19,Willem van Noortstraat,15:13,151300
+54,20,Adelaarstraat,15:14,151400
+54,21,Sint Jacobsstraat,15:16,151600
+54,22,CS Jaarbeurszijde,15:23,152300
+54,23,CS Jaarbeurszijde,15:26,152600
+54,24,Van der Goesstraat,15:28,152800
+54,25,Brederoplein,15:29,152900
+54,26,Balijelaan,15:30,153000
+54,27,Waalstraat,15:31,153100
+54,28,Maasplein,15:32,153200
+54,29,Socrateslaan,15:34,153400
+54,30,Hooft Graaflandstraat,15:35,153500
+54,31,Karperstraat,15:37,153700
+54,32,Kastelenplantsoen,15:38,153800
+54,33,IJsselsteinlaan,15:40,154000
+55,1,Vechtsebanen,15:01,150100
+55,2,Oregondreef,15:02,150200
+55,3,Hudsondreef,15:03,150300
+55,4,Arizonadreef,15:04,150400
+55,5,Nebraskadreef,15:05,150500
+55,6,Klopvaart,15:06,150600
+55,7,Orinocodreef,15:08,150800
+55,8,Bogotádreef,15:09,150900
+55,9,Amazonedreef,15:10,151000
+55,10,Paranadreef,15:11,151100
+55,11,Kaap Hoorndreef,15:12,151200
+55,12,Winkelcentrum Overvecht,15:14,151400
+55,13,Theemsdreef,15:15,151500
+55,14,Korfoedreef,15:16,151600
+55,15,Rubicondreef,15:17,151700
+55,16,Station Overvecht,15:18,151800
+55,17,Mr. Tripkade,15:20,152000
+55,18,Willem van Noortplein,15:22,152200
+55,19,Willem van Noortstraat,15:23,152300
+55,20,Adelaarstraat,15:24,152400
+55,21,Sint Jacobsstraat,15:26,152600
+55,22,CS Jaarbeurszijde,15:33,153300
+55,23,CS Jaarbeurszijde,15:36,153600
+55,24,Van der Goesstraat,15:38,153800
+55,25,Brederoplein,15:39,153900
+55,26,Balijelaan,15:40,154000
+55,27,Waalstraat,15:41,154100
+55,28,Maasplein,15:42,154200
+55,29,Socrateslaan,15:44,154400
+55,30,Hooft Graaflandstraat,15:45,154500
+55,31,Karperstraat,15:47,154700
+55,32,Kastelenplantsoen,15:48,154800
+55,33,IJsselsteinlaan,15:50,155000
+56,1,Vechtsebanen,15:11,151100
+56,2,Oregondreef,15:12,151200
+56,3,Hudsondreef,15:13,151300
+56,4,Arizonadreef,15:14,151400
+56,5,Nebraskadreef,15:15,151500
+56,6,Klopvaart,15:16,151600
+56,7,Orinocodreef,15:18,151800
+56,8,Bogotádreef,15:19,151900
+56,9,Amazonedreef,15:20,152000
+56,10,Paranadreef,15:21,152100
+56,11,Kaap Hoorndreef,15:22,152200
+56,12,Winkelcentrum Overvecht,15:24,152400
+56,13,Theemsdreef,15:25,152500
+56,14,Korfoedreef,15:26,152600
+56,15,Rubicondreef,15:27,152700
+56,16,Station Overvecht,15:28,152800
+56,17,Mr. Tripkade,15:30,153000
+56,18,Willem van Noortplein,15:32,153200
+56,19,Willem van Noortstraat,15:33,153300
+56,20,Adelaarstraat,15:34,153400
+56,21,Sint Jacobsstraat,15:36,153600
+56,22,CS Jaarbeurszijde,15:43,154300
+56,23,CS Jaarbeurszijde,15:46,154600
+56,24,Van der Goesstraat,15:48,154800
+56,25,Brederoplein,15:49,154900
+56,26,Balijelaan,15:50,155000
+56,27,Waalstraat,15:51,155100
+56,28,Maasplein,15:52,155200
+56,29,Socrateslaan,15:54,155400
+56,30,Hooft Graaflandstraat,15:55,155500
+56,31,Karperstraat,15:57,155700
+56,32,Kastelenplantsoen,15:58,155800
+56,33,IJsselsteinlaan,16:00,160000
+57,1,Vechtsebanen,15:21,152100
+57,2,Oregondreef,15:22,152200
+57,3,Hudsondreef,15:23,152300
+57,4,Arizonadreef,15:24,152400
+57,5,Nebraskadreef,15:25,152500
+57,6,Klopvaart,15:26,152600
+57,7,Orinocodreef,15:28,152800
+57,8,Bogotádreef,15:29,152900
+57,9,Amazonedreef,15:30,153000
+57,10,Paranadreef,15:31,153100
+57,11,Kaap Hoorndreef,15:32,153200
+57,12,Winkelcentrum Overvecht,15:34,153400
+57,13,Theemsdreef,15:35,153500
+57,14,Korfoedreef,15:36,153600
+57,15,Rubicondreef,15:37,153700
+57,16,Station Overvecht,15:38,153800
+57,17,Mr. Tripkade,15:40,154000
+57,18,Willem van Noortplein,15:42,154200
+57,19,Willem van Noortstraat,15:43,154300
+57,20,Adelaarstraat,15:44,154400
+57,21,Sint Jacobsstraat,15:46,154600
+57,22,CS Jaarbeurszijde,15:53,155300
+57,23,CS Jaarbeurszijde,15:56,155600
+57,24,Van der Goesstraat,15:58,155800
+57,25,Brederoplein,15:59,155900
+57,26,Balijelaan,16:00,160000
+57,27,Waalstraat,16:01,160100
+57,28,Maasplein,16:02,160200
+57,29,Socrateslaan,16:04,160400
+57,30,Hooft Graaflandstraat,16:05,160500
+57,31,Karperstraat,16:07,160700
+57,32,Kastelenplantsoen,16:08,160800
+57,33,IJsselsteinlaan,16:10,161000
+58,1,Vechtsebanen,15:31,153100
+58,2,Oregondreef,15:32,153200
+58,3,Hudsondreef,15:33,153300
+58,4,Arizonadreef,15:34,153400
+58,5,Nebraskadreef,15:35,153500
+58,6,Klopvaart,15:36,153600
+58,7,Orinocodreef,15:38,153800
+58,8,Bogotádreef,15:39,153900
+58,9,Amazonedreef,15:40,154000
+58,10,Paranadreef,15:41,154100
+58,11,Kaap Hoorndreef,15:42,154200
+58,12,Winkelcentrum Overvecht,15:44,154400
+58,13,Theemsdreef,15:45,154500
+58,14,Korfoedreef,15:46,154600
+58,15,Rubicondreef,15:47,154700
+58,16,Station Overvecht,15:48,154800
+58,17,Mr. Tripkade,15:50,155000
+58,18,Willem van Noortplein,15:52,155200
+58,19,Willem van Noortstraat,15:53,155300
+58,20,Adelaarstraat,15:54,155400
+58,21,Sint Jacobsstraat,15:56,155600
+58,22,CS Jaarbeurszijde,16:03,160300
+58,23,CS Jaarbeurszijde,16:06,160600
+58,24,Van der Goesstraat,16:08,160800
+58,25,Brederoplein,16:09,160900
+58,26,Balijelaan,16:10,161000
+58,27,Waalstraat,16:11,161100
+58,28,Maasplein,16:12,161200
+58,29,Socrateslaan,16:14,161400
+58,30,Hooft Graaflandstraat,16:15,161500
+58,31,Karperstraat,16:17,161700
+58,32,Kastelenplantsoen,16:18,161800
+58,33,IJsselsteinlaan,16:20,162000
+59,1,Vechtsebanen,15:41,154100
+59,2,Oregondreef,15:42,154200
+59,3,Hudsondreef,15:43,154300
+59,4,Arizonadreef,15:44,154400
+59,5,Nebraskadreef,15:45,154500
+59,6,Klopvaart,15:46,154600
+59,7,Orinocodreef,15:48,154800
+59,8,Bogotádreef,15:49,154900
+59,9,Amazonedreef,15:50,155000
+59,10,Paranadreef,15:51,155100
+59,11,Kaap Hoorndreef,15:52,155200
+59,12,Winkelcentrum Overvecht,15:54,155400
+59,13,Theemsdreef,15:55,155500
+59,14,Korfoedreef,15:56,155600
+59,15,Rubicondreef,15:58,155800
+59,16,Station Overvecht,15:59,155900
+59,17,Mr. Tripkade,16:01,160100
+59,18,Willem van Noortplein,16:03,160300
+59,19,Willem van Noortstraat,16:04,160400
+59,20,Adelaarstraat,16:05,160500
+59,21,Sint Jacobsstraat,16:08,160800
+59,22,CS Jaarbeurszijde,16:15,161500
+59,23,CS Jaarbeurszijde,16:18,161800
+59,24,Van der Goesstraat,16:20,162000
+59,25,Brederoplein,16:21,162100
+59,26,Balijelaan,16:22,162200
+59,27,Waalstraat,16:23,162300
+59,28,Maasplein,16:24,162400
+59,29,Socrateslaan,16:26,162600
+59,30,Hooft Graaflandstraat,16:27,162700
+59,31,Karperstraat,16:29,162900
+59,32,Kastelenplantsoen,16:30,163000
+59,33,IJsselsteinlaan,16:32,163200
+60,1,Vechtsebanen,15:51,155100
+60,2,Oregondreef,15:52,155200
+60,3,Hudsondreef,15:53,155300
+60,4,Arizonadreef,15:54,155400
+60,5,Nebraskadreef,15:55,155500
+60,6,Klopvaart,15:56,155600
+60,7,Orinocodreef,15:58,155800
+60,8,Bogotádreef,15:59,155900
+60,9,Amazonedreef,16:00,160000
+60,10,Paranadreef,16:01,160100
+60,11,Kaap Hoorndreef,16:02,160200
+60,12,Winkelcentrum Overvecht,16:04,160400
+60,13,Theemsdreef,16:05,160500
+60,14,Korfoedreef,16:06,160600
+60,15,Rubicondreef,16:08,160800
+60,16,Station Overvecht,16:09,160900
+60,17,Mr. Tripkade,16:11,161100
+60,18,Willem van Noortplein,16:13,161300
+60,19,Willem van Noortstraat,16:14,161400
+60,20,Adelaarstraat,16:15,161500
+60,21,Sint Jacobsstraat,16:18,161800
+60,22,CS Jaarbeurszijde,16:25,162500
+60,23,CS Jaarbeurszijde,16:28,162800
+60,24,Van der Goesstraat,16:30,163000
+60,25,Brederoplein,16:31,163100
+60,26,Balijelaan,16:32,163200
+60,27,Waalstraat,16:33,163300
+60,28,Maasplein,16:34,163400
+60,29,Socrateslaan,16:36,163600
+60,30,Hooft Graaflandstraat,16:37,163700
+60,31,Karperstraat,16:39,163900
+60,32,Kastelenplantsoen,16:40,164000
+60,33,IJsselsteinlaan,16:42,164200
+61,1,Vechtsebanen,16:01,160100
+61,2,Oregondreef,16:02,160200
+61,3,Hudsondreef,16:03,160300
+61,4,Arizonadreef,16:04,160400
+61,5,Nebraskadreef,16:05,160500
+61,6,Klopvaart,16:06,160600
+61,7,Orinocodreef,16:08,160800
+61,8,Bogotádreef,16:09,160900
+61,9,Amazonedreef,16:10,161000
+61,10,Paranadreef,16:11,161100
+61,11,Kaap Hoorndreef,16:12,161200
+61,12,Winkelcentrum Overvecht,16:14,161400
+61,13,Theemsdreef,16:15,161500
+61,14,Korfoedreef,16:16,161600
+61,15,Rubicondreef,16:18,161800
+61,16,Station Overvecht,16:19,161900
+61,17,Mr. Tripkade,16:21,162100
+61,18,Willem van Noortplein,16:23,162300
+61,19,Willem van Noortstraat,16:24,162400
+61,20,Adelaarstraat,16:25,162500
+61,21,Sint Jacobsstraat,16:28,162800
+61,22,CS Jaarbeurszijde,16:35,163500
+61,23,CS Jaarbeurszijde,16:38,163800
+61,24,Van der Goesstraat,16:40,164000
+61,25,Brederoplein,16:41,164100
+61,26,Balijelaan,16:42,164200
+61,27,Waalstraat,16:43,164300
+61,28,Maasplein,16:44,164400
+61,29,Socrateslaan,16:46,164600
+61,30,Hooft Graaflandstraat,16:47,164700
+61,31,Karperstraat,16:49,164900
+61,32,Kastelenplantsoen,16:50,165000
+61,33,IJsselsteinlaan,16:52,165200
+62,1,Vechtsebanen,16:11,161100
+62,2,Oregondreef,16:12,161200
+62,3,Hudsondreef,16:13,161300
+62,4,Arizonadreef,16:14,161400
+62,5,Nebraskadreef,16:15,161500
+62,6,Klopvaart,16:16,161600
+62,7,Orinocodreef,16:18,161800
+62,8,Bogotádreef,16:19,161900
+62,9,Amazonedreef,16:20,162000
+62,10,Paranadreef,16:21,162100
+62,11,Kaap Hoorndreef,16:22,162200
+62,12,Winkelcentrum Overvecht,16:24,162400
+62,13,Theemsdreef,16:25,162500
+62,14,Korfoedreef,16:26,162600
+62,15,Rubicondreef,16:28,162800
+62,16,Station Overvecht,16:29,162900
+62,17,Mr. Tripkade,16:31,163100
+62,18,Willem van Noortplein,16:33,163300
+62,19,Willem van Noortstraat,16:34,163400
+62,20,Adelaarstraat,16:35,163500
+62,21,Sint Jacobsstraat,16:38,163800
+62,22,CS Jaarbeurszijde,16:45,164500
+62,23,CS Jaarbeurszijde,16:48,164800
+62,24,Van der Goesstraat,16:50,165000
+62,25,Brederoplein,16:51,165100
+62,26,Balijelaan,16:52,165200
+62,27,Waalstraat,16:53,165300
+62,28,Maasplein,16:54,165400
+62,29,Socrateslaan,16:56,165600
+62,30,Hooft Graaflandstraat,16:57,165700
+62,31,Karperstraat,16:59,165900
+62,32,Kastelenplantsoen,17:00,170000
+62,33,IJsselsteinlaan,17:02,170200
+63,1,Vechtsebanen,16:21,162100
+63,2,Oregondreef,16:22,162200
+63,3,Hudsondreef,16:23,162300
+63,4,Arizonadreef,16:24,162400
+63,5,Nebraskadreef,16:25,162500
+63,6,Klopvaart,16:26,162600
+63,7,Orinocodreef,16:28,162800
+63,8,Bogotádreef,16:29,162900
+63,9,Amazonedreef,16:30,163000
+63,10,Paranadreef,16:31,163100
+63,11,Kaap Hoorndreef,16:32,163200
+63,12,Winkelcentrum Overvecht,16:34,163400
+63,13,Theemsdreef,16:35,163500
+63,14,Korfoedreef,16:36,163600
+63,15,Rubicondreef,16:38,163800
+63,16,Station Overvecht,16:39,163900
+63,17,Mr. Tripkade,16:41,164100
+63,18,Willem van Noortplein,16:43,164300
+63,19,Willem van Noortstraat,16:44,164400
+63,20,Adelaarstraat,16:45,164500
+63,21,Sint Jacobsstraat,16:48,164800
+63,22,CS Jaarbeurszijde,16:55,165500
+63,23,CS Jaarbeurszijde,16:58,165800
+63,24,Van der Goesstraat,17:00,170000
+63,25,Brederoplein,17:01,170100
+63,26,Balijelaan,17:02,170200
+63,27,Waalstraat,17:03,170300
+63,28,Maasplein,17:04,170400
+63,29,Socrateslaan,17:06,170600
+63,30,Hooft Graaflandstraat,17:07,170700
+63,31,Karperstraat,17:09,170900
+63,32,Kastelenplantsoen,17:10,171000
+63,33,IJsselsteinlaan,17:12,171200
+64,1,Vechtsebanen,16:31,163100
+64,2,Oregondreef,16:32,163200
+64,3,Hudsondreef,16:33,163300
+64,4,Arizonadreef,16:34,163400
+64,5,Nebraskadreef,16:35,163500
+64,6,Klopvaart,16:36,163600
+64,7,Orinocodreef,16:38,163800
+64,8,Bogotádreef,16:39,163900
+64,9,Amazonedreef,16:40,164000
+64,10,Paranadreef,16:41,164100
+64,11,Kaap Hoorndreef,16:42,164200
+64,12,Winkelcentrum Overvecht,16:44,164400
+64,13,Theemsdreef,16:45,164500
+64,14,Korfoedreef,16:46,164600
+64,15,Rubicondreef,16:48,164800
+64,16,Station Overvecht,16:49,164900
+64,17,Mr. Tripkade,16:51,165100
+64,18,Willem van Noortplein,16:53,165300
+64,19,Willem van Noortstraat,16:54,165400
+64,20,Adelaarstraat,16:55,165500
+64,21,Sint Jacobsstraat,16:58,165800
+64,22,CS Jaarbeurszijde,17:05,170500
+64,23,CS Jaarbeurszijde,17:08,170800
+64,24,Van der Goesstraat,17:10,171000
+64,25,Brederoplein,17:11,171100
+64,26,Balijelaan,17:12,171200
+64,27,Waalstraat,17:13,171300
+64,28,Maasplein,17:14,171400
+64,29,Socrateslaan,17:16,171600
+64,30,Hooft Graaflandstraat,17:17,171700
+64,31,Karperstraat,17:19,171900
+64,32,Kastelenplantsoen,17:20,172000
+64,33,IJsselsteinlaan,17:22,172200
+65,1,Vechtsebanen,16:41,164100
+65,2,Oregondreef,16:42,164200
+65,3,Hudsondreef,16:43,164300
+65,4,Arizonadreef,16:44,164400
+65,5,Nebraskadreef,16:45,164500
+65,6,Klopvaart,16:46,164600
+65,7,Orinocodreef,16:48,164800
+65,8,Bogotádreef,16:49,164900
+65,9,Amazonedreef,16:50,165000
+65,10,Paranadreef,16:51,165100
+65,11,Kaap Hoorndreef,16:52,165200
+65,12,Winkelcentrum Overvecht,16:54,165400
+65,13,Theemsdreef,16:55,165500
+65,14,Korfoedreef,16:56,165600
+65,15,Rubicondreef,16:58,165800
+65,16,Station Overvecht,16:59,165900
+65,17,Mr. Tripkade,17:01,170100
+65,18,Willem van Noortplein,17:03,170300
+65,19,Willem van Noortstraat,17:04,170400
+65,20,Adelaarstraat,17:05,170500
+65,21,Sint Jacobsstraat,17:08,170800
+65,22,CS Jaarbeurszijde,17:15,171500
+65,23,CS Jaarbeurszijde,17:18,171800
+65,24,Van der Goesstraat,17:20,172000
+65,25,Brederoplein,17:21,172100
+65,26,Balijelaan,17:22,172200
+65,27,Waalstraat,17:23,172300
+65,28,Maasplein,17:24,172400
+65,29,Socrateslaan,17:26,172600
+65,30,Hooft Graaflandstraat,17:27,172700
+65,31,Karperstraat,17:29,172900
+65,32,Kastelenplantsoen,17:30,173000
+65,33,IJsselsteinlaan,17:32,173200
+66,1,Vechtsebanen,16:51,165100
+66,2,Oregondreef,16:52,165200
+66,3,Hudsondreef,16:53,165300
+66,4,Arizonadreef,16:54,165400
+66,5,Nebraskadreef,16:55,165500
+66,6,Klopvaart,16:56,165600
+66,7,Orinocodreef,16:58,165800
+66,8,Bogotádreef,16:59,165900
+66,9,Amazonedreef,17:00,170000
+66,10,Paranadreef,17:01,170100
+66,11,Kaap Hoorndreef,17:02,170200
+66,12,Winkelcentrum Overvecht,17:04,170400
+66,13,Theemsdreef,17:05,170500
+66,14,Korfoedreef,17:06,170600
+66,15,Rubicondreef,17:08,170800
+66,16,Station Overvecht,17:09,170900
+66,17,Mr. Tripkade,17:11,171100
+66,18,Willem van Noortplein,17:13,171300
+66,19,Willem van Noortstraat,17:14,171400
+66,20,Adelaarstraat,17:15,171500
+66,21,Sint Jacobsstraat,17:18,171800
+66,22,CS Jaarbeurszijde,17:25,172500
+66,23,CS Jaarbeurszijde,17:28,172800
+66,24,Van der Goesstraat,17:30,173000
+66,25,Brederoplein,17:31,173100
+66,26,Balijelaan,17:32,173200
+66,27,Waalstraat,17:33,173300
+66,28,Maasplein,17:34,173400
+66,29,Socrateslaan,17:36,173600
+66,30,Hooft Graaflandstraat,17:37,173700
+66,31,Karperstraat,17:39,173900
+66,32,Kastelenplantsoen,17:40,174000
+66,33,IJsselsteinlaan,17:42,174200
+67,1,Vechtsebanen,17:01,170100
+67,2,Oregondreef,17:02,170200
+67,3,Hudsondreef,17:03,170300
+67,4,Arizonadreef,17:04,170400
+67,5,Nebraskadreef,17:05,170500
+67,6,Klopvaart,17:06,170600
+67,7,Orinocodreef,17:08,170800
+67,8,Bogotádreef,17:09,170900
+67,9,Amazonedreef,17:10,171000
+67,10,Paranadreef,17:11,171100
+67,11,Kaap Hoorndreef,17:12,171200
+67,12,Winkelcentrum Overvecht,17:14,171400
+67,13,Theemsdreef,17:15,171500
+67,14,Korfoedreef,17:16,171600
+67,15,Rubicondreef,17:18,171800
+67,16,Station Overvecht,17:19,171900
+67,17,Mr. Tripkade,17:21,172100
+67,18,Willem van Noortplein,17:23,172300
+67,19,Willem van Noortstraat,17:24,172400
+67,20,Adelaarstraat,17:25,172500
+67,21,Sint Jacobsstraat,17:28,172800
+67,22,CS Jaarbeurszijde,17:35,173500
+67,23,CS Jaarbeurszijde,17:38,173800
+67,24,Van der Goesstraat,17:40,174000
+67,25,Brederoplein,17:41,174100
+67,26,Balijelaan,17:42,174200
+67,27,Waalstraat,17:43,174300
+67,28,Maasplein,17:44,174400
+67,29,Socrateslaan,17:46,174600
+67,30,Hooft Graaflandstraat,17:47,174700
+67,31,Karperstraat,17:49,174900
+67,32,Kastelenplantsoen,17:50,175000
+67,33,IJsselsteinlaan,17:52,175200
+68,1,Vechtsebanen,17:11,171100
+68,2,Oregondreef,17:12,171200
+68,3,Hudsondreef,17:13,171300
+68,4,Arizonadreef,17:14,171400
+68,5,Nebraskadreef,17:15,171500
+68,6,Klopvaart,17:16,171600
+68,7,Orinocodreef,17:18,171800
+68,8,Bogotádreef,17:19,171900
+68,9,Amazonedreef,17:20,172000
+68,10,Paranadreef,17:21,172100
+68,11,Kaap Hoorndreef,17:22,172200
+68,12,Winkelcentrum Overvecht,17:24,172400
+68,13,Theemsdreef,17:25,172500
+68,14,Korfoedreef,17:26,172600
+68,15,Rubicondreef,17:28,172800
+68,16,Station Overvecht,17:29,172900
+68,17,Mr. Tripkade,17:31,173100
+68,18,Willem van Noortplein,17:33,173300
+68,19,Willem van Noortstraat,17:34,173400
+68,20,Adelaarstraat,17:35,173500
+68,21,Sint Jacobsstraat,17:38,173800
+68,22,CS Jaarbeurszijde,17:45,174500
+68,23,CS Jaarbeurszijde,17:48,174800
+68,24,Van der Goesstraat,17:50,175000
+68,25,Brederoplein,17:51,175100
+68,26,Balijelaan,17:52,175200
+68,27,Waalstraat,17:53,175300
+68,28,Maasplein,17:54,175400
+68,29,Socrateslaan,17:56,175600
+68,30,Hooft Graaflandstraat,17:57,175700
+68,31,Karperstraat,17:59,175900
+68,32,Kastelenplantsoen,18:00,180000
+68,33,IJsselsteinlaan,18:02,180200
+69,1,Vechtsebanen,17:21,172100
+69,2,Oregondreef,17:22,172200
+69,3,Hudsondreef,17:23,172300
+69,4,Arizonadreef,17:24,172400
+69,5,Nebraskadreef,17:25,172500
+69,6,Klopvaart,17:26,172600
+69,7,Orinocodreef,17:28,172800
+69,8,Bogotádreef,17:29,172900
+69,9,Amazonedreef,17:30,173000
+69,10,Paranadreef,17:31,173100
+69,11,Kaap Hoorndreef,17:32,173200
+69,12,Winkelcentrum Overvecht,17:34,173400
+69,13,Theemsdreef,17:35,173500
+69,14,Korfoedreef,17:36,173600
+69,15,Rubicondreef,17:38,173800
+69,16,Station Overvecht,17:39,173900
+69,17,Mr. Tripkade,17:41,174100
+69,18,Willem van Noortplein,17:43,174300
+69,19,Willem van Noortstraat,17:44,174400
+69,20,Adelaarstraat,17:45,174500
+69,21,Sint Jacobsstraat,17:48,174800
+69,22,CS Jaarbeurszijde,17:55,175500
+69,23,CS Jaarbeurszijde,17:58,175800
+69,24,Van der Goesstraat,18:00,180000
+69,25,Brederoplein,18:01,180100
+69,26,Balijelaan,18:02,180200
+69,27,Waalstraat,18:03,180300
+69,28,Maasplein,18:04,180400
+69,29,Socrateslaan,18:06,180600
+69,30,Hooft Graaflandstraat,18:07,180700
+69,31,Karperstraat,18:09,180900
+69,32,Kastelenplantsoen,18:10,181000
+69,33,IJsselsteinlaan,18:12,181200
+70,1,Vechtsebanen,17:31,173100
+70,2,Oregondreef,17:32,173200
+70,3,Hudsondreef,17:33,173300
+70,4,Arizonadreef,17:34,173400
+70,5,Nebraskadreef,17:35,173500
+70,6,Klopvaart,17:36,173600
+70,7,Orinocodreef,17:38,173800
+70,8,Bogotádreef,17:39,173900
+70,9,Amazonedreef,17:40,174000
+70,10,Paranadreef,17:41,174100
+70,11,Kaap Hoorndreef,17:42,174200
+70,12,Winkelcentrum Overvecht,17:44,174400
+70,13,Theemsdreef,17:45,174500
+70,14,Korfoedreef,17:46,174600
+70,15,Rubicondreef,17:48,174800
+70,16,Station Overvecht,17:49,174900
+70,17,Mr. Tripkade,17:51,175100
+70,18,Willem van Noortplein,17:53,175300
+70,19,Willem van Noortstraat,17:54,175400
+70,20,Adelaarstraat,17:55,175500
+70,21,Sint Jacobsstraat,17:57,175700
+70,22,CS Jaarbeurszijde,18:04,180400
+70,23,CS Jaarbeurszijde,18:07,180700
+70,24,Van der Goesstraat,18:09,180900
+70,25,Brederoplein,18:10,181000
+70,26,Balijelaan,18:11,181100
+70,27,Waalstraat,18:12,181200
+70,28,Maasplein,18:13,181300
+70,29,Socrateslaan,18:15,181500
+70,30,Hooft Graaflandstraat,18:16,181600
+70,31,Karperstraat,18:18,181800
+70,32,Kastelenplantsoen,18:19,181900
+70,33,IJsselsteinlaan,18:21,182100
+71,1,Vechtsebanen,17:41,174100
+71,2,Oregondreef,17:42,174200
+71,3,Hudsondreef,17:43,174300
+71,4,Arizonadreef,17:44,174400
+71,5,Nebraskadreef,17:45,174500
+71,6,Klopvaart,17:46,174600
+71,7,Orinocodreef,17:48,174800
+71,8,Bogotádreef,17:49,174900
+71,9,Amazonedreef,17:50,175000
+71,10,Paranadreef,17:51,175100
+71,11,Kaap Hoorndreef,17:52,175200
+71,12,Winkelcentrum Overvecht,17:54,175400
+71,13,Theemsdreef,17:55,175500
+71,14,Korfoedreef,17:56,175600
+71,15,Rubicondreef,17:57,175700
+71,16,Station Overvecht,17:58,175800
+71,17,Mr. Tripkade,18:00,180000
+71,18,Willem van Noortplein,18:02,180200
+71,19,Willem van Noortstraat,18:03,180300
+71,20,Adelaarstraat,18:04,180400
+71,21,Sint Jacobsstraat,18:06,180600
+71,22,CS Jaarbeurszijde,18:13,181300
+71,23,CS Jaarbeurszijde,18:16,181600
+71,24,Van der Goesstraat,18:18,181800
+71,25,Brederoplein,18:19,181900
+71,26,Balijelaan,18:20,182000
+71,27,Waalstraat,18:21,182100
+71,28,Maasplein,18:22,182200
+71,29,Socrateslaan,18:24,182400
+71,30,Hooft Graaflandstraat,18:25,182500
+71,31,Karperstraat,18:27,182700
+71,32,Kastelenplantsoen,18:28,182800
+71,33,IJsselsteinlaan,18:30,183000
+72,1,Vechtsebanen,17:51,175100
+72,2,Oregondreef,17:52,175200
+72,3,Hudsondreef,17:53,175300
+72,4,Arizonadreef,17:54,175400
+72,5,Nebraskadreef,17:55,175500
+72,6,Klopvaart,17:56,175600
+72,7,Orinocodreef,17:58,175800
+72,8,Bogotádreef,17:59,175900
+72,9,Amazonedreef,18:00,180000
+72,10,Paranadreef,18:01,180100
+72,11,Kaap Hoorndreef,18:02,180200
+72,12,Winkelcentrum Overvecht,18:04,180400
+72,13,Theemsdreef,18:05,180500
+72,14,Korfoedreef,18:06,180600
+72,15,Rubicondreef,18:07,180700
+72,16,Station Overvecht,18:08,180800
+72,17,Mr. Tripkade,18:10,181000
+72,18,Willem van Noortplein,18:12,181200
+72,19,Willem van Noortstraat,18:13,181300
+72,20,Adelaarstraat,18:14,181400
+72,21,Sint Jacobsstraat,18:16,181600
+72,22,CS Jaarbeurszijde,18:23,182300
+72,23,CS Jaarbeurszijde,18:26,182600
+72,24,Van der Goesstraat,18:28,182800
+72,25,Brederoplein,18:29,182900
+72,26,Balijelaan,18:30,183000
+72,27,Waalstraat,18:31,183100
+72,28,Maasplein,18:32,183200
+72,29,Socrateslaan,18:34,183400
+72,30,Hooft Graaflandstraat,18:35,183500
+72,31,Karperstraat,18:37,183700
+72,32,Kastelenplantsoen,18:38,183800
+72,33,IJsselsteinlaan,18:40,184000
+73,1,Vechtsebanen,18:01,180100
+73,2,Oregondreef,18:02,180200
+73,3,Hudsondreef,18:03,180300
+73,4,Arizonadreef,18:04,180400
+73,5,Nebraskadreef,18:05,180500
+73,6,Klopvaart,18:06,180600
+73,7,Orinocodreef,18:08,180800
+73,8,Bogotádreef,18:09,180900
+73,9,Amazonedreef,18:10,181000
+73,10,Paranadreef,18:11,181100
+73,11,Kaap Hoorndreef,18:12,181200
+73,12,Winkelcentrum Overvecht,18:14,181400
+73,13,Theemsdreef,18:15,181500
+73,14,Korfoedreef,18:16,181600
+73,15,Rubicondreef,18:17,181700
+73,16,Station Overvecht,18:18,181800
+73,17,Mr. Tripkade,18:20,182000
+73,18,Willem van Noortplein,18:22,182200
+73,19,Willem van Noortstraat,18:23,182300
+73,20,Adelaarstraat,18:24,182400
+73,21,Sint Jacobsstraat,18:26,182600
+73,22,CS Jaarbeurszijde,18:33,183300
+73,23,CS Jaarbeurszijde,18:36,183600
+73,24,Van der Goesstraat,18:38,183800
+73,25,Brederoplein,18:39,183900
+73,26,Balijelaan,18:40,184000
+73,27,Waalstraat,18:41,184100
+73,28,Maasplein,18:42,184200
+73,29,Socrateslaan,18:44,184400
+73,30,Hooft Graaflandstraat,18:45,184500
+73,31,Karperstraat,18:47,184700
+73,32,Kastelenplantsoen,18:48,184800
+73,33,IJsselsteinlaan,18:50,185000
+74,1,Vechtsebanen,18:16,181600
+74,2,Nebraskadreef,18:18,181800
+74,3,Klopvaart,18:19,181900
+74,4,Orinocodreef,18:21,182100
+74,5,Bogotádreef,18:22,182200
+74,6,Amazonedreef,18:23,182300
+74,7,Paranadreef,18:24,182400
+74,8,Kaap Hoorndreef,18:25,182500
+74,9,Winkelcentrum Overvecht,18:26,182600
+74,10,Theemsdreef,18:27,182700
+74,11,Korfoedreef,18:28,182800
+74,12,Rubicondreef,18:29,182900
+74,13,Station Overvecht,18:30,183000
+74,14,Mr. Tripkade,18:32,183200
+74,15,Willem van Noortplein,18:34,183400
+74,16,Willem van Noortstraat,18:35,183500
+74,17,Adelaarstraat,18:36,183600
+74,18,Sint Jacobsstraat,18:38,183800
+74,19,CS Jaarbeurszijde,18:44,184400
+74,20,CS Jaarbeurszijde,18:47,184700
+74,21,Van der Goesstraat,18:49,184900
+74,22,Brederoplein,18:50,185000
+74,23,Balijelaan,18:51,185100
+74,24,Waalstraat,18:52,185200
+74,25,Maasplein,18:53,185300
+74,26,Socrateslaan,18:55,185500
+74,27,Hooft Graaflandstraat,18:56,185600
+74,28,Karperstraat,18:58,185800
+74,29,Kastelenplantsoen,18:59,185900
+74,30,IJsselsteinlaan,19:01,190100
+75,1,Vechtsebanen,18:31,183100
+75,2,Nebraskadreef,18:33,183300
+75,3,Klopvaart,18:34,183400
+75,4,Orinocodreef,18:36,183600
+75,5,Bogotádreef,18:37,183700
+75,6,Amazonedreef,18:38,183800
+75,7,Paranadreef,18:39,183900
+75,8,Kaap Hoorndreef,18:40,184000
+75,9,Winkelcentrum Overvecht,18:41,184100
+75,10,Theemsdreef,18:42,184200
+75,11,Korfoedreef,18:43,184300
+75,12,Rubicondreef,18:44,184400
+75,13,Station Overvecht,18:45,184500
+75,14,Mr. Tripkade,18:47,184700
+75,15,Willem van Noortplein,18:49,184900
+75,16,Willem van Noortstraat,18:50,185000
+75,17,Adelaarstraat,18:51,185100
+75,18,Sint Jacobsstraat,18:53,185300
+75,19,CS Jaarbeurszijde,18:59,185900
+75,20,CS Jaarbeurszijde,19:02,190200
+75,21,Van der Goesstraat,19:04,190400
+75,22,Brederoplein,19:05,190500
+75,23,Balijelaan,19:06,190600
+75,24,Waalstraat,19:07,190700
+75,25,Maasplein,19:08,190800
+75,26,Socrateslaan,19:10,191000
+75,27,Hooft Graaflandstraat,19:11,191100
+75,28,Karperstraat,19:13,191300
+75,29,Kastelenplantsoen,19:14,191400
+75,30,IJsselsteinlaan,19:16,191600
+76,1,Vechtsebanen,18:46,184600
+76,2,Nebraskadreef,18:48,184800
+76,3,Klopvaart,18:49,184900
+76,4,Orinocodreef,18:51,185100
+76,5,Bogotádreef,18:52,185200
+76,6,Amazonedreef,18:53,185300
+76,7,Paranadreef,18:54,185400
+76,8,Kaap Hoorndreef,18:55,185500
+76,9,Winkelcentrum Overvecht,18:56,185600
+76,10,Theemsdreef,18:57,185700
+76,11,Korfoedreef,18:58,185800
+76,12,Rubicondreef,18:59,185900
+76,13,Station Overvecht,19:00,190000
+76,14,Mr. Tripkade,19:01,190100
+76,15,Willem van Noortplein,19:03,190300
+76,16,Willem van Noortstraat,19:04,190400
+76,17,Adelaarstraat,19:05,190500
+76,18,Sint Jacobsstraat,19:07,190700
+76,19,CS Jaarbeurszijde,19:13,191300
+76,20,CS Jaarbeurszijde,19:16,191600
+76,21,Van der Goesstraat,19:18,191800
+76,22,Brederoplein,19:19,191900
+76,23,Balijelaan,19:20,192000
+76,24,Waalstraat,19:21,192100
+76,25,Maasplein,19:22,192200
+76,26,Socrateslaan,19:24,192400
+76,27,Hooft Graaflandstraat,19:25,192500
+76,28,Karperstraat,19:27,192700
+76,29,Kastelenplantsoen,19:28,192800
+76,30,IJsselsteinlaan,19:30,193000
+77,1,Vechtsebanen,19:01,190100
+77,2,Nebraskadreef,19:03,190300
+77,3,Klopvaart,19:04,190400
+77,4,Orinocodreef,19:05,190500
+77,5,Bogotádreef,19:06,190600
+77,6,Amazonedreef,19:07,190700
+77,7,Paranadreef,19:08,190800
+77,8,Kaap Hoorndreef,19:09,190900
+77,9,Winkelcentrum Overvecht,19:10,191000
+77,10,Theemsdreef,19:11,191100
+77,11,Korfoedreef,19:12,191200
+77,12,Rubicondreef,19:13,191300
+77,13,Station Overvecht,19:14,191400
+77,14,Mr. Tripkade,19:15,191500
+77,15,Willem van Noortplein,19:17,191700
+77,16,Willem van Noortstraat,19:18,191800
+77,17,Adelaarstraat,19:19,191900
+77,18,Sint Jacobsstraat,19:21,192100
+77,19,CS Jaarbeurszijde,19:27,192700
+77,20,CS Jaarbeurszijde,19:30,193000
+77,21,Van der Goesstraat,19:32,193200
+77,22,Brederoplein,19:33,193300
+77,23,Balijelaan,19:34,193400
+77,24,Waalstraat,19:35,193500
+77,25,Maasplein,19:36,193600
+77,26,Socrateslaan,19:38,193800
+77,27,Hooft Graaflandstraat,19:39,193900
+77,28,Karperstraat,19:41,194100
+77,29,Kastelenplantsoen,19:42,194200
+77,30,IJsselsteinlaan,19:44,194400
+78,1,Vechtsebanen,19:16,191600
+78,2,Nebraskadreef,19:18,191800
+78,3,Klopvaart,19:19,191900
+78,4,Orinocodreef,19:20,192000
+78,5,Bogotádreef,19:21,192100
+78,6,Amazonedreef,19:22,192200
+78,7,Paranadreef,19:23,192300
+78,8,Kaap Hoorndreef,19:24,192400
+78,9,Winkelcentrum Overvecht,19:25,192500
+78,10,Theemsdreef,19:26,192600
+78,11,Korfoedreef,19:27,192700
+78,12,Rubicondreef,19:28,192800
+78,13,Station Overvecht,19:29,192900
+78,14,Mr. Tripkade,19:30,193000
+78,15,Willem van Noortplein,19:32,193200
+78,16,Willem van Noortstraat,19:33,193300
+78,17,Adelaarstraat,19:34,193400
+78,18,Sint Jacobsstraat,19:36,193600
+78,19,CS Jaarbeurszijde,19:42,194200
+78,20,CS Jaarbeurszijde,19:45,194500
+78,21,Van der Goesstraat,19:47,194700
+78,22,Brederoplein,19:48,194800
+78,23,Balijelaan,19:49,194900
+78,24,Waalstraat,19:50,195000
+78,25,Maasplein,19:51,195100
+78,26,Socrateslaan,19:53,195300
+78,27,Hooft Graaflandstraat,19:54,195400
+78,28,Karperstraat,19:56,195600
+78,29,Kastelenplantsoen,19:57,195700
+78,30,IJsselsteinlaan,19:59,195900
+79,1,Vechtsebanen,19:31,193100
+79,2,Nebraskadreef,19:33,193300
+79,3,Klopvaart,19:34,193400
+79,4,Orinocodreef,19:35,193500
+79,5,Bogotádreef,19:36,193600
+79,6,Amazonedreef,19:37,193700
+79,7,Paranadreef,19:38,193800
+79,8,Kaap Hoorndreef,19:39,193900
+79,9,Winkelcentrum Overvecht,19:40,194000
+79,10,Theemsdreef,19:41,194100
+79,11,Korfoedreef,19:42,194200
+79,12,Rubicondreef,19:43,194300
+79,13,Station Overvecht,19:44,194400
+79,14,Mr. Tripkade,19:45,194500
+79,15,Willem van Noortplein,19:47,194700
+79,16,Willem van Noortstraat,19:48,194800
+79,17,Adelaarstraat,19:49,194900
+79,18,Sint Jacobsstraat,19:51,195100
+79,19,CS Jaarbeurszijde,19:57,195700
+79,20,CS Jaarbeurszijde,20:00,200000
+79,21,Van der Goesstraat,20:02,200200
+79,22,Brederoplein,20:03,200300
+79,23,Balijelaan,20:04,200400
+79,24,Waalstraat,20:05,200500
+79,25,Maasplein,20:06,200600
+79,26,Socrateslaan,20:08,200800
+79,27,Hooft Graaflandstraat,20:09,200900
+79,28,Karperstraat,20:11,201100
+79,29,Kastelenplantsoen,20:12,201200
+79,30,IJsselsteinlaan,20:14,201400
+80,1,Vechtsebanen,19:46,194600
+80,2,Nebraskadreef,19:48,194800
+80,3,Klopvaart,19:49,194900
+80,4,Orinocodreef,19:50,195000
+80,5,Bogotádreef,19:51,195100
+80,6,Amazonedreef,19:52,195200
+80,7,Paranadreef,19:53,195300
+80,8,Kaap Hoorndreef,19:54,195400
+80,9,Winkelcentrum Overvecht,19:55,195500
+80,10,Theemsdreef,19:56,195600
+80,11,Korfoedreef,19:57,195700
+80,12,Rubicondreef,19:58,195800
+80,13,Station Overvecht,19:59,195900
+80,14,Mr. Tripkade,20:00,200000
+80,15,Willem van Noortplein,20:02,200200
+80,16,Willem van Noortstraat,20:03,200300
+80,17,Adelaarstraat,20:04,200400
+80,18,Sint Jacobsstraat,20:06,200600
+80,19,CS Jaarbeurszijde,20:12,201200
+80,20,CS Jaarbeurszijde,20:15,201500
+80,21,Van der Goesstraat,20:17,201700
+80,22,Brederoplein,20:18,201800
+80,23,Balijelaan,20:19,201900
+80,24,Waalstraat,20:20,202000
+80,25,Maasplein,20:21,202100
+80,26,Socrateslaan,20:23,202300
+80,27,Hooft Graaflandstraat,20:24,202400
+80,28,Karperstraat,20:26,202600
+80,29,Kastelenplantsoen,20:27,202700
+80,30,IJsselsteinlaan,20:29,202900
+81,1,Vechtsebanen,20:01,200100
+81,2,Nebraskadreef,20:03,200300
+81,3,Klopvaart,20:04,200400
+81,4,Orinocodreef,20:05,200500
+81,5,Bogotádreef,20:06,200600
+81,6,Amazonedreef,20:07,200700
+81,7,Paranadreef,20:08,200800
+81,8,Kaap Hoorndreef,20:09,200900
+81,9,Winkelcentrum Overvecht,20:10,201000
+81,10,Theemsdreef,20:11,201100
+81,11,Korfoedreef,20:12,201200
+81,12,Rubicondreef,20:13,201300
+81,13,Station Overvecht,20:14,201400
+81,14,Mr. Tripkade,20:15,201500
+81,15,Willem van Noortplein,20:17,201700
+81,16,Willem van Noortstraat,20:18,201800
+81,17,Adelaarstraat,20:19,201900
+81,18,Sint Jacobsstraat,20:21,202100
+81,19,CS Jaarbeurszijde,20:27,202700
+81,20,CS Jaarbeurszijde,20:30,203000
+81,21,Van der Goesstraat,20:32,203200
+81,22,Brederoplein,20:33,203300
+81,23,Balijelaan,20:34,203400
+81,24,Waalstraat,20:35,203500
+81,25,Maasplein,20:36,203600
+81,26,Socrateslaan,20:38,203800
+81,27,Hooft Graaflandstraat,20:39,203900
+81,28,Karperstraat,20:41,204100
+81,29,Kastelenplantsoen,20:42,204200
+81,30,IJsselsteinlaan,20:44,204400
+82,1,Vechtsebanen,20:16,201600
+82,2,Nebraskadreef,20:18,201800
+82,3,Klopvaart,20:19,201900
+82,4,Orinocodreef,20:20,202000
+82,5,Bogotádreef,20:21,202100
+82,6,Amazonedreef,20:22,202200
+82,7,Paranadreef,20:23,202300
+82,8,Kaap Hoorndreef,20:24,202400
+82,9,Winkelcentrum Overvecht,20:25,202500
+82,10,Theemsdreef,20:26,202600
+82,11,Korfoedreef,20:27,202700
+82,12,Rubicondreef,20:28,202800
+82,13,Station Overvecht,20:29,202900
+82,14,Mr. Tripkade,20:30,203000
+82,15,Willem van Noortplein,20:32,203200
+82,16,Willem van Noortstraat,20:33,203300
+82,17,Adelaarstraat,20:34,203400
+82,18,Sint Jacobsstraat,20:36,203600
+82,19,CS Jaarbeurszijde,20:42,204200
+82,20,CS Jaarbeurszijde,20:45,204500
+82,21,Van der Goesstraat,20:47,204700
+82,22,Brederoplein,20:48,204800
+82,23,Balijelaan,20:49,204900
+82,24,Waalstraat,20:50,205000
+82,25,Maasplein,20:51,205100
+82,26,Socrateslaan,20:53,205300
+82,27,Hooft Graaflandstraat,20:54,205400
+82,28,Karperstraat,20:56,205600
+82,29,Kastelenplantsoen,20:57,205700
+82,30,IJsselsteinlaan,20:59,205900
+83,1,Vechtsebanen,20:31,203100
+83,2,Nebraskadreef,20:33,203300
+83,3,Klopvaart,20:34,203400
+83,4,Orinocodreef,20:35,203500
+83,5,Bogotádreef,20:36,203600
+83,6,Amazonedreef,20:37,203700
+83,7,Paranadreef,20:38,203800
+83,8,Kaap Hoorndreef,20:39,203900
+83,9,Winkelcentrum Overvecht,20:40,204000
+83,10,Theemsdreef,20:41,204100
+83,11,Korfoedreef,20:42,204200
+83,12,Rubicondreef,20:43,204300
+83,13,Station Overvecht,20:44,204400
+83,14,Mr. Tripkade,20:45,204500
+83,15,Willem van Noortplein,20:47,204700
+83,16,Willem van Noortstraat,20:48,204800
+83,17,Adelaarstraat,20:49,204900
+83,18,Sint Jacobsstraat,20:51,205100
+83,19,CS Jaarbeurszijde,20:56,205600
+83,20,CS Jaarbeurszijde,20:59,205900
+83,21,Van der Goesstraat,21:01,210100
+83,22,Brederoplein,21:02,210200
+83,23,Balijelaan,21:03,210300
+83,24,Waalstraat,21:04,210400
+83,25,Maasplein,21:05,210500
+83,26,Socrateslaan,21:07,210700
+83,27,Hooft Graaflandstraat,21:08,210800
+83,28,Karperstraat,21:10,211000
+83,29,Kastelenplantsoen,21:11,211100
+83,30,IJsselsteinlaan,21:13,211300
+84,1,Vechtsebanen,20:46,204600
+84,2,Nebraskadreef,20:47,204700
+84,3,Klopvaart,20:48,204800
+84,4,Orinocodreef,20:49,204900
+84,5,Bogotádreef,20:50,205000
+84,6,Amazonedreef,20:51,205100
+84,7,Paranadreef,20:52,205200
+84,8,Kaap Hoorndreef,20:53,205300
+84,9,Winkelcentrum Overvecht,20:54,205400
+84,10,Theemsdreef,20:55,205500
+84,11,Korfoedreef,20:56,205600
+84,12,Rubicondreef,20:57,205700
+84,13,Station Overvecht,20:58,205800
+84,14,Mr. Tripkade,20:59,205900
+84,15,Willem van Noortplein,21:01,210100
+84,16,Willem van Noortstraat,21:02,210200
+84,17,Adelaarstraat,21:03,210300
+84,18,Sint Jacobsstraat,21:05,210500
+84,19,CS Jaarbeurszijde,21:10,211000
+84,20,CS Jaarbeurszijde,21:13,211300
+84,21,Van der Goesstraat,21:15,211500
+84,22,Brederoplein,21:16,211600
+84,23,Balijelaan,21:17,211700
+84,24,Waalstraat,21:18,211800
+84,25,Maasplein,21:19,211900
+84,26,Socrateslaan,21:21,212100
+84,27,Hooft Graaflandstraat,21:22,212200
+84,28,Karperstraat,21:24,212400
+84,29,Kastelenplantsoen,21:25,212500
+84,30,IJsselsteinlaan,21:27,212700
+85,1,Vechtsebanen,21:01,210100
+85,2,Nebraskadreef,21:02,210200
+85,3,Klopvaart,21:03,210300
+85,4,Orinocodreef,21:04,210400
+85,5,Bogotádreef,21:05,210500
+85,6,Amazonedreef,21:06,210600
+85,7,Paranadreef,21:07,210700
+85,8,Kaap Hoorndreef,21:08,210800
+85,9,Winkelcentrum Overvecht,21:09,210900
+85,10,Theemsdreef,21:10,211000
+85,11,Korfoedreef,21:11,211100
+85,12,Rubicondreef,21:12,211200
+85,13,Station Overvecht,21:13,211300
+85,14,Mr. Tripkade,21:14,211400
+85,15,Willem van Noortplein,21:16,211600
+85,16,Willem van Noortstraat,21:17,211700
+85,17,Adelaarstraat,21:18,211800
+85,18,Sint Jacobsstraat,21:20,212000
+85,19,CS Jaarbeurszijde,21:25,212500
+85,20,CS Jaarbeurszijde,21:28,212800
+85,21,Van der Goesstraat,21:30,213000
+85,22,Brederoplein,21:31,213100
+85,23,Balijelaan,21:32,213200
+85,24,Waalstraat,21:33,213300
+85,25,Maasplein,21:34,213400
+85,26,Socrateslaan,21:36,213600
+85,27,Hooft Graaflandstraat,21:37,213700
+85,28,Karperstraat,21:39,213900
+85,29,Kastelenplantsoen,21:40,214000
+85,30,IJsselsteinlaan,21:42,214200
+86,1,Vechtsebanen,21:16,211600
+86,2,Nebraskadreef,21:17,211700
+86,3,Klopvaart,21:18,211800
+86,4,Orinocodreef,21:19,211900
+86,5,Bogotádreef,21:20,212000
+86,6,Amazonedreef,21:21,212100
+86,7,Paranadreef,21:22,212200
+86,8,Kaap Hoorndreef,21:23,212300
+86,9,Winkelcentrum Overvecht,21:24,212400
+86,10,Theemsdreef,21:25,212500
+86,11,Korfoedreef,21:26,212600
+86,12,Rubicondreef,21:27,212700
+86,13,Station Overvecht,21:28,212800
+86,14,Mr. Tripkade,21:29,212900
+86,15,Willem van Noortplein,21:31,213100
+86,16,Willem van Noortstraat,21:32,213200
+86,17,Adelaarstraat,21:33,213300
+86,18,Sint Jacobsstraat,21:35,213500
+86,19,CS Jaarbeurszijde,21:40,214000
+86,20,CS Jaarbeurszijde,21:43,214300
+86,21,Van der Goesstraat,21:45,214500
+86,22,Brederoplein,21:46,214600
+86,23,Balijelaan,21:47,214700
+86,24,Waalstraat,21:48,214800
+86,25,Maasplein,21:49,214900
+86,26,Socrateslaan,21:51,215100
+86,27,Hooft Graaflandstraat,21:52,215200
+86,28,Karperstraat,21:54,215400
+86,29,Kastelenplantsoen,21:55,215500
+86,30,IJsselsteinlaan,21:57,215700
+87,1,Vechtsebanen,21:31,213100
+87,2,Nebraskadreef,21:32,213200
+87,3,Klopvaart,21:33,213300
+87,4,Orinocodreef,21:34,213400
+87,5,Bogotádreef,21:35,213500
+87,6,Amazonedreef,21:36,213600
+87,7,Paranadreef,21:37,213700
+87,8,Kaap Hoorndreef,21:38,213800
+87,9,Winkelcentrum Overvecht,21:39,213900
+87,10,Theemsdreef,21:40,214000
+87,11,Korfoedreef,21:41,214100
+87,12,Rubicondreef,21:42,214200
+87,13,Station Overvecht,21:43,214300
+87,14,Mr. Tripkade,21:44,214400
+87,15,Willem van Noortplein,21:46,214600
+87,16,Willem van Noortstraat,21:47,214700
+87,17,Adelaarstraat,21:48,214800
+87,18,Sint Jacobsstraat,21:50,215000
+87,19,CS Jaarbeurszijde,21:55,215500
+87,20,CS Jaarbeurszijde,21:58,215800
+87,21,Van der Goesstraat,22:00,220000
+87,22,Brederoplein,22:00,220000
+87,23,Balijelaan,22:01,220100
+87,24,Waalstraat,22:02,220200
+87,25,Maasplein,22:03,220300
+87,26,Socrateslaan,22:05,220500
+87,27,Hooft Graaflandstraat,22:06,220600
+87,28,Karperstraat,22:07,220700
+87,29,Kastelenplantsoen,22:09,220900
+87,30,IJsselsteinlaan,22:10,221000
+88,1,Vechtsebanen,21:46,214600
+88,2,Nebraskadreef,21:47,214700
+88,3,Klopvaart,21:48,214800
+88,4,Orinocodreef,21:49,214900
+88,5,Bogotádreef,21:50,215000
+88,6,Amazonedreef,21:51,215100
+88,7,Paranadreef,21:52,215200
+88,8,Kaap Hoorndreef,21:53,215300
+88,9,Winkelcentrum Overvecht,21:54,215400
+88,10,Theemsdreef,21:55,215500
+88,11,Korfoedreef,21:56,215600
+88,12,Rubicondreef,21:57,215700
+88,13,Station Overvecht,21:58,215800
+88,14,Mr. Tripkade,21:59,215900
+88,15,Willem van Noortplein,22:01,220100
+88,16,Willem van Noortstraat,22:02,220200
+88,17,Adelaarstraat,22:03,220300
+88,18,Sint Jacobsstraat,22:05,220500
+88,19,CS Jaarbeurszijde,22:10,221000
+88,20,CS Jaarbeurszijde,22:13,221300
+88,21,Van der Goesstraat,22:15,221500
+88,22,Brederoplein,22:15,221500
+88,23,Balijelaan,22:16,221600
+88,24,Waalstraat,22:17,221700
+88,25,Maasplein,22:18,221800
+88,26,Socrateslaan,22:20,222000
+88,27,Hooft Graaflandstraat,22:21,222100
+88,28,Karperstraat,22:22,222200
+88,29,Kastelenplantsoen,22:24,222400
+88,30,IJsselsteinlaan,22:25,222500
+89,1,Vechtsebanen,22:01,220100
+89,2,Nebraskadreef,22:02,220200
+89,3,Klopvaart,22:03,220300
+89,4,Orinocodreef,22:04,220400
+89,5,Bogotádreef,22:05,220500
+89,6,Amazonedreef,22:06,220600
+89,7,Paranadreef,22:07,220700
+89,8,Kaap Hoorndreef,22:08,220800
+89,9,Winkelcentrum Overvecht,22:09,220900
+89,10,Theemsdreef,22:10,221000
+89,11,Korfoedreef,22:11,221100
+89,12,Rubicondreef,22:12,221200
+89,13,Station Overvecht,22:13,221300
+89,14,Mr. Tripkade,22:14,221400
+89,15,Willem van Noortplein,22:16,221600
+89,16,Willem van Noortstraat,22:17,221700
+89,17,Adelaarstraat,22:18,221800
+89,18,Sint Jacobsstraat,22:20,222000
+89,19,CS Jaarbeurszijde,22:25,222500
+89,20,CS Jaarbeurszijde,22:28,222800
+89,21,Van der Goesstraat,22:30,223000
+89,22,Brederoplein,22:30,223000
+89,23,Balijelaan,22:31,223100
+89,24,Waalstraat,22:32,223200
+89,25,Maasplein,22:33,223300
+89,26,Socrateslaan,22:35,223500
+89,27,Hooft Graaflandstraat,22:36,223600
+89,28,Karperstraat,22:37,223700
+89,29,Kastelenplantsoen,22:39,223900
+89,30,IJsselsteinlaan,22:40,224000
+90,1,Vechtsebanen,22:16,221600
+90,2,Nebraskadreef,22:17,221700
+90,3,Klopvaart,22:18,221800
+90,4,Orinocodreef,22:19,221900
+90,5,Bogotádreef,22:20,222000
+90,6,Amazonedreef,22:21,222100
+90,7,Paranadreef,22:22,222200
+90,8,Kaap Hoorndreef,22:23,222300
+90,9,Winkelcentrum Overvecht,22:24,222400
+90,10,Theemsdreef,22:25,222500
+90,11,Korfoedreef,22:26,222600
+90,12,Rubicondreef,22:27,222700
+90,13,Station Overvecht,22:28,222800
+90,14,Mr. Tripkade,22:29,222900
+90,15,Willem van Noortplein,22:31,223100
+90,16,Willem van Noortstraat,22:32,223200
+90,17,Adelaarstraat,22:33,223300
+90,18,Sint Jacobsstraat,22:35,223500
+90,19,CS Jaarbeurszijde,22:40,224000
+90,20,CS Jaarbeurszijde,22:43,224300
+90,21,Van der Goesstraat,22:45,224500
+90,22,Brederoplein,22:45,224500
+90,23,Balijelaan,22:46,224600
+90,24,Waalstraat,22:47,224700
+90,25,Maasplein,22:48,224800
+90,26,Socrateslaan,22:50,225000
+90,27,Hooft Graaflandstraat,22:51,225100
+90,28,Karperstraat,22:52,225200
+90,29,Kastelenplantsoen,22:54,225400
+90,30,IJsselsteinlaan,22:55,225500
+91,1,Vechtsebanen,22:31,223100
+91,2,Nebraskadreef,22:32,223200
+91,3,Klopvaart,22:33,223300
+91,4,Orinocodreef,22:34,223400
+91,5,Bogotádreef,22:35,223500
+91,6,Amazonedreef,22:36,223600
+91,7,Paranadreef,22:37,223700
+91,8,Kaap Hoorndreef,22:38,223800
+91,9,Winkelcentrum Overvecht,22:39,223900
+91,10,Theemsdreef,22:40,224000
+91,11,Korfoedreef,22:41,224100
+91,12,Rubicondreef,22:42,224200
+91,13,Station Overvecht,22:43,224300
+91,14,Mr. Tripkade,22:44,224400
+91,15,Willem van Noortplein,22:46,224600
+91,16,Willem van Noortstraat,22:47,224700
+91,17,Adelaarstraat,22:48,224800
+91,18,Sint Jacobsstraat,22:50,225000
+91,19,CS Jaarbeurszijde,22:55,225500
+91,20,CS Jaarbeurszijde,22:58,225800
+91,21,Van der Goesstraat,23:00,230000
+91,22,Brederoplein,23:00,230000
+91,23,Balijelaan,23:01,230100
+91,24,Waalstraat,23:02,230200
+91,25,Maasplein,23:03,230300
+91,26,Socrateslaan,23:05,230500
+91,27,Hooft Graaflandstraat,23:06,230600
+91,28,Karperstraat,23:07,230700
+91,29,Kastelenplantsoen,23:09,230900
+91,30,IJsselsteinlaan,23:10,231000
+92,1,Vechtsebanen,22:46,224600
+92,2,Nebraskadreef,22:47,224700
+92,3,Klopvaart,22:48,224800
+92,4,Orinocodreef,22:49,224900
+92,5,Bogotádreef,22:50,225000
+92,6,Amazonedreef,22:51,225100
+92,7,Paranadreef,22:52,225200
+92,8,Kaap Hoorndreef,22:53,225300
+92,9,Winkelcentrum Overvecht,22:54,225400
+92,10,Theemsdreef,22:55,225500
+92,11,Korfoedreef,22:56,225600
+92,12,Rubicondreef,22:57,225700
+92,13,Station Overvecht,22:58,225800
+92,14,Mr. Tripkade,22:59,225900
+92,15,Willem van Noortplein,23:01,230100
+92,16,Willem van Noortstraat,23:02,230200
+92,17,Adelaarstraat,23:03,230300
+92,18,Sint Jacobsstraat,23:05,230500
+92,19,CS Jaarbeurszijde,23:10,231000
+92,20,CS Jaarbeurszijde,23:13,231300
+92,21,Van der Goesstraat,23:15,231500
+92,22,Brederoplein,23:15,231500
+92,23,Balijelaan,23:16,231600
+92,24,Waalstraat,23:17,231700
+92,25,Maasplein,23:18,231800
+92,26,Socrateslaan,23:20,232000
+92,27,Hooft Graaflandstraat,23:21,232100
+92,28,Karperstraat,23:22,232200
+92,29,Kastelenplantsoen,23:24,232400
+92,30,IJsselsteinlaan,23:25,232500
+93,1,Vechtsebanen,23:01,230100
+93,2,Nebraskadreef,23:02,230200
+93,3,Klopvaart,23:03,230300
+93,4,Orinocodreef,23:04,230400
+93,5,Bogotádreef,23:05,230500
+93,6,Amazonedreef,23:06,230600
+93,7,Paranadreef,23:07,230700
+93,8,Kaap Hoorndreef,23:08,230800
+93,9,Winkelcentrum Overvecht,23:09,230900
+93,10,Theemsdreef,23:10,231000
+93,11,Korfoedreef,23:11,231100
+93,12,Rubicondreef,23:12,231200
+93,13,Station Overvecht,23:13,231300
+93,14,Mr. Tripkade,23:14,231400
+93,15,Willem van Noortplein,23:16,231600
+93,16,Willem van Noortstraat,23:17,231700
+93,17,Adelaarstraat,23:18,231800
+93,18,Sint Jacobsstraat,23:20,232000
+93,19,CS Jaarbeurszijde,23:25,232500
+93,20,CS Jaarbeurszijde,23:28,232800
+93,21,Van der Goesstraat,23:30,233000
+93,22,Brederoplein,23:30,233000
+93,23,Balijelaan,23:31,233100
+93,24,Waalstraat,23:32,233200
+93,25,Maasplein,23:33,233300
+93,26,Socrateslaan,23:35,233500
+93,27,Hooft Graaflandstraat,23:36,233600
+93,28,Karperstraat,23:37,233700
+93,29,Kastelenplantsoen,23:39,233900
+93,30,IJsselsteinlaan,23:40,234000
+94,1,Vechtsebanen,23:16,231600
+94,2,Nebraskadreef,23:17,231700
+94,3,Klopvaart,23:18,231800
+94,4,Orinocodreef,23:19,231900
+94,5,Bogotádreef,23:20,232000
+94,6,Amazonedreef,23:21,232100
+94,7,Paranadreef,23:22,232200
+94,8,Kaap Hoorndreef,23:23,232300
+94,9,Winkelcentrum Overvecht,23:24,232400
+94,10,Theemsdreef,23:25,232500
+94,11,Korfoedreef,23:25,232500
+94,12,Rubicondreef,23:26,232600
+94,13,Station Overvecht,23:27,232700
+94,14,Mr. Tripkade,23:28,232800
+94,15,Willem van Noortplein,23:30,233000
+94,16,Willem van Noortstraat,23:31,233100
+94,17,Adelaarstraat,23:31,233100
+94,18,Sint Jacobsstraat,23:33,233300
+94,19,CS Jaarbeurszijde,23:38,233800
+94,20,CS Jaarbeurszijde,23:41,234100
+94,21,Van der Goesstraat,23:43,234300
+94,22,Brederoplein,23:43,234300
+94,23,Balijelaan,23:44,234400
+94,24,Waalstraat,23:45,234500
+94,25,Maasplein,23:46,234600
+94,26,Socrateslaan,23:48,234800
+94,27,Hooft Graaflandstraat,23:49,234900
+94,28,Karperstraat,23:50,235000
+94,29,Kastelenplantsoen,23:52,235200
+94,30,IJsselsteinlaan,23:53,235300
+95,1,Vechtsebanen,23:31,233100
+95,2,Nebraskadreef,23:32,233200
+95,3,Klopvaart,23:33,233300
+95,4,Orinocodreef,23:34,233400
+95,5,Bogotádreef,23:34,233400
+95,6,Amazonedreef,23:35,233500
+95,7,Paranadreef,23:35,233500
+95,8,Kaap Hoorndreef,23:36,233600
+95,9,Winkelcentrum Overvecht,23:37,233700
+95,10,Theemsdreef,23:38,233800
+95,11,Korfoedreef,23:38,233800
+95,12,Rubicondreef,23:39,233900
+95,13,Station Overvecht,23:40,234000
+95,14,Mr. Tripkade,23:41,234100
+95,15,Willem van Noortplein,23:43,234300
+95,16,Willem van Noortstraat,23:44,234400
+95,17,Adelaarstraat,23:44,234400
+95,18,Sint Jacobsstraat,23:46,234600
+95,19,CS Jaarbeurszijde,23:51,235100
+95,20,CS Jaarbeurszijde,23:54,235400
+95,21,Van der Goesstraat,23:56,235600
+95,22,Brederoplein,23:56,235600
+95,23,Balijelaan,23:57,235700
+95,24,Waalstraat,23:58,235800
+95,25,Maasplein,23:59,235900
+95,26,Socrateslaan,00:01*,240100
+95,27,Hooft Graaflandstraat,00:02*,240200
+95,28,Karperstraat,00:03*,240300
+95,29,Kastelenplantsoen,00:05*,240500
+95,30,IJsselsteinlaan,00:06*,240600
+96,1,Vechtsebanen,23:46,234600
+96,2,Nebraskadreef,23:47,234700
+96,3,Klopvaart,23:48,234800
+96,4,Orinocodreef,23:49,234900
+96,5,Bogotádreef,23:49,234900
+96,6,Amazonedreef,23:50,235000
+96,7,Paranadreef,23:50,235000
+96,8,Kaap Hoorndreef,23:51,235100
+96,9,Winkelcentrum Overvecht,23:52,235200
+96,10,Theemsdreef,23:53,235300
+96,11,Korfoedreef,23:53,235300
+96,12,Rubicondreef,23:54,235400
+96,13,Station Overvecht,23:55,235500
+96,14,Mr. Tripkade,23:56,235600
+96,15,Willem van Noortplein,23:58,235800
+96,16,Willem van Noortstraat,23:59,235900
+96,17,Adelaarstraat,23:59,235900
+96,18,Sint Jacobsstraat,00:01*,240100
+96,19,CS Jaarbeurszijde,00:06*,240600
+96,20,CS Jaarbeurszijde,00:09*,240900
+96,21,Van der Goesstraat,00:11*,241100
+96,22,Brederoplein,00:11*,241100
+96,23,Balijelaan,00:12*,241200
+96,24,Waalstraat,00:13*,241300
+96,25,Maasplein,00:14*,241400
+96,26,Socrateslaan,00:16*,241600
+96,27,Hooft Graaflandstraat,00:17*,241700
+96,28,Karperstraat,00:18*,241800
+96,29,Kastelenplantsoen,00:20*,242000
+96,30,IJsselsteinlaan,00:21*,242100
+97,1,Vechtsebanen,00:01*,240100
+97,2,Nebraskadreef,00:02*,240200
+97,3,Klopvaart,00:03*,240300
+97,4,Orinocodreef,00:04*,240400
+97,5,Bogotádreef,00:04*,240400
+97,6,Amazonedreef,00:05*,240500
+97,7,Paranadreef,00:05*,240500
+97,8,Kaap Hoorndreef,00:06*,240600
+97,9,Winkelcentrum Overvecht,00:07*,240700
+97,10,Theemsdreef,00:08*,240800
+97,11,Korfoedreef,00:08*,240800
+97,12,Rubicondreef,00:09*,240900
+97,13,Station Overvecht,00:10*,241000
+97,14,Mr. Tripkade,00:11*,241100
+97,15,Willem van Noortplein,00:13*,241300
+97,16,Willem van Noortstraat,00:14*,241400
+97,17,Adelaarstraat,00:14*,241400
+97,18,Sint Jacobsstraat,00:16*,241600
+97,19,CS Jaarbeurszijde,00:21*,242100
+97,20,CS Jaarbeurszijde,00:24*,242400
+97,21,Van der Goesstraat,00:26*,242600
+97,22,Brederoplein,00:26*,242600
+97,23,Balijelaan,00:27*,242700
+97,24,Waalstraat,00:28*,242800
+97,25,Maasplein,00:29*,242900
+97,26,Socrateslaan,00:31*,243100
+97,27,Hooft Graaflandstraat,00:32*,243200
+97,28,Karperstraat,00:33*,243300
+97,29,Kastelenplantsoen,00:35*,243500
+97,30,IJsselsteinlaan,00:36*,243600
+98,1,Vechtsebanen,00:34*,243400
+98,2,Nebraskadreef,00:35*,243500
+98,3,Klopvaart,00:36*,243600
+98,4,Orinocodreef,00:37*,243700
+98,5,Bogotádreef,00:37*,243700
+98,6,Amazonedreef,00:38*,243800
+98,7,Paranadreef,00:38*,243800
+98,8,Kaap Hoorndreef,00:39*,243900
+98,9,Winkelcentrum Overvecht,00:40*,244000
+98,10,Theemsdreef,00:41*,244100
+98,11,Korfoedreef,00:41*,244100
+98,12,Rubicondreef,00:42*,244200
+98,13,Station Overvecht,00:43*,244300
+98,14,Mr. Tripkade,00:44*,244400
+98,15,Willem van Noortplein,00:46*,244600
+98,16,Willem van Noortstraat,00:47*,244700
+98,17,Adelaarstraat,00:47*,244700
+98,18,Sint Jacobsstraat,00:49*,244900
+98,19,CS Jaarbeurszijde,00:54*,245400
+98,20,CS Jaarbeurszijde,01:00*,250000
+98,21,Van der Goesstraat,01:02*,250200
+98,22,Brederoplein,01:02*,250200
+98,23,Balijelaan,01:03*,250300
+98,24,Waalstraat,01:04*,250400
+98,25,Maasplein,01:05*,250500
+98,26,Socrateslaan,01:07*,250700
+98,27,Hooft Graaflandstraat,01:08*,250800
+98,28,Karperstraat,01:09*,250900
+98,29,Kastelenplantsoen,01:11*,251100
+98,30,IJsselsteinlaan,01:12*,251200
