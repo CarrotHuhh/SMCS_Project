@@ -1,0 +1,2636 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,Oorsprongpark,06:01,060100
+1,2,Prinsesselaan,06:02,060200
+1,3,Rosarium,06:02,060200
+1,4,Dillenburgstraat,06:03,060300
+1,5,De Hoogstraat,06:04,060400
+1,6,Hobbemastraat,06:05,060500
+1,7,Diakonessenhuis-Noord,06:06,060600
+1,8,Homeruslaan,06:08,060800
+1,9,Oosterstraat,06:08,060800
+1,10,Oudwijkerdwarsstraat,06:09,060900
+1,11,Burg. Reigerstraat,06:10,061000
+1,12,Maliebaan,06:11,061100
+1,13,Stadsschouwburg,06:12,061200
+1,14,Janskerkhof,06:13,061300
+1,15,Neude,06:14,061400
+1,16,Vredenburg,06:15,061500
+1,17,CS Jaarbeurszijde,06:19,061900
+1,18,CS Jaarbeurszijde,06:21,062100
+1,19,Station Vaartsche Rijn,06:23,062300
+1,20,Tolsteegplantsoen,06:24,062400
+1,21,Smaragdplein,06:25,062500
+1,22,Robijnlaan,06:26,062600
+1,23,Slotlaan,06:26,062600
+1,24,Brennerbrug,06:27,062700
+1,25,Stelviobaan,06:28,062800
+1,26,Dolomieten,06:29,062900
+1,27,Simplonbaan,06:30,063000
+1,28,De Koppel,06:31,063100
+1,29,Sleeswijk,06:32,063200
+1,30,Betuwe,06:33,063300
+1,31,Station Lunetten,06:35,063500
+2,1,Oorsprongpark,06:16,061600
+2,2,Prinsesselaan,06:17,061700
+2,3,Rosarium,06:17,061700
+2,4,Dillenburgstraat,06:18,061800
+2,5,De Hoogstraat,06:19,061900
+2,6,Hobbemastraat,06:20,062000
+2,7,Diakonessenhuis-Noord,06:21,062100
+2,8,Homeruslaan,06:23,062300
+2,9,Oosterstraat,06:23,062300
+2,10,Oudwijkerdwarsstraat,06:24,062400
+2,11,Burg. Reigerstraat,06:25,062500
+2,12,Maliebaan,06:26,062600
+2,13,Stadsschouwburg,06:27,062700
+2,14,Janskerkhof,06:28,062800
+2,15,Neude,06:29,062900
+2,16,Vredenburg,06:30,063000
+2,17,CS Jaarbeurszijde,06:34,063400
+2,18,CS Jaarbeurszijde,06:36,063600
+2,19,Station Vaartsche Rijn,06:38,063800
+2,20,Tolsteegplantsoen,06:39,063900
+2,21,Smaragdplein,06:40,064000
+2,22,Robijnlaan,06:41,064100
+2,23,Slotlaan,06:41,064100
+2,24,Brennerbrug,06:42,064200
+2,25,Stelviobaan,06:43,064300
+2,26,Dolomieten,06:44,064400
+2,27,Simplonbaan,06:45,064500
+2,28,De Koppel,06:46,064600
+2,29,Sleeswijk,06:47,064700
+2,30,Betuwe,06:48,064800
+2,31,Station Lunetten,06:50,065000
+3,1,Oorsprongpark,06:31,063100
+3,2,Prinsesselaan,06:32,063200
+3,3,Rosarium,06:32,063200
+3,4,Dillenburgstraat,06:33,063300
+3,5,De Hoogstraat,06:34,063400
+3,6,Hobbemastraat,06:35,063500
+3,7,Diakonessenhuis-Noord,06:36,063600
+3,8,Homeruslaan,06:38,063800
+3,9,Oosterstraat,06:38,063800
+3,10,Oudwijkerdwarsstraat,06:39,063900
+3,11,Burg. Reigerstraat,06:40,064000
+3,12,Maliebaan,06:41,064100
+3,13,Stadsschouwburg,06:42,064200
+3,14,Janskerkhof,06:43,064300
+3,15,Neude,06:44,064400
+3,16,Vredenburg,06:45,064500
+3,17,CS Jaarbeurszijde,06:49,064900
+3,18,CS Jaarbeurszijde,06:51,065100
+3,19,Station Vaartsche Rijn,06:53,065300
+3,20,Tolsteegplantsoen,06:54,065400
+3,21,Smaragdplein,06:55,065500
+3,22,Robijnlaan,06:56,065600
+3,23,Slotlaan,06:56,065600
+3,24,Brennerbrug,06:57,065700
+3,25,Stelviobaan,06:58,065800
+3,26,Dolomieten,06:59,065900
+3,27,Simplonbaan,07:00,070000
+3,28,De Koppel,07:01,070100
+3,29,Sleeswijk,07:02,070200
+3,30,Betuwe,07:03,070300
+3,31,Station Lunetten,07:05,070500
+4,1,Oorsprongpark,06:46,064600
+4,2,Prinsesselaan,06:47,064700
+4,3,Rosarium,06:47,064700
+4,4,Dillenburgstraat,06:48,064800
+4,5,De Hoogstraat,06:49,064900
+4,6,Hobbemastraat,06:50,065000
+4,7,Diakonessenhuis-Noord,06:51,065100
+4,8,Homeruslaan,06:53,065300
+4,9,Oosterstraat,06:53,065300
+4,10,Oudwijkerdwarsstraat,06:54,065400
+4,11,Burg. Reigerstraat,06:55,065500
+4,12,Maliebaan,06:57,065700
+4,13,Stadsschouwburg,06:59,065900
+4,14,Janskerkhof,07:00,070000
+4,15,Neude,07:01,070100
+4,16,Vredenburg,07:02,070200
+4,17,CS Jaarbeurszijde,07:06,070600
+4,18,CS Jaarbeurszijde,07:09,070900
+4,19,Station Vaartsche Rijn,07:11,071100
+4,20,Tolsteegplantsoen,07:12,071200
+4,21,Smaragdplein,07:13,071300
+4,22,Robijnlaan,07:14,071400
+4,23,Slotlaan,07:14,071400
+4,24,Brennerbrug,07:15,071500
+4,25,Stelviobaan,07:16,071600
+4,26,Dolomieten,07:17,071700
+4,27,Simplonbaan,07:18,071800
+4,28,De Koppel,07:19,071900
+4,29,Sleeswijk,07:20,072000
+4,30,Betuwe,07:21,072100
+4,31,Station Lunetten,07:23,072300
+5,1,Oorsprongpark,07:01,070100
+5,2,Prinsesselaan,07:02,070200
+5,3,Rosarium,07:03,070300
+5,4,Dillenburgstraat,07:04,070400
+5,5,De Hoogstraat,07:05,070500
+5,6,Hobbemastraat,07:06,070600
+5,7,Diakonessenhuis-Noord,07:07,070700
+5,8,Homeruslaan,07:09,070900
+5,9,Oosterstraat,07:09,070900
+5,10,Oudwijkerdwarsstraat,07:10,071000
+5,11,Burg. Reigerstraat,07:11,071100
+5,12,Maliebaan,07:13,071300
+5,13,Stadsschouwburg,07:15,071500
+5,14,Janskerkhof,07:16,071600
+5,15,Neude,07:17,071700
+5,16,Vredenburg,07:18,071800
+5,17,CS Jaarbeurszijde,07:22,072200
+5,18,CS Jaarbeurszijde,07:25,072500
+5,19,Station Vaartsche Rijn,07:28,072800
+5,20,Tolsteegplantsoen,07:29,072900
+5,21,Smaragdplein,07:30,073000
+5,22,Robijnlaan,07:31,073100
+5,23,Slotlaan,07:31,073100
+5,24,Brennerbrug,07:32,073200
+5,25,Stelviobaan,07:33,073300
+5,26,Dolomieten,07:34,073400
+5,27,Simplonbaan,07:35,073500
+5,28,De Koppel,07:37,073700
+5,29,Sleeswijk,07:38,073800
+5,30,Betuwe,07:39,073900
+5,31,Station Lunetten,07:41,074100
+6,1,Oorsprongpark,07:11,071100
+6,2,Prinsesselaan,07:12,071200
+6,3,Rosarium,07:13,071300
+6,4,Dillenburgstraat,07:14,071400
+6,5,De Hoogstraat,07:15,071500
+6,6,Hobbemastraat,07:16,071600
+6,7,Diakonessenhuis-Noord,07:17,071700
+6,8,Homeruslaan,07:19,071900
+6,9,Oosterstraat,07:19,071900
+6,10,Oudwijkerdwarsstraat,07:20,072000
+6,11,Burg. Reigerstraat,07:21,072100
+6,12,Maliebaan,07:23,072300
+6,13,Stadsschouwburg,07:25,072500
+6,14,Janskerkhof,07:26,072600
+6,15,Neude,07:28,072800
+6,16,Vredenburg,07:29,072900
+6,17,CS Jaarbeurszijde,07:34,073400
+6,18,CS Jaarbeurszijde,07:37,073700
+6,19,Station Vaartsche Rijn,07:40,074000
+6,20,Tolsteegplantsoen,07:41,074100
+6,21,Smaragdplein,07:42,074200
+6,22,Robijnlaan,07:43,074300
+6,23,Slotlaan,07:43,074300
+6,24,Brennerbrug,07:44,074400
+6,25,Stelviobaan,07:45,074500
+6,26,Dolomieten,07:46,074600
+6,27,Simplonbaan,07:47,074700
+6,28,De Koppel,07:49,074900
+6,29,Sleeswijk,07:50,075000
+6,30,Betuwe,07:51,075100
+6,31,Station Lunetten,07:53,075300
+7,1,Oorsprongpark,07:21,072100
+7,2,Prinsesselaan,07:22,072200
+7,3,Rosarium,07:23,072300
+7,4,Dillenburgstraat,07:24,072400
+7,5,De Hoogstraat,07:25,072500
+7,6,Hobbemastraat,07:26,072600
+7,7,Diakonessenhuis-Noord,07:27,072700
+7,8,Homeruslaan,07:29,072900
+7,9,Oosterstraat,07:29,072900
+7,10,Oudwijkerdwarsstraat,07:30,073000
+7,11,Burg. Reigerstraat,07:31,073100
+7,12,Maliebaan,07:33,073300
+7,13,Stadsschouwburg,07:35,073500
+7,14,Janskerkhof,07:36,073600
+7,15,Neude,07:38,073800
+7,16,Vredenburg,07:39,073900
+7,17,CS Jaarbeurszijde,07:44,074400
+7,18,CS Jaarbeurszijde,07:47,074700
+7,19,Station Vaartsche Rijn,07:50,075000
+7,20,Tolsteegplantsoen,07:51,075100
+7,21,Smaragdplein,07:52,075200
+7,22,Robijnlaan,07:53,075300
+7,23,Slotlaan,07:53,075300
+7,24,Brennerbrug,07:54,075400
+7,25,Stelviobaan,07:55,075500
+7,26,Dolomieten,07:56,075600
+7,27,Simplonbaan,07:57,075700
+7,28,De Koppel,07:59,075900
+7,29,Sleeswijk,08:00,080000
+7,30,Betuwe,08:01,080100
+7,31,Station Lunetten,08:03,080300
+8,1,Oorsprongpark,07:31,073100
+8,2,Prinsesselaan,07:32,073200
+8,3,Rosarium,07:33,073300
+8,4,Dillenburgstraat,07:34,073400
+8,5,De Hoogstraat,07:35,073500
+8,6,Hobbemastraat,07:36,073600
+8,7,Diakonessenhuis-Noord,07:37,073700
+8,8,Homeruslaan,07:39,073900
+8,9,Oosterstraat,07:39,073900
+8,10,Oudwijkerdwarsstraat,07:40,074000
+8,11,Burg. Reigerstraat,07:41,074100
+8,12,Maliebaan,07:43,074300
+8,13,Stadsschouwburg,07:45,074500
+8,14,Janskerkhof,07:46,074600
+8,15,Neude,07:48,074800
+8,16,Vredenburg,07:49,074900
+8,17,CS Jaarbeurszijde,07:54,075400
+8,18,CS Jaarbeurszijde,07:57,075700
+8,19,Station Vaartsche Rijn,08:00,080000
+8,20,Tolsteegplantsoen,08:01,080100
+8,21,Smaragdplein,08:02,080200
+8,22,Robijnlaan,08:03,080300
+8,23,Slotlaan,08:03,080300
+8,24,Brennerbrug,08:04,080400
+8,25,Stelviobaan,08:05,080500
+8,26,Dolomieten,08:06,080600
+8,27,Simplonbaan,08:07,080700
+8,28,De Koppel,08:09,080900
+8,29,Sleeswijk,08:10,081000
+8,30,Betuwe,08:11,081100
+8,31,Station Lunetten,08:13,081300
+9,1,Oorsprongpark,07:41,074100
+9,2,Prinsesselaan,07:42,074200
+9,3,Rosarium,07:43,074300
+9,4,Dillenburgstraat,07:44,074400
+9,5,De Hoogstraat,07:45,074500
+9,6,Hobbemastraat,07:46,074600
+9,7,Diakonessenhuis-Noord,07:47,074700
+9,8,Homeruslaan,07:49,074900
+9,9,Oosterstraat,07:49,074900
+9,10,Oudwijkerdwarsstraat,07:50,075000
+9,11,Burg. Reigerstraat,07:51,075100
+9,12,Maliebaan,07:53,075300
+9,13,Stadsschouwburg,07:55,075500
+9,14,Janskerkhof,07:56,075600
+9,15,Neude,07:58,075800
+9,16,Vredenburg,07:59,075900
+9,17,CS Jaarbeurszijde,08:04,080400
+9,18,CS Jaarbeurszijde,08:07,080700
+9,19,Station Vaartsche Rijn,08:10,081000
+9,20,Tolsteegplantsoen,08:11,081100
+9,21,Smaragdplein,08:12,081200
+9,22,Robijnlaan,08:13,081300
+9,23,Slotlaan,08:13,081300
+9,24,Brennerbrug,08:14,081400
+9,25,Stelviobaan,08:15,081500
+9,26,Dolomieten,08:16,081600
+9,27,Simplonbaan,08:17,081700
+9,28,De Koppel,08:19,081900
+9,29,Sleeswijk,08:20,082000
+9,30,Betuwe,08:21,082100
+9,31,Station Lunetten,08:23,082300
+10,1,Oorsprongpark,07:51,075100
+10,2,Prinsesselaan,07:52,075200
+10,3,Rosarium,07:53,075300
+10,4,Dillenburgstraat,07:54,075400
+10,5,De Hoogstraat,07:55,075500
+10,6,Hobbemastraat,07:56,075600
+10,7,Diakonessenhuis-Noord,07:57,075700
+10,8,Homeruslaan,07:59,075900
+10,9,Oosterstraat,07:59,075900
+10,10,Oudwijkerdwarsstraat,08:00,080000
+10,11,Burg. Reigerstraat,08:01,080100
+10,12,Maliebaan,08:03,080300
+10,13,Stadsschouwburg,08:05,080500
+10,14,Janskerkhof,08:06,080600
+10,15,Neude,08:08,080800
+10,16,Vredenburg,08:09,080900
+10,17,CS Jaarbeurszijde,08:14,081400
+10,18,CS Jaarbeurszijde,08:17,081700
+10,19,Station Vaartsche Rijn,08:20,082000
+10,20,Tolsteegplantsoen,08:21,082100
+10,21,Smaragdplein,08:22,082200
+10,22,Robijnlaan,08:23,082300
+10,23,Slotlaan,08:23,082300
+10,24,Brennerbrug,08:24,082400
+10,25,Stelviobaan,08:25,082500
+10,26,Dolomieten,08:26,082600
+10,27,Simplonbaan,08:27,082700
+10,28,De Koppel,08:29,082900
+10,29,Sleeswijk,08:30,083000
+10,30,Betuwe,08:31,083100
+10,31,Station Lunetten,08:33,083300
+11,1,Oorsprongpark,08:01,080100
+11,2,Prinsesselaan,08:02,080200
+11,3,Rosarium,08:03,080300
+11,4,Dillenburgstraat,08:04,080400
+11,5,De Hoogstraat,08:05,080500
+11,6,Hobbemastraat,08:06,080600
+11,7,Diakonessenhuis-Noord,08:07,080700
+11,8,Homeruslaan,08:09,080900
+11,9,Oosterstraat,08:09,080900
+11,10,Oudwijkerdwarsstraat,08:10,081000
+11,11,Burg. Reigerstraat,08:11,081100
+11,12,Maliebaan,08:13,081300
+11,13,Stadsschouwburg,08:15,081500
+11,14,Janskerkhof,08:16,081600
+11,15,Neude,08:18,081800
+11,16,Vredenburg,08:19,081900
+11,17,CS Jaarbeurszijde,08:24,082400
+11,18,CS Jaarbeurszijde,08:27,082700
+11,19,Station Vaartsche Rijn,08:30,083000
+11,20,Tolsteegplantsoen,08:31,083100
+11,21,Smaragdplein,08:32,083200
+11,22,Robijnlaan,08:33,083300
+11,23,Slotlaan,08:33,083300
+11,24,Brennerbrug,08:34,083400
+11,25,Stelviobaan,08:35,083500
+11,26,Dolomieten,08:36,083600
+11,27,Simplonbaan,08:37,083700
+11,28,De Koppel,08:39,083900
+11,29,Sleeswijk,08:40,084000
+11,30,Betuwe,08:41,084100
+11,31,Station Lunetten,08:43,084300
+12,1,Oorsprongpark,08:11,081100
+12,2,Prinsesselaan,08:12,081200
+12,3,Rosarium,08:13,081300
+12,4,Dillenburgstraat,08:14,081400
+12,5,De Hoogstraat,08:15,081500
+12,6,Hobbemastraat,08:16,081600
+12,7,Diakonessenhuis-Noord,08:17,081700
+12,8,Homeruslaan,08:19,081900
+12,9,Oosterstraat,08:19,081900
+12,10,Oudwijkerdwarsstraat,08:20,082000
+12,11,Burg. Reigerstraat,08:21,082100
+12,12,Maliebaan,08:23,082300
+12,13,Stadsschouwburg,08:25,082500
+12,14,Janskerkhof,08:26,082600
+12,15,Neude,08:28,082800
+12,16,Vredenburg,08:29,082900
+12,17,CS Jaarbeurszijde,08:34,083400
+12,18,CS Jaarbeurszijde,08:37,083700
+12,19,Station Vaartsche Rijn,08:40,084000
+12,20,Tolsteegplantsoen,08:41,084100
+12,21,Smaragdplein,08:42,084200
+12,22,Robijnlaan,08:43,084300
+12,23,Slotlaan,08:43,084300
+12,24,Brennerbrug,08:44,084400
+12,25,Stelviobaan,08:45,084500
+12,26,Dolomieten,08:46,084600
+12,27,Simplonbaan,08:47,084700
+12,28,De Koppel,08:49,084900
+12,29,Sleeswijk,08:50,085000
+12,30,Betuwe,08:51,085100
+12,31,Station Lunetten,08:53,085300
+13,1,Oorsprongpark,08:21,082100
+13,2,Prinsesselaan,08:22,082200
+13,3,Rosarium,08:23,082300
+13,4,Dillenburgstraat,08:24,082400
+13,5,De Hoogstraat,08:25,082500
+13,6,Hobbemastraat,08:26,082600
+13,7,Diakonessenhuis-Noord,08:27,082700
+13,8,Homeruslaan,08:29,082900
+13,9,Oosterstraat,08:29,082900
+13,10,Oudwijkerdwarsstraat,08:30,083000
+13,11,Burg. Reigerstraat,08:31,083100
+13,12,Maliebaan,08:33,083300
+13,13,Stadsschouwburg,08:35,083500
+13,14,Janskerkhof,08:36,083600
+13,15,Neude,08:38,083800
+13,16,Vredenburg,08:39,083900
+13,17,CS Jaarbeurszijde,08:44,084400
+13,18,CS Jaarbeurszijde,08:47,084700
+13,19,Station Vaartsche Rijn,08:50,085000
+13,20,Tolsteegplantsoen,08:51,085100
+13,21,Smaragdplein,08:52,085200
+13,22,Robijnlaan,08:53,085300
+13,23,Slotlaan,08:53,085300
+13,24,Brennerbrug,08:54,085400
+13,25,Stelviobaan,08:55,085500
+13,26,Dolomieten,08:56,085600
+13,27,Simplonbaan,08:57,085700
+13,28,De Koppel,08:59,085900
+13,29,Sleeswijk,09:00,090000
+13,30,Betuwe,09:01,090100
+13,31,Station Lunetten,09:03,090300
+14,1,Oorsprongpark,08:31,083100
+14,2,Prinsesselaan,08:32,083200
+14,3,Rosarium,08:33,083300
+14,4,Dillenburgstraat,08:34,083400
+14,5,De Hoogstraat,08:35,083500
+14,6,Hobbemastraat,08:36,083600
+14,7,Diakonessenhuis-Noord,08:37,083700
+14,8,Homeruslaan,08:39,083900
+14,9,Oosterstraat,08:39,083900
+14,10,Oudwijkerdwarsstraat,08:40,084000
+14,11,Burg. Reigerstraat,08:41,084100
+14,12,Maliebaan,08:43,084300
+14,13,Stadsschouwburg,08:45,084500
+14,14,Janskerkhof,08:46,084600
+14,15,Neude,08:48,084800
+14,16,Vredenburg,08:49,084900
+14,17,CS Jaarbeurszijde,08:54,085400
+14,18,CS Jaarbeurszijde,08:57,085700
+14,19,Station Vaartsche Rijn,09:00,090000
+14,20,Tolsteegplantsoen,09:01,090100
+14,21,Smaragdplein,09:02,090200
+14,22,Robijnlaan,09:03,090300
+14,23,Slotlaan,09:03,090300
+14,24,Brennerbrug,09:04,090400
+14,25,Stelviobaan,09:05,090500
+14,26,Dolomieten,09:06,090600
+14,27,Simplonbaan,09:07,090700
+14,28,De Koppel,09:09,090900
+14,29,Sleeswijk,09:10,091000
+14,30,Betuwe,09:11,091100
+14,31,Station Lunetten,09:13,091300
+15,1,Oorsprongpark,08:41,084100
+15,2,Prinsesselaan,08:42,084200
+15,3,Rosarium,08:43,084300
+15,4,Dillenburgstraat,08:44,084400
+15,5,De Hoogstraat,08:45,084500
+15,6,Hobbemastraat,08:46,084600
+15,7,Diakonessenhuis-Noord,08:47,084700
+15,8,Homeruslaan,08:49,084900
+15,9,Oosterstraat,08:49,084900
+15,10,Oudwijkerdwarsstraat,08:50,085000
+15,11,Burg. Reigerstraat,08:51,085100
+15,12,Maliebaan,08:53,085300
+15,13,Stadsschouwburg,08:55,085500
+15,14,Janskerkhof,08:56,085600
+15,15,Neude,08:58,085800
+15,16,Vredenburg,08:59,085900
+15,17,CS Jaarbeurszijde,09:04,090400
+15,18,CS Jaarbeurszijde,09:07,090700
+15,19,Station Vaartsche Rijn,09:10,091000
+15,20,Tolsteegplantsoen,09:11,091100
+15,21,Smaragdplein,09:12,091200
+15,22,Robijnlaan,09:13,091300
+15,23,Slotlaan,09:13,091300
+15,24,Brennerbrug,09:14,091400
+15,25,Stelviobaan,09:15,091500
+15,26,Dolomieten,09:16,091600
+15,27,Simplonbaan,09:17,091700
+15,28,De Koppel,09:19,091900
+15,29,Sleeswijk,09:20,092000
+15,30,Betuwe,09:21,092100
+15,31,Station Lunetten,09:23,092300
+16,1,Oorsprongpark,08:51,085100
+16,2,Prinsesselaan,08:52,085200
+16,3,Rosarium,08:53,085300
+16,4,Dillenburgstraat,08:54,085400
+16,5,De Hoogstraat,08:55,085500
+16,6,Hobbemastraat,08:56,085600
+16,7,Diakonessenhuis-Noord,08:57,085700
+16,8,Homeruslaan,08:59,085900
+16,9,Oosterstraat,08:59,085900
+16,10,Oudwijkerdwarsstraat,09:00,090000
+16,11,Burg. Reigerstraat,09:01,090100
+16,12,Maliebaan,09:03,090300
+16,13,Stadsschouwburg,09:05,090500
+16,14,Janskerkhof,09:06,090600
+16,15,Neude,09:08,090800
+16,16,Vredenburg,09:09,090900
+16,17,CS Jaarbeurszijde,09:14,091400
+16,18,CS Jaarbeurszijde,09:17,091700
+16,19,Station Vaartsche Rijn,09:20,092000
+16,20,Tolsteegplantsoen,09:21,092100
+16,21,Smaragdplein,09:22,092200
+16,22,Robijnlaan,09:23,092300
+16,23,Slotlaan,09:23,092300
+16,24,Brennerbrug,09:24,092400
+16,25,Stelviobaan,09:25,092500
+16,26,Dolomieten,09:26,092600
+16,27,Simplonbaan,09:27,092700
+16,28,De Koppel,09:29,092900
+16,29,Sleeswijk,09:30,093000
+16,30,Betuwe,09:31,093100
+16,31,Station Lunetten,09:33,093300
+17,1,Oorsprongpark,09:01,090100
+17,2,Prinsesselaan,09:02,090200
+17,3,Rosarium,09:03,090300
+17,4,Dillenburgstraat,09:04,090400
+17,5,De Hoogstraat,09:05,090500
+17,6,Hobbemastraat,09:06,090600
+17,7,Diakonessenhuis-Noord,09:07,090700
+17,8,Homeruslaan,09:09,090900
+17,9,Oosterstraat,09:09,090900
+17,10,Oudwijkerdwarsstraat,09:10,091000
+17,11,Burg. Reigerstraat,09:11,091100
+17,12,Maliebaan,09:13,091300
+17,13,Stadsschouwburg,09:15,091500
+17,14,Janskerkhof,09:16,091600
+17,15,Neude,09:18,091800
+17,16,Vredenburg,09:19,091900
+17,17,CS Jaarbeurszijde,09:24,092400
+17,18,CS Jaarbeurszijde,09:27,092700
+17,19,Station Vaartsche Rijn,09:30,093000
+17,20,Tolsteegplantsoen,09:31,093100
+17,21,Smaragdplein,09:32,093200
+17,22,Robijnlaan,09:33,093300
+17,23,Slotlaan,09:33,093300
+17,24,Brennerbrug,09:34,093400
+17,25,Stelviobaan,09:35,093500
+17,26,Dolomieten,09:36,093600
+17,27,Simplonbaan,09:37,093700
+17,28,De Koppel,09:39,093900
+17,29,Sleeswijk,09:40,094000
+17,30,Betuwe,09:41,094100
+17,31,Station Lunetten,09:43,094300
+18,1,Oorsprongpark,09:16,091600
+18,2,Prinsesselaan,09:17,091700
+18,3,Rosarium,09:18,091800
+18,4,Dillenburgstraat,09:19,091900
+18,5,De Hoogstraat,09:20,092000
+18,6,Hobbemastraat,09:21,092100
+18,7,Diakonessenhuis-Noord,09:22,092200
+18,8,Homeruslaan,09:24,092400
+18,9,Oosterstraat,09:24,092400
+18,10,Oudwijkerdwarsstraat,09:25,092500
+18,11,Burg. Reigerstraat,09:26,092600
+18,12,Maliebaan,09:28,092800
+18,13,Stadsschouwburg,09:30,093000
+18,14,Janskerkhof,09:31,093100
+18,15,Neude,09:33,093300
+18,16,Vredenburg,09:34,093400
+18,17,CS Jaarbeurszijde,09:39,093900
+18,18,CS Jaarbeurszijde,09:42,094200
+18,19,Station Vaartsche Rijn,09:45,094500
+18,20,Tolsteegplantsoen,09:46,094600
+18,21,Smaragdplein,09:47,094700
+18,22,Robijnlaan,09:48,094800
+18,23,Slotlaan,09:48,094800
+18,24,Brennerbrug,09:49,094900
+18,25,Stelviobaan,09:50,095000
+18,26,Dolomieten,09:51,095100
+18,27,Simplonbaan,09:52,095200
+18,28,De Koppel,09:54,095400
+18,29,Sleeswijk,09:55,095500
+18,30,Betuwe,09:56,095600
+18,31,Station Lunetten,09:58,095800
+19,1,Oorsprongpark,09:31,093100
+19,2,Prinsesselaan,09:32,093200
+19,3,Rosarium,09:33,093300
+19,4,Dillenburgstraat,09:34,093400
+19,5,De Hoogstraat,09:35,093500
+19,6,Hobbemastraat,09:36,093600
+19,7,Diakonessenhuis-Noord,09:37,093700
+19,8,Homeruslaan,09:39,093900
+19,9,Oosterstraat,09:39,093900
+19,10,Oudwijkerdwarsstraat,09:40,094000
+19,11,Burg. Reigerstraat,09:41,094100
+19,12,Maliebaan,09:43,094300
+19,13,Stadsschouwburg,09:45,094500
+19,14,Janskerkhof,09:46,094600
+19,15,Neude,09:48,094800
+19,16,Vredenburg,09:49,094900
+19,17,CS Jaarbeurszijde,09:54,095400
+19,18,CS Jaarbeurszijde,09:57,095700
+19,19,Station Vaartsche Rijn,10:00,100000
+19,20,Tolsteegplantsoen,10:01,100100
+19,21,Smaragdplein,10:02,100200
+19,22,Robijnlaan,10:03,100300
+19,23,Slotlaan,10:03,100300
+19,24,Brennerbrug,10:04,100400
+19,25,Stelviobaan,10:05,100500
+19,26,Dolomieten,10:06,100600
+19,27,Simplonbaan,10:07,100700
+19,28,De Koppel,10:09,100900
+19,29,Sleeswijk,10:10,101000
+19,30,Betuwe,10:11,101100
+19,31,Station Lunetten,10:13,101300
+20,1,Oorsprongpark,09:46,094600
+20,2,Prinsesselaan,09:47,094700
+20,3,Rosarium,09:48,094800
+20,4,Dillenburgstraat,09:49,094900
+20,5,De Hoogstraat,09:50,095000
+20,6,Hobbemastraat,09:51,095100
+20,7,Diakonessenhuis-Noord,09:52,095200
+20,8,Homeruslaan,09:54,095400
+20,9,Oosterstraat,09:54,095400
+20,10,Oudwijkerdwarsstraat,09:55,095500
+20,11,Burg. Reigerstraat,09:56,095600
+20,12,Maliebaan,09:58,095800
+20,13,Stadsschouwburg,10:00,100000
+20,14,Janskerkhof,10:01,100100
+20,15,Neude,10:03,100300
+20,16,Vredenburg,10:04,100400
+20,17,CS Jaarbeurszijde,10:09,100900
+20,18,CS Jaarbeurszijde,10:12,101200
+20,19,Station Vaartsche Rijn,10:15,101500
+20,20,Tolsteegplantsoen,10:16,101600
+20,21,Smaragdplein,10:17,101700
+20,22,Robijnlaan,10:18,101800
+20,23,Slotlaan,10:18,101800
+20,24,Brennerbrug,10:19,101900
+20,25,Stelviobaan,10:20,102000
+20,26,Dolomieten,10:21,102100
+20,27,Simplonbaan,10:22,102200
+20,28,De Koppel,10:24,102400
+20,29,Sleeswijk,10:25,102500
+20,30,Betuwe,10:26,102600
+20,31,Station Lunetten,10:28,102800
+21,1,Oorsprongpark,10:01,100100
+21,2,Prinsesselaan,10:02,100200
+21,3,Rosarium,10:03,100300
+21,4,Dillenburgstraat,10:04,100400
+21,5,De Hoogstraat,10:05,100500
+21,6,Hobbemastraat,10:06,100600
+21,7,Diakonessenhuis-Noord,10:07,100700
+21,8,Homeruslaan,10:09,100900
+21,9,Oosterstraat,10:09,100900
+21,10,Oudwijkerdwarsstraat,10:10,101000
+21,11,Burg. Reigerstraat,10:11,101100
+21,12,Maliebaan,10:13,101300
+21,13,Stadsschouwburg,10:15,101500
+21,14,Janskerkhof,10:16,101600
+21,15,Neude,10:18,101800
+21,16,Vredenburg,10:19,101900
+21,17,CS Jaarbeurszijde,10:24,102400
+21,18,CS Jaarbeurszijde,10:27,102700
+21,19,Station Vaartsche Rijn,10:30,103000
+21,20,Tolsteegplantsoen,10:31,103100
+21,21,Smaragdplein,10:32,103200
+21,22,Robijnlaan,10:33,103300
+21,23,Slotlaan,10:33,103300
+21,24,Brennerbrug,10:34,103400
+21,25,Stelviobaan,10:35,103500
+21,26,Dolomieten,10:36,103600
+21,27,Simplonbaan,10:37,103700
+21,28,De Koppel,10:39,103900
+21,29,Sleeswijk,10:40,104000
+21,30,Betuwe,10:41,104100
+21,31,Station Lunetten,10:43,104300
+22,1,Oorsprongpark,10:16,101600
+22,2,Prinsesselaan,10:17,101700
+22,3,Rosarium,10:18,101800
+22,4,Dillenburgstraat,10:19,101900
+22,5,De Hoogstraat,10:20,102000
+22,6,Hobbemastraat,10:21,102100
+22,7,Diakonessenhuis-Noord,10:22,102200
+22,8,Homeruslaan,10:24,102400
+22,9,Oosterstraat,10:24,102400
+22,10,Oudwijkerdwarsstraat,10:25,102500
+22,11,Burg. Reigerstraat,10:26,102600
+22,12,Maliebaan,10:28,102800
+22,13,Stadsschouwburg,10:30,103000
+22,14,Janskerkhof,10:31,103100
+22,15,Neude,10:33,103300
+22,16,Vredenburg,10:34,103400
+22,17,CS Jaarbeurszijde,10:39,103900
+22,18,CS Jaarbeurszijde,10:42,104200
+22,19,Station Vaartsche Rijn,10:45,104500
+22,20,Tolsteegplantsoen,10:46,104600
+22,21,Smaragdplein,10:47,104700
+22,22,Robijnlaan,10:48,104800
+22,23,Slotlaan,10:48,104800
+22,24,Brennerbrug,10:49,104900
+22,25,Stelviobaan,10:50,105000
+22,26,Dolomieten,10:51,105100
+22,27,Simplonbaan,10:52,105200
+22,28,De Koppel,10:54,105400
+22,29,Sleeswijk,10:55,105500
+22,30,Betuwe,10:56,105600
+22,31,Station Lunetten,10:58,105800
+23,1,Oorsprongpark,10:31,103100
+23,2,Prinsesselaan,10:32,103200
+23,3,Rosarium,10:33,103300
+23,4,Dillenburgstraat,10:34,103400
+23,5,De Hoogstraat,10:35,103500
+23,6,Hobbemastraat,10:36,103600
+23,7,Diakonessenhuis-Noord,10:37,103700
+23,8,Homeruslaan,10:39,103900
+23,9,Oosterstraat,10:39,103900
+23,10,Oudwijkerdwarsstraat,10:40,104000
+23,11,Burg. Reigerstraat,10:41,104100
+23,12,Maliebaan,10:43,104300
+23,13,Stadsschouwburg,10:45,104500
+23,14,Janskerkhof,10:46,104600
+23,15,Neude,10:48,104800
+23,16,Vredenburg,10:49,104900
+23,17,CS Jaarbeurszijde,10:54,105400
+23,18,CS Jaarbeurszijde,10:57,105700
+23,19,Station Vaartsche Rijn,11:00,110000
+23,20,Tolsteegplantsoen,11:01,110100
+23,21,Smaragdplein,11:02,110200
+23,22,Robijnlaan,11:03,110300
+23,23,Slotlaan,11:03,110300
+23,24,Brennerbrug,11:04,110400
+23,25,Stelviobaan,11:05,110500
+23,26,Dolomieten,11:06,110600
+23,27,Simplonbaan,11:07,110700
+23,28,De Koppel,11:09,110900
+23,29,Sleeswijk,11:10,111000
+23,30,Betuwe,11:11,111100
+23,31,Station Lunetten,11:13,111300
+24,1,Oorsprongpark,10:46,104600
+24,2,Prinsesselaan,10:47,104700
+24,3,Rosarium,10:48,104800
+24,4,Dillenburgstraat,10:49,104900
+24,5,De Hoogstraat,10:50,105000
+24,6,Hobbemastraat,10:51,105100
+24,7,Diakonessenhuis-Noord,10:52,105200
+24,8,Homeruslaan,10:54,105400
+24,9,Oosterstraat,10:54,105400
+24,10,Oudwijkerdwarsstraat,10:55,105500
+24,11,Burg. Reigerstraat,10:56,105600
+24,12,Maliebaan,10:58,105800
+24,13,Stadsschouwburg,11:00,110000
+24,14,Janskerkhof,11:01,110100
+24,15,Neude,11:03,110300
+24,16,Vredenburg,11:04,110400
+24,17,CS Jaarbeurszijde,11:09,110900
+24,18,CS Jaarbeurszijde,11:12,111200
+24,19,Station Vaartsche Rijn,11:15,111500
+24,20,Tolsteegplantsoen,11:16,111600
+24,21,Smaragdplein,11:17,111700
+24,22,Robijnlaan,11:18,111800
+24,23,Slotlaan,11:18,111800
+24,24,Brennerbrug,11:19,111900
+24,25,Stelviobaan,11:20,112000
+24,26,Dolomieten,11:21,112100
+24,27,Simplonbaan,11:22,112200
+24,28,De Koppel,11:24,112400
+24,29,Sleeswijk,11:25,112500
+24,30,Betuwe,11:26,112600
+24,31,Station Lunetten,11:28,112800
+25,1,Oorsprongpark,11:01,110100
+25,2,Prinsesselaan,11:02,110200
+25,3,Rosarium,11:03,110300
+25,4,Dillenburgstraat,11:04,110400
+25,5,De Hoogstraat,11:05,110500
+25,6,Hobbemastraat,11:06,110600
+25,7,Diakonessenhuis-Noord,11:07,110700
+25,8,Homeruslaan,11:09,110900
+25,9,Oosterstraat,11:09,110900
+25,10,Oudwijkerdwarsstraat,11:10,111000
+25,11,Burg. Reigerstraat,11:11,111100
+25,12,Maliebaan,11:13,111300
+25,13,Stadsschouwburg,11:15,111500
+25,14,Janskerkhof,11:16,111600
+25,15,Neude,11:18,111800
+25,16,Vredenburg,11:19,111900
+25,17,CS Jaarbeurszijde,11:24,112400
+25,18,CS Jaarbeurszijde,11:27,112700
+25,19,Station Vaartsche Rijn,11:30,113000
+25,20,Tolsteegplantsoen,11:31,113100
+25,21,Smaragdplein,11:32,113200
+25,22,Robijnlaan,11:33,113300
+25,23,Slotlaan,11:33,113300
+25,24,Brennerbrug,11:34,113400
+25,25,Stelviobaan,11:35,113500
+25,26,Dolomieten,11:36,113600
+25,27,Simplonbaan,11:37,113700
+25,28,De Koppel,11:39,113900
+25,29,Sleeswijk,11:40,114000
+25,30,Betuwe,11:41,114100
+25,31,Station Lunetten,11:43,114300
+26,1,Oorsprongpark,11:16,111600
+26,2,Prinsesselaan,11:17,111700
+26,3,Rosarium,11:18,111800
+26,4,Dillenburgstraat,11:19,111900
+26,5,De Hoogstraat,11:20,112000
+26,6,Hobbemastraat,11:21,112100
+26,7,Diakonessenhuis-Noord,11:22,112200
+26,8,Homeruslaan,11:24,112400
+26,9,Oosterstraat,11:24,112400
+26,10,Oudwijkerdwarsstraat,11:25,112500
+26,11,Burg. Reigerstraat,11:26,112600
+26,12,Maliebaan,11:28,112800
+26,13,Stadsschouwburg,11:30,113000
+26,14,Janskerkhof,11:31,113100
+26,15,Neude,11:33,113300
+26,16,Vredenburg,11:34,113400
+26,17,CS Jaarbeurszijde,11:39,113900
+26,18,CS Jaarbeurszijde,11:42,114200
+26,19,Station Vaartsche Rijn,11:45,114500
+26,20,Tolsteegplantsoen,11:46,114600
+26,21,Smaragdplein,11:47,114700
+26,22,Robijnlaan,11:48,114800
+26,23,Slotlaan,11:48,114800
+26,24,Brennerbrug,11:49,114900
+26,25,Stelviobaan,11:50,115000
+26,26,Dolomieten,11:51,115100
+26,27,Simplonbaan,11:52,115200
+26,28,De Koppel,11:54,115400
+26,29,Sleeswijk,11:55,115500
+26,30,Betuwe,11:56,115600
+26,31,Station Lunetten,11:58,115800
+27,1,Oorsprongpark,11:31,113100
+27,2,Prinsesselaan,11:32,113200
+27,3,Rosarium,11:33,113300
+27,4,Dillenburgstraat,11:34,113400
+27,5,De Hoogstraat,11:35,113500
+27,6,Hobbemastraat,11:36,113600
+27,7,Diakonessenhuis-Noord,11:37,113700
+27,8,Homeruslaan,11:39,113900
+27,9,Oosterstraat,11:39,113900
+27,10,Oudwijkerdwarsstraat,11:40,114000
+27,11,Burg. Reigerstraat,11:41,114100
+27,12,Maliebaan,11:43,114300
+27,13,Stadsschouwburg,11:45,114500
+27,14,Janskerkhof,11:46,114600
+27,15,Neude,11:48,114800
+27,16,Vredenburg,11:49,114900
+27,17,CS Jaarbeurszijde,11:54,115400
+27,18,CS Jaarbeurszijde,11:57,115700
+27,19,Station Vaartsche Rijn,12:00,120000
+27,20,Tolsteegplantsoen,12:01,120100
+27,21,Smaragdplein,12:02,120200
+27,22,Robijnlaan,12:03,120300
+27,23,Slotlaan,12:03,120300
+27,24,Brennerbrug,12:04,120400
+27,25,Stelviobaan,12:05,120500
+27,26,Dolomieten,12:06,120600
+27,27,Simplonbaan,12:07,120700
+27,28,De Koppel,12:09,120900
+27,29,Sleeswijk,12:10,121000
+27,30,Betuwe,12:11,121100
+27,31,Station Lunetten,12:13,121300
+28,1,Oorsprongpark,11:46,114600
+28,2,Prinsesselaan,11:47,114700
+28,3,Rosarium,11:48,114800
+28,4,Dillenburgstraat,11:49,114900
+28,5,De Hoogstraat,11:50,115000
+28,6,Hobbemastraat,11:51,115100
+28,7,Diakonessenhuis-Noord,11:52,115200
+28,8,Homeruslaan,11:54,115400
+28,9,Oosterstraat,11:54,115400
+28,10,Oudwijkerdwarsstraat,11:55,115500
+28,11,Burg. Reigerstraat,11:56,115600
+28,12,Maliebaan,11:58,115800
+28,13,Stadsschouwburg,12:00,120000
+28,14,Janskerkhof,12:01,120100
+28,15,Neude,12:03,120300
+28,16,Vredenburg,12:04,120400
+28,17,CS Jaarbeurszijde,12:09,120900
+28,18,CS Jaarbeurszijde,12:12,121200
+28,19,Station Vaartsche Rijn,12:15,121500
+28,20,Tolsteegplantsoen,12:16,121600
+28,21,Smaragdplein,12:17,121700
+28,22,Robijnlaan,12:18,121800
+28,23,Slotlaan,12:18,121800
+28,24,Brennerbrug,12:19,121900
+28,25,Stelviobaan,12:20,122000
+28,26,Dolomieten,12:21,122100
+28,27,Simplonbaan,12:22,122200
+28,28,De Koppel,12:24,122400
+28,29,Sleeswijk,12:25,122500
+28,30,Betuwe,12:26,122600
+28,31,Station Lunetten,12:28,122800
+29,1,Oorsprongpark,12:01,120100
+29,2,Prinsesselaan,12:02,120200
+29,3,Rosarium,12:03,120300
+29,4,Dillenburgstraat,12:04,120400
+29,5,De Hoogstraat,12:05,120500
+29,6,Hobbemastraat,12:06,120600
+29,7,Diakonessenhuis-Noord,12:07,120700
+29,8,Homeruslaan,12:09,120900
+29,9,Oosterstraat,12:09,120900
+29,10,Oudwijkerdwarsstraat,12:10,121000
+29,11,Burg. Reigerstraat,12:11,121100
+29,12,Maliebaan,12:13,121300
+29,13,Stadsschouwburg,12:15,121500
+29,14,Janskerkhof,12:16,121600
+29,15,Neude,12:18,121800
+29,16,Vredenburg,12:19,121900
+29,17,CS Jaarbeurszijde,12:24,122400
+29,18,CS Jaarbeurszijde,12:27,122700
+29,19,Station Vaartsche Rijn,12:30,123000
+29,20,Tolsteegplantsoen,12:31,123100
+29,21,Smaragdplein,12:32,123200
+29,22,Robijnlaan,12:33,123300
+29,23,Slotlaan,12:33,123300
+29,24,Brennerbrug,12:34,123400
+29,25,Stelviobaan,12:35,123500
+29,26,Dolomieten,12:36,123600
+29,27,Simplonbaan,12:37,123700
+29,28,De Koppel,12:39,123900
+29,29,Sleeswijk,12:40,124000
+29,30,Betuwe,12:41,124100
+29,31,Station Lunetten,12:43,124300
+30,1,Oorsprongpark,12:16,121600
+30,2,Prinsesselaan,12:17,121700
+30,3,Rosarium,12:18,121800
+30,4,Dillenburgstraat,12:19,121900
+30,5,De Hoogstraat,12:20,122000
+30,6,Hobbemastraat,12:21,122100
+30,7,Diakonessenhuis-Noord,12:22,122200
+30,8,Homeruslaan,12:24,122400
+30,9,Oosterstraat,12:24,122400
+30,10,Oudwijkerdwarsstraat,12:25,122500
+30,11,Burg. Reigerstraat,12:26,122600
+30,12,Maliebaan,12:28,122800
+30,13,Stadsschouwburg,12:30,123000
+30,14,Janskerkhof,12:31,123100
+30,15,Neude,12:33,123300
+30,16,Vredenburg,12:34,123400
+30,17,CS Jaarbeurszijde,12:39,123900
+30,18,CS Jaarbeurszijde,12:42,124200
+30,19,Station Vaartsche Rijn,12:45,124500
+30,20,Tolsteegplantsoen,12:46,124600
+30,21,Smaragdplein,12:47,124700
+30,22,Robijnlaan,12:48,124800
+30,23,Slotlaan,12:48,124800
+30,24,Brennerbrug,12:49,124900
+30,25,Stelviobaan,12:50,125000
+30,26,Dolomieten,12:51,125100
+30,27,Simplonbaan,12:52,125200
+30,28,De Koppel,12:54,125400
+30,29,Sleeswijk,12:55,125500
+30,30,Betuwe,12:56,125600
+30,31,Station Lunetten,12:58,125800
+31,1,Oorsprongpark,12:31,123100
+31,2,Prinsesselaan,12:32,123200
+31,3,Rosarium,12:33,123300
+31,4,Dillenburgstraat,12:34,123400
+31,5,De Hoogstraat,12:35,123500
+31,6,Hobbemastraat,12:36,123600
+31,7,Diakonessenhuis-Noord,12:37,123700
+31,8,Homeruslaan,12:39,123900
+31,9,Oosterstraat,12:39,123900
+31,10,Oudwijkerdwarsstraat,12:40,124000
+31,11,Burg. Reigerstraat,12:41,124100
+31,12,Maliebaan,12:43,124300
+31,13,Stadsschouwburg,12:45,124500
+31,14,Janskerkhof,12:46,124600
+31,15,Neude,12:48,124800
+31,16,Vredenburg,12:49,124900
+31,17,CS Jaarbeurszijde,12:54,125400
+31,18,CS Jaarbeurszijde,12:57,125700
+31,19,Station Vaartsche Rijn,13:00,130000
+31,20,Tolsteegplantsoen,13:01,130100
+31,21,Smaragdplein,13:02,130200
+31,22,Robijnlaan,13:03,130300
+31,23,Slotlaan,13:03,130300
+31,24,Brennerbrug,13:04,130400
+31,25,Stelviobaan,13:05,130500
+31,26,Dolomieten,13:06,130600
+31,27,Simplonbaan,13:07,130700
+31,28,De Koppel,13:09,130900
+31,29,Sleeswijk,13:10,131000
+31,30,Betuwe,13:11,131100
+31,31,Station Lunetten,13:13,131300
+32,1,Oorsprongpark,12:46,124600
+32,2,Prinsesselaan,12:47,124700
+32,3,Rosarium,12:48,124800
+32,4,Dillenburgstraat,12:49,124900
+32,5,De Hoogstraat,12:50,125000
+32,6,Hobbemastraat,12:51,125100
+32,7,Diakonessenhuis-Noord,12:52,125200
+32,8,Homeruslaan,12:54,125400
+32,9,Oosterstraat,12:54,125400
+32,10,Oudwijkerdwarsstraat,12:55,125500
+32,11,Burg. Reigerstraat,12:56,125600
+32,12,Maliebaan,12:58,125800
+32,13,Stadsschouwburg,13:00,130000
+32,14,Janskerkhof,13:01,130100
+32,15,Neude,13:03,130300
+32,16,Vredenburg,13:04,130400
+32,17,CS Jaarbeurszijde,13:09,130900
+32,18,CS Jaarbeurszijde,13:12,131200
+32,19,Station Vaartsche Rijn,13:15,131500
+32,20,Tolsteegplantsoen,13:16,131600
+32,21,Smaragdplein,13:17,131700
+32,22,Robijnlaan,13:18,131800
+32,23,Slotlaan,13:18,131800
+32,24,Brennerbrug,13:19,131900
+32,25,Stelviobaan,13:20,132000
+32,26,Dolomieten,13:21,132100
+32,27,Simplonbaan,13:22,132200
+32,28,De Koppel,13:24,132400
+32,29,Sleeswijk,13:25,132500
+32,30,Betuwe,13:26,132600
+32,31,Station Lunetten,13:28,132800
+33,1,Oorsprongpark,13:01,130100
+33,2,Prinsesselaan,13:02,130200
+33,3,Rosarium,13:03,130300
+33,4,Dillenburgstraat,13:04,130400
+33,5,De Hoogstraat,13:05,130500
+33,6,Hobbemastraat,13:06,130600
+33,7,Diakonessenhuis-Noord,13:07,130700
+33,8,Homeruslaan,13:09,130900
+33,9,Oosterstraat,13:09,130900
+33,10,Oudwijkerdwarsstraat,13:10,131000
+33,11,Burg. Reigerstraat,13:11,131100
+33,12,Maliebaan,13:13,131300
+33,13,Stadsschouwburg,13:15,131500
+33,14,Janskerkhof,13:16,131600
+33,15,Neude,13:18,131800
+33,16,Vredenburg,13:19,131900
+33,17,CS Jaarbeurszijde,13:24,132400
+33,18,CS Jaarbeurszijde,13:27,132700
+33,19,Station Vaartsche Rijn,13:30,133000
+33,20,Tolsteegplantsoen,13:31,133100
+33,21,Smaragdplein,13:32,133200
+33,22,Robijnlaan,13:33,133300
+33,23,Slotlaan,13:33,133300
+33,24,Brennerbrug,13:34,133400
+33,25,Stelviobaan,13:35,133500
+33,26,Dolomieten,13:36,133600
+33,27,Simplonbaan,13:37,133700
+33,28,De Koppel,13:39,133900
+33,29,Sleeswijk,13:40,134000
+33,30,Betuwe,13:41,134100
+33,31,Station Lunetten,13:43,134300
+34,1,Oorsprongpark,13:16,131600
+34,2,Prinsesselaan,13:17,131700
+34,3,Rosarium,13:18,131800
+34,4,Dillenburgstraat,13:19,131900
+34,5,De Hoogstraat,13:20,132000
+34,6,Hobbemastraat,13:21,132100
+34,7,Diakonessenhuis-Noord,13:22,132200
+34,8,Homeruslaan,13:24,132400
+34,9,Oosterstraat,13:24,132400
+34,10,Oudwijkerdwarsstraat,13:25,132500
+34,11,Burg. Reigerstraat,13:26,132600
+34,12,Maliebaan,13:28,132800
+34,13,Stadsschouwburg,13:30,133000
+34,14,Janskerkhof,13:31,133100
+34,15,Neude,13:33,133300
+34,16,Vredenburg,13:34,133400
+34,17,CS Jaarbeurszijde,13:39,133900
+34,18,CS Jaarbeurszijde,13:42,134200
+34,19,Station Vaartsche Rijn,13:45,134500
+34,20,Tolsteegplantsoen,13:46,134600
+34,21,Smaragdplein,13:47,134700
+34,22,Robijnlaan,13:48,134800
+34,23,Slotlaan,13:48,134800
+34,24,Brennerbrug,13:49,134900
+34,25,Stelviobaan,13:50,135000
+34,26,Dolomieten,13:51,135100
+34,27,Simplonbaan,13:52,135200
+34,28,De Koppel,13:54,135400
+34,29,Sleeswijk,13:55,135500
+34,30,Betuwe,13:56,135600
+34,31,Station Lunetten,13:58,135800
+35,1,Oorsprongpark,13:31,133100
+35,2,Prinsesselaan,13:32,133200
+35,3,Rosarium,13:33,133300
+35,4,Dillenburgstraat,13:34,133400
+35,5,De Hoogstraat,13:35,133500
+35,6,Hobbemastraat,13:36,133600
+35,7,Diakonessenhuis-Noord,13:37,133700
+35,8,Homeruslaan,13:39,133900
+35,9,Oosterstraat,13:39,133900
+35,10,Oudwijkerdwarsstraat,13:40,134000
+35,11,Burg. Reigerstraat,13:41,134100
+35,12,Maliebaan,13:43,134300
+35,13,Stadsschouwburg,13:45,134500
+35,14,Janskerkhof,13:46,134600
+35,15,Neude,13:48,134800
+35,16,Vredenburg,13:49,134900
+35,17,CS Jaarbeurszijde,13:54,135400
+35,18,CS Jaarbeurszijde,13:57,135700
+35,19,Station Vaartsche Rijn,14:00,140000
+35,20,Tolsteegplantsoen,14:01,140100
+35,21,Smaragdplein,14:02,140200
+35,22,Robijnlaan,14:03,140300
+35,23,Slotlaan,14:03,140300
+35,24,Brennerbrug,14:04,140400
+35,25,Stelviobaan,14:05,140500
+35,26,Dolomieten,14:06,140600
+35,27,Simplonbaan,14:07,140700
+35,28,De Koppel,14:09,140900
+35,29,Sleeswijk,14:10,141000
+35,30,Betuwe,14:11,141100
+35,31,Station Lunetten,14:13,141300
+36,1,Oorsprongpark,13:46,134600
+36,2,Prinsesselaan,13:47,134700
+36,3,Rosarium,13:48,134800
+36,4,Dillenburgstraat,13:49,134900
+36,5,De Hoogstraat,13:50,135000
+36,6,Hobbemastraat,13:51,135100
+36,7,Diakonessenhuis-Noord,13:52,135200
+36,8,Homeruslaan,13:54,135400
+36,9,Oosterstraat,13:54,135400
+36,10,Oudwijkerdwarsstraat,13:55,135500
+36,11,Burg. Reigerstraat,13:56,135600
+36,12,Maliebaan,13:58,135800
+36,13,Stadsschouwburg,14:00,140000
+36,14,Janskerkhof,14:01,140100
+36,15,Neude,14:03,140300
+36,16,Vredenburg,14:04,140400
+36,17,CS Jaarbeurszijde,14:09,140900
+36,18,CS Jaarbeurszijde,14:12,141200
+36,19,Station Vaartsche Rijn,14:15,141500
+36,20,Tolsteegplantsoen,14:16,141600
+36,21,Smaragdplein,14:17,141700
+36,22,Robijnlaan,14:18,141800
+36,23,Slotlaan,14:18,141800
+36,24,Brennerbrug,14:19,141900
+36,25,Stelviobaan,14:20,142000
+36,26,Dolomieten,14:21,142100
+36,27,Simplonbaan,14:22,142200
+36,28,De Koppel,14:24,142400
+36,29,Sleeswijk,14:25,142500
+36,30,Betuwe,14:26,142600
+36,31,Station Lunetten,14:28,142800
+37,1,Oorsprongpark,14:01,140100
+37,2,Prinsesselaan,14:02,140200
+37,3,Rosarium,14:03,140300
+37,4,Dillenburgstraat,14:04,140400
+37,5,De Hoogstraat,14:05,140500
+37,6,Hobbemastraat,14:06,140600
+37,7,Diakonessenhuis-Noord,14:07,140700
+37,8,Homeruslaan,14:09,140900
+37,9,Oosterstraat,14:09,140900
+37,10,Oudwijkerdwarsstraat,14:10,141000
+37,11,Burg. Reigerstraat,14:11,141100
+37,12,Maliebaan,14:13,141300
+37,13,Stadsschouwburg,14:15,141500
+37,14,Janskerkhof,14:16,141600
+37,15,Neude,14:18,141800
+37,16,Vredenburg,14:19,141900
+37,17,CS Jaarbeurszijde,14:24,142400
+37,18,CS Jaarbeurszijde,14:27,142700
+37,19,Station Vaartsche Rijn,14:30,143000
+37,20,Tolsteegplantsoen,14:31,143100
+37,21,Smaragdplein,14:32,143200
+37,22,Robijnlaan,14:33,143300
+37,23,Slotlaan,14:33,143300
+37,24,Brennerbrug,14:34,143400
+37,25,Stelviobaan,14:35,143500
+37,26,Dolomieten,14:36,143600
+37,27,Simplonbaan,14:37,143700
+37,28,De Koppel,14:39,143900
+37,29,Sleeswijk,14:40,144000
+37,30,Betuwe,14:41,144100
+37,31,Station Lunetten,14:43,144300
+38,1,Oorsprongpark,14:16,141600
+38,2,Prinsesselaan,14:17,141700
+38,3,Rosarium,14:18,141800
+38,4,Dillenburgstraat,14:19,141900
+38,5,De Hoogstraat,14:20,142000
+38,6,Hobbemastraat,14:21,142100
+38,7,Diakonessenhuis-Noord,14:22,142200
+38,8,Homeruslaan,14:24,142400
+38,9,Oosterstraat,14:24,142400
+38,10,Oudwijkerdwarsstraat,14:25,142500
+38,11,Burg. Reigerstraat,14:26,142600
+38,12,Maliebaan,14:28,142800
+38,13,Stadsschouwburg,14:30,143000
+38,14,Janskerkhof,14:31,143100
+38,15,Neude,14:33,143300
+38,16,Vredenburg,14:34,143400
+38,17,CS Jaarbeurszijde,14:39,143900
+38,18,CS Jaarbeurszijde,14:42,144200
+38,19,Station Vaartsche Rijn,14:45,144500
+38,20,Tolsteegplantsoen,14:46,144600
+38,21,Smaragdplein,14:47,144700
+38,22,Robijnlaan,14:48,144800
+38,23,Slotlaan,14:48,144800
+38,24,Brennerbrug,14:49,144900
+38,25,Stelviobaan,14:50,145000
+38,26,Dolomieten,14:51,145100
+38,27,Simplonbaan,14:52,145200
+38,28,De Koppel,14:54,145400
+38,29,Sleeswijk,14:55,145500
+38,30,Betuwe,14:56,145600
+38,31,Station Lunetten,14:58,145800
+39,1,Oorsprongpark,14:31,143100
+39,2,Prinsesselaan,14:32,143200
+39,3,Rosarium,14:33,143300
+39,4,Dillenburgstraat,14:34,143400
+39,5,De Hoogstraat,14:35,143500
+39,6,Hobbemastraat,14:36,143600
+39,7,Diakonessenhuis-Noord,14:37,143700
+39,8,Homeruslaan,14:39,143900
+39,9,Oosterstraat,14:39,143900
+39,10,Oudwijkerdwarsstraat,14:40,144000
+39,11,Burg. Reigerstraat,14:41,144100
+39,12,Maliebaan,14:43,144300
+39,13,Stadsschouwburg,14:45,144500
+39,14,Janskerkhof,14:46,144600
+39,15,Neude,14:48,144800
+39,16,Vredenburg,14:49,144900
+39,17,CS Jaarbeurszijde,14:54,145400
+39,18,CS Jaarbeurszijde,14:57,145700
+39,19,Station Vaartsche Rijn,15:00,150000
+39,20,Tolsteegplantsoen,15:01,150100
+39,21,Smaragdplein,15:02,150200
+39,22,Robijnlaan,15:03,150300
+39,23,Slotlaan,15:03,150300
+39,24,Brennerbrug,15:04,150400
+39,25,Stelviobaan,15:05,150500
+39,26,Dolomieten,15:06,150600
+39,27,Simplonbaan,15:07,150700
+39,28,De Koppel,15:09,150900
+39,29,Sleeswijk,15:10,151000
+39,30,Betuwe,15:11,151100
+39,31,Station Lunetten,15:13,151300
+40,1,Oorsprongpark,14:46,144600
+40,2,Prinsesselaan,14:47,144700
+40,3,Rosarium,14:48,144800
+40,4,Dillenburgstraat,14:49,144900
+40,5,De Hoogstraat,14:50,145000
+40,6,Hobbemastraat,14:51,145100
+40,7,Diakonessenhuis-Noord,14:52,145200
+40,8,Homeruslaan,14:54,145400
+40,9,Oosterstraat,14:54,145400
+40,10,Oudwijkerdwarsstraat,14:55,145500
+40,11,Burg. Reigerstraat,14:56,145600
+40,12,Maliebaan,14:58,145800
+40,13,Stadsschouwburg,15:00,150000
+40,14,Janskerkhof,15:01,150100
+40,15,Neude,15:03,150300
+40,16,Vredenburg,15:04,150400
+40,17,CS Jaarbeurszijde,15:09,150900
+40,18,CS Jaarbeurszijde,15:12,151200
+40,19,Station Vaartsche Rijn,15:15,151500
+40,20,Tolsteegplantsoen,15:16,151600
+40,21,Smaragdplein,15:17,151700
+40,22,Robijnlaan,15:18,151800
+40,23,Slotlaan,15:18,151800
+40,24,Brennerbrug,15:19,151900
+40,25,Stelviobaan,15:20,152000
+40,26,Dolomieten,15:21,152100
+40,27,Simplonbaan,15:22,152200
+40,28,De Koppel,15:24,152400
+40,29,Sleeswijk,15:25,152500
+40,30,Betuwe,15:26,152600
+40,31,Station Lunetten,15:28,152800
+41,1,Oorsprongpark,15:01,150100
+41,2,Prinsesselaan,15:02,150200
+41,3,Rosarium,15:03,150300
+41,4,Dillenburgstraat,15:04,150400
+41,5,De Hoogstraat,15:05,150500
+41,6,Hobbemastraat,15:06,150600
+41,7,Diakonessenhuis-Noord,15:07,150700
+41,8,Homeruslaan,15:09,150900
+41,9,Oosterstraat,15:09,150900
+41,10,Oudwijkerdwarsstraat,15:10,151000
+41,11,Burg. Reigerstraat,15:11,151100
+41,12,Maliebaan,15:13,151300
+41,13,Stadsschouwburg,15:15,151500
+41,14,Janskerkhof,15:16,151600
+41,15,Neude,15:18,151800
+41,16,Vredenburg,15:19,151900
+41,17,CS Jaarbeurszijde,15:24,152400
+41,18,CS Jaarbeurszijde,15:27,152700
+41,19,Station Vaartsche Rijn,15:30,153000
+41,20,Tolsteegplantsoen,15:31,153100
+41,21,Smaragdplein,15:32,153200
+41,22,Robijnlaan,15:33,153300
+41,23,Slotlaan,15:33,153300
+41,24,Brennerbrug,15:34,153400
+41,25,Stelviobaan,15:35,153500
+41,26,Dolomieten,15:36,153600
+41,27,Simplonbaan,15:37,153700
+41,28,De Koppel,15:39,153900
+41,29,Sleeswijk,15:40,154000
+41,30,Betuwe,15:41,154100
+41,31,Station Lunetten,15:43,154300
+42,1,Oorsprongpark,15:11,151100
+42,2,Prinsesselaan,15:12,151200
+42,3,Rosarium,15:13,151300
+42,4,Dillenburgstraat,15:14,151400
+42,5,De Hoogstraat,15:15,151500
+42,6,Hobbemastraat,15:16,151600
+42,7,Diakonessenhuis-Noord,15:17,151700
+42,8,Homeruslaan,15:19,151900
+42,9,Oosterstraat,15:19,151900
+42,10,Oudwijkerdwarsstraat,15:20,152000
+42,11,Burg. Reigerstraat,15:21,152100
+42,12,Maliebaan,15:23,152300
+42,13,Stadsschouwburg,15:25,152500
+42,14,Janskerkhof,15:26,152600
+42,15,Neude,15:28,152800
+42,16,Vredenburg,15:29,152900
+42,17,CS Jaarbeurszijde,15:34,153400
+42,18,CS Jaarbeurszijde,15:37,153700
+42,19,Station Vaartsche Rijn,15:40,154000
+42,20,Tolsteegplantsoen,15:41,154100
+42,21,Smaragdplein,15:42,154200
+42,22,Robijnlaan,15:43,154300
+42,23,Slotlaan,15:43,154300
+42,24,Brennerbrug,15:44,154400
+42,25,Stelviobaan,15:45,154500
+42,26,Dolomieten,15:46,154600
+42,27,Simplonbaan,15:47,154700
+42,28,De Koppel,15:49,154900
+42,29,Sleeswijk,15:50,155000
+42,30,Betuwe,15:51,155100
+42,31,Station Lunetten,15:53,155300
+43,1,Oorsprongpark,15:21,152100
+43,2,Prinsesselaan,15:22,152200
+43,3,Rosarium,15:23,152300
+43,4,Dillenburgstraat,15:24,152400
+43,5,De Hoogstraat,15:25,152500
+43,6,Hobbemastraat,15:26,152600
+43,7,Diakonessenhuis-Noord,15:27,152700
+43,8,Homeruslaan,15:29,152900
+43,9,Oosterstraat,15:29,152900
+43,10,Oudwijkerdwarsstraat,15:30,153000
+43,11,Burg. Reigerstraat,15:31,153100
+43,12,Maliebaan,15:33,153300
+43,13,Stadsschouwburg,15:35,153500
+43,14,Janskerkhof,15:36,153600
+43,15,Neude,15:38,153800
+43,16,Vredenburg,15:39,153900
+43,17,CS Jaarbeurszijde,15:44,154400
+43,18,CS Jaarbeurszijde,15:47,154700
+43,19,Station Vaartsche Rijn,15:50,155000
+43,20,Tolsteegplantsoen,15:51,155100
+43,21,Smaragdplein,15:52,155200
+43,22,Robijnlaan,15:53,155300
+43,23,Slotlaan,15:53,155300
+43,24,Brennerbrug,15:54,155400
+43,25,Stelviobaan,15:55,155500
+43,26,Dolomieten,15:56,155600
+43,27,Simplonbaan,15:57,155700
+43,28,De Koppel,15:59,155900
+43,29,Sleeswijk,16:00,160000
+43,30,Betuwe,16:01,160100
+43,31,Station Lunetten,16:03,160300
+44,1,Oorsprongpark,15:31,153100
+44,2,Prinsesselaan,15:32,153200
+44,3,Rosarium,15:33,153300
+44,4,Dillenburgstraat,15:34,153400
+44,5,De Hoogstraat,15:35,153500
+44,6,Hobbemastraat,15:36,153600
+44,7,Diakonessenhuis-Noord,15:37,153700
+44,8,Homeruslaan,15:39,153900
+44,9,Oosterstraat,15:39,153900
+44,10,Oudwijkerdwarsstraat,15:40,154000
+44,11,Burg. Reigerstraat,15:41,154100
+44,12,Maliebaan,15:43,154300
+44,13,Stadsschouwburg,15:45,154500
+44,14,Janskerkhof,15:46,154600
+44,15,Neude,15:48,154800
+44,16,Vredenburg,15:49,154900
+44,17,CS Jaarbeurszijde,15:54,155400
+44,18,CS Jaarbeurszijde,15:57,155700
+44,19,Station Vaartsche Rijn,16:00,160000
+44,20,Tolsteegplantsoen,16:01,160100
+44,21,Smaragdplein,16:02,160200
+44,22,Robijnlaan,16:03,160300
+44,23,Slotlaan,16:03,160300
+44,24,Brennerbrug,16:04,160400
+44,25,Stelviobaan,16:05,160500
+44,26,Dolomieten,16:06,160600
+44,27,Simplonbaan,16:07,160700
+44,28,De Koppel,16:09,160900
+44,29,Sleeswijk,16:10,161000
+44,30,Betuwe,16:11,161100
+44,31,Station Lunetten,16:13,161300
+45,1,Oorsprongpark,15:41,154100
+45,2,Prinsesselaan,15:42,154200
+45,3,Rosarium,15:43,154300
+45,4,Dillenburgstraat,15:44,154400
+45,5,De Hoogstraat,15:45,154500
+45,6,Hobbemastraat,15:46,154600
+45,7,Diakonessenhuis-Noord,15:47,154700
+45,8,Homeruslaan,15:49,154900
+45,9,Oosterstraat,15:49,154900
+45,10,Oudwijkerdwarsstraat,15:50,155000
+45,11,Burg. Reigerstraat,15:51,155100
+45,12,Maliebaan,15:53,155300
+45,13,Stadsschouwburg,15:55,155500
+45,14,Janskerkhof,15:56,155600
+45,15,Neude,15:58,155800
+45,16,Vredenburg,15:59,155900
+45,17,CS Jaarbeurszijde,16:04,160400
+45,18,CS Jaarbeurszijde,16:07,160700
+45,19,Station Vaartsche Rijn,16:10,161000
+45,20,Tolsteegplantsoen,16:11,161100
+45,21,Smaragdplein,16:12,161200
+45,22,Robijnlaan,16:13,161300
+45,23,Slotlaan,16:13,161300
+45,24,Brennerbrug,16:14,161400
+45,25,Stelviobaan,16:15,161500
+45,26,Dolomieten,16:16,161600
+45,27,Simplonbaan,16:17,161700
+45,28,De Koppel,16:19,161900
+45,29,Sleeswijk,16:20,162000
+45,30,Betuwe,16:21,162100
+45,31,Station Lunetten,16:23,162300
+46,1,Oorsprongpark,15:51,155100
+46,2,Prinsesselaan,15:52,155200
+46,3,Rosarium,15:53,155300
+46,4,Dillenburgstraat,15:54,155400
+46,5,De Hoogstraat,15:55,155500
+46,6,Hobbemastraat,15:56,155600
+46,7,Diakonessenhuis-Noord,15:57,155700
+46,8,Homeruslaan,15:59,155900
+46,9,Oosterstraat,15:59,155900
+46,10,Oudwijkerdwarsstraat,16:00,160000
+46,11,Burg. Reigerstraat,16:01,160100
+46,12,Maliebaan,16:03,160300
+46,13,Stadsschouwburg,16:05,160500
+46,14,Janskerkhof,16:06,160600
+46,15,Neude,16:08,160800
+46,16,Vredenburg,16:09,160900
+46,17,CS Jaarbeurszijde,16:14,161400
+46,18,CS Jaarbeurszijde,16:17,161700
+46,19,Station Vaartsche Rijn,16:20,162000
+46,20,Tolsteegplantsoen,16:21,162100
+46,21,Smaragdplein,16:22,162200
+46,22,Robijnlaan,16:23,162300
+46,23,Slotlaan,16:23,162300
+46,24,Brennerbrug,16:24,162400
+46,25,Stelviobaan,16:25,162500
+46,26,Dolomieten,16:26,162600
+46,27,Simplonbaan,16:27,162700
+46,28,De Koppel,16:29,162900
+46,29,Sleeswijk,16:30,163000
+46,30,Betuwe,16:31,163100
+46,31,Station Lunetten,16:33,163300
+47,1,Oorsprongpark,16:01,160100
+47,2,Prinsesselaan,16:02,160200
+47,3,Rosarium,16:03,160300
+47,4,Dillenburgstraat,16:04,160400
+47,5,De Hoogstraat,16:05,160500
+47,6,Hobbemastraat,16:06,160600
+47,7,Diakonessenhuis-Noord,16:07,160700
+47,8,Homeruslaan,16:09,160900
+47,9,Oosterstraat,16:09,160900
+47,10,Oudwijkerdwarsstraat,16:10,161000
+47,11,Burg. Reigerstraat,16:11,161100
+47,12,Maliebaan,16:13,161300
+47,13,Stadsschouwburg,16:15,161500
+47,14,Janskerkhof,16:16,161600
+47,15,Neude,16:18,161800
+47,16,Vredenburg,16:19,161900
+47,17,CS Jaarbeurszijde,16:24,162400
+47,18,CS Jaarbeurszijde,16:27,162700
+47,19,Station Vaartsche Rijn,16:30,163000
+47,20,Tolsteegplantsoen,16:31,163100
+47,21,Smaragdplein,16:32,163200
+47,22,Robijnlaan,16:33,163300
+47,23,Slotlaan,16:33,163300
+47,24,Brennerbrug,16:34,163400
+47,25,Stelviobaan,16:35,163500
+47,26,Dolomieten,16:36,163600
+47,27,Simplonbaan,16:37,163700
+47,28,De Koppel,16:39,163900
+47,29,Sleeswijk,16:40,164000
+47,30,Betuwe,16:41,164100
+47,31,Station Lunetten,16:43,164300
+48,1,Oorsprongpark,16:11,161100
+48,2,Prinsesselaan,16:12,161200
+48,3,Rosarium,16:13,161300
+48,4,Dillenburgstraat,16:14,161400
+48,5,De Hoogstraat,16:15,161500
+48,6,Hobbemastraat,16:16,161600
+48,7,Diakonessenhuis-Noord,16:17,161700
+48,8,Homeruslaan,16:19,161900
+48,9,Oosterstraat,16:19,161900
+48,10,Oudwijkerdwarsstraat,16:20,162000
+48,11,Burg. Reigerstraat,16:21,162100
+48,12,Maliebaan,16:23,162300
+48,13,Stadsschouwburg,16:25,162500
+48,14,Janskerkhof,16:26,162600
+48,15,Neude,16:28,162800
+48,16,Vredenburg,16:29,162900
+48,17,CS Jaarbeurszijde,16:34,163400
+48,18,CS Jaarbeurszijde,16:37,163700
+48,19,Station Vaartsche Rijn,16:40,164000
+48,20,Tolsteegplantsoen,16:41,164100
+48,21,Smaragdplein,16:42,164200
+48,22,Robijnlaan,16:43,164300
+48,23,Slotlaan,16:43,164300
+48,24,Brennerbrug,16:44,164400
+48,25,Stelviobaan,16:45,164500
+48,26,Dolomieten,16:46,164600
+48,27,Simplonbaan,16:47,164700
+48,28,De Koppel,16:49,164900
+48,29,Sleeswijk,16:50,165000
+48,30,Betuwe,16:51,165100
+48,31,Station Lunetten,16:53,165300
+49,1,Oorsprongpark,16:21,162100
+49,2,Prinsesselaan,16:22,162200
+49,3,Rosarium,16:23,162300
+49,4,Dillenburgstraat,16:24,162400
+49,5,De Hoogstraat,16:25,162500
+49,6,Hobbemastraat,16:26,162600
+49,7,Diakonessenhuis-Noord,16:27,162700
+49,8,Homeruslaan,16:29,162900
+49,9,Oosterstraat,16:29,162900
+49,10,Oudwijkerdwarsstraat,16:30,163000
+49,11,Burg. Reigerstraat,16:31,163100
+49,12,Maliebaan,16:33,163300
+49,13,Stadsschouwburg,16:35,163500
+49,14,Janskerkhof,16:36,163600
+49,15,Neude,16:38,163800
+49,16,Vredenburg,16:39,163900
+49,17,CS Jaarbeurszijde,16:44,164400
+49,18,CS Jaarbeurszijde,16:47,164700
+49,19,Station Vaartsche Rijn,16:50,165000
+49,20,Tolsteegplantsoen,16:51,165100
+49,21,Smaragdplein,16:52,165200
+49,22,Robijnlaan,16:53,165300
+49,23,Slotlaan,16:53,165300
+49,24,Brennerbrug,16:54,165400
+49,25,Stelviobaan,16:55,165500
+49,26,Dolomieten,16:56,165600
+49,27,Simplonbaan,16:57,165700
+49,28,De Koppel,16:59,165900
+49,29,Sleeswijk,17:00,170000
+49,30,Betuwe,17:01,170100
+49,31,Station Lunetten,17:03,170300
+50,1,Oorsprongpark,16:31,163100
+50,2,Prinsesselaan,16:32,163200
+50,3,Rosarium,16:33,163300
+50,4,Dillenburgstraat,16:34,163400
+50,5,De Hoogstraat,16:35,163500
+50,6,Hobbemastraat,16:36,163600
+50,7,Diakonessenhuis-Noord,16:37,163700
+50,8,Homeruslaan,16:39,163900
+50,9,Oosterstraat,16:39,163900
+50,10,Oudwijkerdwarsstraat,16:40,164000
+50,11,Burg. Reigerstraat,16:41,164100
+50,12,Maliebaan,16:43,164300
+50,13,Stadsschouwburg,16:45,164500
+50,14,Janskerkhof,16:46,164600
+50,15,Neude,16:48,164800
+50,16,Vredenburg,16:49,164900
+50,17,CS Jaarbeurszijde,16:54,165400
+50,18,CS Jaarbeurszijde,16:57,165700
+50,19,Station Vaartsche Rijn,17:00,170000
+50,20,Tolsteegplantsoen,17:01,170100
+50,21,Smaragdplein,17:02,170200
+50,22,Robijnlaan,17:03,170300
+50,23,Slotlaan,17:03,170300
+50,24,Brennerbrug,17:04,170400
+50,25,Stelviobaan,17:05,170500
+50,26,Dolomieten,17:06,170600
+50,27,Simplonbaan,17:07,170700
+50,28,De Koppel,17:09,170900
+50,29,Sleeswijk,17:10,171000
+50,30,Betuwe,17:11,171100
+50,31,Station Lunetten,17:13,171300
+51,1,Oorsprongpark,16:41,164100
+51,2,Prinsesselaan,16:42,164200
+51,3,Rosarium,16:43,164300
+51,4,Dillenburgstraat,16:44,164400
+51,5,De Hoogstraat,16:45,164500
+51,6,Hobbemastraat,16:46,164600
+51,7,Diakonessenhuis-Noord,16:47,164700
+51,8,Homeruslaan,16:49,164900
+51,9,Oosterstraat,16:49,164900
+51,10,Oudwijkerdwarsstraat,16:50,165000
+51,11,Burg. Reigerstraat,16:51,165100
+51,12,Maliebaan,16:53,165300
+51,13,Stadsschouwburg,16:55,165500
+51,14,Janskerkhof,16:56,165600
+51,15,Neude,16:58,165800
+51,16,Vredenburg,16:59,165900
+51,17,CS Jaarbeurszijde,17:04,170400
+51,18,CS Jaarbeurszijde,17:07,170700
+51,19,Station Vaartsche Rijn,17:10,171000
+51,20,Tolsteegplantsoen,17:11,171100
+51,21,Smaragdplein,17:12,171200
+51,22,Robijnlaan,17:13,171300
+51,23,Slotlaan,17:13,171300
+51,24,Brennerbrug,17:14,171400
+51,25,Stelviobaan,17:15,171500
+51,26,Dolomieten,17:16,171600
+51,27,Simplonbaan,17:17,171700
+51,28,De Koppel,17:19,171900
+51,29,Sleeswijk,17:20,172000
+51,30,Betuwe,17:21,172100
+51,31,Station Lunetten,17:23,172300
+52,1,Oorsprongpark,16:51,165100
+52,2,Prinsesselaan,16:52,165200
+52,3,Rosarium,16:53,165300
+52,4,Dillenburgstraat,16:54,165400
+52,5,De Hoogstraat,16:55,165500
+52,6,Hobbemastraat,16:56,165600
+52,7,Diakonessenhuis-Noord,16:57,165700
+52,8,Homeruslaan,16:59,165900
+52,9,Oosterstraat,16:59,165900
+52,10,Oudwijkerdwarsstraat,17:00,170000
+52,11,Burg. Reigerstraat,17:01,170100
+52,12,Maliebaan,17:03,170300
+52,13,Stadsschouwburg,17:05,170500
+52,14,Janskerkhof,17:06,170600
+52,15,Neude,17:08,170800
+52,16,Vredenburg,17:09,170900
+52,17,CS Jaarbeurszijde,17:14,171400
+52,18,CS Jaarbeurszijde,17:17,171700
+52,19,Station Vaartsche Rijn,17:20,172000
+52,20,Tolsteegplantsoen,17:21,172100
+52,21,Smaragdplein,17:22,172200
+52,22,Robijnlaan,17:23,172300
+52,23,Slotlaan,17:23,172300
+52,24,Brennerbrug,17:24,172400
+52,25,Stelviobaan,17:25,172500
+52,26,Dolomieten,17:26,172600
+52,27,Simplonbaan,17:27,172700
+52,28,De Koppel,17:29,172900
+52,29,Sleeswijk,17:30,173000
+52,30,Betuwe,17:31,173100
+52,31,Station Lunetten,17:33,173300
+53,1,Oorsprongpark,17:01,170100
+53,2,Prinsesselaan,17:02,170200
+53,3,Rosarium,17:03,170300
+53,4,Dillenburgstraat,17:04,170400
+53,5,De Hoogstraat,17:05,170500
+53,6,Hobbemastraat,17:06,170600
+53,7,Diakonessenhuis-Noord,17:07,170700
+53,8,Homeruslaan,17:09,170900
+53,9,Oosterstraat,17:09,170900
+53,10,Oudwijkerdwarsstraat,17:10,171000
+53,11,Burg. Reigerstraat,17:11,171100
+53,12,Maliebaan,17:13,171300
+53,13,Stadsschouwburg,17:15,171500
+53,14,Janskerkhof,17:16,171600
+53,15,Neude,17:18,171800
+53,16,Vredenburg,17:19,171900
+53,17,CS Jaarbeurszijde,17:24,172400
+53,18,CS Jaarbeurszijde,17:27,172700
+53,19,Station Vaartsche Rijn,17:30,173000
+53,20,Tolsteegplantsoen,17:31,173100
+53,21,Smaragdplein,17:32,173200
+53,22,Robijnlaan,17:33,173300
+53,23,Slotlaan,17:33,173300
+53,24,Brennerbrug,17:34,173400
+53,25,Stelviobaan,17:35,173500
+53,26,Dolomieten,17:36,173600
+53,27,Simplonbaan,17:37,173700
+53,28,De Koppel,17:39,173900
+53,29,Sleeswijk,17:40,174000
+53,30,Betuwe,17:41,174100
+53,31,Station Lunetten,17:43,174300
+54,1,Oorsprongpark,17:11,171100
+54,2,Prinsesselaan,17:12,171200
+54,3,Rosarium,17:13,171300
+54,4,Dillenburgstraat,17:14,171400
+54,5,De Hoogstraat,17:15,171500
+54,6,Hobbemastraat,17:16,171600
+54,7,Diakonessenhuis-Noord,17:17,171700
+54,8,Homeruslaan,17:19,171900
+54,9,Oosterstraat,17:19,171900
+54,10,Oudwijkerdwarsstraat,17:20,172000
+54,11,Burg. Reigerstraat,17:21,172100
+54,12,Maliebaan,17:23,172300
+54,13,Stadsschouwburg,17:25,172500
+54,14,Janskerkhof,17:26,172600
+54,15,Neude,17:28,172800
+54,16,Vredenburg,17:29,172900
+54,17,CS Jaarbeurszijde,17:34,173400
+54,18,CS Jaarbeurszijde,17:37,173700
+54,19,Station Vaartsche Rijn,17:40,174000
+54,20,Tolsteegplantsoen,17:41,174100
+54,21,Smaragdplein,17:42,174200
+54,22,Robijnlaan,17:43,174300
+54,23,Slotlaan,17:43,174300
+54,24,Brennerbrug,17:44,174400
+54,25,Stelviobaan,17:45,174500
+54,26,Dolomieten,17:46,174600
+54,27,Simplonbaan,17:47,174700
+54,28,De Koppel,17:49,174900
+54,29,Sleeswijk,17:50,175000
+54,30,Betuwe,17:51,175100
+54,31,Station Lunetten,17:53,175300
+55,1,Oorsprongpark,17:21,172100
+55,2,Prinsesselaan,17:22,172200
+55,3,Rosarium,17:23,172300
+55,4,Dillenburgstraat,17:24,172400
+55,5,De Hoogstraat,17:25,172500
+55,6,Hobbemastraat,17:26,172600
+55,7,Diakonessenhuis-Noord,17:27,172700
+55,8,Homeruslaan,17:29,172900
+55,9,Oosterstraat,17:29,172900
+55,10,Oudwijkerdwarsstraat,17:30,173000
+55,11,Burg. Reigerstraat,17:31,173100
+55,12,Maliebaan,17:33,173300
+55,13,Stadsschouwburg,17:35,173500
+55,14,Janskerkhof,17:36,173600
+55,15,Neude,17:38,173800
+55,16,Vredenburg,17:39,173900
+55,17,CS Jaarbeurszijde,17:44,174400
+55,18,CS Jaarbeurszijde,17:47,174700
+55,19,Station Vaartsche Rijn,17:50,175000
+55,20,Tolsteegplantsoen,17:51,175100
+55,21,Smaragdplein,17:52,175200
+55,22,Robijnlaan,17:53,175300
+55,23,Slotlaan,17:53,175300
+55,24,Brennerbrug,17:54,175400
+55,25,Stelviobaan,17:55,175500
+55,26,Dolomieten,17:56,175600
+55,27,Simplonbaan,17:57,175700
+55,28,De Koppel,17:59,175900
+55,29,Sleeswijk,18:00,180000
+55,30,Betuwe,18:01,180100
+55,31,Station Lunetten,18:03,180300
+56,1,Oorsprongpark,17:31,173100
+56,2,Prinsesselaan,17:32,173200
+56,3,Rosarium,17:33,173300
+56,4,Dillenburgstraat,17:34,173400
+56,5,De Hoogstraat,17:35,173500
+56,6,Hobbemastraat,17:36,173600
+56,7,Diakonessenhuis-Noord,17:37,173700
+56,8,Homeruslaan,17:39,173900
+56,9,Oosterstraat,17:39,173900
+56,10,Oudwijkerdwarsstraat,17:40,174000
+56,11,Burg. Reigerstraat,17:41,174100
+56,12,Maliebaan,17:43,174300
+56,13,Stadsschouwburg,17:45,174500
+56,14,Janskerkhof,17:46,174600
+56,15,Neude,17:48,174800
+56,16,Vredenburg,17:49,174900
+56,17,CS Jaarbeurszijde,17:54,175400
+56,18,CS Jaarbeurszijde,17:57,175700
+56,19,Station Vaartsche Rijn,18:00,180000
+56,20,Tolsteegplantsoen,18:01,180100
+56,21,Smaragdplein,18:02,180200
+56,22,Robijnlaan,18:03,180300
+56,23,Slotlaan,18:03,180300
+56,24,Brennerbrug,18:04,180400
+56,25,Stelviobaan,18:05,180500
+56,26,Dolomieten,18:06,180600
+56,27,Simplonbaan,18:07,180700
+56,28,De Koppel,18:09,180900
+56,29,Sleeswijk,18:10,181000
+56,30,Betuwe,18:11,181100
+56,31,Station Lunetten,18:13,181300
+57,1,Oorsprongpark,17:41,174100
+57,2,Prinsesselaan,17:42,174200
+57,3,Rosarium,17:43,174300
+57,4,Dillenburgstraat,17:44,174400
+57,5,De Hoogstraat,17:45,174500
+57,6,Hobbemastraat,17:46,174600
+57,7,Diakonessenhuis-Noord,17:47,174700
+57,8,Homeruslaan,17:49,174900
+57,9,Oosterstraat,17:49,174900
+57,10,Oudwijkerdwarsstraat,17:50,175000
+57,11,Burg. Reigerstraat,17:51,175100
+57,12,Maliebaan,17:53,175300
+57,13,Stadsschouwburg,17:55,175500
+57,14,Janskerkhof,17:56,175600
+57,15,Neude,17:58,175800
+57,16,Vredenburg,17:59,175900
+57,17,CS Jaarbeurszijde,18:04,180400
+57,18,CS Jaarbeurszijde,18:07,180700
+57,19,Station Vaartsche Rijn,18:10,181000
+57,20,Tolsteegplantsoen,18:11,181100
+57,21,Smaragdplein,18:12,181200
+57,22,Robijnlaan,18:13,181300
+57,23,Slotlaan,18:13,181300
+57,24,Brennerbrug,18:14,181400
+57,25,Stelviobaan,18:15,181500
+57,26,Dolomieten,18:16,181600
+57,27,Simplonbaan,18:17,181700
+57,28,De Koppel,18:19,181900
+57,29,Sleeswijk,18:20,182000
+57,30,Betuwe,18:21,182100
+57,31,Station Lunetten,18:23,182300
+58,1,Oorsprongpark,17:51,175100
+58,2,Prinsesselaan,17:52,175200
+58,3,Rosarium,17:53,175300
+58,4,Dillenburgstraat,17:54,175400
+58,5,De Hoogstraat,17:55,175500
+58,6,Hobbemastraat,17:56,175600
+58,7,Diakonessenhuis-Noord,17:57,175700
+58,8,Homeruslaan,17:59,175900
+58,9,Oosterstraat,17:59,175900
+58,10,Oudwijkerdwarsstraat,18:00,180000
+58,11,Burg. Reigerstraat,18:01,180100
+58,12,Maliebaan,18:03,180300
+58,13,Stadsschouwburg,18:05,180500
+58,14,Janskerkhof,18:06,180600
+58,15,Neude,18:08,180800
+58,16,Vredenburg,18:09,180900
+58,17,CS Jaarbeurszijde,18:14,181400
+58,18,CS Jaarbeurszijde,18:17,181700
+58,19,Station Vaartsche Rijn,18:20,182000
+58,20,Tolsteegplantsoen,18:21,182100
+58,21,Smaragdplein,18:22,182200
+58,22,Robijnlaan,18:23,182300
+58,23,Slotlaan,18:23,182300
+58,24,Brennerbrug,18:24,182400
+58,25,Stelviobaan,18:25,182500
+58,26,Dolomieten,18:26,182600
+58,27,Simplonbaan,18:27,182700
+58,28,De Koppel,18:29,182900
+58,29,Sleeswijk,18:30,183000
+58,30,Betuwe,18:31,183100
+58,31,Station Lunetten,18:33,183300
+59,1,Oorsprongpark,18:01,180100
+59,2,Prinsesselaan,18:02,180200
+59,3,Rosarium,18:03,180300
+59,4,Dillenburgstraat,18:04,180400
+59,5,De Hoogstraat,18:05,180500
+59,6,Hobbemastraat,18:06,180600
+59,7,Diakonessenhuis-Noord,18:07,180700
+59,8,Homeruslaan,18:09,180900
+59,9,Oosterstraat,18:09,180900
+59,10,Oudwijkerdwarsstraat,18:10,181000
+59,11,Burg. Reigerstraat,18:11,181100
+59,12,Maliebaan,18:13,181300
+59,13,Stadsschouwburg,18:15,181500
+59,14,Janskerkhof,18:16,181600
+59,15,Neude,18:18,181800
+59,16,Vredenburg,18:19,181900
+59,17,CS Jaarbeurszijde,18:24,182400
+59,18,CS Jaarbeurszijde,18:27,182700
+59,19,Station Vaartsche Rijn,18:30,183000
+59,20,Tolsteegplantsoen,18:31,183100
+59,21,Smaragdplein,18:32,183200
+59,22,Robijnlaan,18:33,183300
+59,23,Slotlaan,18:33,183300
+59,24,Brennerbrug,18:34,183400
+59,25,Stelviobaan,18:35,183500
+59,26,Dolomieten,18:36,183600
+59,27,Simplonbaan,18:37,183700
+59,28,De Koppel,18:39,183900
+59,29,Sleeswijk,18:40,184000
+59,30,Betuwe,18:41,184100
+59,31,Station Lunetten,18:43,184300
+60,1,Oorsprongpark,18:16,181600
+60,2,Prinsesselaan,18:17,181700
+60,3,Rosarium,18:18,181800
+60,4,Dillenburgstraat,18:19,181900
+60,5,De Hoogstraat,18:20,182000
+60,6,Hobbemastraat,18:21,182100
+60,7,Diakonessenhuis-Noord,18:22,182200
+60,8,Homeruslaan,18:24,182400
+60,9,Oosterstraat,18:24,182400
+60,10,Oudwijkerdwarsstraat,18:25,182500
+60,11,Burg. Reigerstraat,18:26,182600
+60,12,Maliebaan,18:28,182800
+60,13,Stadsschouwburg,18:30,183000
+60,14,Janskerkhof,18:31,183100
+60,15,Neude,18:32,183200
+60,16,Vredenburg,18:33,183300
+60,17,CS Jaarbeurszijde,18:37,183700
+60,18,CS Jaarbeurszijde,18:40,184000
+60,19,Station Vaartsche Rijn,18:43,184300
+60,20,Tolsteegplantsoen,18:44,184400
+60,21,Smaragdplein,18:45,184500
+60,22,Robijnlaan,18:46,184600
+60,23,Slotlaan,18:46,184600
+60,24,Brennerbrug,18:47,184700
+60,25,Stelviobaan,18:48,184800
+60,26,Dolomieten,18:49,184900
+60,27,Simplonbaan,18:50,185000
+60,28,De Koppel,18:52,185200
+60,29,Sleeswijk,18:53,185300
+60,30,Betuwe,18:54,185400
+60,31,Station Lunetten,18:56,185600
+61,1,Oorsprongpark,18:31,183100
+61,2,Prinsesselaan,18:32,183200
+61,3,Rosarium,18:33,183300
+61,4,Dillenburgstraat,18:34,183400
+61,5,De Hoogstraat,18:35,183500
+61,6,Hobbemastraat,18:36,183600
+61,7,Diakonessenhuis-Noord,18:37,183700
+61,8,Homeruslaan,18:39,183900
+61,9,Oosterstraat,18:39,183900
+61,10,Oudwijkerdwarsstraat,18:40,184000
+61,11,Burg. Reigerstraat,18:41,184100
+61,12,Maliebaan,18:43,184300
+61,13,Stadsschouwburg,18:45,184500
+61,14,Janskerkhof,18:46,184600
+61,15,Neude,18:47,184700
+61,16,Vredenburg,18:48,184800
+61,17,CS Jaarbeurszijde,18:52,185200
+61,18,CS Jaarbeurszijde,18:55,185500
+61,19,Station Vaartsche Rijn,18:58,185800
+61,20,Tolsteegplantsoen,18:59,185900
+61,21,Smaragdplein,19:00,190000
+61,22,Robijnlaan,19:01,190100
+61,23,Slotlaan,19:01,190100
+61,24,Brennerbrug,19:02,190200
+61,25,Stelviobaan,19:03,190300
+61,26,Dolomieten,19:04,190400
+61,27,Simplonbaan,19:05,190500
+61,28,De Koppel,19:07,190700
+61,29,Sleeswijk,19:08,190800
+61,30,Betuwe,19:09,190900
+61,31,Station Lunetten,19:11,191100
+62,1,Oorsprongpark,18:46,184600
+62,2,Prinsesselaan,18:47,184700
+62,3,Rosarium,18:48,184800
+62,4,Dillenburgstraat,18:49,184900
+62,5,De Hoogstraat,18:50,185000
+62,6,Hobbemastraat,18:51,185100
+62,7,Diakonessenhuis-Noord,18:52,185200
+62,8,Homeruslaan,18:54,185400
+62,9,Oosterstraat,18:54,185400
+62,10,Oudwijkerdwarsstraat,18:55,185500
+62,11,Burg. Reigerstraat,18:56,185600
+62,12,Maliebaan,18:58,185800
+62,13,Stadsschouwburg,19:00,190000
+62,14,Janskerkhof,19:01,190100
+62,15,Neude,19:02,190200
+62,16,Vredenburg,19:03,190300
+62,17,CS Jaarbeurszijde,19:07,190700
+62,18,CS Jaarbeurszijde,19:10,191000
+62,19,Station Vaartsche Rijn,19:13,191300
+62,20,Tolsteegplantsoen,19:14,191400
+62,21,Smaragdplein,19:15,191500
+62,22,Robijnlaan,19:16,191600
+62,23,Slotlaan,19:16,191600
+62,24,Brennerbrug,19:17,191700
+62,25,Stelviobaan,19:18,191800
+62,26,Dolomieten,19:19,191900
+62,27,Simplonbaan,19:20,192000
+62,28,De Koppel,19:22,192200
+62,29,Sleeswijk,19:23,192300
+62,30,Betuwe,19:24,192400
+62,31,Station Lunetten,19:26,192600
+63,1,Oorsprongpark,19:01,190100
+63,2,Prinsesselaan,19:02,190200
+63,3,Rosarium,19:03,190300
+63,4,Dillenburgstraat,19:04,190400
+63,5,De Hoogstraat,19:05,190500
+63,6,Hobbemastraat,19:06,190600
+63,7,Diakonessenhuis-Noord,19:07,190700
+63,8,Homeruslaan,19:09,190900
+63,9,Oosterstraat,19:09,190900
+63,10,Oudwijkerdwarsstraat,19:10,191000
+63,11,Burg. Reigerstraat,19:11,191100
+63,12,Maliebaan,19:13,191300
+63,13,Stadsschouwburg,19:15,191500
+63,14,Janskerkhof,19:16,191600
+63,15,Neude,19:17,191700
+63,16,Vredenburg,19:18,191800
+63,17,CS Jaarbeurszijde,19:22,192200
+63,18,CS Jaarbeurszijde,19:25,192500
+63,19,Station Vaartsche Rijn,19:28,192800
+63,20,Tolsteegplantsoen,19:29,192900
+63,21,Smaragdplein,19:30,193000
+63,22,Robijnlaan,19:31,193100
+63,23,Slotlaan,19:31,193100
+63,24,Brennerbrug,19:32,193200
+63,25,Stelviobaan,19:33,193300
+63,26,Dolomieten,19:34,193400
+63,27,Simplonbaan,19:35,193500
+63,28,De Koppel,19:37,193700
+63,29,Sleeswijk,19:38,193800
+63,30,Betuwe,19:39,193900
+63,31,Station Lunetten,19:41,194100
+64,1,Oorsprongpark,19:16,191600
+64,2,Prinsesselaan,19:17,191700
+64,3,Rosarium,19:18,191800
+64,4,Dillenburgstraat,19:19,191900
+64,5,De Hoogstraat,19:20,192000
+64,6,Hobbemastraat,19:21,192100
+64,7,Diakonessenhuis-Noord,19:22,192200
+64,8,Homeruslaan,19:24,192400
+64,9,Oosterstraat,19:24,192400
+64,10,Oudwijkerdwarsstraat,19:25,192500
+64,11,Burg. Reigerstraat,19:26,192600
+64,12,Maliebaan,19:28,192800
+64,13,Stadsschouwburg,19:30,193000
+64,14,Janskerkhof,19:31,193100
+64,15,Neude,19:32,193200
+64,16,Vredenburg,19:33,193300
+64,17,CS Jaarbeurszijde,19:37,193700
+64,18,CS Jaarbeurszijde,19:40,194000
+64,19,Station Vaartsche Rijn,19:43,194300
+64,20,Tolsteegplantsoen,19:44,194400
+64,21,Smaragdplein,19:45,194500
+64,22,Robijnlaan,19:46,194600
+64,23,Slotlaan,19:46,194600
+64,24,Brennerbrug,19:47,194700
+64,25,Stelviobaan,19:48,194800
+64,26,Dolomieten,19:49,194900
+64,27,Simplonbaan,19:50,195000
+64,28,De Koppel,19:52,195200
+64,29,Sleeswijk,19:53,195300
+64,30,Betuwe,19:54,195400
+64,31,Station Lunetten,19:56,195600
+65,1,Oorsprongpark,19:31,193100
+65,2,Prinsesselaan,19:32,193200
+65,3,Rosarium,19:33,193300
+65,4,Dillenburgstraat,19:34,193400
+65,5,De Hoogstraat,19:35,193500
+65,6,Hobbemastraat,19:36,193600
+65,7,Diakonessenhuis-Noord,19:37,193700
+65,8,Homeruslaan,19:39,193900
+65,9,Oosterstraat,19:39,193900
+65,10,Oudwijkerdwarsstraat,19:40,194000
+65,11,Burg. Reigerstraat,19:41,194100
+65,12,Maliebaan,19:43,194300
+65,13,Stadsschouwburg,19:45,194500
+65,14,Janskerkhof,19:46,194600
+65,15,Neude,19:47,194700
+65,16,Vredenburg,19:48,194800
+65,17,CS Jaarbeurszijde,19:52,195200
+65,18,CS Jaarbeurszijde,19:55,195500
+65,19,Station Vaartsche Rijn,19:58,195800
+65,20,Tolsteegplantsoen,19:59,195900
+65,21,Smaragdplein,20:00,200000
+65,22,Robijnlaan,20:01,200100
+65,23,Slotlaan,20:01,200100
+65,24,Brennerbrug,20:02,200200
+65,25,Stelviobaan,20:03,200300
+65,26,Dolomieten,20:04,200400
+65,27,Simplonbaan,20:05,200500
+65,28,De Koppel,20:07,200700
+65,29,Sleeswijk,20:08,200800
+65,30,Betuwe,20:09,200900
+65,31,Station Lunetten,20:11,201100
+66,1,Oorsprongpark,19:46,194600
+66,2,Prinsesselaan,19:47,194700
+66,3,Rosarium,19:48,194800
+66,4,Dillenburgstraat,19:49,194900
+66,5,De Hoogstraat,19:50,195000
+66,6,Hobbemastraat,19:51,195100
+66,7,Diakonessenhuis-Noord,19:52,195200
+66,8,Homeruslaan,19:54,195400
+66,9,Oosterstraat,19:54,195400
+66,10,Oudwijkerdwarsstraat,19:55,195500
+66,11,Burg. Reigerstraat,19:56,195600
+66,12,Maliebaan,19:58,195800
+66,13,Stadsschouwburg,20:00,200000
+66,14,Janskerkhof,20:01,200100
+66,15,Neude,20:02,200200
+66,16,Vredenburg,20:03,200300
+66,17,CS Jaarbeurszijde,20:07,200700
+66,18,CS Jaarbeurszijde,20:10,201000
+66,19,Station Vaartsche Rijn,20:13,201300
+66,20,Tolsteegplantsoen,20:14,201400
+66,21,Smaragdplein,20:15,201500
+66,22,Robijnlaan,20:16,201600
+66,23,Slotlaan,20:16,201600
+66,24,Brennerbrug,20:17,201700
+66,25,Stelviobaan,20:18,201800
+66,26,Dolomieten,20:19,201900
+66,27,Simplonbaan,20:20,202000
+66,28,De Koppel,20:22,202200
+66,29,Sleeswijk,20:23,202300
+66,30,Betuwe,20:24,202400
+66,31,Station Lunetten,20:26,202600
+67,1,Oorsprongpark,20:01,200100
+67,2,Prinsesselaan,20:02,200200
+67,3,Rosarium,20:03,200300
+67,4,Dillenburgstraat,20:04,200400
+67,5,De Hoogstraat,20:05,200500
+67,6,Hobbemastraat,20:06,200600
+67,7,Diakonessenhuis-Noord,20:07,200700
+67,8,Homeruslaan,20:09,200900
+67,9,Oosterstraat,20:09,200900
+67,10,Oudwijkerdwarsstraat,20:10,201000
+67,11,Burg. Reigerstraat,20:11,201100
+67,12,Maliebaan,20:12,201200
+67,13,Stadsschouwburg,20:14,201400
+67,14,Janskerkhof,20:15,201500
+67,15,Neude,20:16,201600
+67,16,Vredenburg,20:17,201700
+67,17,CS Jaarbeurszijde,20:21,202100
+67,18,CS Jaarbeurszijde,20:24,202400
+67,19,Station Vaartsche Rijn,20:27,202700
+67,20,Tolsteegplantsoen,20:28,202800
+67,21,Smaragdplein,20:29,202900
+67,22,Robijnlaan,20:30,203000
+67,23,Slotlaan,20:30,203000
+67,24,Brennerbrug,20:31,203100
+67,25,Stelviobaan,20:32,203200
+67,26,Dolomieten,20:33,203300
+67,27,Simplonbaan,20:34,203400
+67,28,De Koppel,20:36,203600
+67,29,Sleeswijk,20:37,203700
+67,30,Betuwe,20:38,203800
+67,31,Station Lunetten,20:40,204000
+68,1,Oorsprongpark,20:16,201600
+68,2,Prinsesselaan,20:17,201700
+68,3,Rosarium,20:17,201700
+68,4,Dillenburgstraat,20:18,201800
+68,5,De Hoogstraat,20:19,201900
+68,6,Hobbemastraat,20:20,202000
+68,7,Diakonessenhuis-Noord,20:21,202100
+68,8,Homeruslaan,20:23,202300
+68,9,Oosterstraat,20:23,202300
+68,10,Oudwijkerdwarsstraat,20:24,202400
+68,11,Burg. Reigerstraat,20:25,202500
+68,12,Maliebaan,20:26,202600
+68,13,Stadsschouwburg,20:28,202800
+68,14,Janskerkhof,20:29,202900
+68,15,Neude,20:30,203000
+68,16,Vredenburg,20:31,203100
+68,17,CS Jaarbeurszijde,20:35,203500
+68,18,CS Jaarbeurszijde,20:38,203800
+68,19,Station Vaartsche Rijn,20:41,204100
+68,20,Tolsteegplantsoen,20:42,204200
+68,21,Smaragdplein,20:43,204300
+68,22,Robijnlaan,20:44,204400
+68,23,Slotlaan,20:44,204400
+68,24,Brennerbrug,20:45,204500
+68,25,Stelviobaan,20:46,204600
+68,26,Dolomieten,20:47,204700
+68,27,Simplonbaan,20:48,204800
+68,28,De Koppel,20:50,205000
+68,29,Sleeswijk,20:51,205100
+68,30,Betuwe,20:52,205200
+68,31,Station Lunetten,20:54,205400
+69,1,Oorsprongpark,20:31,203100
+69,2,Prinsesselaan,20:32,203200
+69,3,Rosarium,20:32,203200
+69,4,Dillenburgstraat,20:33,203300
+69,5,De Hoogstraat,20:34,203400
+69,6,Hobbemastraat,20:35,203500
+69,7,Diakonessenhuis-Noord,20:36,203600
+69,8,Homeruslaan,20:38,203800
+69,9,Oosterstraat,20:38,203800
+69,10,Oudwijkerdwarsstraat,20:39,203900
+69,11,Burg. Reigerstraat,20:40,204000
+69,12,Maliebaan,20:41,204100
+69,13,Stadsschouwburg,20:43,204300
+69,14,Janskerkhof,20:44,204400
+69,15,Neude,20:45,204500
+69,16,Vredenburg,20:46,204600
+69,17,CS Jaarbeurszijde,20:50,205000
+69,18,CS Jaarbeurszijde,20:53,205300
+69,19,Station Vaartsche Rijn,20:56,205600
+69,20,Tolsteegplantsoen,20:57,205700
+69,21,Smaragdplein,20:58,205800
+69,22,Robijnlaan,20:59,205900
+69,23,Slotlaan,20:59,205900
+69,24,Brennerbrug,21:00,210000
+69,25,Stelviobaan,21:01,210100
+69,26,Dolomieten,21:02,210200
+69,27,Simplonbaan,21:03,210300
+69,28,De Koppel,21:05,210500
+69,29,Sleeswijk,21:06,210600
+69,30,Betuwe,21:07,210700
+69,31,Station Lunetten,21:09,210900
+70,1,Oorsprongpark,20:46,204600
+70,2,Prinsesselaan,20:47,204700
+70,3,Rosarium,20:47,204700
+70,4,Dillenburgstraat,20:48,204800
+70,5,De Hoogstraat,20:49,204900
+70,6,Hobbemastraat,20:50,205000
+70,7,Diakonessenhuis-Noord,20:51,205100
+70,8,Homeruslaan,20:53,205300
+70,9,Oosterstraat,20:53,205300
+70,10,Oudwijkerdwarsstraat,20:54,205400
+70,11,Burg. Reigerstraat,20:55,205500
+70,12,Maliebaan,20:56,205600
+70,13,Stadsschouwburg,20:58,205800
+70,14,Janskerkhof,20:59,205900
+70,15,Neude,21:00,210000
+70,16,Vredenburg,21:01,210100
+70,17,CS Jaarbeurszijde,21:05,210500
+70,18,CS Jaarbeurszijde,21:08,210800
+70,19,Station Vaartsche Rijn,21:11,211100
+70,20,Tolsteegplantsoen,21:12,211200
+70,21,Smaragdplein,21:13,211300
+70,22,Robijnlaan,21:14,211400
+70,23,Slotlaan,21:14,211400
+70,24,Brennerbrug,21:15,211500
+70,25,Stelviobaan,21:16,211600
+70,26,Dolomieten,21:17,211700
+70,27,Simplonbaan,21:18,211800
+70,28,De Koppel,21:20,212000
+70,29,Sleeswijk,21:21,212100
+70,30,Betuwe,21:22,212200
+70,31,Station Lunetten,21:24,212400
+71,1,Oorsprongpark,21:01,210100
+71,2,Prinsesselaan,21:02,210200
+71,3,Rosarium,21:02,210200
+71,4,Dillenburgstraat,21:03,210300
+71,5,De Hoogstraat,21:04,210400
+71,6,Hobbemastraat,21:05,210500
+71,7,Diakonessenhuis-Noord,21:06,210600
+71,8,Homeruslaan,21:08,210800
+71,9,Oosterstraat,21:08,210800
+71,10,Oudwijkerdwarsstraat,21:09,210900
+71,11,Burg. Reigerstraat,21:10,211000
+71,12,Maliebaan,21:11,211100
+71,13,Stadsschouwburg,21:13,211300
+71,14,Janskerkhof,21:14,211400
+71,15,Neude,21:15,211500
+71,16,Vredenburg,21:16,211600
+71,17,CS Jaarbeurszijde,21:20,212000
+71,18,CS Jaarbeurszijde,21:23,212300
+71,19,Station Vaartsche Rijn,21:26,212600
+71,20,Tolsteegplantsoen,21:27,212700
+71,21,Smaragdplein,21:28,212800
+71,22,Robijnlaan,21:29,212900
+71,23,Slotlaan,21:29,212900
+71,24,Brennerbrug,21:30,213000
+71,25,Stelviobaan,21:31,213100
+71,26,Dolomieten,21:32,213200
+71,27,Simplonbaan,21:33,213300
+71,28,De Koppel,21:35,213500
+71,29,Sleeswijk,21:36,213600
+71,30,Betuwe,21:37,213700
+71,31,Station Lunetten,21:39,213900
+72,1,Oorsprongpark,21:16,211600
+72,2,Prinsesselaan,21:17,211700
+72,3,Rosarium,21:17,211700
+72,4,Dillenburgstraat,21:18,211800
+72,5,De Hoogstraat,21:19,211900
+72,6,Hobbemastraat,21:20,212000
+72,7,Diakonessenhuis-Noord,21:21,212100
+72,8,Homeruslaan,21:23,212300
+72,9,Oosterstraat,21:23,212300
+72,10,Oudwijkerdwarsstraat,21:24,212400
+72,11,Burg. Reigerstraat,21:25,212500
+72,12,Maliebaan,21:26,212600
+72,13,Stadsschouwburg,21:28,212800
+72,14,Janskerkhof,21:29,212900
+72,15,Neude,21:30,213000
+72,16,Vredenburg,21:31,213100
+72,17,CS Jaarbeurszijde,21:35,213500
+72,18,CS Jaarbeurszijde,21:38,213800
+72,19,Station Vaartsche Rijn,21:41,214100
+72,20,Tolsteegplantsoen,21:42,214200
+72,21,Smaragdplein,21:43,214300
+72,22,Robijnlaan,21:44,214400
+72,23,Slotlaan,21:44,214400
+72,24,Brennerbrug,21:45,214500
+72,25,Stelviobaan,21:46,214600
+72,26,Dolomieten,21:47,214700
+72,27,Simplonbaan,21:48,214800
+72,28,De Koppel,21:50,215000
+72,29,Sleeswijk,21:51,215100
+72,30,Betuwe,21:52,215200
+72,31,Station Lunetten,21:54,215400
+73,1,Oorsprongpark,21:31,213100
+73,2,Prinsesselaan,21:32,213200
+73,3,Rosarium,21:32,213200
+73,4,Dillenburgstraat,21:33,213300
+73,5,De Hoogstraat,21:34,213400
+73,6,Hobbemastraat,21:35,213500
+73,7,Diakonessenhuis-Noord,21:36,213600
+73,8,Homeruslaan,21:38,213800
+73,9,Oosterstraat,21:38,213800
+73,10,Oudwijkerdwarsstraat,21:39,213900
+73,11,Burg. Reigerstraat,21:40,214000
+73,12,Maliebaan,21:41,214100
+73,13,Stadsschouwburg,21:43,214300
+73,14,Janskerkhof,21:44,214400
+73,15,Neude,21:45,214500
+73,16,Vredenburg,21:46,214600
+73,17,CS Jaarbeurszijde,21:50,215000
+73,18,CS Jaarbeurszijde,21:53,215300
+73,19,Station Vaartsche Rijn,21:56,215600
+73,20,Tolsteegplantsoen,21:57,215700
+73,21,Smaragdplein,21:58,215800
+73,22,Robijnlaan,21:59,215900
+73,23,Slotlaan,21:59,215900
+73,24,Brennerbrug,22:00,220000
+73,25,Stelviobaan,22:01,220100
+73,26,Dolomieten,22:02,220200
+73,27,Simplonbaan,22:03,220300
+73,28,De Koppel,22:05,220500
+73,29,Sleeswijk,22:06,220600
+73,30,Betuwe,22:07,220700
+73,31,Station Lunetten,22:09,220900
+74,1,Oorsprongpark,21:46,214600
+74,2,Prinsesselaan,21:47,214700
+74,3,Rosarium,21:47,214700
+74,4,Dillenburgstraat,21:48,214800
+74,5,De Hoogstraat,21:49,214900
+74,6,Hobbemastraat,21:50,215000
+74,7,Diakonessenhuis-Noord,21:51,215100
+74,8,Homeruslaan,21:53,215300
+74,9,Oosterstraat,21:53,215300
+74,10,Oudwijkerdwarsstraat,21:54,215400
+74,11,Burg. Reigerstraat,21:55,215500
+74,12,Maliebaan,21:56,215600
+74,13,Stadsschouwburg,21:58,215800
+74,14,Janskerkhof,21:59,215900
+74,15,Neude,22:00,220000
+74,16,Vredenburg,22:01,220100
+74,17,CS Jaarbeurszijde,22:05,220500
+74,18,CS Jaarbeurszijde,22:08,220800
+74,19,Station Vaartsche Rijn,22:11,221100
+74,20,Tolsteegplantsoen,22:12,221200
+74,21,Smaragdplein,22:13,221300
+74,22,Robijnlaan,22:14,221400
+74,23,Slotlaan,22:14,221400
+74,24,Brennerbrug,22:15,221500
+74,25,Stelviobaan,22:16,221600
+74,26,Dolomieten,22:17,221700
+74,27,Simplonbaan,22:18,221800
+74,28,De Koppel,22:20,222000
+74,29,Sleeswijk,22:21,222100
+74,30,Betuwe,22:22,222200
+74,31,Station Lunetten,22:24,222400
+75,1,Oorsprongpark,22:01,220100
+75,2,Prinsesselaan,22:02,220200
+75,3,Rosarium,22:02,220200
+75,4,Dillenburgstraat,22:03,220300
+75,5,De Hoogstraat,22:04,220400
+75,6,Hobbemastraat,22:05,220500
+75,7,Diakonessenhuis-Noord,22:06,220600
+75,8,Homeruslaan,22:08,220800
+75,9,Oosterstraat,22:08,220800
+75,10,Oudwijkerdwarsstraat,22:09,220900
+75,11,Burg. Reigerstraat,22:10,221000
+75,12,Maliebaan,22:11,221100
+75,13,Stadsschouwburg,22:13,221300
+75,14,Janskerkhof,22:14,221400
+75,15,Neude,22:15,221500
+75,16,Vredenburg,22:16,221600
+75,17,CS Jaarbeurszijde,22:20,222000
+75,18,CS Jaarbeurszijde,22:23,222300
+75,19,Station Vaartsche Rijn,22:26,222600
+75,20,Tolsteegplantsoen,22:27,222700
+75,21,Smaragdplein,22:28,222800
+75,22,Robijnlaan,22:29,222900
+75,23,Slotlaan,22:29,222900
+75,24,Brennerbrug,22:30,223000
+75,25,Stelviobaan,22:31,223100
+75,26,Dolomieten,22:32,223200
+75,27,Simplonbaan,22:33,223300
+75,28,De Koppel,22:35,223500
+75,29,Sleeswijk,22:36,223600
+75,30,Betuwe,22:37,223700
+75,31,Station Lunetten,22:39,223900
+76,1,Oorsprongpark,22:16,221600
+76,2,Prinsesselaan,22:17,221700
+76,3,Rosarium,22:17,221700
+76,4,Dillenburgstraat,22:18,221800
+76,5,De Hoogstraat,22:19,221900
+76,6,Hobbemastraat,22:20,222000
+76,7,Diakonessenhuis-Noord,22:21,222100
+76,8,Homeruslaan,22:23,222300
+76,9,Oosterstraat,22:23,222300
+76,10,Oudwijkerdwarsstraat,22:24,222400
+76,11,Burg. Reigerstraat,22:25,222500
+76,12,Maliebaan,22:26,222600
+76,13,Stadsschouwburg,22:28,222800
+76,14,Janskerkhof,22:29,222900
+76,15,Neude,22:30,223000
+76,16,Vredenburg,22:31,223100
+76,17,CS Jaarbeurszijde,22:35,223500
+76,18,CS Jaarbeurszijde,22:38,223800
+76,19,Station Vaartsche Rijn,22:41,224100
+76,20,Tolsteegplantsoen,22:42,224200
+76,21,Smaragdplein,22:43,224300
+76,22,Robijnlaan,22:44,224400
+76,23,Slotlaan,22:44,224400
+76,24,Brennerbrug,22:45,224500
+76,25,Stelviobaan,22:46,224600
+76,26,Dolomieten,22:47,224700
+76,27,Simplonbaan,22:48,224800
+76,28,De Koppel,22:50,225000
+76,29,Sleeswijk,22:51,225100
+76,30,Betuwe,22:52,225200
+76,31,Station Lunetten,22:54,225400
+77,1,Oorsprongpark,22:31,223100
+77,2,Prinsesselaan,22:32,223200
+77,3,Rosarium,22:32,223200
+77,4,Dillenburgstraat,22:33,223300
+77,5,De Hoogstraat,22:34,223400
+77,6,Hobbemastraat,22:35,223500
+77,7,Diakonessenhuis-Noord,22:36,223600
+77,8,Homeruslaan,22:38,223800
+77,9,Oosterstraat,22:38,223800
+77,10,Oudwijkerdwarsstraat,22:39,223900
+77,11,Burg. Reigerstraat,22:40,224000
+77,12,Maliebaan,22:41,224100
+77,13,Stadsschouwburg,22:43,224300
+77,14,Janskerkhof,22:44,224400
+77,15,Neude,22:45,224500
+77,16,Vredenburg,22:46,224600
+77,17,CS Jaarbeurszijde,22:50,225000
+77,18,CS Jaarbeurszijde,22:53,225300
+77,19,Station Vaartsche Rijn,22:56,225600
+77,20,Tolsteegplantsoen,22:57,225700
+77,21,Smaragdplein,22:58,225800
+77,22,Robijnlaan,22:59,225900
+77,23,Slotlaan,22:59,225900
+77,24,Brennerbrug,23:00,230000
+77,25,Stelviobaan,23:01,230100
+77,26,Dolomieten,23:02,230200
+77,27,Simplonbaan,23:03,230300
+77,28,De Koppel,23:05,230500
+77,29,Sleeswijk,23:06,230600
+77,30,Betuwe,23:07,230700
+77,31,Station Lunetten,23:09,230900
+78,1,Oorsprongpark,22:46,224600
+78,2,Prinsesselaan,22:47,224700
+78,3,Rosarium,22:47,224700
+78,4,Dillenburgstraat,22:48,224800
+78,5,De Hoogstraat,22:49,224900
+78,6,Hobbemastraat,22:50,225000
+78,7,Diakonessenhuis-Noord,22:51,225100
+78,8,Homeruslaan,22:53,225300
+78,9,Oosterstraat,22:53,225300
+78,10,Oudwijkerdwarsstraat,22:54,225400
+78,11,Burg. Reigerstraat,22:55,225500
+78,12,Maliebaan,22:56,225600
+78,13,Stadsschouwburg,22:58,225800
+78,14,Janskerkhof,22:59,225900
+78,15,Neude,23:00,230000
+78,16,Vredenburg,23:01,230100
+78,17,CS Jaarbeurszijde,23:05,230500
+78,18,CS Jaarbeurszijde,23:08,230800
+78,19,Station Vaartsche Rijn,23:11,231100
+78,20,Tolsteegplantsoen,23:12,231200
+78,21,Smaragdplein,23:13,231300
+78,22,Robijnlaan,23:14,231400
+78,23,Slotlaan,23:14,231400
+78,24,Brennerbrug,23:15,231500
+78,25,Stelviobaan,23:16,231600
+78,26,Dolomieten,23:17,231700
+78,27,Simplonbaan,23:18,231800
+78,28,De Koppel,23:19,231900
+78,29,Sleeswijk,23:20,232000
+78,30,Betuwe,23:21,232100
+78,31,Station Lunetten,23:23,232300
+79,1,Oorsprongpark,23:01,230100
+79,2,Prinsesselaan,23:02,230200
+79,3,Rosarium,23:02,230200
+79,4,Dillenburgstraat,23:03,230300
+79,5,De Hoogstraat,23:04,230400
+79,6,Hobbemastraat,23:05,230500
+79,7,Diakonessenhuis-Noord,23:06,230600
+79,8,Homeruslaan,23:08,230800
+79,9,Oosterstraat,23:08,230800
+79,10,Oudwijkerdwarsstraat,23:09,230900
+79,11,Burg. Reigerstraat,23:10,231000
+79,12,Maliebaan,23:11,231100
+79,13,Stadsschouwburg,23:13,231300
+79,14,Janskerkhof,23:14,231400
+79,15,Neude,23:15,231500
+79,16,Vredenburg,23:16,231600
+79,17,CS Jaarbeurszijde,23:20,232000
+79,18,CS Jaarbeurszijde,23:23,232300
+79,19,Station Vaartsche Rijn,23:25,232500
+79,20,Tolsteegplantsoen,23:26,232600
+79,21,Smaragdplein,23:27,232700
+79,22,Robijnlaan,23:28,232800
+79,23,Slotlaan,23:28,232800
+79,24,Brennerbrug,23:29,232900
+79,25,Stelviobaan,23:30,233000
+79,26,Dolomieten,23:31,233100
+79,27,Simplonbaan,23:32,233200
+79,28,De Koppel,23:33,233300
+79,29,Sleeswijk,23:34,233400
+79,30,Betuwe,23:35,233500
+79,31,Station Lunetten,23:37,233700
+80,1,Oorsprongpark,23:16,231600
+80,2,Prinsesselaan,23:17,231700
+80,3,Rosarium,23:17,231700
+80,4,Dillenburgstraat,23:18,231800
+80,5,De Hoogstraat,23:19,231900
+80,6,Hobbemastraat,23:20,232000
+80,7,Diakonessenhuis-Noord,23:21,232100
+80,8,Homeruslaan,23:23,232300
+80,9,Oosterstraat,23:23,232300
+80,10,Oudwijkerdwarsstraat,23:24,232400
+80,11,Burg. Reigerstraat,23:25,232500
+80,12,Maliebaan,23:26,232600
+80,13,Stadsschouwburg,23:28,232800
+80,14,Janskerkhof,23:29,232900
+80,15,Neude,23:30,233000
+80,16,Vredenburg,23:31,233100
+80,17,CS Jaarbeurszijde,23:35,233500
+80,18,CS Jaarbeurszijde,23:38,233800
+80,19,Station Vaartsche Rijn,23:40,234000
+80,20,Tolsteegplantsoen,23:41,234100
+80,21,Smaragdplein,23:42,234200
+80,22,Robijnlaan,23:43,234300
+80,23,Slotlaan,23:43,234300
+80,24,Brennerbrug,23:44,234400
+80,25,Stelviobaan,23:45,234500
+80,26,Dolomieten,23:46,234600
+80,27,Simplonbaan,23:47,234700
+80,28,De Koppel,23:48,234800
+80,29,Sleeswijk,23:49,234900
+80,30,Betuwe,23:50,235000
+80,31,Station Lunetten,23:52,235200
+81,1,Oorsprongpark,23:31,233100
+81,2,Prinsesselaan,23:32,233200
+81,3,Rosarium,23:32,233200
+81,4,Dillenburgstraat,23:33,233300
+81,5,De Hoogstraat,23:34,233400
+81,6,Hobbemastraat,23:35,233500
+81,7,Diakonessenhuis-Noord,23:36,233600
+81,8,Homeruslaan,23:38,233800
+81,9,Oosterstraat,23:38,233800
+81,10,Oudwijkerdwarsstraat,23:39,233900
+81,11,Burg. Reigerstraat,23:40,234000
+81,12,Maliebaan,23:41,234100
+81,13,Stadsschouwburg,23:43,234300
+81,14,Janskerkhof,23:44,234400
+81,15,Neude,23:45,234500
+81,16,Vredenburg,23:46,234600
+81,17,CS Jaarbeurszijde,23:50,235000
+81,18,CS Jaarbeurszijde,23:53,235300
+81,19,Station Vaartsche Rijn,23:55,235500
+81,20,Tolsteegplantsoen,23:56,235600
+81,21,Smaragdplein,23:57,235700
+81,22,Robijnlaan,23:58,235800
+81,23,Slotlaan,23:58,235800
+81,24,Brennerbrug,23:59,235900
+81,25,Stelviobaan,00:00*,240000
+81,26,Dolomieten,00:01*,240100
+81,27,Simplonbaan,00:02*,240200
+81,28,De Koppel,00:03*,240300
+81,29,Sleeswijk,00:04*,240400
+81,30,Betuwe,00:05*,240500
+81,31,Station Lunetten,00:07*,240700
+82,1,Oorsprongpark,23:46,234600
+82,2,Prinsesselaan,23:47,234700
+82,3,Rosarium,23:47,234700
+82,4,Dillenburgstraat,23:48,234800
+82,5,De Hoogstraat,23:49,234900
+82,6,Hobbemastraat,23:50,235000
+82,7,Diakonessenhuis-Noord,23:51,235100
+82,8,Homeruslaan,23:53,235300
+82,9,Oosterstraat,23:53,235300
+82,10,Oudwijkerdwarsstraat,23:54,235400
+82,11,Burg. Reigerstraat,23:55,235500
+82,12,Maliebaan,23:56,235600
+82,13,Stadsschouwburg,23:58,235800
+82,14,Janskerkhof,23:59,235900
+82,15,Neude,00:00*,240000
+82,16,Vredenburg,00:01*,240100
+82,17,CS Jaarbeurszijde,00:05*,240500
+82,18,CS Jaarbeurszijde,00:08*,240800
+82,19,Station Vaartsche Rijn,00:10*,241000
+82,20,Tolsteegplantsoen,00:11*,241100
+82,21,Smaragdplein,00:12*,241200
+82,22,Robijnlaan,00:13*,241300
+82,23,Slotlaan,00:13*,241300
+82,24,Brennerbrug,00:14*,241400
+82,25,Stelviobaan,00:15*,241500
+82,26,Dolomieten,00:16*,241600
+82,27,Simplonbaan,00:17*,241700
+82,28,De Koppel,00:18*,241800
+82,29,Sleeswijk,00:19*,241900
+82,30,Betuwe,00:20*,242000
+82,31,Station Lunetten,00:22*,242200
+83,1,Oorsprongpark,00:01*,240100
+83,2,Prinsesselaan,00:02*,240200
+83,3,Rosarium,00:02*,240200
+83,4,Dillenburgstraat,00:03*,240300
+83,5,De Hoogstraat,00:04*,240400
+83,6,Hobbemastraat,00:05*,240500
+83,7,Diakonessenhuis-Noord,00:06*,240600
+83,8,Homeruslaan,00:08*,240800
+83,9,Oosterstraat,00:08*,240800
+83,10,Oudwijkerdwarsstraat,00:09*,240900
+83,11,Burg. Reigerstraat,00:10*,241000
+83,12,Maliebaan,00:11*,241100
+83,13,Stadsschouwburg,00:13*,241300
+83,14,Janskerkhof,00:14*,241400
+83,15,Neude,00:15*,241500
+83,16,Vredenburg,00:16*,241600
+83,17,CS Jaarbeurszijde,00:20*,242000
+83,18,CS Jaarbeurszijde,00:23*,242300
+83,19,Station Vaartsche Rijn,00:25*,242500
+83,20,Tolsteegplantsoen,00:26*,242600
+83,21,Smaragdplein,00:27*,242700
+83,22,Robijnlaan,00:28*,242800
+83,23,Slotlaan,00:28*,242800
+83,24,Brennerbrug,00:29*,242900
+83,25,Stelviobaan,00:30*,243000
+83,26,Dolomieten,00:31*,243100
+83,27,Simplonbaan,00:32*,243200
+83,28,De Koppel,00:33*,243300
+83,29,Sleeswijk,00:34*,243400
+83,30,Betuwe,00:35*,243500
+83,31,Station Lunetten,00:37*,243700
+84,1,Oorsprongpark,00:16*,241600
+84,2,Prinsesselaan,00:17*,241700
+84,3,Rosarium,00:17*,241700
+84,4,Dillenburgstraat,00:18*,241800
+84,5,De Hoogstraat,00:19*,241900
+84,6,Hobbemastraat,00:20*,242000
+84,7,Diakonessenhuis-Noord,00:21*,242100
+84,8,Homeruslaan,00:23*,242300
+84,9,Oosterstraat,00:23*,242300
+84,10,Oudwijkerdwarsstraat,00:24*,242400
+84,11,Burg. Reigerstraat,00:25*,242500
+84,12,Maliebaan,00:26*,242600
+84,13,Stadsschouwburg,00:28*,242800
+84,14,Janskerkhof,00:29*,242900
+84,15,Neude,00:30*,243000
+84,16,Vredenburg,00:31*,243100
+84,17,CS Jaarbeurszijde,00:35*,243500
+84,18,CS Jaarbeurszijde,00:38*,243800
+84,19,Station Vaartsche Rijn,00:40*,244000
+84,20,Tolsteegplantsoen,00:41*,244100
+84,21,Smaragdplein,00:42*,244200
+84,22,Robijnlaan,00:43*,244300
+84,23,Slotlaan,00:43*,244300
+84,24,Brennerbrug,00:44*,244400
+84,25,Stelviobaan,00:45*,244500
+84,26,Dolomieten,00:46*,244600
+84,27,Simplonbaan,00:47*,244700
+84,28,De Koppel,00:48*,244800
+84,29,Sleeswijk,00:49*,244900
+84,30,Betuwe,00:50*,245000
+84,31,Station Lunetten,00:52*,245200
+85,1,Oorsprongpark,00:35*,243500
+85,2,Prinsesselaan,00:36*,243600
+85,3,Rosarium,00:36*,243600
+85,4,Dillenburgstraat,00:37*,243700
+85,5,De Hoogstraat,00:38*,243800
+85,6,Hobbemastraat,00:39*,243900
+85,7,Diakonessenhuis-Noord,00:40*,244000
+85,8,Homeruslaan,00:42*,244200
+85,9,Oosterstraat,00:42*,244200
+85,10,Oudwijkerdwarsstraat,00:43*,244300
+85,11,Burg. Reigerstraat,00:44*,244400
+85,12,Maliebaan,00:45*,244500
+85,13,Stadsschouwburg,00:47*,244700
+85,14,Janskerkhof,00:48*,244800
+85,15,Neude,00:49*,244900
+85,16,Vredenburg,00:50*,245000
+85,17,CS Jaarbeurszijde,00:54*,245400
+85,18,CS Jaarbeurszijde,01:00*,250000
+85,19,Station Vaartsche Rijn,01:02*,250200
+85,20,Tolsteegplantsoen,01:03*,250300
+85,21,Smaragdplein,01:04*,250400
+85,22,Robijnlaan,01:05*,250500
+85,23,Slotlaan,01:05*,250500
+85,24,Brennerbrug,01:06*,250600
+85,25,Stelviobaan,01:07*,250700
+85,26,Dolomieten,01:08*,250800
+85,27,Simplonbaan,01:09*,250900
+85,28,De Koppel,01:10*,251000
+85,29,Sleeswijk,01:11*,251100
+85,30,Betuwe,01:12*,251200
+85,31,Station Lunetten,01:14*,251400

@@ -1,0 +1,2856 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,Franciscusdreef,05:43,054300
+1,2,J.M. de Muinck Keizerlaan,05:45,054500
+1,3,Prins Bernhardplein,05:46,054600
+1,4,Prins Bernhardlaan,05:47,054700
+1,5,Muyskenweg,05:48,054800
+1,6,Sweder van Zuylenweg,05:49,054900
+1,7,Sint-Josephlaan,05:50,055000
+1,8,Watertoren,05:51,055100
+1,9,Concordiastraat,05:52,055200
+1,10,Viaduct,05:53,055300
+1,11,Herenweg,05:54,055400
+1,12,Daalsesingel,05:58,055800
+1,13,CS Centrumzijde,06:02,060200
+2,1,CS Centrumzijde,06:08,060800
+2,2,Sint Jacobsstraat,06:12,061200
+2,3,Oudenoord,06:13,061300
+2,4,David van Mollemstraat,06:14,061400
+2,5,Draaiweg,06:15,061500
+2,6,Willem Dreeslaan,06:16,061600
+2,7,Rhônedreef,06:18,061800
+2,8,Winkelcentrum Overvecht,06:19,061900
+2,9,Theemsdreef,06:20,062000
+2,10,Humberdreef,06:20,062000
+2,11,Oranjerivierdreef,06:21,062100
+2,12,Nijldreef,06:22,062200
+2,13,Maniladreef,06:23,062300
+2,14,Pekingdreef,06:24,062400
+2,15,Ammandreef,06:25,062500
+2,16,Klopvaart,06:26,062600
+2,17,Franciscusdreef,06:28,062800
+2,18,J.M. de Muinck Keizerlaan,06:30,063000
+2,19,Prins Bernhardplein,06:31,063100
+2,20,Prins Bernhardlaan,06:32,063200
+2,21,Muyskenweg,06:33,063300
+2,22,Sweder van Zuylenweg,06:34,063400
+2,23,Sint-Josephlaan,06:35,063500
+2,24,Watertoren,06:36,063600
+2,25,Concordiastraat,06:37,063700
+2,26,Viaduct,06:38,063800
+2,27,Herenweg,06:39,063900
+2,28,Daalsesingel,06:43,064300
+2,29,CS Centrumzijde,06:47,064700
+3,1,CS Centrumzijde,06:17,061700
+3,2,Franciscusdreef,05:58,055800
+3,3,J.M. de Muinck Keizerlaan,06:00,060000
+3,4,Prins Bernhardplein,06:01,060100
+3,5,Prins Bernhardlaan,06:02,060200
+3,6,Muyskenweg,06:03,060300
+3,7,Sweder van Zuylenweg,06:04,060400
+3,8,Sint-Josephlaan,06:05,060500
+3,9,Watertoren,06:06,060600
+3,10,Concordiastraat,06:07,060700
+3,11,Viaduct,06:08,060800
+3,12,Herenweg,06:09,060900
+3,13,Daalsesingel,06:13,061300
+4,1,CS Centrumzijde,06:23,062300
+4,2,Sint Jacobsstraat,06:27,062700
+4,3,Oudenoord,06:28,062800
+4,4,David van Mollemstraat,06:29,062900
+4,5,Draaiweg,06:30,063000
+4,6,Willem Dreeslaan,06:31,063100
+4,7,Rhônedreef,06:33,063300
+4,8,Winkelcentrum Overvecht,06:34,063400
+4,9,Theemsdreef,06:35,063500
+4,10,Humberdreef,06:35,063500
+4,11,Oranjerivierdreef,06:36,063600
+4,12,Nijldreef,06:37,063700
+4,13,Maniladreef,06:38,063800
+4,14,Pekingdreef,06:39,063900
+4,15,Ammandreef,06:40,064000
+4,16,Klopvaart,06:41,064100
+4,17,Franciscusdreef,06:43,064300
+4,18,J.M. de Muinck Keizerlaan,06:45,064500
+4,19,Prins Bernhardplein,06:46,064600
+4,20,Prins Bernhardlaan,06:47,064700
+4,21,Muyskenweg,06:49,064900
+4,22,Sweder van Zuylenweg,06:50,065000
+4,23,Sint-Josephlaan,06:51,065100
+4,24,Watertoren,06:52,065200
+4,25,Concordiastraat,06:53,065300
+4,26,Viaduct,06:55,065500
+4,27,Herenweg,06:56,065600
+4,28,Daalsesingel,07:00,070000
+4,29,CS Centrumzijde,07:04,070400
+5,1,CS Centrumzijde,06:32,063200
+5,2,Franciscusdreef,06:13,061300
+5,3,J.M. de Muinck Keizerlaan,06:15,061500
+5,4,Prins Bernhardplein,06:16,061600
+5,5,Prins Bernhardlaan,06:17,061700
+5,6,Muyskenweg,06:18,061800
+5,7,Sweder van Zuylenweg,06:19,061900
+5,8,Sint-Josephlaan,06:20,062000
+5,9,Watertoren,06:21,062100
+5,10,Concordiastraat,06:22,062200
+5,11,Viaduct,06:23,062300
+5,12,Herenweg,06:24,062400
+5,13,Daalsesingel,06:28,062800
+6,1,CS Centrumzijde,06:38,063800
+6,2,Sint Jacobsstraat,06:42,064200
+6,3,Oudenoord,06:43,064300
+6,4,David van Mollemstraat,06:44,064400
+6,5,Draaiweg,06:45,064500
+6,6,Willem Dreeslaan,06:46,064600
+6,7,Rhônedreef,06:49,064900
+6,8,Winkelcentrum Overvecht,06:50,065000
+6,9,Theemsdreef,06:51,065100
+6,10,Humberdreef,06:52,065200
+6,11,Oranjerivierdreef,06:53,065300
+6,12,Nijldreef,06:54,065400
+6,13,Maniladreef,06:55,065500
+6,14,Pekingdreef,06:56,065600
+6,15,Ammandreef,06:57,065700
+6,16,Klopvaart,06:58,065800
+6,17,Franciscusdreef,07:00,070000
+6,18,J.M. de Muinck Keizerlaan,07:02,070200
+6,19,Prins Bernhardplein,07:03,070300
+6,20,Prins Bernhardlaan,07:04,070400
+6,21,Muyskenweg,07:06,070600
+6,22,Sweder van Zuylenweg,07:07,070700
+6,23,Sint-Josephlaan,07:08,070800
+6,24,Watertoren,07:09,070900
+6,25,Concordiastraat,07:10,071000
+6,26,Viaduct,07:12,071200
+6,27,Herenweg,07:13,071300
+6,28,Daalsesingel,07:17,071700
+6,29,CS Centrumzijde,07:21,072100
+7,1,CS Centrumzijde,06:53,065300
+7,2,Sint Jacobsstraat,06:57,065700
+7,3,Oudenoord,06:58,065800
+7,4,David van Mollemstraat,06:59,065900
+7,5,Draaiweg,07:00,070000
+7,6,Willem Dreeslaan,07:01,070100
+7,7,Rhônedreef,07:04,070400
+7,8,Winkelcentrum Overvecht,07:05,070500
+7,9,Theemsdreef,07:06,070600
+7,10,Humberdreef,07:07,070700
+7,11,Oranjerivierdreef,07:08,070800
+7,12,Nijldreef,07:09,070900
+7,13,Maniladreef,07:10,071000
+7,14,Pekingdreef,07:11,071100
+7,15,Ammandreef,07:12,071200
+7,16,Klopvaart,07:13,071300
+7,17,Franciscusdreef,07:15,071500
+7,18,J.M. de Muinck Keizerlaan,07:17,071700
+7,19,Prins Bernhardplein,07:18,071800
+7,20,Prins Bernhardlaan,07:19,071900
+7,21,Muyskenweg,07:21,072100
+7,22,Sweder van Zuylenweg,07:22,072200
+7,23,Sint-Josephlaan,07:23,072300
+7,24,Watertoren,07:24,072400
+7,25,Concordiastraat,07:26,072600
+7,26,Viaduct,07:28,072800
+7,27,Herenweg,07:29,072900
+7,28,Daalsesingel,07:34,073400
+7,29,CS Centrumzijde,07:39,073900
+8,1,CS Centrumzijde,07:06,070600
+8,2,Sint Jacobsstraat,07:10,071000
+8,3,Oudenoord,07:11,071100
+8,4,David van Mollemstraat,07:12,071200
+8,5,Draaiweg,07:13,071300
+8,6,Willem Dreeslaan,07:14,071400
+8,7,Rhônedreef,07:17,071700
+8,8,Winkelcentrum Overvecht,07:18,071800
+8,9,Theemsdreef,07:19,071900
+8,10,Humberdreef,07:20,072000
+8,11,Oranjerivierdreef,07:21,072100
+8,12,Nijldreef,07:22,072200
+8,13,Maniladreef,07:23,072300
+8,14,Pekingdreef,07:24,072400
+8,15,Ammandreef,07:25,072500
+8,16,Klopvaart,07:26,072600
+8,17,Franciscusdreef,07:28,072800
+8,18,J.M. de Muinck Keizerlaan,07:30,073000
+8,19,Prins Bernhardplein,07:31,073100
+8,20,Prins Bernhardlaan,07:32,073200
+8,21,Muyskenweg,07:34,073400
+8,22,Sweder van Zuylenweg,07:36,073600
+8,23,Sint-Josephlaan,07:37,073700
+8,24,Watertoren,07:38,073800
+8,25,Concordiastraat,07:40,074000
+8,26,Viaduct,07:42,074200
+8,27,Herenweg,07:43,074300
+8,28,Daalsesingel,07:48,074800
+8,29,CS Centrumzijde,07:53,075300
+9,1,CS Centrumzijde,07:16,071600
+9,2,Sint Jacobsstraat,07:20,072000
+9,3,Oudenoord,07:22,072200
+9,4,David van Mollemstraat,07:23,072300
+9,5,Draaiweg,07:24,072400
+9,6,Willem Dreeslaan,07:25,072500
+9,7,Rhônedreef,07:28,072800
+9,8,Winkelcentrum Overvecht,07:30,073000
+9,9,Theemsdreef,07:31,073100
+9,10,Humberdreef,07:32,073200
+9,11,Oranjerivierdreef,07:33,073300
+9,12,Nijldreef,07:34,073400
+9,13,Maniladreef,07:35,073500
+9,14,Pekingdreef,07:36,073600
+9,15,Ammandreef,07:37,073700
+9,16,Klopvaart,07:38,073800
+9,17,Franciscusdreef,07:40,074000
+9,18,J.M. de Muinck Keizerlaan,07:42,074200
+9,19,Prins Bernhardplein,07:43,074300
+9,20,Prins Bernhardlaan,07:44,074400
+9,21,Muyskenweg,07:46,074600
+9,22,Sweder van Zuylenweg,07:48,074800
+9,23,Sint-Josephlaan,07:49,074900
+9,24,Watertoren,07:50,075000
+9,25,Concordiastraat,07:52,075200
+9,26,Viaduct,07:54,075400
+9,27,Herenweg,07:55,075500
+9,28,Daalsesingel,08:00,080000
+9,29,CS Centrumzijde,08:05,080500
+10,1,CS Centrumzijde,07:26,072600
+10,2,Sint Jacobsstraat,07:30,073000
+10,3,Oudenoord,07:32,073200
+10,4,David van Mollemstraat,07:33,073300
+10,5,Draaiweg,07:34,073400
+10,6,Willem Dreeslaan,07:35,073500
+10,7,Rhônedreef,07:38,073800
+10,8,Winkelcentrum Overvecht,07:40,074000
+10,9,Theemsdreef,07:41,074100
+10,10,Humberdreef,07:42,074200
+10,11,Oranjerivierdreef,07:43,074300
+10,12,Nijldreef,07:44,074400
+10,13,Maniladreef,07:45,074500
+10,14,Pekingdreef,07:46,074600
+10,15,Ammandreef,07:47,074700
+10,16,Klopvaart,07:48,074800
+10,17,Franciscusdreef,07:50,075000
+10,18,J.M. de Muinck Keizerlaan,07:52,075200
+10,19,Prins Bernhardplein,07:53,075300
+10,20,Prins Bernhardlaan,07:54,075400
+10,21,Muyskenweg,07:56,075600
+10,22,Sweder van Zuylenweg,07:58,075800
+10,23,Sint-Josephlaan,07:59,075900
+10,24,Watertoren,08:00,080000
+10,25,Concordiastraat,08:02,080200
+10,26,Viaduct,08:04,080400
+10,27,Herenweg,08:05,080500
+10,28,Daalsesingel,08:10,081000
+10,29,CS Centrumzijde,08:15,081500
+11,1,CS Centrumzijde,07:36,073600
+11,2,Sint Jacobsstraat,07:40,074000
+11,3,Oudenoord,07:42,074200
+11,4,David van Mollemstraat,07:43,074300
+11,5,Draaiweg,07:44,074400
+11,6,Willem Dreeslaan,07:45,074500
+11,7,Rhônedreef,07:48,074800
+11,8,Winkelcentrum Overvecht,07:50,075000
+11,9,Theemsdreef,07:51,075100
+11,10,Humberdreef,07:52,075200
+11,11,Oranjerivierdreef,07:53,075300
+11,12,Nijldreef,07:54,075400
+11,13,Maniladreef,07:55,075500
+11,14,Pekingdreef,07:56,075600
+11,15,Ammandreef,07:57,075700
+11,16,Klopvaart,07:58,075800
+11,17,Franciscusdreef,08:00,080000
+11,18,J.M. de Muinck Keizerlaan,08:02,080200
+11,19,Prins Bernhardplein,08:03,080300
+11,20,Prins Bernhardlaan,08:04,080400
+11,21,Muyskenweg,08:06,080600
+11,22,Sweder van Zuylenweg,08:08,080800
+11,23,Sint-Josephlaan,08:09,080900
+11,24,Watertoren,08:10,081000
+11,25,Concordiastraat,08:12,081200
+11,26,Viaduct,08:14,081400
+11,27,Herenweg,08:15,081500
+11,28,Daalsesingel,08:20,082000
+11,29,CS Centrumzijde,08:25,082500
+12,1,CS Centrumzijde,07:46,074600
+12,2,Sint Jacobsstraat,07:50,075000
+12,3,Oudenoord,07:52,075200
+12,4,David van Mollemstraat,07:53,075300
+12,5,Draaiweg,07:54,075400
+12,6,Willem Dreeslaan,07:55,075500
+12,7,Rhônedreef,07:58,075800
+12,8,Winkelcentrum Overvecht,08:00,080000
+12,9,Theemsdreef,08:01,080100
+12,10,Humberdreef,08:02,080200
+12,11,Oranjerivierdreef,08:03,080300
+12,12,Nijldreef,08:04,080400
+12,13,Maniladreef,08:05,080500
+12,14,Pekingdreef,08:06,080600
+12,15,Ammandreef,08:07,080700
+12,16,Klopvaart,08:08,080800
+12,17,Franciscusdreef,08:10,081000
+12,18,J.M. de Muinck Keizerlaan,08:12,081200
+12,19,Prins Bernhardplein,08:13,081300
+12,20,Prins Bernhardlaan,08:14,081400
+12,21,Muyskenweg,08:16,081600
+12,22,Sweder van Zuylenweg,08:18,081800
+12,23,Sint-Josephlaan,08:19,081900
+12,24,Watertoren,08:20,082000
+12,25,Concordiastraat,08:22,082200
+12,26,Viaduct,08:24,082400
+12,27,Herenweg,08:25,082500
+12,28,Daalsesingel,08:29,082900
+12,29,CS Centrumzijde,08:33,083300
+13,1,CS Centrumzijde,07:56,075600
+13,2,Sint Jacobsstraat,08:00,080000
+13,3,Oudenoord,08:02,080200
+13,4,David van Mollemstraat,08:03,080300
+13,5,Draaiweg,08:04,080400
+13,6,Willem Dreeslaan,08:05,080500
+13,7,Rhônedreef,08:08,080800
+13,8,Winkelcentrum Overvecht,08:10,081000
+13,9,Theemsdreef,08:11,081100
+13,10,Humberdreef,08:12,081200
+13,11,Oranjerivierdreef,08:13,081300
+13,12,Nijldreef,08:14,081400
+13,13,Maniladreef,08:15,081500
+13,14,Pekingdreef,08:16,081600
+13,15,Ammandreef,08:17,081700
+13,16,Klopvaart,08:18,081800
+13,17,Franciscusdreef,08:20,082000
+13,18,J.M. de Muinck Keizerlaan,08:22,082200
+13,19,Prins Bernhardplein,08:23,082300
+13,20,Prins Bernhardlaan,08:24,082400
+13,21,Muyskenweg,08:26,082600
+13,22,Sweder van Zuylenweg,08:27,082700
+13,23,Sint-Josephlaan,08:28,082800
+13,24,Watertoren,08:29,082900
+13,25,Concordiastraat,08:30,083000
+13,26,Viaduct,08:32,083200
+13,27,Herenweg,08:33,083300
+13,28,Daalsesingel,08:37,083700
+13,29,CS Centrumzijde,08:41,084100
+14,1,CS Centrumzijde,08:06,080600
+14,2,Sint Jacobsstraat,08:10,081000
+14,3,Oudenoord,08:12,081200
+14,4,David van Mollemstraat,08:13,081300
+14,5,Draaiweg,08:14,081400
+14,6,Willem Dreeslaan,08:15,081500
+14,7,Rhônedreef,08:18,081800
+14,8,Winkelcentrum Overvecht,08:20,082000
+14,9,Theemsdreef,08:21,082100
+14,10,Humberdreef,08:22,082200
+14,11,Oranjerivierdreef,08:23,082300
+14,12,Nijldreef,08:24,082400
+14,13,Maniladreef,08:25,082500
+14,14,Pekingdreef,08:26,082600
+14,15,Ammandreef,08:27,082700
+14,16,Klopvaart,08:28,082800
+14,17,Franciscusdreef,08:30,083000
+14,18,J.M. de Muinck Keizerlaan,08:32,083200
+14,19,Prins Bernhardplein,08:33,083300
+14,20,Prins Bernhardlaan,08:34,083400
+14,21,Muyskenweg,08:36,083600
+14,22,Sweder van Zuylenweg,08:37,083700
+14,23,Sint-Josephlaan,08:38,083800
+14,24,Watertoren,08:39,083900
+14,25,Concordiastraat,08:40,084000
+14,26,Viaduct,08:42,084200
+14,27,Herenweg,08:43,084300
+14,28,Daalsesingel,08:47,084700
+14,29,CS Centrumzijde,08:51,085100
+15,1,CS Centrumzijde,08:16,081600
+15,2,Sint Jacobsstraat,08:20,082000
+15,3,Oudenoord,08:22,082200
+15,4,David van Mollemstraat,08:23,082300
+15,5,Draaiweg,08:24,082400
+15,6,Willem Dreeslaan,08:25,082500
+15,7,Rhônedreef,08:28,082800
+15,8,Winkelcentrum Overvecht,08:30,083000
+15,9,Theemsdreef,08:31,083100
+15,10,Humberdreef,08:32,083200
+15,11,Oranjerivierdreef,08:33,083300
+15,12,Nijldreef,08:34,083400
+15,13,Maniladreef,08:35,083500
+15,14,Pekingdreef,08:36,083600
+15,15,Ammandreef,08:37,083700
+15,16,Klopvaart,08:38,083800
+15,17,Franciscusdreef,08:40,084000
+15,18,J.M. de Muinck Keizerlaan,08:42,084200
+15,19,Prins Bernhardplein,08:43,084300
+15,20,Prins Bernhardlaan,08:44,084400
+15,21,Muyskenweg,08:46,084600
+15,22,Sweder van Zuylenweg,08:47,084700
+15,23,Sint-Josephlaan,08:48,084800
+15,24,Watertoren,08:49,084900
+15,25,Concordiastraat,08:50,085000
+15,26,Viaduct,08:52,085200
+15,27,Herenweg,08:53,085300
+15,28,Daalsesingel,08:57,085700
+15,29,CS Centrumzijde,09:01,090100
+16,1,CS Centrumzijde,08:26,082600
+16,2,Sint Jacobsstraat,08:30,083000
+16,3,Oudenoord,08:32,083200
+16,4,David van Mollemstraat,08:33,083300
+16,5,Draaiweg,08:34,083400
+16,6,Willem Dreeslaan,08:35,083500
+16,7,Rhônedreef,08:38,083800
+16,8,Winkelcentrum Overvecht,08:40,084000
+16,9,Theemsdreef,08:41,084100
+16,10,Humberdreef,08:42,084200
+16,11,Oranjerivierdreef,08:43,084300
+16,12,Nijldreef,08:44,084400
+16,13,Maniladreef,08:45,084500
+16,14,Pekingdreef,08:46,084600
+16,15,Ammandreef,08:47,084700
+16,16,Klopvaart,08:48,084800
+16,17,Franciscusdreef,08:50,085000
+16,18,J.M. de Muinck Keizerlaan,08:52,085200
+16,19,Prins Bernhardplein,08:53,085300
+16,20,Prins Bernhardlaan,08:54,085400
+16,21,Muyskenweg,08:56,085600
+16,22,Sweder van Zuylenweg,08:57,085700
+16,23,Sint-Josephlaan,08:58,085800
+16,24,Watertoren,08:59,085900
+16,25,Concordiastraat,09:00,090000
+16,26,Viaduct,09:02,090200
+16,27,Herenweg,09:03,090300
+16,28,Daalsesingel,09:07,090700
+16,29,CS Centrumzijde,09:11,091100
+17,1,CS Centrumzijde,08:36,083600
+17,2,Sint Jacobsstraat,08:40,084000
+17,3,Oudenoord,08:42,084200
+17,4,David van Mollemstraat,08:43,084300
+17,5,Draaiweg,08:44,084400
+17,6,Willem Dreeslaan,08:45,084500
+17,7,Rhônedreef,08:48,084800
+17,8,Winkelcentrum Overvecht,08:50,085000
+17,9,Theemsdreef,08:51,085100
+17,10,Humberdreef,08:52,085200
+17,11,Oranjerivierdreef,08:53,085300
+17,12,Nijldreef,08:54,085400
+17,13,Maniladreef,08:55,085500
+17,14,Pekingdreef,08:56,085600
+17,15,Ammandreef,08:57,085700
+17,16,Klopvaart,08:58,085800
+17,17,Franciscusdreef,09:00,090000
+17,18,J.M. de Muinck Keizerlaan,09:02,090200
+17,19,Prins Bernhardplein,09:03,090300
+17,20,Prins Bernhardlaan,09:04,090400
+17,21,Muyskenweg,09:06,090600
+17,22,Sweder van Zuylenweg,09:07,090700
+17,23,Sint-Josephlaan,09:08,090800
+17,24,Watertoren,09:09,090900
+17,25,Concordiastraat,09:10,091000
+17,26,Viaduct,09:12,091200
+17,27,Herenweg,09:13,091300
+17,28,Daalsesingel,09:17,091700
+17,29,CS Centrumzijde,09:21,092100
+18,1,CS Centrumzijde,08:46,084600
+18,2,Sint Jacobsstraat,08:50,085000
+18,3,Oudenoord,08:52,085200
+18,4,David van Mollemstraat,08:53,085300
+18,5,Draaiweg,08:54,085400
+18,6,Willem Dreeslaan,08:55,085500
+18,7,Rhônedreef,08:58,085800
+18,8,Winkelcentrum Overvecht,09:00,090000
+18,9,Theemsdreef,09:01,090100
+18,10,Humberdreef,09:02,090200
+18,11,Oranjerivierdreef,09:03,090300
+18,12,Nijldreef,09:04,090400
+18,13,Maniladreef,09:05,090500
+18,14,Pekingdreef,09:06,090600
+18,15,Ammandreef,09:07,090700
+18,16,Klopvaart,09:08,090800
+18,17,Franciscusdreef,09:10,091000
+18,18,J.M. de Muinck Keizerlaan,09:12,091200
+18,19,Prins Bernhardplein,09:13,091300
+18,20,Prins Bernhardlaan,09:14,091400
+18,21,Muyskenweg,09:16,091600
+18,22,Sweder van Zuylenweg,09:17,091700
+18,23,Sint-Josephlaan,09:18,091800
+18,24,Watertoren,09:19,091900
+18,25,Concordiastraat,09:20,092000
+18,26,Viaduct,09:22,092200
+18,27,Herenweg,09:23,092300
+18,28,Daalsesingel,09:27,092700
+18,29,CS Centrumzijde,09:31,093100
+19,1,CS Centrumzijde,08:56,085600
+19,2,Sint Jacobsstraat,09:00,090000
+19,3,Oudenoord,09:02,090200
+19,4,David van Mollemstraat,09:03,090300
+19,5,Draaiweg,09:04,090400
+19,6,Willem Dreeslaan,09:05,090500
+19,7,Rhônedreef,09:08,090800
+19,8,Winkelcentrum Overvecht,09:10,091000
+19,9,Theemsdreef,09:11,091100
+19,10,Humberdreef,09:12,091200
+19,11,Oranjerivierdreef,09:13,091300
+19,12,Nijldreef,09:14,091400
+19,13,Maniladreef,09:15,091500
+19,14,Pekingdreef,09:16,091600
+19,15,Ammandreef,09:17,091700
+19,16,Klopvaart,09:18,091800
+19,17,Franciscusdreef,09:20,092000
+19,18,J.M. de Muinck Keizerlaan,09:22,092200
+19,19,Prins Bernhardplein,09:23,092300
+19,20,Prins Bernhardlaan,09:24,092400
+19,21,Muyskenweg,09:26,092600
+19,22,Sweder van Zuylenweg,09:27,092700
+19,23,Sint-Josephlaan,09:28,092800
+19,24,Watertoren,09:29,092900
+19,25,Concordiastraat,09:30,093000
+19,26,Viaduct,09:32,093200
+19,27,Herenweg,09:33,093300
+19,28,Daalsesingel,09:37,093700
+19,29,CS Centrumzijde,09:41,094100
+20,1,CS Centrumzijde,09:06,090600
+20,2,Sint Jacobsstraat,09:10,091000
+20,3,Oudenoord,09:12,091200
+20,4,David van Mollemstraat,09:13,091300
+20,5,Draaiweg,09:14,091400
+20,6,Willem Dreeslaan,09:15,091500
+20,7,Rhônedreef,09:18,091800
+20,8,Winkelcentrum Overvecht,09:20,092000
+20,9,Theemsdreef,09:21,092100
+20,10,Humberdreef,09:22,092200
+20,11,Oranjerivierdreef,09:23,092300
+20,12,Nijldreef,09:24,092400
+20,13,Maniladreef,09:25,092500
+20,14,Pekingdreef,09:26,092600
+20,15,Ammandreef,09:27,092700
+20,16,Klopvaart,09:28,092800
+20,17,Franciscusdreef,09:30,093000
+20,18,J.M. de Muinck Keizerlaan,09:32,093200
+20,19,Prins Bernhardplein,09:33,093300
+20,20,Prins Bernhardlaan,09:34,093400
+20,21,Muyskenweg,09:36,093600
+20,22,Sweder van Zuylenweg,09:37,093700
+20,23,Sint-Josephlaan,09:38,093800
+20,24,Watertoren,09:39,093900
+20,25,Concordiastraat,09:40,094000
+20,26,Viaduct,09:42,094200
+20,27,Herenweg,09:43,094300
+20,28,Daalsesingel,09:47,094700
+20,29,CS Centrumzijde,09:51,095100
+21,1,CS Centrumzijde,09:16,091600
+21,2,Sint Jacobsstraat,09:20,092000
+21,3,Oudenoord,09:22,092200
+21,4,David van Mollemstraat,09:23,092300
+21,5,Draaiweg,09:24,092400
+21,6,Willem Dreeslaan,09:25,092500
+21,7,Rhônedreef,09:28,092800
+21,8,Winkelcentrum Overvecht,09:30,093000
+21,9,Theemsdreef,09:31,093100
+21,10,Humberdreef,09:32,093200
+21,11,Oranjerivierdreef,09:33,093300
+21,12,Nijldreef,09:34,093400
+21,13,Maniladreef,09:35,093500
+21,14,Pekingdreef,09:36,093600
+21,15,Ammandreef,09:37,093700
+21,16,Klopvaart,09:38,093800
+21,17,Franciscusdreef,09:40,094000
+21,18,J.M. de Muinck Keizerlaan,09:42,094200
+21,19,Prins Bernhardplein,09:43,094300
+21,20,Prins Bernhardlaan,09:44,094400
+21,21,Muyskenweg,09:46,094600
+21,22,Sweder van Zuylenweg,09:47,094700
+21,23,Sint-Josephlaan,09:48,094800
+21,24,Watertoren,09:49,094900
+21,25,Concordiastraat,09:50,095000
+21,26,Viaduct,09:52,095200
+21,27,Herenweg,09:53,095300
+21,28,Daalsesingel,09:57,095700
+21,29,CS Centrumzijde,10:01,100100
+22,1,CS Centrumzijde,09:26,092600
+22,2,Sint Jacobsstraat,09:30,093000
+22,3,Oudenoord,09:32,093200
+22,4,David van Mollemstraat,09:33,093300
+22,5,Draaiweg,09:34,093400
+22,6,Willem Dreeslaan,09:35,093500
+22,7,Rhônedreef,09:38,093800
+22,8,Winkelcentrum Overvecht,09:40,094000
+22,9,Theemsdreef,09:41,094100
+22,10,Humberdreef,09:42,094200
+22,11,Oranjerivierdreef,09:43,094300
+22,12,Nijldreef,09:44,094400
+22,13,Maniladreef,09:45,094500
+22,14,Pekingdreef,09:46,094600
+22,15,Ammandreef,09:47,094700
+22,16,Klopvaart,09:48,094800
+22,17,Franciscusdreef,09:50,095000
+22,18,J.M. de Muinck Keizerlaan,09:52,095200
+22,19,Prins Bernhardplein,09:53,095300
+22,20,Prins Bernhardlaan,09:54,095400
+22,21,Muyskenweg,09:56,095600
+22,22,Sweder van Zuylenweg,09:57,095700
+22,23,Sint-Josephlaan,09:58,095800
+22,24,Watertoren,09:59,095900
+22,25,Concordiastraat,10:00,100000
+22,26,Viaduct,10:02,100200
+22,27,Herenweg,10:03,100300
+22,28,Daalsesingel,10:07,100700
+22,29,CS Centrumzijde,10:11,101100
+23,1,CS Centrumzijde,09:36,093600
+23,2,Sint Jacobsstraat,09:40,094000
+23,3,Oudenoord,09:42,094200
+23,4,David van Mollemstraat,09:43,094300
+23,5,Draaiweg,09:44,094400
+23,6,Willem Dreeslaan,09:45,094500
+23,7,Rhônedreef,09:48,094800
+23,8,Winkelcentrum Overvecht,09:50,095000
+23,9,Theemsdreef,09:51,095100
+23,10,Humberdreef,09:52,095200
+23,11,Oranjerivierdreef,09:53,095300
+23,12,Nijldreef,09:54,095400
+23,13,Maniladreef,09:55,095500
+23,14,Pekingdreef,09:56,095600
+23,15,Ammandreef,09:57,095700
+23,16,Klopvaart,09:58,095800
+23,17,Franciscusdreef,10:00,100000
+23,18,J.M. de Muinck Keizerlaan,10:02,100200
+23,19,Prins Bernhardplein,10:03,100300
+23,20,Prins Bernhardlaan,10:04,100400
+23,21,Muyskenweg,10:06,100600
+23,22,Sweder van Zuylenweg,10:07,100700
+23,23,Sint-Josephlaan,10:08,100800
+23,24,Watertoren,10:09,100900
+23,25,Concordiastraat,10:10,101000
+23,26,Viaduct,10:12,101200
+23,27,Herenweg,10:13,101300
+23,28,Daalsesingel,10:17,101700
+23,29,CS Centrumzijde,10:21,102100
+24,1,CS Centrumzijde,09:46,094600
+24,2,Sint Jacobsstraat,09:50,095000
+24,3,Oudenoord,09:52,095200
+24,4,David van Mollemstraat,09:53,095300
+24,5,Draaiweg,09:54,095400
+24,6,Willem Dreeslaan,09:55,095500
+24,7,Rhônedreef,09:58,095800
+24,8,Winkelcentrum Overvecht,10:00,100000
+24,9,Theemsdreef,10:01,100100
+24,10,Humberdreef,10:02,100200
+24,11,Oranjerivierdreef,10:03,100300
+24,12,Nijldreef,10:04,100400
+24,13,Maniladreef,10:05,100500
+24,14,Pekingdreef,10:06,100600
+24,15,Ammandreef,10:07,100700
+24,16,Klopvaart,10:08,100800
+24,17,Franciscusdreef,10:10,101000
+24,18,J.M. de Muinck Keizerlaan,10:12,101200
+24,19,Prins Bernhardplein,10:13,101300
+24,20,Prins Bernhardlaan,10:14,101400
+24,21,Muyskenweg,10:16,101600
+24,22,Sweder van Zuylenweg,10:17,101700
+24,23,Sint-Josephlaan,10:18,101800
+24,24,Watertoren,10:19,101900
+24,25,Concordiastraat,10:20,102000
+24,26,Viaduct,10:22,102200
+24,27,Herenweg,10:23,102300
+24,28,Daalsesingel,10:27,102700
+24,29,CS Centrumzijde,10:31,103100
+25,1,CS Centrumzijde,09:56,095600
+25,2,Sint Jacobsstraat,10:00,100000
+25,3,Oudenoord,10:02,100200
+25,4,David van Mollemstraat,10:03,100300
+25,5,Draaiweg,10:04,100400
+25,6,Willem Dreeslaan,10:05,100500
+25,7,Rhônedreef,10:08,100800
+25,8,Winkelcentrum Overvecht,10:10,101000
+25,9,Theemsdreef,10:11,101100
+25,10,Humberdreef,10:12,101200
+25,11,Oranjerivierdreef,10:13,101300
+25,12,Nijldreef,10:14,101400
+25,13,Maniladreef,10:15,101500
+25,14,Pekingdreef,10:16,101600
+25,15,Ammandreef,10:17,101700
+25,16,Klopvaart,10:18,101800
+25,17,Franciscusdreef,10:20,102000
+25,18,J.M. de Muinck Keizerlaan,10:22,102200
+25,19,Prins Bernhardplein,10:23,102300
+25,20,Prins Bernhardlaan,10:24,102400
+25,21,Muyskenweg,10:26,102600
+25,22,Sweder van Zuylenweg,10:27,102700
+25,23,Sint-Josephlaan,10:28,102800
+25,24,Watertoren,10:29,102900
+25,25,Concordiastraat,10:30,103000
+25,26,Viaduct,10:32,103200
+25,27,Herenweg,10:33,103300
+25,28,Daalsesingel,10:37,103700
+25,29,CS Centrumzijde,10:41,104100
+26,1,CS Centrumzijde,10:06,100600
+26,2,Sint Jacobsstraat,10:10,101000
+26,3,Oudenoord,10:12,101200
+26,4,David van Mollemstraat,10:13,101300
+26,5,Draaiweg,10:14,101400
+26,6,Willem Dreeslaan,10:15,101500
+26,7,Rhônedreef,10:18,101800
+26,8,Winkelcentrum Overvecht,10:20,102000
+26,9,Theemsdreef,10:21,102100
+26,10,Humberdreef,10:22,102200
+26,11,Oranjerivierdreef,10:23,102300
+26,12,Nijldreef,10:24,102400
+26,13,Maniladreef,10:25,102500
+26,14,Pekingdreef,10:26,102600
+26,15,Ammandreef,10:27,102700
+26,16,Klopvaart,10:28,102800
+26,17,Franciscusdreef,10:30,103000
+26,18,J.M. de Muinck Keizerlaan,10:32,103200
+26,19,Prins Bernhardplein,10:33,103300
+26,20,Prins Bernhardlaan,10:34,103400
+26,21,Muyskenweg,10:36,103600
+26,22,Sweder van Zuylenweg,10:37,103700
+26,23,Sint-Josephlaan,10:38,103800
+26,24,Watertoren,10:39,103900
+26,25,Concordiastraat,10:40,104000
+26,26,Viaduct,10:42,104200
+26,27,Herenweg,10:43,104300
+26,28,Daalsesingel,10:47,104700
+26,29,CS Centrumzijde,10:51,105100
+27,1,CS Centrumzijde,10:16,101600
+27,2,Sint Jacobsstraat,10:20,102000
+27,3,Oudenoord,10:22,102200
+27,4,David van Mollemstraat,10:23,102300
+27,5,Draaiweg,10:24,102400
+27,6,Willem Dreeslaan,10:25,102500
+27,7,Rhônedreef,10:28,102800
+27,8,Winkelcentrum Overvecht,10:30,103000
+27,9,Theemsdreef,10:31,103100
+27,10,Humberdreef,10:32,103200
+27,11,Oranjerivierdreef,10:33,103300
+27,12,Nijldreef,10:34,103400
+27,13,Maniladreef,10:35,103500
+27,14,Pekingdreef,10:36,103600
+27,15,Ammandreef,10:37,103700
+27,16,Klopvaart,10:38,103800
+27,17,Franciscusdreef,10:40,104000
+27,18,J.M. de Muinck Keizerlaan,10:42,104200
+27,19,Prins Bernhardplein,10:43,104300
+27,20,Prins Bernhardlaan,10:44,104400
+27,21,Muyskenweg,10:46,104600
+27,22,Sweder van Zuylenweg,10:47,104700
+27,23,Sint-Josephlaan,10:48,104800
+27,24,Watertoren,10:49,104900
+27,25,Concordiastraat,10:50,105000
+27,26,Viaduct,10:52,105200
+27,27,Herenweg,10:53,105300
+27,28,Daalsesingel,10:57,105700
+27,29,CS Centrumzijde,11:01,110100
+28,1,CS Centrumzijde,10:26,102600
+28,2,Sint Jacobsstraat,10:30,103000
+28,3,Oudenoord,10:32,103200
+28,4,David van Mollemstraat,10:33,103300
+28,5,Draaiweg,10:34,103400
+28,6,Willem Dreeslaan,10:35,103500
+28,7,Rhônedreef,10:38,103800
+28,8,Winkelcentrum Overvecht,10:40,104000
+28,9,Theemsdreef,10:41,104100
+28,10,Humberdreef,10:42,104200
+28,11,Oranjerivierdreef,10:43,104300
+28,12,Nijldreef,10:44,104400
+28,13,Maniladreef,10:45,104500
+28,14,Pekingdreef,10:46,104600
+28,15,Ammandreef,10:47,104700
+28,16,Klopvaart,10:48,104800
+28,17,Franciscusdreef,10:50,105000
+28,18,J.M. de Muinck Keizerlaan,10:52,105200
+28,19,Prins Bernhardplein,10:53,105300
+28,20,Prins Bernhardlaan,10:54,105400
+28,21,Muyskenweg,10:56,105600
+28,22,Sweder van Zuylenweg,10:57,105700
+28,23,Sint-Josephlaan,10:58,105800
+28,24,Watertoren,10:59,105900
+28,25,Concordiastraat,11:00,110000
+28,26,Viaduct,11:02,110200
+28,27,Herenweg,11:03,110300
+28,28,Daalsesingel,11:07,110700
+28,29,CS Centrumzijde,11:11,111100
+29,1,CS Centrumzijde,10:36,103600
+29,2,Sint Jacobsstraat,10:40,104000
+29,3,Oudenoord,10:42,104200
+29,4,David van Mollemstraat,10:43,104300
+29,5,Draaiweg,10:44,104400
+29,6,Willem Dreeslaan,10:45,104500
+29,7,Rhônedreef,10:48,104800
+29,8,Winkelcentrum Overvecht,10:50,105000
+29,9,Theemsdreef,10:51,105100
+29,10,Humberdreef,10:52,105200
+29,11,Oranjerivierdreef,10:53,105300
+29,12,Nijldreef,10:54,105400
+29,13,Maniladreef,10:55,105500
+29,14,Pekingdreef,10:56,105600
+29,15,Ammandreef,10:57,105700
+29,16,Klopvaart,10:58,105800
+29,17,Franciscusdreef,11:00,110000
+29,18,J.M. de Muinck Keizerlaan,11:02,110200
+29,19,Prins Bernhardplein,11:03,110300
+29,20,Prins Bernhardlaan,11:04,110400
+29,21,Muyskenweg,11:06,110600
+29,22,Sweder van Zuylenweg,11:07,110700
+29,23,Sint-Josephlaan,11:08,110800
+29,24,Watertoren,11:09,110900
+29,25,Concordiastraat,11:10,111000
+29,26,Viaduct,11:12,111200
+29,27,Herenweg,11:13,111300
+29,28,Daalsesingel,11:17,111700
+29,29,CS Centrumzijde,11:21,112100
+30,1,CS Centrumzijde,10:46,104600
+30,2,Sint Jacobsstraat,10:50,105000
+30,3,Oudenoord,10:52,105200
+30,4,David van Mollemstraat,10:53,105300
+30,5,Draaiweg,10:54,105400
+30,6,Willem Dreeslaan,10:55,105500
+30,7,Rhônedreef,10:58,105800
+30,8,Winkelcentrum Overvecht,11:00,110000
+30,9,Theemsdreef,11:01,110100
+30,10,Humberdreef,11:02,110200
+30,11,Oranjerivierdreef,11:03,110300
+30,12,Nijldreef,11:04,110400
+30,13,Maniladreef,11:05,110500
+30,14,Pekingdreef,11:06,110600
+30,15,Ammandreef,11:07,110700
+30,16,Klopvaart,11:08,110800
+30,17,Franciscusdreef,11:10,111000
+30,18,J.M. de Muinck Keizerlaan,11:12,111200
+30,19,Prins Bernhardplein,11:13,111300
+30,20,Prins Bernhardlaan,11:14,111400
+30,21,Muyskenweg,11:16,111600
+30,22,Sweder van Zuylenweg,11:17,111700
+30,23,Sint-Josephlaan,11:18,111800
+30,24,Watertoren,11:19,111900
+30,25,Concordiastraat,11:20,112000
+30,26,Viaduct,11:22,112200
+30,27,Herenweg,11:23,112300
+30,28,Daalsesingel,11:27,112700
+30,29,CS Centrumzijde,11:31,113100
+31,1,CS Centrumzijde,10:56,105600
+31,2,Sint Jacobsstraat,11:00,110000
+31,3,Oudenoord,11:02,110200
+31,4,David van Mollemstraat,11:03,110300
+31,5,Draaiweg,11:04,110400
+31,6,Willem Dreeslaan,11:05,110500
+31,7,Rhônedreef,11:08,110800
+31,8,Winkelcentrum Overvecht,11:10,111000
+31,9,Theemsdreef,11:11,111100
+31,10,Humberdreef,11:12,111200
+31,11,Oranjerivierdreef,11:13,111300
+31,12,Nijldreef,11:14,111400
+31,13,Maniladreef,11:15,111500
+31,14,Pekingdreef,11:16,111600
+31,15,Ammandreef,11:17,111700
+31,16,Klopvaart,11:18,111800
+31,17,Franciscusdreef,11:20,112000
+31,18,J.M. de Muinck Keizerlaan,11:22,112200
+31,19,Prins Bernhardplein,11:23,112300
+31,20,Prins Bernhardlaan,11:24,112400
+31,21,Muyskenweg,11:26,112600
+31,22,Sweder van Zuylenweg,11:27,112700
+31,23,Sint-Josephlaan,11:28,112800
+31,24,Watertoren,11:29,112900
+31,25,Concordiastraat,11:30,113000
+31,26,Viaduct,11:32,113200
+31,27,Herenweg,11:33,113300
+31,28,Daalsesingel,11:37,113700
+31,29,CS Centrumzijde,11:42,114200
+32,1,CS Centrumzijde,11:06,110600
+32,2,Sint Jacobsstraat,11:10,111000
+32,3,Oudenoord,11:12,111200
+32,4,David van Mollemstraat,11:13,111300
+32,5,Draaiweg,11:14,111400
+32,6,Willem Dreeslaan,11:15,111500
+32,7,Rhônedreef,11:18,111800
+32,8,Winkelcentrum Overvecht,11:20,112000
+32,9,Theemsdreef,11:21,112100
+32,10,Humberdreef,11:22,112200
+32,11,Oranjerivierdreef,11:23,112300
+32,12,Nijldreef,11:24,112400
+32,13,Maniladreef,11:25,112500
+32,14,Pekingdreef,11:26,112600
+32,15,Ammandreef,11:27,112700
+32,16,Klopvaart,11:28,112800
+32,17,Franciscusdreef,11:30,113000
+32,18,J.M. de Muinck Keizerlaan,11:32,113200
+32,19,Prins Bernhardplein,11:33,113300
+32,20,Prins Bernhardlaan,11:34,113400
+32,21,Muyskenweg,11:36,113600
+32,22,Sweder van Zuylenweg,11:37,113700
+32,23,Sint-Josephlaan,11:38,113800
+32,24,Watertoren,11:39,113900
+32,25,Concordiastraat,11:41,114100
+32,26,Viaduct,11:43,114300
+32,27,Herenweg,11:44,114400
+32,28,Daalsesingel,11:48,114800
+32,29,CS Centrumzijde,11:53,115300
+33,1,CS Centrumzijde,11:16,111600
+33,2,Sint Jacobsstraat,11:20,112000
+33,3,Oudenoord,11:22,112200
+33,4,David van Mollemstraat,11:23,112300
+33,5,Draaiweg,11:24,112400
+33,6,Willem Dreeslaan,11:25,112500
+33,7,Rhônedreef,11:28,112800
+33,8,Winkelcentrum Overvecht,11:30,113000
+33,9,Theemsdreef,11:31,113100
+33,10,Humberdreef,11:32,113200
+33,11,Oranjerivierdreef,11:33,113300
+33,12,Nijldreef,11:34,113400
+33,13,Maniladreef,11:35,113500
+33,14,Pekingdreef,11:36,113600
+33,15,Ammandreef,11:37,113700
+33,16,Klopvaart,11:38,113800
+33,17,Franciscusdreef,11:40,114000
+33,18,J.M. de Muinck Keizerlaan,11:42,114200
+33,19,Prins Bernhardplein,11:43,114300
+33,20,Prins Bernhardlaan,11:44,114400
+33,21,Muyskenweg,11:46,114600
+33,22,Sweder van Zuylenweg,11:47,114700
+33,23,Sint-Josephlaan,11:48,114800
+33,24,Watertoren,11:49,114900
+33,25,Concordiastraat,11:51,115100
+33,26,Viaduct,11:53,115300
+33,27,Herenweg,11:54,115400
+33,28,Daalsesingel,11:58,115800
+33,29,CS Centrumzijde,12:03,120300
+34,1,CS Centrumzijde,11:26,112600
+34,2,Sint Jacobsstraat,11:30,113000
+34,3,Oudenoord,11:32,113200
+34,4,David van Mollemstraat,11:33,113300
+34,5,Draaiweg,11:34,113400
+34,6,Willem Dreeslaan,11:35,113500
+34,7,Rhônedreef,11:38,113800
+34,8,Winkelcentrum Overvecht,11:40,114000
+34,9,Theemsdreef,11:41,114100
+34,10,Humberdreef,11:42,114200
+34,11,Oranjerivierdreef,11:43,114300
+34,12,Nijldreef,11:44,114400
+34,13,Maniladreef,11:45,114500
+34,14,Pekingdreef,11:46,114600
+34,15,Ammandreef,11:47,114700
+34,16,Klopvaart,11:48,114800
+34,17,Franciscusdreef,11:50,115000
+34,18,J.M. de Muinck Keizerlaan,11:52,115200
+34,19,Prins Bernhardplein,11:53,115300
+34,20,Prins Bernhardlaan,11:54,115400
+34,21,Muyskenweg,11:56,115600
+34,22,Sweder van Zuylenweg,11:57,115700
+34,23,Sint-Josephlaan,11:58,115800
+34,24,Watertoren,11:59,115900
+34,25,Concordiastraat,12:01,120100
+34,26,Viaduct,12:03,120300
+34,27,Herenweg,12:04,120400
+34,28,Daalsesingel,12:08,120800
+34,29,CS Centrumzijde,12:13,121300
+35,1,CS Centrumzijde,11:36,113600
+35,2,Sint Jacobsstraat,11:40,114000
+35,3,Oudenoord,11:42,114200
+35,4,David van Mollemstraat,11:43,114300
+35,5,Draaiweg,11:44,114400
+35,6,Willem Dreeslaan,11:45,114500
+35,7,Rhônedreef,11:48,114800
+35,8,Winkelcentrum Overvecht,11:50,115000
+35,9,Theemsdreef,11:51,115100
+35,10,Humberdreef,11:52,115200
+35,11,Oranjerivierdreef,11:53,115300
+35,12,Nijldreef,11:54,115400
+35,13,Maniladreef,11:55,115500
+35,14,Pekingdreef,11:56,115600
+35,15,Ammandreef,11:57,115700
+35,16,Klopvaart,11:58,115800
+35,17,Franciscusdreef,12:00,120000
+35,18,J.M. de Muinck Keizerlaan,12:02,120200
+35,19,Prins Bernhardplein,12:03,120300
+35,20,Prins Bernhardlaan,12:04,120400
+35,21,Muyskenweg,12:06,120600
+35,22,Sweder van Zuylenweg,12:07,120700
+35,23,Sint-Josephlaan,12:08,120800
+35,24,Watertoren,12:09,120900
+35,25,Concordiastraat,12:11,121100
+35,26,Viaduct,12:13,121300
+35,27,Herenweg,12:14,121400
+35,28,Daalsesingel,12:18,121800
+35,29,CS Centrumzijde,12:23,122300
+36,1,CS Centrumzijde,11:46,114600
+36,2,Sint Jacobsstraat,11:50,115000
+36,3,Oudenoord,11:52,115200
+36,4,David van Mollemstraat,11:53,115300
+36,5,Draaiweg,11:54,115400
+36,6,Willem Dreeslaan,11:55,115500
+36,7,Rhônedreef,11:58,115800
+36,8,Winkelcentrum Overvecht,12:00,120000
+36,9,Theemsdreef,12:01,120100
+36,10,Humberdreef,12:02,120200
+36,11,Oranjerivierdreef,12:03,120300
+36,12,Nijldreef,12:04,120400
+36,13,Maniladreef,12:05,120500
+36,14,Pekingdreef,12:06,120600
+36,15,Ammandreef,12:07,120700
+36,16,Klopvaart,12:08,120800
+36,17,Franciscusdreef,12:10,121000
+36,18,J.M. de Muinck Keizerlaan,12:12,121200
+36,19,Prins Bernhardplein,12:13,121300
+36,20,Prins Bernhardlaan,12:14,121400
+36,21,Muyskenweg,12:16,121600
+36,22,Sweder van Zuylenweg,12:17,121700
+36,23,Sint-Josephlaan,12:18,121800
+36,24,Watertoren,12:19,121900
+36,25,Concordiastraat,12:21,122100
+36,26,Viaduct,12:23,122300
+36,27,Herenweg,12:24,122400
+36,28,Daalsesingel,12:28,122800
+36,29,CS Centrumzijde,12:33,123300
+37,1,CS Centrumzijde,11:56,115600
+37,2,Sint Jacobsstraat,12:00,120000
+37,3,Oudenoord,12:02,120200
+37,4,David van Mollemstraat,12:03,120300
+37,5,Draaiweg,12:04,120400
+37,6,Willem Dreeslaan,12:05,120500
+37,7,Rhônedreef,12:08,120800
+37,8,Winkelcentrum Overvecht,12:10,121000
+37,9,Theemsdreef,12:11,121100
+37,10,Humberdreef,12:12,121200
+37,11,Oranjerivierdreef,12:13,121300
+37,12,Nijldreef,12:14,121400
+37,13,Maniladreef,12:15,121500
+37,14,Pekingdreef,12:16,121600
+37,15,Ammandreef,12:17,121700
+37,16,Klopvaart,12:18,121800
+37,17,Franciscusdreef,12:20,122000
+37,18,J.M. de Muinck Keizerlaan,12:22,122200
+37,19,Prins Bernhardplein,12:23,122300
+37,20,Prins Bernhardlaan,12:24,122400
+37,21,Muyskenweg,12:26,122600
+37,22,Sweder van Zuylenweg,12:27,122700
+37,23,Sint-Josephlaan,12:28,122800
+37,24,Watertoren,12:29,122900
+37,25,Concordiastraat,12:31,123100
+37,26,Viaduct,12:33,123300
+37,27,Herenweg,12:34,123400
+37,28,Daalsesingel,12:38,123800
+37,29,CS Centrumzijde,12:43,124300
+38,1,CS Centrumzijde,12:06,120600
+38,2,Sint Jacobsstraat,12:10,121000
+38,3,Oudenoord,12:12,121200
+38,4,David van Mollemstraat,12:13,121300
+38,5,Draaiweg,12:14,121400
+38,6,Willem Dreeslaan,12:15,121500
+38,7,Rhônedreef,12:18,121800
+38,8,Winkelcentrum Overvecht,12:20,122000
+38,9,Theemsdreef,12:21,122100
+38,10,Humberdreef,12:22,122200
+38,11,Oranjerivierdreef,12:23,122300
+38,12,Nijldreef,12:24,122400
+38,13,Maniladreef,12:25,122500
+38,14,Pekingdreef,12:26,122600
+38,15,Ammandreef,12:27,122700
+38,16,Klopvaart,12:28,122800
+38,17,Franciscusdreef,12:30,123000
+38,18,J.M. de Muinck Keizerlaan,12:32,123200
+38,19,Prins Bernhardplein,12:33,123300
+38,20,Prins Bernhardlaan,12:34,123400
+38,21,Muyskenweg,12:36,123600
+38,22,Sweder van Zuylenweg,12:37,123700
+38,23,Sint-Josephlaan,12:38,123800
+38,24,Watertoren,12:39,123900
+38,25,Concordiastraat,12:41,124100
+38,26,Viaduct,12:43,124300
+38,27,Herenweg,12:44,124400
+38,28,Daalsesingel,12:48,124800
+38,29,CS Centrumzijde,12:53,125300
+39,1,CS Centrumzijde,12:16,121600
+39,2,Sint Jacobsstraat,12:20,122000
+39,3,Oudenoord,12:22,122200
+39,4,David van Mollemstraat,12:23,122300
+39,5,Draaiweg,12:24,122400
+39,6,Willem Dreeslaan,12:25,122500
+39,7,Rhônedreef,12:28,122800
+39,8,Winkelcentrum Overvecht,12:30,123000
+39,9,Theemsdreef,12:31,123100
+39,10,Humberdreef,12:32,123200
+39,11,Oranjerivierdreef,12:33,123300
+39,12,Nijldreef,12:34,123400
+39,13,Maniladreef,12:35,123500
+39,14,Pekingdreef,12:36,123600
+39,15,Ammandreef,12:37,123700
+39,16,Klopvaart,12:38,123800
+39,17,Franciscusdreef,12:40,124000
+39,18,J.M. de Muinck Keizerlaan,12:42,124200
+39,19,Prins Bernhardplein,12:43,124300
+39,20,Prins Bernhardlaan,12:44,124400
+39,21,Muyskenweg,12:46,124600
+39,22,Sweder van Zuylenweg,12:47,124700
+39,23,Sint-Josephlaan,12:48,124800
+39,24,Watertoren,12:49,124900
+39,25,Concordiastraat,12:51,125100
+39,26,Viaduct,12:53,125300
+39,27,Herenweg,12:54,125400
+39,28,Daalsesingel,12:58,125800
+39,29,CS Centrumzijde,13:03,130300
+40,1,CS Centrumzijde,12:26,122600
+40,2,Sint Jacobsstraat,12:30,123000
+40,3,Oudenoord,12:32,123200
+40,4,David van Mollemstraat,12:33,123300
+40,5,Draaiweg,12:34,123400
+40,6,Willem Dreeslaan,12:35,123500
+40,7,Rhônedreef,12:38,123800
+40,8,Winkelcentrum Overvecht,12:40,124000
+40,9,Theemsdreef,12:41,124100
+40,10,Humberdreef,12:42,124200
+40,11,Oranjerivierdreef,12:43,124300
+40,12,Nijldreef,12:44,124400
+40,13,Maniladreef,12:45,124500
+40,14,Pekingdreef,12:46,124600
+40,15,Ammandreef,12:47,124700
+40,16,Klopvaart,12:48,124800
+40,17,Franciscusdreef,12:50,125000
+40,18,J.M. de Muinck Keizerlaan,12:52,125200
+40,19,Prins Bernhardplein,12:53,125300
+40,20,Prins Bernhardlaan,12:54,125400
+40,21,Muyskenweg,12:56,125600
+40,22,Sweder van Zuylenweg,12:57,125700
+40,23,Sint-Josephlaan,12:58,125800
+40,24,Watertoren,12:59,125900
+40,25,Concordiastraat,13:01,130100
+40,26,Viaduct,13:03,130300
+40,27,Herenweg,13:04,130400
+40,28,Daalsesingel,13:08,130800
+40,29,CS Centrumzijde,13:13,131300
+41,1,CS Centrumzijde,12:36,123600
+41,2,Sint Jacobsstraat,12:40,124000
+41,3,Oudenoord,12:42,124200
+41,4,David van Mollemstraat,12:43,124300
+41,5,Draaiweg,12:44,124400
+41,6,Willem Dreeslaan,12:45,124500
+41,7,Rhônedreef,12:48,124800
+41,8,Winkelcentrum Overvecht,12:50,125000
+41,9,Theemsdreef,12:51,125100
+41,10,Humberdreef,12:52,125200
+41,11,Oranjerivierdreef,12:53,125300
+41,12,Nijldreef,12:54,125400
+41,13,Maniladreef,12:55,125500
+41,14,Pekingdreef,12:56,125600
+41,15,Ammandreef,12:57,125700
+41,16,Klopvaart,12:58,125800
+41,17,Franciscusdreef,13:00,130000
+41,18,J.M. de Muinck Keizerlaan,13:02,130200
+41,19,Prins Bernhardplein,13:03,130300
+41,20,Prins Bernhardlaan,13:04,130400
+41,21,Muyskenweg,13:06,130600
+41,22,Sweder van Zuylenweg,13:07,130700
+41,23,Sint-Josephlaan,13:08,130800
+41,24,Watertoren,13:09,130900
+41,25,Concordiastraat,13:11,131100
+41,26,Viaduct,13:13,131300
+41,27,Herenweg,13:14,131400
+41,28,Daalsesingel,13:18,131800
+41,29,CS Centrumzijde,13:23,132300
+42,1,CS Centrumzijde,12:46,124600
+42,2,Sint Jacobsstraat,12:50,125000
+42,3,Oudenoord,12:52,125200
+42,4,David van Mollemstraat,12:53,125300
+42,5,Draaiweg,12:54,125400
+42,6,Willem Dreeslaan,12:55,125500
+42,7,Rhônedreef,12:58,125800
+42,8,Winkelcentrum Overvecht,13:00,130000
+42,9,Theemsdreef,13:01,130100
+42,10,Humberdreef,13:02,130200
+42,11,Oranjerivierdreef,13:03,130300
+42,12,Nijldreef,13:04,130400
+42,13,Maniladreef,13:05,130500
+42,14,Pekingdreef,13:06,130600
+42,15,Ammandreef,13:07,130700
+42,16,Klopvaart,13:08,130800
+42,17,Franciscusdreef,13:10,131000
+42,18,J.M. de Muinck Keizerlaan,13:12,131200
+42,19,Prins Bernhardplein,13:13,131300
+42,20,Prins Bernhardlaan,13:14,131400
+42,21,Muyskenweg,13:16,131600
+42,22,Sweder van Zuylenweg,13:17,131700
+42,23,Sint-Josephlaan,13:18,131800
+42,24,Watertoren,13:19,131900
+42,25,Concordiastraat,13:21,132100
+42,26,Viaduct,13:23,132300
+42,27,Herenweg,13:24,132400
+42,28,Daalsesingel,13:28,132800
+42,29,CS Centrumzijde,13:33,133300
+43,1,CS Centrumzijde,12:56,125600
+43,2,Sint Jacobsstraat,13:00,130000
+43,3,Oudenoord,13:02,130200
+43,4,David van Mollemstraat,13:03,130300
+43,5,Draaiweg,13:04,130400
+43,6,Willem Dreeslaan,13:05,130500
+43,7,Rhônedreef,13:08,130800
+43,8,Winkelcentrum Overvecht,13:10,131000
+43,9,Theemsdreef,13:11,131100
+43,10,Humberdreef,13:12,131200
+43,11,Oranjerivierdreef,13:13,131300
+43,12,Nijldreef,13:14,131400
+43,13,Maniladreef,13:15,131500
+43,14,Pekingdreef,13:16,131600
+43,15,Ammandreef,13:17,131700
+43,16,Klopvaart,13:18,131800
+43,17,Franciscusdreef,13:20,132000
+43,18,J.M. de Muinck Keizerlaan,13:22,132200
+43,19,Prins Bernhardplein,13:23,132300
+43,20,Prins Bernhardlaan,13:24,132400
+43,21,Muyskenweg,13:26,132600
+43,22,Sweder van Zuylenweg,13:27,132700
+43,23,Sint-Josephlaan,13:28,132800
+43,24,Watertoren,13:29,132900
+43,25,Concordiastraat,13:31,133100
+43,26,Viaduct,13:33,133300
+43,27,Herenweg,13:34,133400
+43,28,Daalsesingel,13:38,133800
+43,29,CS Centrumzijde,13:43,134300
+44,1,CS Centrumzijde,13:06,130600
+44,2,Sint Jacobsstraat,13:10,131000
+44,3,Oudenoord,13:12,131200
+44,4,David van Mollemstraat,13:13,131300
+44,5,Draaiweg,13:14,131400
+44,6,Willem Dreeslaan,13:15,131500
+44,7,Rhônedreef,13:18,131800
+44,8,Winkelcentrum Overvecht,13:20,132000
+44,9,Theemsdreef,13:21,132100
+44,10,Humberdreef,13:22,132200
+44,11,Oranjerivierdreef,13:23,132300
+44,12,Nijldreef,13:24,132400
+44,13,Maniladreef,13:25,132500
+44,14,Pekingdreef,13:26,132600
+44,15,Ammandreef,13:27,132700
+44,16,Klopvaart,13:28,132800
+44,17,Franciscusdreef,13:30,133000
+44,18,J.M. de Muinck Keizerlaan,13:32,133200
+44,19,Prins Bernhardplein,13:33,133300
+44,20,Prins Bernhardlaan,13:34,133400
+44,21,Muyskenweg,13:36,133600
+44,22,Sweder van Zuylenweg,13:37,133700
+44,23,Sint-Josephlaan,13:38,133800
+44,24,Watertoren,13:39,133900
+44,25,Concordiastraat,13:41,134100
+44,26,Viaduct,13:43,134300
+44,27,Herenweg,13:44,134400
+44,28,Daalsesingel,13:48,134800
+44,29,CS Centrumzijde,13:53,135300
+45,1,CS Centrumzijde,13:16,131600
+45,2,Sint Jacobsstraat,13:20,132000
+45,3,Oudenoord,13:22,132200
+45,4,David van Mollemstraat,13:23,132300
+45,5,Draaiweg,13:24,132400
+45,6,Willem Dreeslaan,13:25,132500
+45,7,Rhônedreef,13:28,132800
+45,8,Winkelcentrum Overvecht,13:30,133000
+45,9,Theemsdreef,13:31,133100
+45,10,Humberdreef,13:32,133200
+45,11,Oranjerivierdreef,13:33,133300
+45,12,Nijldreef,13:34,133400
+45,13,Maniladreef,13:35,133500
+45,14,Pekingdreef,13:36,133600
+45,15,Ammandreef,13:37,133700
+45,16,Klopvaart,13:39,133900
+45,17,Franciscusdreef,13:41,134100
+45,18,J.M. de Muinck Keizerlaan,13:43,134300
+45,19,Prins Bernhardplein,13:44,134400
+45,20,Prins Bernhardlaan,13:45,134500
+45,21,Muyskenweg,13:47,134700
+45,22,Sweder van Zuylenweg,13:48,134800
+45,23,Sint-Josephlaan,13:49,134900
+45,24,Watertoren,13:50,135000
+45,25,Concordiastraat,13:52,135200
+45,26,Viaduct,13:54,135400
+45,27,Herenweg,13:55,135500
+45,28,Daalsesingel,13:59,135900
+45,29,CS Centrumzijde,14:04,140400
+46,1,CS Centrumzijde,13:26,132600
+46,2,Sint Jacobsstraat,13:30,133000
+46,3,Oudenoord,13:32,133200
+46,4,David van Mollemstraat,13:33,133300
+46,5,Draaiweg,13:35,133500
+46,6,Willem Dreeslaan,13:36,133600
+46,7,Rhônedreef,13:39,133900
+46,8,Winkelcentrum Overvecht,13:41,134100
+46,9,Theemsdreef,13:42,134200
+46,10,Humberdreef,13:43,134300
+46,11,Oranjerivierdreef,13:44,134400
+46,12,Nijldreef,13:45,134500
+46,13,Maniladreef,13:46,134600
+46,14,Pekingdreef,13:47,134700
+46,15,Ammandreef,13:48,134800
+46,16,Klopvaart,13:50,135000
+46,17,Franciscusdreef,13:52,135200
+46,18,J.M. de Muinck Keizerlaan,13:54,135400
+46,19,Prins Bernhardplein,13:55,135500
+46,20,Prins Bernhardlaan,13:56,135600
+46,21,Muyskenweg,13:58,135800
+46,22,Sweder van Zuylenweg,13:59,135900
+46,23,Sint-Josephlaan,14:00,140000
+46,24,Watertoren,14:01,140100
+46,25,Concordiastraat,14:03,140300
+46,26,Viaduct,14:05,140500
+46,27,Herenweg,14:06,140600
+46,28,Daalsesingel,14:10,141000
+46,29,CS Centrumzijde,14:15,141500
+47,1,CS Centrumzijde,13:36,133600
+47,2,Sint Jacobsstraat,13:40,134000
+47,3,Oudenoord,13:42,134200
+47,4,David van Mollemstraat,13:43,134300
+47,5,Draaiweg,13:45,134500
+47,6,Willem Dreeslaan,13:46,134600
+47,7,Rhônedreef,13:49,134900
+47,8,Winkelcentrum Overvecht,13:51,135100
+47,9,Theemsdreef,13:52,135200
+47,10,Humberdreef,13:53,135300
+47,11,Oranjerivierdreef,13:54,135400
+47,12,Nijldreef,13:55,135500
+47,13,Maniladreef,13:56,135600
+47,14,Pekingdreef,13:57,135700
+47,15,Ammandreef,13:58,135800
+47,16,Klopvaart,14:00,140000
+47,17,Franciscusdreef,14:02,140200
+47,18,J.M. de Muinck Keizerlaan,14:04,140400
+47,19,Prins Bernhardplein,14:05,140500
+47,20,Prins Bernhardlaan,14:06,140600
+47,21,Muyskenweg,14:08,140800
+47,22,Sweder van Zuylenweg,14:09,140900
+47,23,Sint-Josephlaan,14:10,141000
+47,24,Watertoren,14:11,141100
+47,25,Concordiastraat,14:13,141300
+47,26,Viaduct,14:15,141500
+47,27,Herenweg,14:16,141600
+47,28,Daalsesingel,14:20,142000
+47,29,CS Centrumzijde,14:25,142500
+48,1,CS Centrumzijde,13:46,134600
+48,2,Sint Jacobsstraat,13:50,135000
+48,3,Oudenoord,13:52,135200
+48,4,David van Mollemstraat,13:53,135300
+48,5,Draaiweg,13:55,135500
+48,6,Willem Dreeslaan,13:56,135600
+48,7,Rhônedreef,13:59,135900
+48,8,Winkelcentrum Overvecht,14:01,140100
+48,9,Theemsdreef,14:02,140200
+48,10,Humberdreef,14:03,140300
+48,11,Oranjerivierdreef,14:04,140400
+48,12,Nijldreef,14:05,140500
+48,13,Maniladreef,14:06,140600
+48,14,Pekingdreef,14:07,140700
+48,15,Ammandreef,14:08,140800
+48,16,Klopvaart,14:10,141000
+48,17,Franciscusdreef,14:12,141200
+48,18,J.M. de Muinck Keizerlaan,14:14,141400
+48,19,Prins Bernhardplein,14:15,141500
+48,20,Prins Bernhardlaan,14:16,141600
+48,21,Muyskenweg,14:18,141800
+48,22,Sweder van Zuylenweg,14:19,141900
+48,23,Sint-Josephlaan,14:20,142000
+48,24,Watertoren,14:21,142100
+48,25,Concordiastraat,14:23,142300
+48,26,Viaduct,14:25,142500
+48,27,Herenweg,14:26,142600
+48,28,Daalsesingel,14:30,143000
+48,29,CS Centrumzijde,14:35,143500
+49,1,CS Centrumzijde,13:56,135600
+49,2,Sint Jacobsstraat,14:00,140000
+49,3,Oudenoord,14:02,140200
+49,4,David van Mollemstraat,14:03,140300
+49,5,Draaiweg,14:05,140500
+49,6,Willem Dreeslaan,14:06,140600
+49,7,Rhônedreef,14:09,140900
+49,8,Winkelcentrum Overvecht,14:11,141100
+49,9,Theemsdreef,14:12,141200
+49,10,Humberdreef,14:13,141300
+49,11,Oranjerivierdreef,14:14,141400
+49,12,Nijldreef,14:15,141500
+49,13,Maniladreef,14:16,141600
+49,14,Pekingdreef,14:17,141700
+49,15,Ammandreef,14:18,141800
+49,16,Klopvaart,14:20,142000
+49,17,Franciscusdreef,14:22,142200
+49,18,J.M. de Muinck Keizerlaan,14:24,142400
+49,19,Prins Bernhardplein,14:25,142500
+49,20,Prins Bernhardlaan,14:26,142600
+49,21,Muyskenweg,14:28,142800
+49,22,Sweder van Zuylenweg,14:29,142900
+49,23,Sint-Josephlaan,14:30,143000
+49,24,Watertoren,14:31,143100
+49,25,Concordiastraat,14:33,143300
+49,26,Viaduct,14:35,143500
+49,27,Herenweg,14:36,143600
+49,28,Daalsesingel,14:40,144000
+49,29,CS Centrumzijde,14:45,144500
+50,1,CS Centrumzijde,14:06,140600
+50,2,Sint Jacobsstraat,14:10,141000
+50,3,Oudenoord,14:12,141200
+50,4,David van Mollemstraat,14:13,141300
+50,5,Draaiweg,14:15,141500
+50,6,Willem Dreeslaan,14:16,141600
+50,7,Rhônedreef,14:19,141900
+50,8,Winkelcentrum Overvecht,14:21,142100
+50,9,Theemsdreef,14:22,142200
+50,10,Humberdreef,14:23,142300
+50,11,Oranjerivierdreef,14:24,142400
+50,12,Nijldreef,14:25,142500
+50,13,Maniladreef,14:26,142600
+50,14,Pekingdreef,14:27,142700
+50,15,Ammandreef,14:28,142800
+50,16,Klopvaart,14:30,143000
+50,17,Franciscusdreef,14:32,143200
+50,18,J.M. de Muinck Keizerlaan,14:34,143400
+50,19,Prins Bernhardplein,14:35,143500
+50,20,Prins Bernhardlaan,14:36,143600
+50,21,Muyskenweg,14:38,143800
+50,22,Sweder van Zuylenweg,14:39,143900
+50,23,Sint-Josephlaan,14:40,144000
+50,24,Watertoren,14:41,144100
+50,25,Concordiastraat,14:43,144300
+50,26,Viaduct,14:45,144500
+50,27,Herenweg,14:46,144600
+50,28,Daalsesingel,14:50,145000
+50,29,CS Centrumzijde,14:55,145500
+51,1,CS Centrumzijde,14:16,141600
+51,2,Sint Jacobsstraat,14:20,142000
+51,3,Oudenoord,14:22,142200
+51,4,David van Mollemstraat,14:23,142300
+51,5,Draaiweg,14:25,142500
+51,6,Willem Dreeslaan,14:26,142600
+51,7,Rhônedreef,14:29,142900
+51,8,Winkelcentrum Overvecht,14:31,143100
+51,9,Theemsdreef,14:32,143200
+51,10,Humberdreef,14:33,143300
+51,11,Oranjerivierdreef,14:34,143400
+51,12,Nijldreef,14:35,143500
+51,13,Maniladreef,14:36,143600
+51,14,Pekingdreef,14:37,143700
+51,15,Ammandreef,14:38,143800
+51,16,Klopvaart,14:40,144000
+51,17,Franciscusdreef,14:42,144200
+51,18,J.M. de Muinck Keizerlaan,14:44,144400
+51,19,Prins Bernhardplein,14:45,144500
+51,20,Prins Bernhardlaan,14:46,144600
+51,21,Muyskenweg,14:48,144800
+51,22,Sweder van Zuylenweg,14:49,144900
+51,23,Sint-Josephlaan,14:50,145000
+51,24,Watertoren,14:51,145100
+51,25,Concordiastraat,14:53,145300
+51,26,Viaduct,14:55,145500
+51,27,Herenweg,14:56,145600
+51,28,Daalsesingel,15:00,150000
+51,29,CS Centrumzijde,15:05,150500
+52,1,CS Centrumzijde,14:26,142600
+52,2,Sint Jacobsstraat,14:30,143000
+52,3,Oudenoord,14:32,143200
+52,4,David van Mollemstraat,14:33,143300
+52,5,Draaiweg,14:35,143500
+52,6,Willem Dreeslaan,14:36,143600
+52,7,Rhônedreef,14:39,143900
+52,8,Winkelcentrum Overvecht,14:41,144100
+52,9,Theemsdreef,14:42,144200
+52,10,Humberdreef,14:43,144300
+52,11,Oranjerivierdreef,14:44,144400
+52,12,Nijldreef,14:45,144500
+52,13,Maniladreef,14:46,144600
+52,14,Pekingdreef,14:47,144700
+52,15,Ammandreef,14:48,144800
+52,16,Klopvaart,14:50,145000
+52,17,Franciscusdreef,14:52,145200
+52,18,J.M. de Muinck Keizerlaan,14:54,145400
+52,19,Prins Bernhardplein,14:55,145500
+52,20,Prins Bernhardlaan,14:56,145600
+52,21,Muyskenweg,14:58,145800
+52,22,Sweder van Zuylenweg,14:59,145900
+52,23,Sint-Josephlaan,15:00,150000
+52,24,Watertoren,15:01,150100
+52,25,Concordiastraat,15:03,150300
+52,26,Viaduct,15:05,150500
+52,27,Herenweg,15:06,150600
+52,28,Daalsesingel,15:10,151000
+52,29,CS Centrumzijde,15:15,151500
+53,1,CS Centrumzijde,14:36,143600
+53,2,Sint Jacobsstraat,14:40,144000
+53,3,Oudenoord,14:42,144200
+53,4,David van Mollemstraat,14:43,144300
+53,5,Draaiweg,14:45,144500
+53,6,Willem Dreeslaan,14:46,144600
+53,7,Rhônedreef,14:49,144900
+53,8,Winkelcentrum Overvecht,14:51,145100
+53,9,Theemsdreef,14:52,145200
+53,10,Humberdreef,14:53,145300
+53,11,Oranjerivierdreef,14:54,145400
+53,12,Nijldreef,14:55,145500
+53,13,Maniladreef,14:56,145600
+53,14,Pekingdreef,14:57,145700
+53,15,Ammandreef,14:58,145800
+53,16,Klopvaart,15:00,150000
+53,17,Franciscusdreef,15:02,150200
+53,18,J.M. de Muinck Keizerlaan,15:04,150400
+53,19,Prins Bernhardplein,15:05,150500
+53,20,Prins Bernhardlaan,15:06,150600
+53,21,Muyskenweg,15:08,150800
+53,22,Sweder van Zuylenweg,15:09,150900
+53,23,Sint-Josephlaan,15:10,151000
+53,24,Watertoren,15:11,151100
+53,25,Concordiastraat,15:13,151300
+53,26,Viaduct,15:15,151500
+53,27,Herenweg,15:16,151600
+53,28,Daalsesingel,15:20,152000
+53,29,CS Centrumzijde,15:25,152500
+54,1,CS Centrumzijde,14:46,144600
+54,2,Sint Jacobsstraat,14:50,145000
+54,3,Oudenoord,14:52,145200
+54,4,David van Mollemstraat,14:53,145300
+54,5,Draaiweg,14:55,145500
+54,6,Willem Dreeslaan,14:56,145600
+54,7,Rhônedreef,14:59,145900
+54,8,Winkelcentrum Overvecht,15:01,150100
+54,9,Theemsdreef,15:02,150200
+54,10,Humberdreef,15:03,150300
+54,11,Oranjerivierdreef,15:04,150400
+54,12,Nijldreef,15:05,150500
+54,13,Maniladreef,15:06,150600
+54,14,Pekingdreef,15:07,150700
+54,15,Ammandreef,15:08,150800
+54,16,Klopvaart,15:10,151000
+54,17,Franciscusdreef,15:12,151200
+54,18,J.M. de Muinck Keizerlaan,15:14,151400
+54,19,Prins Bernhardplein,15:15,151500
+54,20,Prins Bernhardlaan,15:16,151600
+54,21,Muyskenweg,15:18,151800
+54,22,Sweder van Zuylenweg,15:19,151900
+54,23,Sint-Josephlaan,15:20,152000
+54,24,Watertoren,15:21,152100
+54,25,Concordiastraat,15:23,152300
+54,26,Viaduct,15:25,152500
+54,27,Herenweg,15:26,152600
+54,28,Daalsesingel,15:30,153000
+54,29,CS Centrumzijde,15:35,153500
+55,1,CS Centrumzijde,14:56,145600
+55,2,Sint Jacobsstraat,15:00,150000
+55,3,Oudenoord,15:02,150200
+55,4,David van Mollemstraat,15:03,150300
+55,5,Draaiweg,15:05,150500
+55,6,Willem Dreeslaan,15:06,150600
+55,7,Rhônedreef,15:09,150900
+55,8,Winkelcentrum Overvecht,15:11,151100
+55,9,Theemsdreef,15:12,151200
+55,10,Humberdreef,15:13,151300
+55,11,Oranjerivierdreef,15:14,151400
+55,12,Nijldreef,15:15,151500
+55,13,Maniladreef,15:16,151600
+55,14,Pekingdreef,15:17,151700
+55,15,Ammandreef,15:18,151800
+55,16,Klopvaart,15:20,152000
+55,17,Franciscusdreef,15:22,152200
+55,18,J.M. de Muinck Keizerlaan,15:24,152400
+55,19,Prins Bernhardplein,15:25,152500
+55,20,Prins Bernhardlaan,15:26,152600
+55,21,Muyskenweg,15:28,152800
+55,22,Sweder van Zuylenweg,15:29,152900
+55,23,Sint-Josephlaan,15:30,153000
+55,24,Watertoren,15:31,153100
+55,25,Concordiastraat,15:33,153300
+55,26,Viaduct,15:35,153500
+55,27,Herenweg,15:36,153600
+55,28,Daalsesingel,15:40,154000
+55,29,CS Centrumzijde,15:45,154500
+56,1,CS Centrumzijde,15:06,150600
+56,2,Sint Jacobsstraat,15:10,151000
+56,3,Oudenoord,15:12,151200
+56,4,David van Mollemstraat,15:13,151300
+56,5,Draaiweg,15:15,151500
+56,6,Willem Dreeslaan,15:16,151600
+56,7,Rhônedreef,15:19,151900
+56,8,Winkelcentrum Overvecht,15:21,152100
+56,9,Theemsdreef,15:22,152200
+56,10,Humberdreef,15:23,152300
+56,11,Oranjerivierdreef,15:24,152400
+56,12,Nijldreef,15:25,152500
+56,13,Maniladreef,15:26,152600
+56,14,Pekingdreef,15:27,152700
+56,15,Ammandreef,15:28,152800
+56,16,Klopvaart,15:30,153000
+56,17,Franciscusdreef,15:32,153200
+56,18,J.M. de Muinck Keizerlaan,15:34,153400
+56,19,Prins Bernhardplein,15:35,153500
+56,20,Prins Bernhardlaan,15:36,153600
+56,21,Muyskenweg,15:38,153800
+56,22,Sweder van Zuylenweg,15:39,153900
+56,23,Sint-Josephlaan,15:40,154000
+56,24,Watertoren,15:41,154100
+56,25,Concordiastraat,15:43,154300
+56,26,Viaduct,15:45,154500
+56,27,Herenweg,15:46,154600
+56,28,Daalsesingel,15:50,155000
+56,29,CS Centrumzijde,15:55,155500
+57,1,CS Centrumzijde,15:16,151600
+57,2,Sint Jacobsstraat,15:20,152000
+57,3,Oudenoord,15:22,152200
+57,4,David van Mollemstraat,15:23,152300
+57,5,Draaiweg,15:25,152500
+57,6,Willem Dreeslaan,15:26,152600
+57,7,Rhônedreef,15:29,152900
+57,8,Winkelcentrum Overvecht,15:31,153100
+57,9,Theemsdreef,15:32,153200
+57,10,Humberdreef,15:33,153300
+57,11,Oranjerivierdreef,15:34,153400
+57,12,Nijldreef,15:35,153500
+57,13,Maniladreef,15:36,153600
+57,14,Pekingdreef,15:37,153700
+57,15,Ammandreef,15:38,153800
+57,16,Klopvaart,15:40,154000
+57,17,Franciscusdreef,15:42,154200
+57,18,J.M. de Muinck Keizerlaan,15:44,154400
+57,19,Prins Bernhardplein,15:45,154500
+57,20,Prins Bernhardlaan,15:46,154600
+57,21,Muyskenweg,15:48,154800
+57,22,Sweder van Zuylenweg,15:49,154900
+57,23,Sint-Josephlaan,15:50,155000
+57,24,Watertoren,15:51,155100
+57,25,Concordiastraat,15:53,155300
+57,26,Viaduct,15:55,155500
+57,27,Herenweg,15:56,155600
+57,28,Daalsesingel,16:00,160000
+57,29,CS Centrumzijde,16:05,160500
+58,1,CS Centrumzijde,15:26,152600
+58,2,Sint Jacobsstraat,15:30,153000
+58,3,Oudenoord,15:32,153200
+58,4,David van Mollemstraat,15:33,153300
+58,5,Draaiweg,15:35,153500
+58,6,Willem Dreeslaan,15:36,153600
+58,7,Rhônedreef,15:39,153900
+58,8,Winkelcentrum Overvecht,15:41,154100
+58,9,Theemsdreef,15:42,154200
+58,10,Humberdreef,15:43,154300
+58,11,Oranjerivierdreef,15:44,154400
+58,12,Nijldreef,15:45,154500
+58,13,Maniladreef,15:46,154600
+58,14,Pekingdreef,15:47,154700
+58,15,Ammandreef,15:48,154800
+58,16,Klopvaart,15:50,155000
+58,17,Franciscusdreef,15:52,155200
+58,18,J.M. de Muinck Keizerlaan,15:54,155400
+58,19,Prins Bernhardplein,15:55,155500
+58,20,Prins Bernhardlaan,15:56,155600
+58,21,Muyskenweg,15:58,155800
+58,22,Sweder van Zuylenweg,15:59,155900
+58,23,Sint-Josephlaan,16:00,160000
+58,24,Watertoren,16:01,160100
+58,25,Concordiastraat,16:03,160300
+58,26,Viaduct,16:05,160500
+58,27,Herenweg,16:06,160600
+58,28,Daalsesingel,16:10,161000
+58,29,CS Centrumzijde,16:15,161500
+59,1,CS Centrumzijde,15:36,153600
+59,2,Sint Jacobsstraat,15:40,154000
+59,3,Oudenoord,15:42,154200
+59,4,David van Mollemstraat,15:43,154300
+59,5,Draaiweg,15:45,154500
+59,6,Willem Dreeslaan,15:46,154600
+59,7,Rhônedreef,15:49,154900
+59,8,Winkelcentrum Overvecht,15:51,155100
+59,9,Theemsdreef,15:52,155200
+59,10,Humberdreef,15:53,155300
+59,11,Oranjerivierdreef,15:54,155400
+59,12,Nijldreef,15:55,155500
+59,13,Maniladreef,15:56,155600
+59,14,Pekingdreef,15:57,155700
+59,15,Ammandreef,15:58,155800
+59,16,Klopvaart,16:00,160000
+59,17,Franciscusdreef,16:02,160200
+59,18,J.M. de Muinck Keizerlaan,16:04,160400
+59,19,Prins Bernhardplein,16:05,160500
+59,20,Prins Bernhardlaan,16:06,160600
+59,21,Muyskenweg,16:08,160800
+59,22,Sweder van Zuylenweg,16:09,160900
+59,23,Sint-Josephlaan,16:10,161000
+59,24,Watertoren,16:11,161100
+59,25,Concordiastraat,16:13,161300
+59,26,Viaduct,16:15,161500
+59,27,Herenweg,16:16,161600
+59,28,Daalsesingel,16:20,162000
+59,29,CS Centrumzijde,16:25,162500
+60,1,CS Centrumzijde,15:46,154600
+60,2,Sint Jacobsstraat,15:50,155000
+60,3,Oudenoord,15:52,155200
+60,4,David van Mollemstraat,15:53,155300
+60,5,Draaiweg,15:55,155500
+60,6,Willem Dreeslaan,15:56,155600
+60,7,Rhônedreef,15:59,155900
+60,8,Winkelcentrum Overvecht,16:01,160100
+60,9,Theemsdreef,16:02,160200
+60,10,Humberdreef,16:03,160300
+60,11,Oranjerivierdreef,16:04,160400
+60,12,Nijldreef,16:05,160500
+60,13,Maniladreef,16:06,160600
+60,14,Pekingdreef,16:07,160700
+60,15,Ammandreef,16:08,160800
+60,16,Klopvaart,16:10,161000
+60,17,Franciscusdreef,16:12,161200
+60,18,J.M. de Muinck Keizerlaan,16:14,161400
+60,19,Prins Bernhardplein,16:15,161500
+60,20,Prins Bernhardlaan,16:16,161600
+60,21,Muyskenweg,16:18,161800
+60,22,Sweder van Zuylenweg,16:19,161900
+60,23,Sint-Josephlaan,16:20,162000
+60,24,Watertoren,16:21,162100
+60,25,Concordiastraat,16:23,162300
+60,26,Viaduct,16:25,162500
+60,27,Herenweg,16:26,162600
+60,28,Daalsesingel,16:30,163000
+60,29,CS Centrumzijde,16:35,163500
+61,1,CS Centrumzijde,15:56,155600
+61,2,Sint Jacobsstraat,16:00,160000
+61,3,Oudenoord,16:02,160200
+61,4,David van Mollemstraat,16:03,160300
+61,5,Draaiweg,16:05,160500
+61,6,Willem Dreeslaan,16:06,160600
+61,7,Rhônedreef,16:09,160900
+61,8,Winkelcentrum Overvecht,16:11,161100
+61,9,Theemsdreef,16:12,161200
+61,10,Humberdreef,16:13,161300
+61,11,Oranjerivierdreef,16:14,161400
+61,12,Nijldreef,16:15,161500
+61,13,Maniladreef,16:16,161600
+61,14,Pekingdreef,16:17,161700
+61,15,Ammandreef,16:18,161800
+61,16,Klopvaart,16:20,162000
+61,17,Franciscusdreef,16:22,162200
+61,18,J.M. de Muinck Keizerlaan,16:24,162400
+61,19,Prins Bernhardplein,16:25,162500
+61,20,Prins Bernhardlaan,16:26,162600
+61,21,Muyskenweg,16:28,162800
+61,22,Sweder van Zuylenweg,16:29,162900
+61,23,Sint-Josephlaan,16:30,163000
+61,24,Watertoren,16:31,163100
+61,25,Concordiastraat,16:33,163300
+61,26,Viaduct,16:35,163500
+61,27,Herenweg,16:36,163600
+61,28,Daalsesingel,16:40,164000
+61,29,CS Centrumzijde,16:45,164500
+62,1,CS Centrumzijde,16:06,160600
+62,2,Sint Jacobsstraat,16:10,161000
+62,3,Oudenoord,16:12,161200
+62,4,David van Mollemstraat,16:13,161300
+62,5,Draaiweg,16:15,161500
+62,6,Willem Dreeslaan,16:16,161600
+62,7,Rhônedreef,16:19,161900
+62,8,Winkelcentrum Overvecht,16:21,162100
+62,9,Theemsdreef,16:22,162200
+62,10,Humberdreef,16:23,162300
+62,11,Oranjerivierdreef,16:24,162400
+62,12,Nijldreef,16:25,162500
+62,13,Maniladreef,16:26,162600
+62,14,Pekingdreef,16:27,162700
+62,15,Ammandreef,16:28,162800
+62,16,Klopvaart,16:30,163000
+62,17,Franciscusdreef,16:32,163200
+62,18,J.M. de Muinck Keizerlaan,16:34,163400
+62,19,Prins Bernhardplein,16:35,163500
+62,20,Prins Bernhardlaan,16:36,163600
+62,21,Muyskenweg,16:38,163800
+62,22,Sweder van Zuylenweg,16:39,163900
+62,23,Sint-Josephlaan,16:40,164000
+62,24,Watertoren,16:41,164100
+62,25,Concordiastraat,16:43,164300
+62,26,Viaduct,16:45,164500
+62,27,Herenweg,16:46,164600
+62,28,Daalsesingel,16:50,165000
+62,29,CS Centrumzijde,16:55,165500
+63,1,CS Centrumzijde,16:16,161600
+63,2,Sint Jacobsstraat,16:20,162000
+63,3,Oudenoord,16:22,162200
+63,4,David van Mollemstraat,16:23,162300
+63,5,Draaiweg,16:25,162500
+63,6,Willem Dreeslaan,16:26,162600
+63,7,Rhônedreef,16:29,162900
+63,8,Winkelcentrum Overvecht,16:31,163100
+63,9,Theemsdreef,16:32,163200
+63,10,Humberdreef,16:33,163300
+63,11,Oranjerivierdreef,16:34,163400
+63,12,Nijldreef,16:35,163500
+63,13,Maniladreef,16:36,163600
+63,14,Pekingdreef,16:37,163700
+63,15,Ammandreef,16:38,163800
+63,16,Klopvaart,16:40,164000
+63,17,Franciscusdreef,16:42,164200
+63,18,J.M. de Muinck Keizerlaan,16:44,164400
+63,19,Prins Bernhardplein,16:45,164500
+63,20,Prins Bernhardlaan,16:46,164600
+63,21,Muyskenweg,16:48,164800
+63,22,Sweder van Zuylenweg,16:49,164900
+63,23,Sint-Josephlaan,16:50,165000
+63,24,Watertoren,16:51,165100
+63,25,Concordiastraat,16:53,165300
+63,26,Viaduct,16:55,165500
+63,27,Herenweg,16:56,165600
+63,28,Daalsesingel,17:00,170000
+63,29,CS Centrumzijde,17:05,170500
+64,1,CS Centrumzijde,16:26,162600
+64,2,Sint Jacobsstraat,16:30,163000
+64,3,Oudenoord,16:32,163200
+64,4,David van Mollemstraat,16:33,163300
+64,5,Draaiweg,16:35,163500
+64,6,Willem Dreeslaan,16:36,163600
+64,7,Rhônedreef,16:39,163900
+64,8,Winkelcentrum Overvecht,16:41,164100
+64,9,Theemsdreef,16:42,164200
+64,10,Humberdreef,16:43,164300
+64,11,Oranjerivierdreef,16:44,164400
+64,12,Nijldreef,16:45,164500
+64,13,Maniladreef,16:46,164600
+64,14,Pekingdreef,16:47,164700
+64,15,Ammandreef,16:48,164800
+64,16,Klopvaart,16:50,165000
+64,17,Franciscusdreef,16:52,165200
+64,18,J.M. de Muinck Keizerlaan,16:54,165400
+64,19,Prins Bernhardplein,16:55,165500
+64,20,Prins Bernhardlaan,16:56,165600
+64,21,Muyskenweg,16:58,165800
+64,22,Sweder van Zuylenweg,16:59,165900
+64,23,Sint-Josephlaan,17:00,170000
+64,24,Watertoren,17:01,170100
+64,25,Concordiastraat,17:03,170300
+64,26,Viaduct,17:05,170500
+64,27,Herenweg,17:06,170600
+64,28,Daalsesingel,17:10,171000
+64,29,CS Centrumzijde,17:15,171500
+65,1,CS Centrumzijde,16:36,163600
+65,2,Sint Jacobsstraat,16:40,164000
+65,3,Oudenoord,16:42,164200
+65,4,David van Mollemstraat,16:43,164300
+65,5,Draaiweg,16:45,164500
+65,6,Willem Dreeslaan,16:46,164600
+65,7,Rhônedreef,16:49,164900
+65,8,Winkelcentrum Overvecht,16:51,165100
+65,9,Theemsdreef,16:52,165200
+65,10,Humberdreef,16:53,165300
+65,11,Oranjerivierdreef,16:54,165400
+65,12,Nijldreef,16:55,165500
+65,13,Maniladreef,16:56,165600
+65,14,Pekingdreef,16:57,165700
+65,15,Ammandreef,16:58,165800
+65,16,Klopvaart,17:00,170000
+65,17,Franciscusdreef,17:02,170200
+65,18,J.M. de Muinck Keizerlaan,17:04,170400
+65,19,Prins Bernhardplein,17:05,170500
+65,20,Prins Bernhardlaan,17:06,170600
+65,21,Muyskenweg,17:08,170800
+65,22,Sweder van Zuylenweg,17:09,170900
+65,23,Sint-Josephlaan,17:10,171000
+65,24,Watertoren,17:11,171100
+65,25,Concordiastraat,17:13,171300
+65,26,Viaduct,17:15,171500
+65,27,Herenweg,17:16,171600
+65,28,Daalsesingel,17:20,172000
+65,29,CS Centrumzijde,17:25,172500
+66,1,CS Centrumzijde,16:46,164600
+66,2,Sint Jacobsstraat,16:50,165000
+66,3,Oudenoord,16:52,165200
+66,4,David van Mollemstraat,16:53,165300
+66,5,Draaiweg,16:55,165500
+66,6,Willem Dreeslaan,16:56,165600
+66,7,Rhônedreef,16:59,165900
+66,8,Winkelcentrum Overvecht,17:01,170100
+66,9,Theemsdreef,17:02,170200
+66,10,Humberdreef,17:03,170300
+66,11,Oranjerivierdreef,17:04,170400
+66,12,Nijldreef,17:05,170500
+66,13,Maniladreef,17:06,170600
+66,14,Pekingdreef,17:07,170700
+66,15,Ammandreef,17:08,170800
+66,16,Klopvaart,17:10,171000
+66,17,Franciscusdreef,17:12,171200
+66,18,J.M. de Muinck Keizerlaan,17:14,171400
+66,19,Prins Bernhardplein,17:15,171500
+66,20,Prins Bernhardlaan,17:16,171600
+66,21,Muyskenweg,17:18,171800
+66,22,Sweder van Zuylenweg,17:19,171900
+66,23,Sint-Josephlaan,17:20,172000
+66,24,Watertoren,17:21,172100
+66,25,Concordiastraat,17:23,172300
+66,26,Viaduct,17:25,172500
+66,27,Herenweg,17:26,172600
+66,28,Daalsesingel,17:30,173000
+66,29,CS Centrumzijde,17:35,173500
+67,1,CS Centrumzijde,16:56,165600
+67,2,Sint Jacobsstraat,17:00,170000
+67,3,Oudenoord,17:02,170200
+67,4,David van Mollemstraat,17:03,170300
+67,5,Draaiweg,17:05,170500
+67,6,Willem Dreeslaan,17:06,170600
+67,7,Rhônedreef,17:09,170900
+67,8,Winkelcentrum Overvecht,17:11,171100
+67,9,Theemsdreef,17:12,171200
+67,10,Humberdreef,17:13,171300
+67,11,Oranjerivierdreef,17:14,171400
+67,12,Nijldreef,17:15,171500
+67,13,Maniladreef,17:16,171600
+67,14,Pekingdreef,17:17,171700
+67,15,Ammandreef,17:18,171800
+67,16,Klopvaart,17:20,172000
+67,17,Franciscusdreef,17:22,172200
+67,18,J.M. de Muinck Keizerlaan,17:24,172400
+67,19,Prins Bernhardplein,17:25,172500
+67,20,Prins Bernhardlaan,17:26,172600
+67,21,Muyskenweg,17:28,172800
+67,22,Sweder van Zuylenweg,17:29,172900
+67,23,Sint-Josephlaan,17:30,173000
+67,24,Watertoren,17:31,173100
+67,25,Concordiastraat,17:33,173300
+67,26,Viaduct,17:35,173500
+67,27,Herenweg,17:36,173600
+67,28,Daalsesingel,17:40,174000
+67,29,CS Centrumzijde,17:45,174500
+68,1,CS Centrumzijde,17:06,170600
+68,2,Sint Jacobsstraat,17:10,171000
+68,3,Oudenoord,17:12,171200
+68,4,David van Mollemstraat,17:13,171300
+68,5,Draaiweg,17:15,171500
+68,6,Willem Dreeslaan,17:16,171600
+68,7,Rhônedreef,17:19,171900
+68,8,Winkelcentrum Overvecht,17:21,172100
+68,9,Theemsdreef,17:22,172200
+68,10,Humberdreef,17:23,172300
+68,11,Oranjerivierdreef,17:24,172400
+68,12,Nijldreef,17:25,172500
+68,13,Maniladreef,17:26,172600
+68,14,Pekingdreef,17:27,172700
+68,15,Ammandreef,17:28,172800
+68,16,Klopvaart,17:30,173000
+68,17,Franciscusdreef,17:32,173200
+68,18,J.M. de Muinck Keizerlaan,17:34,173400
+68,19,Prins Bernhardplein,17:35,173500
+68,20,Prins Bernhardlaan,17:36,173600
+68,21,Muyskenweg,17:38,173800
+68,22,Sweder van Zuylenweg,17:39,173900
+68,23,Sint-Josephlaan,17:40,174000
+68,24,Watertoren,17:41,174100
+68,25,Concordiastraat,17:43,174300
+68,26,Viaduct,17:45,174500
+68,27,Herenweg,17:46,174600
+68,28,Daalsesingel,17:50,175000
+68,29,CS Centrumzijde,17:55,175500
+69,1,CS Centrumzijde,17:16,171600
+69,2,Sint Jacobsstraat,17:20,172000
+69,3,Oudenoord,17:22,172200
+69,4,David van Mollemstraat,17:23,172300
+69,5,Draaiweg,17:25,172500
+69,6,Willem Dreeslaan,17:26,172600
+69,7,Rhônedreef,17:29,172900
+69,8,Winkelcentrum Overvecht,17:31,173100
+69,9,Theemsdreef,17:32,173200
+69,10,Humberdreef,17:33,173300
+69,11,Oranjerivierdreef,17:34,173400
+69,12,Nijldreef,17:35,173500
+69,13,Maniladreef,17:36,173600
+69,14,Pekingdreef,17:37,173700
+69,15,Ammandreef,17:38,173800
+69,16,Klopvaart,17:40,174000
+69,17,Franciscusdreef,17:42,174200
+69,18,J.M. de Muinck Keizerlaan,17:44,174400
+69,19,Prins Bernhardplein,17:45,174500
+69,20,Prins Bernhardlaan,17:46,174600
+69,21,Muyskenweg,17:48,174800
+69,22,Sweder van Zuylenweg,17:49,174900
+69,23,Sint-Josephlaan,17:50,175000
+69,24,Watertoren,17:51,175100
+69,25,Concordiastraat,17:53,175300
+69,26,Viaduct,17:55,175500
+69,27,Herenweg,17:56,175600
+69,28,Daalsesingel,18:00,180000
+69,29,CS Centrumzijde,18:05,180500
+70,1,CS Centrumzijde,17:26,172600
+70,2,Sint Jacobsstraat,17:30,173000
+70,3,Oudenoord,17:32,173200
+70,4,David van Mollemstraat,17:33,173300
+70,5,Draaiweg,17:35,173500
+70,6,Willem Dreeslaan,17:36,173600
+70,7,Rhônedreef,17:39,173900
+70,8,Winkelcentrum Overvecht,17:41,174100
+70,9,Theemsdreef,17:42,174200
+70,10,Humberdreef,17:43,174300
+70,11,Oranjerivierdreef,17:44,174400
+70,12,Nijldreef,17:45,174500
+70,13,Maniladreef,17:46,174600
+70,14,Pekingdreef,17:47,174700
+70,15,Ammandreef,17:48,174800
+70,16,Klopvaart,17:50,175000
+70,17,Franciscusdreef,17:52,175200
+70,18,J.M. de Muinck Keizerlaan,17:54,175400
+70,19,Prins Bernhardplein,17:55,175500
+70,20,Prins Bernhardlaan,17:56,175600
+70,21,Muyskenweg,17:58,175800
+70,22,Sweder van Zuylenweg,17:59,175900
+70,23,Sint-Josephlaan,18:00,180000
+70,24,Watertoren,18:01,180100
+70,25,Concordiastraat,18:03,180300
+70,26,Viaduct,18:05,180500
+70,27,Herenweg,18:06,180600
+70,28,Daalsesingel,18:10,181000
+70,29,CS Centrumzijde,18:15,181500
+71,1,CS Centrumzijde,17:36,173600
+71,2,Sint Jacobsstraat,17:40,174000
+71,3,Oudenoord,17:42,174200
+71,4,David van Mollemstraat,17:43,174300
+71,5,Draaiweg,17:45,174500
+71,6,Willem Dreeslaan,17:46,174600
+71,7,Rhônedreef,17:49,174900
+71,8,Winkelcentrum Overvecht,17:51,175100
+71,9,Theemsdreef,17:52,175200
+71,10,Humberdreef,17:53,175300
+71,11,Oranjerivierdreef,17:54,175400
+71,12,Nijldreef,17:55,175500
+71,13,Maniladreef,17:56,175600
+71,14,Pekingdreef,17:57,175700
+71,15,Ammandreef,17:58,175800
+71,16,Klopvaart,18:00,180000
+71,17,Franciscusdreef,18:02,180200
+71,18,J.M. de Muinck Keizerlaan,18:04,180400
+71,19,Prins Bernhardplein,18:05,180500
+71,20,Prins Bernhardlaan,18:06,180600
+71,21,Muyskenweg,18:08,180800
+71,22,Sweder van Zuylenweg,18:09,180900
+71,23,Sint-Josephlaan,18:10,181000
+71,24,Watertoren,18:11,181100
+71,25,Concordiastraat,18:13,181300
+71,26,Viaduct,18:15,181500
+71,27,Herenweg,18:16,181600
+71,28,Daalsesingel,18:20,182000
+71,29,CS Centrumzijde,18:24,182400
+72,1,CS Centrumzijde,17:46,174600
+72,2,Sint Jacobsstraat,17:50,175000
+72,3,Oudenoord,17:52,175200
+72,4,David van Mollemstraat,17:53,175300
+72,5,Draaiweg,17:55,175500
+72,6,Willem Dreeslaan,17:56,175600
+72,7,Rhônedreef,17:59,175900
+72,8,Winkelcentrum Overvecht,18:01,180100
+72,9,Theemsdreef,18:02,180200
+72,10,Humberdreef,18:03,180300
+72,11,Oranjerivierdreef,18:04,180400
+72,12,Nijldreef,18:05,180500
+72,13,Maniladreef,18:06,180600
+72,14,Pekingdreef,18:07,180700
+72,15,Ammandreef,18:08,180800
+72,16,Klopvaart,18:10,181000
+72,17,Franciscusdreef,18:12,181200
+72,18,J.M. de Muinck Keizerlaan,18:14,181400
+72,19,Prins Bernhardplein,18:15,181500
+72,20,Prins Bernhardlaan,18:16,181600
+72,21,Muyskenweg,18:18,181800
+72,22,Sweder van Zuylenweg,18:19,181900
+72,23,Sint-Josephlaan,18:20,182000
+72,24,Watertoren,18:21,182100
+72,25,Concordiastraat,18:22,182200
+72,26,Viaduct,18:24,182400
+72,27,Herenweg,18:25,182500
+72,28,Daalsesingel,18:29,182900
+72,29,CS Centrumzijde,18:33,183300
+73,1,CS Centrumzijde,17:56,175600
+73,2,Sint Jacobsstraat,18:00,180000
+73,3,Oudenoord,18:02,180200
+73,4,David van Mollemstraat,18:03,180300
+73,5,Draaiweg,18:05,180500
+73,6,Willem Dreeslaan,18:06,180600
+73,7,Rhônedreef,18:09,180900
+73,8,Winkelcentrum Overvecht,18:11,181100
+73,9,Theemsdreef,18:12,181200
+73,10,Humberdreef,18:13,181300
+73,11,Oranjerivierdreef,18:14,181400
+73,12,Nijldreef,18:15,181500
+73,13,Maniladreef,18:16,181600
+73,14,Pekingdreef,18:17,181700
+73,15,Ammandreef,18:18,181800
+73,16,Klopvaart,18:20,182000
+73,17,Franciscusdreef,18:22,182200
+73,18,J.M. de Muinck Keizerlaan,18:24,182400
+73,19,Prins Bernhardplein,18:25,182500
+73,20,Prins Bernhardlaan,18:26,182600
+73,21,Muyskenweg,18:28,182800
+73,22,Sweder van Zuylenweg,18:29,182900
+73,23,Sint-Josephlaan,18:30,183000
+73,24,Watertoren,18:31,183100
+73,25,Concordiastraat,18:32,183200
+73,26,Viaduct,18:34,183400
+73,27,Herenweg,18:35,183500
+73,28,Daalsesingel,18:39,183900
+73,29,CS Centrumzijde,18:43,184300
+74,1,CS Centrumzijde,18:06,180600
+74,2,Sint Jacobsstraat,18:10,181000
+74,3,Oudenoord,18:12,181200
+74,4,David van Mollemstraat,18:13,181300
+74,5,Draaiweg,18:15,181500
+74,6,Willem Dreeslaan,18:16,181600
+74,7,Rhônedreef,18:19,181900
+74,8,Winkelcentrum Overvecht,18:21,182100
+74,9,Theemsdreef,18:22,182200
+74,10,Humberdreef,18:23,182300
+74,11,Oranjerivierdreef,18:24,182400
+74,12,Nijldreef,18:25,182500
+74,13,Maniladreef,18:26,182600
+74,14,Pekingdreef,18:27,182700
+74,15,Ammandreef,18:28,182800
+74,16,Klopvaart,18:29,182900
+74,17,Franciscusdreef,18:31,183100
+74,18,J.M. de Muinck Keizerlaan,18:33,183300
+74,19,Prins Bernhardplein,18:34,183400
+74,20,Prins Bernhardlaan,18:35,183500
+74,21,Muyskenweg,18:37,183700
+74,22,Sweder van Zuylenweg,18:38,183800
+74,23,Sint-Josephlaan,18:39,183900
+74,24,Watertoren,18:40,184000
+74,25,Concordiastraat,18:41,184100
+74,26,Viaduct,18:43,184300
+74,27,Herenweg,18:44,184400
+74,28,Daalsesingel,18:48,184800
+74,29,CS Centrumzijde,18:52,185200
+75,1,CS Centrumzijde,18:16,181600
+75,2,Sint Jacobsstraat,18:20,182000
+75,3,Oudenoord,18:22,182200
+75,4,David van Mollemstraat,18:23,182300
+75,5,Draaiweg,18:24,182400
+75,6,Willem Dreeslaan,18:25,182500
+75,7,Rhônedreef,18:28,182800
+75,8,Winkelcentrum Overvecht,18:30,183000
+75,9,Theemsdreef,18:31,183100
+75,10,Humberdreef,18:32,183200
+75,11,Oranjerivierdreef,18:33,183300
+75,12,Nijldreef,18:34,183400
+75,13,Maniladreef,18:35,183500
+75,14,Pekingdreef,18:36,183600
+75,15,Ammandreef,18:37,183700
+75,16,Klopvaart,18:38,183800
+75,17,Franciscusdreef,18:40,184000
+75,18,J.M. de Muinck Keizerlaan,18:42,184200
+75,19,Prins Bernhardplein,18:43,184300
+75,20,Prins Bernhardlaan,18:44,184400
+75,21,Muyskenweg,18:46,184600
+75,22,Sweder van Zuylenweg,18:47,184700
+75,23,Sint-Josephlaan,18:48,184800
+75,24,Watertoren,18:49,184900
+75,25,Concordiastraat,18:50,185000
+75,26,Viaduct,18:52,185200
+75,27,Herenweg,18:53,185300
+75,28,Daalsesingel,18:57,185700
+75,29,CS Centrumzijde,19:01,190100
+76,1,CS Centrumzijde,18:26,182600
+76,2,Sint Jacobsstraat,18:30,183000
+76,3,Oudenoord,18:32,183200
+76,4,David van Mollemstraat,18:33,183300
+76,5,Draaiweg,18:34,183400
+76,6,Willem Dreeslaan,18:35,183500
+76,7,Rhônedreef,18:38,183800
+76,8,Winkelcentrum Overvecht,18:40,184000
+76,9,Theemsdreef,18:41,184100
+76,10,Humberdreef,18:42,184200
+76,11,Oranjerivierdreef,18:43,184300
+76,12,Nijldreef,18:44,184400
+76,13,Maniladreef,18:45,184500
+76,14,Pekingdreef,18:46,184600
+76,15,Ammandreef,18:47,184700
+76,16,Klopvaart,18:48,184800
+76,17,Franciscusdreef,18:50,185000
+76,18,J.M. de Muinck Keizerlaan,18:52,185200
+76,19,Prins Bernhardplein,18:53,185300
+76,20,Prins Bernhardlaan,18:54,185400
+76,21,Muyskenweg,18:56,185600
+76,22,Sweder van Zuylenweg,18:57,185700
+76,23,Sint-Josephlaan,18:58,185800
+76,24,Watertoren,18:59,185900
+76,25,Concordiastraat,19:00,190000
+76,26,Viaduct,19:02,190200
+76,27,Herenweg,19:03,190300
+76,28,Daalsesingel,19:07,190700
+76,29,CS Centrumzijde,19:11,191100
+77,1,CS Centrumzijde,18:38,183800
+77,2,Sint Jacobsstraat,18:42,184200
+77,3,Oudenoord,18:44,184400
+77,4,David van Mollemstraat,18:45,184500
+77,5,Draaiweg,18:46,184600
+77,6,Willem Dreeslaan,18:47,184700
+77,7,Rhônedreef,18:50,185000
+77,8,Winkelcentrum Overvecht,18:52,185200
+77,9,Theemsdreef,18:53,185300
+77,10,Humberdreef,18:54,185400
+77,11,Oranjerivierdreef,18:55,185500
+77,12,Nijldreef,18:56,185600
+77,13,Maniladreef,18:57,185700
+77,14,Pekingdreef,18:58,185800
+77,15,Ammandreef,18:59,185900
+77,16,Klopvaart,19:00,190000
+77,17,Franciscusdreef,19:02,190200
+77,18,J.M. de Muinck Keizerlaan,19:04,190400
+77,19,Prins Bernhardplein,19:05,190500
+77,20,Prins Bernhardlaan,19:06,190600
+77,21,Muyskenweg,19:08,190800
+77,22,Sweder van Zuylenweg,19:09,190900
+77,23,Sint-Josephlaan,19:10,191000
+77,24,Watertoren,19:11,191100
+77,25,Concordiastraat,19:12,191200
+77,26,Viaduct,19:14,191400
+77,27,Herenweg,19:15,191500
+77,28,Daalsesingel,19:19,191900
+77,29,CS Centrumzijde,19:23,192300
+78,1,CS Centrumzijde,18:53,185300
+78,2,Sint Jacobsstraat,18:57,185700
+78,3,Oudenoord,18:59,185900
+78,4,David van Mollemstraat,19:00,190000
+78,5,Draaiweg,19:01,190100
+78,6,Willem Dreeslaan,19:02,190200
+78,7,Rhônedreef,19:05,190500
+78,8,Winkelcentrum Overvecht,19:07,190700
+78,9,Theemsdreef,19:08,190800
+78,10,Humberdreef,19:09,190900
+78,11,Oranjerivierdreef,19:10,191000
+78,12,Nijldreef,19:11,191100
+78,13,Maniladreef,19:12,191200
+78,14,Pekingdreef,19:13,191300
+78,15,Ammandreef,19:14,191400
+78,16,Klopvaart,19:15,191500
+78,17,Franciscusdreef,19:17,191700
+78,18,J.M. de Muinck Keizerlaan,19:19,191900
+78,19,Prins Bernhardplein,19:20,192000
+78,20,Prins Bernhardlaan,19:21,192100
+78,21,Muyskenweg,19:22,192200
+78,22,Sweder van Zuylenweg,19:23,192300
+78,23,Sint-Josephlaan,19:24,192400
+78,24,Watertoren,19:25,192500
+78,25,Concordiastraat,19:26,192600
+78,26,Viaduct,19:27,192700
+78,27,Herenweg,19:28,192800
+78,28,Daalsesingel,19:32,193200
+78,29,CS Centrumzijde,19:36,193600
+79,1,CS Centrumzijde,19:08,190800
+79,2,Sint Jacobsstraat,19:12,191200
+79,3,Oudenoord,19:14,191400
+79,4,David van Mollemstraat,19:15,191500
+79,5,Draaiweg,19:16,191600
+79,6,Willem Dreeslaan,19:17,191700
+79,7,Rhônedreef,19:20,192000
+79,8,Winkelcentrum Overvecht,19:22,192200
+79,9,Theemsdreef,19:23,192300
+79,10,Humberdreef,19:24,192400
+79,11,Oranjerivierdreef,19:25,192500
+79,12,Nijldreef,19:26,192600
+79,13,Maniladreef,19:27,192700
+79,14,Pekingdreef,19:28,192800
+79,15,Ammandreef,19:29,192900
+79,16,Klopvaart,19:30,193000
+79,17,Franciscusdreef,19:32,193200
+79,18,J.M. de Muinck Keizerlaan,19:34,193400
+79,19,Prins Bernhardplein,19:35,193500
+79,20,Prins Bernhardlaan,19:36,193600
+79,21,Muyskenweg,19:37,193700
+79,22,Sweder van Zuylenweg,19:38,193800
+79,23,Sint-Josephlaan,19:39,193900
+79,24,Watertoren,19:40,194000
+79,25,Concordiastraat,19:41,194100
+79,26,Viaduct,19:42,194200
+79,27,Herenweg,19:43,194300
+79,28,Daalsesingel,19:47,194700
+79,29,CS Centrumzijde,19:51,195100
+80,1,CS Centrumzijde,19:23,192300
+80,2,Sint Jacobsstraat,19:27,192700
+80,3,Oudenoord,19:29,192900
+80,4,David van Mollemstraat,19:30,193000
+80,5,Draaiweg,19:31,193100
+80,6,Willem Dreeslaan,19:32,193200
+80,7,Rhônedreef,19:35,193500
+80,8,Winkelcentrum Overvecht,19:37,193700
+80,9,Theemsdreef,19:38,193800
+80,10,Humberdreef,19:39,193900
+80,11,Oranjerivierdreef,19:40,194000
+80,12,Nijldreef,19:41,194100
+80,13,Maniladreef,19:42,194200
+80,14,Pekingdreef,19:43,194300
+80,15,Ammandreef,19:44,194400
+80,16,Klopvaart,19:45,194500
+80,17,Franciscusdreef,19:47,194700
+80,18,J.M. de Muinck Keizerlaan,19:49,194900
+80,19,Prins Bernhardplein,19:50,195000
+80,20,Prins Bernhardlaan,19:51,195100
+80,21,Muyskenweg,19:52,195200
+80,22,Sweder van Zuylenweg,19:53,195300
+80,23,Sint-Josephlaan,19:54,195400
+80,24,Watertoren,19:55,195500
+80,25,Concordiastraat,19:56,195600
+80,26,Viaduct,19:57,195700
+80,27,Herenweg,19:58,195800
+80,28,Daalsesingel,20:02,200200
+80,29,CS Centrumzijde,20:06,200600
+81,1,CS Centrumzijde,19:38,193800
+81,2,Sint Jacobsstraat,19:42,194200
+81,3,Oudenoord,19:44,194400
+81,4,David van Mollemstraat,19:45,194500
+81,5,Draaiweg,19:46,194600
+81,6,Willem Dreeslaan,19:47,194700
+81,7,Rhônedreef,19:50,195000
+81,8,Winkelcentrum Overvecht,19:52,195200
+81,9,Theemsdreef,19:53,195300
+81,10,Humberdreef,19:54,195400
+81,11,Oranjerivierdreef,19:55,195500
+81,12,Nijldreef,19:56,195600
+81,13,Maniladreef,19:57,195700
+81,14,Pekingdreef,19:58,195800
+81,15,Ammandreef,19:59,195900
+81,16,Klopvaart,20:00,200000
+81,17,Franciscusdreef,20:02,200200
+81,18,J.M. de Muinck Keizerlaan,20:04,200400
+81,19,Prins Bernhardplein,20:05,200500
+81,20,Prins Bernhardlaan,20:06,200600
+81,21,Muyskenweg,20:07,200700
+81,22,Sweder van Zuylenweg,20:08,200800
+81,23,Sint-Josephlaan,20:09,200900
+81,24,Watertoren,20:10,201000
+81,25,Concordiastraat,20:11,201100
+81,26,Viaduct,20:12,201200
+81,27,Herenweg,20:13,201300
+81,28,Daalsesingel,20:17,201700
+81,29,CS Centrumzijde,20:21,202100
+82,1,CS Centrumzijde,19:53,195300
+82,2,Sint Jacobsstraat,19:57,195700
+82,3,Oudenoord,19:59,195900
+82,4,David van Mollemstraat,20:00,200000
+82,5,Draaiweg,20:01,200100
+82,6,Willem Dreeslaan,20:02,200200
+82,7,Rhônedreef,20:05,200500
+82,8,Winkelcentrum Overvecht,20:07,200700
+82,9,Theemsdreef,20:08,200800
+82,10,Humberdreef,20:09,200900
+82,11,Oranjerivierdreef,20:10,201000
+82,12,Nijldreef,20:11,201100
+82,13,Maniladreef,20:12,201200
+82,14,Pekingdreef,20:13,201300
+82,15,Ammandreef,20:14,201400
+82,16,Klopvaart,20:15,201500
+82,17,Franciscusdreef,20:17,201700
+82,18,J.M. de Muinck Keizerlaan,20:19,201900
+82,19,Prins Bernhardplein,20:20,202000
+82,20,Prins Bernhardlaan,20:21,202100
+82,21,Muyskenweg,20:22,202200
+82,22,Sweder van Zuylenweg,20:23,202300
+82,23,Sint-Josephlaan,20:24,202400
+82,24,Watertoren,20:25,202500
+82,25,Concordiastraat,20:26,202600
+82,26,Viaduct,20:27,202700
+82,27,Herenweg,20:28,202800
+82,28,Daalsesingel,20:32,203200
+82,29,CS Centrumzijde,20:36,203600
+83,1,CS Centrumzijde,20:08,200800
+83,2,Sint Jacobsstraat,20:12,201200
+83,3,Oudenoord,20:14,201400
+83,4,David van Mollemstraat,20:15,201500
+83,5,Draaiweg,20:16,201600
+83,6,Willem Dreeslaan,20:17,201700
+83,7,Rhônedreef,20:20,202000
+83,8,Winkelcentrum Overvecht,20:22,202200
+83,9,Theemsdreef,20:23,202300
+83,10,Humberdreef,20:24,202400
+83,11,Oranjerivierdreef,20:25,202500
+83,12,Nijldreef,20:26,202600
+83,13,Maniladreef,20:27,202700
+83,14,Pekingdreef,20:28,202800
+83,15,Ammandreef,20:29,202900
+83,16,Klopvaart,20:30,203000
+83,17,Franciscusdreef,20:32,203200
+83,18,J.M. de Muinck Keizerlaan,20:34,203400
+83,19,Prins Bernhardplein,20:35,203500
+83,20,Prins Bernhardlaan,20:36,203600
+83,21,Muyskenweg,20:37,203700
+83,22,Sweder van Zuylenweg,20:38,203800
+83,23,Sint-Josephlaan,20:39,203900
+83,24,Watertoren,20:40,204000
+83,25,Concordiastraat,20:41,204100
+83,26,Viaduct,20:42,204200
+83,27,Herenweg,20:43,204300
+83,28,Daalsesingel,20:47,204700
+83,29,CS Centrumzijde,20:51,205100
+84,1,CS Centrumzijde,20:23,202300
+84,2,Sint Jacobsstraat,20:27,202700
+84,3,Oudenoord,20:29,202900
+84,4,David van Mollemstraat,20:30,203000
+84,5,Draaiweg,20:31,203100
+84,6,Willem Dreeslaan,20:32,203200
+84,7,Rhônedreef,20:35,203500
+84,8,Winkelcentrum Overvecht,20:37,203700
+84,9,Theemsdreef,20:38,203800
+84,10,Humberdreef,20:39,203900
+84,11,Oranjerivierdreef,20:40,204000
+84,12,Nijldreef,20:41,204100
+84,13,Maniladreef,20:42,204200
+84,14,Pekingdreef,20:43,204300
+84,15,Ammandreef,20:44,204400
+84,16,Klopvaart,20:45,204500
+84,17,Franciscusdreef,20:47,204700
+84,18,J.M. de Muinck Keizerlaan,20:49,204900
+84,19,Prins Bernhardplein,20:50,205000
+84,20,Prins Bernhardlaan,20:51,205100
+84,21,Muyskenweg,20:52,205200
+84,22,Sweder van Zuylenweg,20:53,205300
+84,23,Sint-Josephlaan,20:54,205400
+84,24,Watertoren,20:55,205500
+84,25,Concordiastraat,20:56,205600
+84,26,Viaduct,20:57,205700
+84,27,Herenweg,20:58,205800
+84,28,Daalsesingel,21:02,210200
+84,29,CS Centrumzijde,21:06,210600
+85,1,CS Centrumzijde,20:38,203800
+85,2,Sint Jacobsstraat,20:42,204200
+85,3,Oudenoord,20:44,204400
+85,4,David van Mollemstraat,20:45,204500
+85,5,Draaiweg,20:46,204600
+85,6,Willem Dreeslaan,20:47,204700
+85,7,Rhônedreef,20:50,205000
+85,8,Winkelcentrum Overvecht,20:52,205200
+85,9,Theemsdreef,20:53,205300
+85,10,Humberdreef,20:54,205400
+85,11,Oranjerivierdreef,20:55,205500
+85,12,Nijldreef,20:56,205600
+85,13,Maniladreef,20:57,205700
+85,14,Pekingdreef,20:58,205800
+85,15,Ammandreef,20:59,205900
+85,16,Klopvaart,21:00,210000
+85,17,Franciscusdreef,21:02,210200
+85,18,J.M. de Muinck Keizerlaan,21:04,210400
+85,19,Prins Bernhardplein,21:05,210500
+85,20,Prins Bernhardlaan,21:06,210600
+85,21,Muyskenweg,21:07,210700
+85,22,Sweder van Zuylenweg,21:08,210800
+85,23,Sint-Josephlaan,21:09,210900
+85,24,Watertoren,21:10,211000
+85,25,Concordiastraat,21:10,211000
+85,26,Viaduct,21:12,211200
+85,27,Herenweg,21:12,211200
+85,28,Daalsesingel,21:15,211500
+85,29,CS Centrumzijde,21:19,211900
+86,1,CS Centrumzijde,20:53,205300
+86,2,Sint Jacobsstraat,20:57,205700
+86,3,Oudenoord,20:59,205900
+86,4,David van Mollemstraat,21:00,210000
+86,5,Draaiweg,21:01,210100
+86,6,Willem Dreeslaan,21:02,210200
+86,7,Rhônedreef,21:05,210500
+86,8,Winkelcentrum Overvecht,21:06,210600
+86,9,Theemsdreef,21:07,210700
+86,10,Humberdreef,21:08,210800
+86,11,Oranjerivierdreef,21:09,210900
+86,12,Nijldreef,21:10,211000
+86,13,Maniladreef,21:11,211100
+86,14,Pekingdreef,21:12,211200
+86,15,Ammandreef,21:13,211300
+86,16,Klopvaart,21:14,211400
+86,17,Franciscusdreef,21:16,211600
+86,18,J.M. de Muinck Keizerlaan,21:18,211800
+86,19,Prins Bernhardplein,21:19,211900
+86,20,Prins Bernhardlaan,21:20,212000
+86,21,Muyskenweg,21:21,212100
+86,22,Sweder van Zuylenweg,21:22,212200
+86,23,Sint-Josephlaan,21:23,212300
+86,24,Watertoren,21:24,212400
+86,25,Concordiastraat,21:24,212400
+86,26,Viaduct,21:26,212600
+86,27,Herenweg,21:26,212600
+86,28,Daalsesingel,21:29,212900
+86,29,CS Centrumzijde,21:33,213300
+87,1,CS Centrumzijde,21:08,210800
+87,2,Sint Jacobsstraat,21:12,211200
+87,3,Oudenoord,21:13,211300
+87,4,David van Mollemstraat,21:14,211400
+87,5,Draaiweg,21:15,211500
+87,6,Willem Dreeslaan,21:16,211600
+87,7,Rhônedreef,21:19,211900
+87,8,Winkelcentrum Overvecht,21:20,212000
+87,9,Theemsdreef,21:21,212100
+87,10,Humberdreef,21:22,212200
+87,11,Oranjerivierdreef,21:23,212300
+87,12,Nijldreef,21:24,212400
+87,13,Maniladreef,21:25,212500
+87,14,Pekingdreef,21:26,212600
+87,15,Ammandreef,21:27,212700
+87,16,Klopvaart,21:28,212800
+87,17,Franciscusdreef,21:30,213000
+87,18,J.M. de Muinck Keizerlaan,21:32,213200
+87,19,Prins Bernhardplein,21:33,213300
+87,20,Prins Bernhardlaan,21:34,213400
+87,21,Muyskenweg,21:35,213500
+87,22,Sweder van Zuylenweg,21:36,213600
+87,23,Sint-Josephlaan,21:37,213700
+87,24,Watertoren,21:38,213800
+87,25,Concordiastraat,21:38,213800
+87,26,Viaduct,21:40,214000
+87,27,Herenweg,21:40,214000
+87,28,Daalsesingel,21:43,214300
+87,29,CS Centrumzijde,21:47,214700
+88,1,CS Centrumzijde,21:23,212300
+88,2,Sint Jacobsstraat,21:27,212700
+88,3,Oudenoord,21:28,212800
+88,4,David van Mollemstraat,21:29,212900
+88,5,Draaiweg,21:30,213000
+88,6,Willem Dreeslaan,21:31,213100
+88,7,Rhônedreef,21:34,213400
+88,8,Winkelcentrum Overvecht,21:35,213500
+88,9,Theemsdreef,21:36,213600
+88,10,Humberdreef,21:37,213700
+88,11,Oranjerivierdreef,21:38,213800
+88,12,Nijldreef,21:39,213900
+88,13,Maniladreef,21:40,214000
+88,14,Pekingdreef,21:41,214100
+88,15,Ammandreef,21:42,214200
+88,16,Klopvaart,21:43,214300
+88,17,Franciscusdreef,21:45,214500
+88,18,J.M. de Muinck Keizerlaan,21:47,214700
+88,19,Prins Bernhardplein,21:48,214800
+88,20,Prins Bernhardlaan,21:49,214900
+88,21,Muyskenweg,21:50,215000
+88,22,Sweder van Zuylenweg,21:51,215100
+88,23,Sint-Josephlaan,21:52,215200
+88,24,Watertoren,21:53,215300
+88,25,Concordiastraat,21:53,215300
+88,26,Viaduct,21:55,215500
+88,27,Herenweg,21:55,215500
+88,28,Daalsesingel,21:58,215800
+88,29,CS Centrumzijde,22:02,220200
+89,1,CS Centrumzijde,21:38,213800
+89,2,Sint Jacobsstraat,21:42,214200
+89,3,Oudenoord,21:43,214300
+89,4,David van Mollemstraat,21:44,214400
+89,5,Draaiweg,21:45,214500
+89,6,Willem Dreeslaan,21:46,214600
+89,7,Rhônedreef,21:49,214900
+89,8,Winkelcentrum Overvecht,21:50,215000
+89,9,Theemsdreef,21:51,215100
+89,10,Humberdreef,21:52,215200
+89,11,Oranjerivierdreef,21:53,215300
+89,12,Nijldreef,21:54,215400
+89,13,Maniladreef,21:55,215500
+89,14,Pekingdreef,21:56,215600
+89,15,Ammandreef,21:57,215700
+89,16,Klopvaart,21:58,215800
+89,17,Franciscusdreef,22:00,220000
+89,18,J.M. de Muinck Keizerlaan,22:02,220200
+89,19,Prins Bernhardplein,22:03,220300
+89,20,Prins Bernhardlaan,22:04,220400
+89,21,Muyskenweg,22:05,220500
+89,22,Sweder van Zuylenweg,22:06,220600
+89,23,Sint-Josephlaan,22:07,220700
+89,24,Watertoren,22:08,220800
+89,25,Concordiastraat,22:08,220800
+89,26,Viaduct,22:10,221000
+89,27,Herenweg,22:10,221000
+89,28,Daalsesingel,22:13,221300
+89,29,CS Centrumzijde,22:17,221700
+90,1,CS Centrumzijde,21:53,215300
+90,2,Sint Jacobsstraat,21:57,215700
+90,3,Oudenoord,21:58,215800
+90,4,David van Mollemstraat,21:59,215900
+90,5,Draaiweg,22:00,220000
+90,6,Willem Dreeslaan,22:01,220100
+90,7,Rhônedreef,22:04,220400
+90,8,Winkelcentrum Overvecht,22:05,220500
+90,9,Theemsdreef,22:06,220600
+90,10,Humberdreef,22:07,220700
+90,11,Oranjerivierdreef,22:08,220800
+90,12,Nijldreef,22:09,220900
+90,13,Maniladreef,22:10,221000
+90,14,Pekingdreef,22:11,221100
+90,15,Ammandreef,22:12,221200
+90,16,Klopvaart,22:13,221300
+90,17,Franciscusdreef,22:15,221500
+90,18,J.M. de Muinck Keizerlaan,22:17,221700
+90,19,Prins Bernhardplein,22:18,221800
+90,20,Prins Bernhardlaan,22:19,221900
+90,21,Muyskenweg,22:20,222000
+90,22,Sweder van Zuylenweg,22:21,222100
+90,23,Sint-Josephlaan,22:22,222200
+90,24,Watertoren,22:23,222300
+90,25,Concordiastraat,22:23,222300
+90,26,Viaduct,22:25,222500
+90,27,Herenweg,22:25,222500
+90,28,Daalsesingel,22:28,222800
+90,29,CS Centrumzijde,22:32,223200
+91,1,CS Centrumzijde,22:08,220800
+91,2,Sint Jacobsstraat,22:12,221200
+91,3,Oudenoord,22:13,221300
+91,4,David van Mollemstraat,22:14,221400
+91,5,Draaiweg,22:15,221500
+91,6,Willem Dreeslaan,22:16,221600
+91,7,Rhônedreef,22:19,221900
+91,8,Winkelcentrum Overvecht,22:20,222000
+91,9,Theemsdreef,22:21,222100
+91,10,Humberdreef,22:22,222200
+91,11,Oranjerivierdreef,22:23,222300
+91,12,Nijldreef,22:24,222400
+91,13,Maniladreef,22:25,222500
+91,14,Pekingdreef,22:26,222600
+91,15,Ammandreef,22:27,222700
+91,16,Klopvaart,22:28,222800
+91,17,Franciscusdreef,22:30,223000
+91,18,J.M. de Muinck Keizerlaan,22:32,223200
+91,19,Prins Bernhardplein,22:33,223300
+91,20,Prins Bernhardlaan,22:34,223400
+91,21,Muyskenweg,22:35,223500
+91,22,Sweder van Zuylenweg,22:36,223600
+91,23,Sint-Josephlaan,22:37,223700
+91,24,Watertoren,22:38,223800
+91,25,Concordiastraat,22:38,223800
+91,26,Viaduct,22:40,224000
+91,27,Herenweg,22:40,224000
+91,28,Daalsesingel,22:43,224300
+91,29,CS Centrumzijde,22:47,224700
+92,1,CS Centrumzijde,22:23,222300
+92,2,Sint Jacobsstraat,22:27,222700
+92,3,Oudenoord,22:28,222800
+92,4,David van Mollemstraat,22:29,222900
+92,5,Draaiweg,22:30,223000
+92,6,Willem Dreeslaan,22:31,223100
+92,7,Rhônedreef,22:34,223400
+92,8,Winkelcentrum Overvecht,22:35,223500
+92,9,Theemsdreef,22:36,223600
+92,10,Humberdreef,22:37,223700
+92,11,Oranjerivierdreef,22:38,223800
+92,12,Nijldreef,22:39,223900
+92,13,Maniladreef,22:40,224000
+92,14,Pekingdreef,22:41,224100
+92,15,Ammandreef,22:42,224200
+92,16,Klopvaart,22:43,224300
+92,17,Franciscusdreef,22:45,224500
+92,18,J.M. de Muinck Keizerlaan,22:47,224700
+92,19,Prins Bernhardplein,22:48,224800
+92,20,Prins Bernhardlaan,22:49,224900
+92,21,Muyskenweg,22:50,225000
+92,22,Sweder van Zuylenweg,22:51,225100
+92,23,Sint-Josephlaan,22:52,225200
+92,24,Watertoren,22:53,225300
+92,25,Concordiastraat,22:53,225300
+92,26,Viaduct,22:55,225500
+92,27,Herenweg,22:55,225500
+92,28,Daalsesingel,22:58,225800
+92,29,CS Centrumzijde,23:02,230200
+93,1,CS Centrumzijde,22:38,223800
+93,2,Sint Jacobsstraat,22:42,224200
+93,3,Oudenoord,22:43,224300
+93,4,David van Mollemstraat,22:44,224400
+93,5,Draaiweg,22:45,224500
+93,6,Willem Dreeslaan,22:46,224600
+93,7,Rhônedreef,22:49,224900
+93,8,Winkelcentrum Overvecht,22:50,225000
+93,9,Theemsdreef,22:51,225100
+93,10,Humberdreef,22:52,225200
+93,11,Oranjerivierdreef,22:53,225300
+93,12,Nijldreef,22:54,225400
+93,13,Maniladreef,22:55,225500
+93,14,Pekingdreef,22:56,225600
+93,15,Ammandreef,22:57,225700
+93,16,Klopvaart,22:58,225800
+93,17,Franciscusdreef,23:00,230000
+93,18,J.M. de Muinck Keizerlaan,23:02,230200
+93,19,Prins Bernhardplein,23:03,230300
+93,20,Prins Bernhardlaan,23:04,230400
+93,21,Muyskenweg,23:05,230500
+93,22,Sweder van Zuylenweg,23:06,230600
+93,23,Sint-Josephlaan,23:07,230700
+93,24,Watertoren,23:08,230800
+93,25,Concordiastraat,23:08,230800
+93,26,Viaduct,23:10,231000
+93,27,Herenweg,23:10,231000
+93,28,Daalsesingel,23:13,231300
+93,29,CS Centrumzijde,23:17,231700
+94,1,CS Centrumzijde,22:53,225300
+94,2,Sint Jacobsstraat,22:57,225700
+94,3,Oudenoord,22:58,225800
+94,4,David van Mollemstraat,22:59,225900
+94,5,Draaiweg,23:00,230000
+94,6,Willem Dreeslaan,23:01,230100
+94,7,Rhônedreef,23:03,230300
+94,8,Winkelcentrum Overvecht,23:04,230400
+94,9,Theemsdreef,23:05,230500
+94,10,Humberdreef,23:05,230500
+94,11,Oranjerivierdreef,23:06,230600
+94,12,Nijldreef,23:07,230700
+94,13,Maniladreef,23:08,230800
+94,14,Pekingdreef,23:09,230900
+94,15,Ammandreef,23:10,231000
+94,16,Klopvaart,23:11,231100
+94,17,Franciscusdreef,23:12,231200
+94,18,J.M. de Muinck Keizerlaan,23:14,231400
+94,19,Prins Bernhardplein,23:15,231500
+94,20,Prins Bernhardlaan,23:16,231600
+94,21,Muyskenweg,23:17,231700
+94,22,Sweder van Zuylenweg,23:18,231800
+94,23,Sint-Josephlaan,23:19,231900
+94,24,Watertoren,23:20,232000
+94,25,Concordiastraat,23:20,232000
+94,26,Viaduct,23:22,232200
+94,27,Herenweg,23:22,232200
+94,28,Daalsesingel,23:25,232500
+94,29,CS Centrumzijde,23:29,232900
+95,1,CS Centrumzijde,23:08,230800
+95,2,Sint Jacobsstraat,23:11,231100
+95,3,Oudenoord,23:12,231200
+95,4,David van Mollemstraat,23:13,231300
+95,5,Draaiweg,23:14,231400
+95,6,Willem Dreeslaan,23:15,231500
+95,7,Rhônedreef,23:17,231700
+95,8,Winkelcentrum Overvecht,23:18,231800
+95,9,Theemsdreef,23:19,231900
+95,10,Humberdreef,23:19,231900
+95,11,Oranjerivierdreef,23:20,232000
+95,12,Nijldreef,23:21,232100
+95,13,Maniladreef,23:22,232200
+95,14,Pekingdreef,23:23,232300
+95,15,Ammandreef,23:24,232400
+95,16,Klopvaart,23:25,232500
+95,17,Franciscusdreef,23:26,232600
+95,18,J.M. de Muinck Keizerlaan,23:28,232800
+95,19,Prins Bernhardplein,23:29,232900
+95,20,Prins Bernhardlaan,23:30,233000
+95,21,Muyskenweg,23:31,233100
+95,22,Sweder van Zuylenweg,23:32,233200
+95,23,Sint-Josephlaan,23:33,233300
+95,24,Watertoren,23:34,233400
+95,25,Concordiastraat,23:34,233400
+95,26,Viaduct,23:36,233600
+95,27,Herenweg,23:36,233600
+95,28,Daalsesingel,23:39,233900
+95,29,CS Centrumzijde,23:43,234300
+96,1,CS Centrumzijde,23:23,232300
+96,2,Sint Jacobsstraat,23:26,232600
+96,3,Oudenoord,23:27,232700
+96,4,David van Mollemstraat,23:28,232800
+96,5,Draaiweg,23:29,232900
+96,6,Willem Dreeslaan,23:30,233000
+96,7,Rhônedreef,23:32,233200
+96,8,Winkelcentrum Overvecht,23:33,233300
+96,9,Theemsdreef,23:34,233400
+96,10,Humberdreef,23:34,233400
+96,11,Oranjerivierdreef,23:35,233500
+96,12,Nijldreef,23:36,233600
+96,13,Maniladreef,23:37,233700
+96,14,Pekingdreef,23:38,233800
+96,15,Ammandreef,23:39,233900
+96,16,Klopvaart,23:40,234000
+96,17,Franciscusdreef,23:41,234100
+96,18,J.M. de Muinck Keizerlaan,23:43,234300
+96,19,Prins Bernhardplein,23:44,234400
+96,20,Prins Bernhardlaan,23:45,234500
+96,21,Muyskenweg,23:46,234600
+96,22,Sweder van Zuylenweg,23:47,234700
+96,23,Sint-Josephlaan,23:48,234800
+96,24,Watertoren,23:49,234900
+96,25,Concordiastraat,23:49,234900
+96,26,Viaduct,23:51,235100
+96,27,Herenweg,23:51,235100
+96,28,Daalsesingel,23:54,235400
+96,29,CS Centrumzijde,23:58,235800
+97,1,CS Centrumzijde,23:40,234000
+97,2,Sint Jacobsstraat,23:43,234300
+97,3,Oudenoord,23:44,234400
+97,4,David van Mollemstraat,23:45,234500
+97,5,Draaiweg,23:46,234600
+97,6,Willem Dreeslaan,23:47,234700
+97,7,Rhônedreef,23:49,234900
+97,8,Winkelcentrum Overvecht,23:50,235000
+97,9,Theemsdreef,23:51,235100
+97,10,Humberdreef,23:51,235100
+97,11,Oranjerivierdreef,23:52,235200
+97,12,Nijldreef,23:53,235300
+97,13,Maniladreef,23:54,235400
+97,14,Pekingdreef,23:55,235500
+97,15,Ammandreef,23:56,235600
+97,16,Klopvaart,23:57,235700
+97,17,Franciscusdreef,23:58,235800
+97,18,J.M. de Muinck Keizerlaan,00:00*,240000
+97,19,Prins Bernhardplein,00:01*,240100
+97,20,Prins Bernhardlaan,00:02*,240200
+97,21,Muyskenweg,00:03*,240300
+97,22,Sweder van Zuylenweg,00:04*,240400
+97,23,Sint-Josephlaan,00:05*,240500
+97,24,Watertoren,00:06*,240600
+97,25,Concordiastraat,00:06*,240600
+97,26,Viaduct,00:08*,240800
+97,27,Herenweg,00:08*,240800
+97,28,Daalsesingel,00:11*,241100
+97,29,CS Centrumzijde,00:15*,241500
+98,1,CS Centrumzijde,00:00*,240000
+98,2,Sint Jacobsstraat,00:03*,240300
+98,3,Oudenoord,00:04*,240400
+98,4,David van Mollemstraat,00:05*,240500
+98,5,Draaiweg,00:06*,240600
+98,6,Willem Dreeslaan,00:07*,240700
+98,7,Rhônedreef,00:09*,240900
+98,8,Winkelcentrum Overvecht,00:10*,241000
+98,9,Theemsdreef,00:11*,241100
+98,10,Humberdreef,00:11*,241100
+98,11,Oranjerivierdreef,00:12*,241200
+98,12,Nijldreef,00:13*,241300
+98,13,Maniladreef,00:14*,241400
+98,14,Pekingdreef,00:15*,241500
+98,15,Ammandreef,00:16*,241600
+98,16,Klopvaart,00:17*,241700
+98,17,Franciscusdreef,00:18*,241800
+98,18,J.M. de Muinck Keizerlaan,00:20*,242000
+98,19,Prins Bernhardplein,00:21*,242100
+98,20,Prins Bernhardlaan,00:22*,242200
+98,21,Muyskenweg,00:23*,242300
+98,22,Sweder van Zuylenweg,00:24*,242400
+98,23,Sint-Josephlaan,00:25*,242500
+98,24,Watertoren,00:26*,242600
+98,25,Concordiastraat,00:26*,242600
+98,26,Viaduct,00:28*,242800
+98,27,Herenweg,00:28*,242800
+98,28,Daalsesingel,00:31*,243100
+98,29,CS Centrumzijde,00:35*,243500
+99,1,CS Centrumzijde,00:20*,242000
+99,2,Sint Jacobsstraat,00:23*,242300
+99,3,Oudenoord,00:24*,242400
+99,4,David van Mollemstraat,00:25*,242500
+99,5,Draaiweg,00:26*,242600
+99,6,Willem Dreeslaan,00:27*,242700
+99,7,Rhônedreef,00:29*,242900
+99,8,Winkelcentrum Overvecht,00:30*,243000
+99,9,Theemsdreef,00:31*,243100
+99,10,Humberdreef,00:31*,243100
+99,11,Oranjerivierdreef,00:32*,243200
+99,12,Nijldreef,00:33*,243300
+99,13,Maniladreef,00:34*,243400
+99,14,Pekingdreef,00:35*,243500
+99,15,Ammandreef,00:36*,243600
+99,16,Klopvaart,00:37*,243700
+99,17,Franciscusdreef,00:38*,243800
+99,18,J.M. de Muinck Keizerlaan,00:40*,244000
+99,19,Prins Bernhardplein,00:41*,244100
+99,20,Prins Bernhardlaan,00:42*,244200
+99,21,Muyskenweg,00:43*,244300
+99,22,Sweder van Zuylenweg,00:44*,244400
+99,23,Sint-Josephlaan,00:45*,244500
+99,24,Watertoren,00:46*,244600
+99,25,Concordiastraat,00:46*,244600
+99,26,Viaduct,00:48*,244800
+99,27,Herenweg,00:48*,244800
+99,28,Daalsesingel,00:51*,245100
+99,29,CS Centrumzijde,00:55*,245500
+100,1,CS Centrumzijde,00:40*,244000
+100,2,Sint Jacobsstraat,00:43*,244300
+100,3,Oudenoord,00:44*,244400
+100,4,David van Mollemstraat,00:45*,244500
+100,5,Draaiweg,00:46*,244600
+100,6,Willem Dreeslaan,00:47*,244700
+100,7,Rhônedreef,00:49*,244900
+100,8,Winkelcentrum Overvecht,00:50*,245000
+100,9,Theemsdreef,00:51*,245100
+100,10,Humberdreef,00:51*,245100
+100,11,Oranjerivierdreef,00:52*,245200
+100,12,Nijldreef,00:53*,245300
+100,13,Maniladreef,00:54*,245400
+100,14,Pekingdreef,00:55*,245500
+100,15,Ammandreef,00:56*,245600
+100,16,Klopvaart,00:58*,245800
+101,1,CS Centrumzijde,01:00*,250000
+101,2,Sint Jacobsstraat,01:03*,250300
+101,3,Oudenoord,01:04*,250400
+101,4,David van Mollemstraat,01:05*,250500
+101,5,Draaiweg,01:06*,250600
+101,6,Willem Dreeslaan,01:07*,250700
+101,7,Rhônedreef,01:09*,250900
+101,8,Winkelcentrum Overvecht,01:10*,251000
+101,9,Theemsdreef,01:11*,251100
+101,10,Humberdreef,01:11*,251100
+101,11,Oranjerivierdreef,01:12*,251200
+101,12,Nijldreef,01:13*,251300
+101,13,Maniladreef,01:14*,251400
+101,14,Pekingdreef,01:15*,251500
+101,15,Ammandreef,01:16*,251600
+101,16,Klopvaart,01:18*,251800
