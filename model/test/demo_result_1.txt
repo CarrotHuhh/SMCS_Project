@@ -1,0 +1,21 @@
+===== 實驗參數設定 (Demo) =====
+司機權重 (alpha): 1.0
+懲罰權重 (beta): 2.0
+人力天花板 (N): 10
+
+===== 成本定義邏輯 =====
+核心路線 (i < 20): Ci = 100
+普通路線 (i >= 20): Ci = 1
+
+===== 求解結果 =====
+求解狀態: Optimal
+總成本 (Total Cost): 56.0
+使用的司機人數: 10.0
+總懲罰分數: 23.0
+
+===== 具體決策細節 =====
+[指派的 Duty]:
+Duty_114, Duty_162, Duty_20, Duty_252, Duty_311, Duty_336, Duty_349, Duty_384, Duty_419, Duty_438
+
+[放棄的班次 (P_i = 1)]:
+Penalty_20, Penalty_23, Penalty_24, Penalty_31, Penalty_32, Penalty_33, Penalty_36, Penalty_39, Penalty_41, Penalty_44, Penalty_47, Penalty_50, Penalty_53, Penalty_61, Penalty_64, Penalty_65, Penalty_66, Penalty_67, Penalty_73, Penalty_77, Penalty_87, Penalty_95, Penalty_99
