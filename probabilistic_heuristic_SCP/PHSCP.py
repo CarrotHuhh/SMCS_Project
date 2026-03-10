@@ -5,8 +5,8 @@
 
 import numpy as np
 import random
-import time
-from itertools import combinations
+# import time
+# from itertools import combinations
 
 
 class SetCover():
@@ -75,12 +75,14 @@ class SetCover():
         self.subsets_np = np.array(self.subsets)
         self.subsets_cost_np = np.array(self.subsets_cost)
 
-    # To calculate total cost
-    # subsets_cost_np used to record each sets' cost, in this case set all cost as 1
     def evaluate_solution(self, solution):
+        '''
         total_cost = self.subsets_cost_np[list(solution)].sum()
 
         return total_cost
+        '''
+        # 論文的目標是找最小基數 (minimum cardinality)，所以直接回傳解的長度
+        return len(solution)
 
     def is_complete(self, solution):
 
@@ -93,7 +95,6 @@ class SetCover():
         else:
             return False
 
-    # Important
     def greedy_randomized_algorithm(self, alpha):
 
         # Subsets in the solution
@@ -106,6 +107,7 @@ class SetCover():
         C = set(range(self.nr_subsets))
 
         while not self.is_complete(Solution):
+            '''
             ratio = dict()
 
             # Calculate the ratio for every subset in the candidate set
@@ -119,6 +121,21 @@ class SetCover():
             c_max = max(ratio.values())
 
             RCL = [i for i in C if i in ratio.keys() and ratio[i] <= c_min + alpha * (c_max - c_min)]
+            '''
+
+            benefits = dict()
+
+            # 計算每個集合能提供多少「新增的覆蓋元素數量」
+            for i in C:
+                atr_added = len(self.subsets[i] - Solution_atr)
+                if atr_added > 0:
+                    benefits[i] = atr_added
+
+            # 找出當下能覆蓋最多元素的數量 (對應論文中的 \overline{\Gamma})
+            max_benefit = max(benefits.values())
+
+            # 候選名單 (RCL)：只要覆蓋數量 >= α * max_benefit 就納入 (對應論文中的第 7 行)
+            RCL = [i for i in C if i in benefits.keys() and benefits[i] >= alpha * max_benefit]
 
             s_index = random.choice(RCL)
 
@@ -128,7 +145,6 @@ class SetCover():
 
         return Solution
 
-    # Important
     def remove_redundancy(self, solution):
 
         for i in solution:
@@ -139,7 +155,7 @@ class SetCover():
 
         return solution
 
-    def local_search(self, solution):
+    '''def local_search(self, solution):
 
         sol_set = self.remove_redundancy(solution)
 
@@ -202,9 +218,9 @@ class SetCover():
 
                 sol_set = best_sol_set.copy()
 
-        return sol_set
+        return sol_set'''
 
-    def path_relinking(self, initial_solution, final_solution):
+    '''def path_relinking(self, initial_solution, final_solution):
 
         sym_dif = initial_solution.symmetric_difference(final_solution)
 
@@ -256,9 +272,9 @@ class SetCover():
 
             sym_dif.remove(best_i)
 
-        return best_sol
+        return best_sol'''
 
-    def GRASP(self, MaxTime, alpha, nr_pool):
+    '''def GRASP(self, MaxTime, alpha, nr_pool):
         best_cost = 0
         new_it = True
         P = []
@@ -304,5 +320,26 @@ class SetCover():
 
             clock = round(time.time() - start, 1)
 
-        return best_cost, best_sol, time_best, iteration_best
+        return best_cost, best_sol, time_best, iteration_best'''
 
+    def probabilistic_heuristic(self, N, alpha):
+            best_cost = float('inf')
+            best_sol = set()
+
+            # 對應論文中重複 N 次的迴圈 (do i=1,...,N)
+            for i in range(N):
+                # 1. 隨機構造初始解 (對應論文中 while loop 構造 J^0)
+                x = self.greedy_randomized_algorithm(alpha)
+                
+                # 2. 移除多餘的元素 (對應論文中第 11 行: Remove superfluous j from J^0)
+                x = self.remove_redundancy(x)
+
+                # 評估當前解的集合數量
+                cost = self.evaluate_solution(x)
+
+                # 3. 如果找到更少集合的組合，就更新最佳解 (對應論文中第 13 行)
+                if cost < best_cost:
+                    best_cost = cost
+                    best_sol = x.copy()
+
+            return best_cost, best_sol
