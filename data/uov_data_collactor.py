@@ -12,15 +12,15 @@ from playwright.sync_api import sync_playwright
 CONFIG = {
     # Route object used in URL
     "route_obj": {
-        "route_id": 68835,
-        "route_long_name": "Wilhelminapark - Utrecht CS - Lunetten",
-        "route_short_name": "8",
+        "route_id": 68829,
+        "route_long_name": "Overvecht+-+Utrecht+CS+-+Hoograven",
+        "route_short_name": "1",
         "agency_id": "UOV",
     },
 
     # Query parameters
-    "direction_id": 0,
-    "date_display": "Tu 24 Feb",
+    "direction_id": 1,
+    "date_display": "Th 23 Apr",
     "year": 2026,
     # Don't change this parameter
     "time_hhmm": "00:00",
@@ -28,7 +28,7 @@ CONFIG = {
     # Runtime options
     "headless": True,
     "verbose": True,
-    "output_csv": "uov_timetable_8.csv",
+    "output_csv": "uov_timetable_1_rev.csv",
 }
 
 
