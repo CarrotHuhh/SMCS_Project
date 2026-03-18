@@ -7,7 +7,8 @@ import numpy as np
 import random
 # import time
 # from itertools import combinations
-
+import json
+import re
 
 class SetCover():
 
@@ -103,6 +104,7 @@ class SetCover():
 
         # Calculate the total cost based on your formula
         # 第二項：{0, 1, .... , n} - covered_attributes -> sum of cost
+
         # 第一項： len(solution)
         # a * len(solution) + b * sum of unselected subset costs
         total_cost = a * len(solution) + b * sum_of_unselected_subset_costs
@@ -135,11 +137,11 @@ class SetCover():
 
             # if total_socre < threshold -> store into RCL
             # (alpha 越大會選進越多組)
-            RCL = [i for i in C if score[i] < threshold]
+            RCL = [i for i in C if score[i] <= threshold]
 
-            # TODO: The RCL list might be empty
             if RCL == []:
-                s_index = random.choice(list(C))
+                print("RCL list is empty, break")
+                break
             else:
                 s_index = random.choice(RCL)
 
@@ -185,3 +187,75 @@ class SetCover():
                     best_sol = x.copy()
 
             return best_cost, best_sol
+
+
+    def save_experiment_json(self, exp_id, best_sol, runtime_sec, alpha, a, b, n_iterations, penalty_vector, matrix_file, row_constraint, best_cost):
+        
+        # 決策結果
+        selected_duty_indices = sorted(list(best_sol))  # Convert set to sorted list
+        
+        # 計算未被覆蓋的 rows (attributes)
+        if best_sol:
+            covered_attributes = set.union(*self.subsets_np[list(best_sol)])
+        else:
+            covered_attributes = set()
+        
+        all_attributes = set(range(self.nr_atr))
+        unselected_attributes = all_attributes - covered_attributes
+        cancelled_pow_indices = sorted(list(unselected_attributes))
+        
+        # 計算未被覆蓋的 attributes 的成本 (sum_of_unselected_subset_costs)
+        sum_of_unselected_subset_costs = int(self.subsets_cost_np[list(unselected_attributes)].sum())
+        
+        # 將輸入與輸出封裝在一起
+        experiment_data = {
+            "metadata": {
+                "exp_id": exp_id,
+                "matrix_used": matrix_file
+            },
+            "input_config": {
+                "threshold": alpha,
+                "n_iterations": n_iterations,
+                "alpha": a,
+                "beta": b,
+                "N_limit": int(row_constraint),
+                "penalty_vector": penalty_vector
+            },
+            "output_results": {
+                "status": "Completed",
+                "solver": "Probabilistic Heuristic SCP",    #ok
+                "runtime_sec": round(runtime_sec, 4),   #ok
+                "total_cost": float(best_cost),    # 總共的cost
+                "drivers_used": len(best_sol),  #ok
+                "total_penalty": sum_of_unselected_subset_costs, # sum of the cost of piece of work
+                "cancelled_count": len(cancelled_pow_indices),  #ok
+                "selected_duty_indices": selected_duty_indices, #ok
+                "cancelled_pow_indices": cancelled_pow_indices  #ok
+            }
+        }
+
+        # 轉換為JSON字符串
+        json_str = json.dumps(experiment_data, indent=4, ensure_ascii=False)
+        
+        # 將penalty_vector和selected_duty_indices保持在一行
+        json_str = re.sub(
+            r'"penalty_vector":\s*\[\s*([^\]]+)\s*\]',
+            lambda m: '"penalty_vector": [' + ', '.join(x.strip() for x in m.group(1).split(',')) + ']',
+            json_str
+        )
+        json_str = re.sub(
+            r'"selected_duty_indices":\s*\[\s*([^\]]+)\s*\]',
+            lambda m: '"selected_duty_indices": [' + ', '.join(x.strip() for x in m.group(1).split(',')) + ']',
+            json_str
+        )
+        json_str = re.sub(
+            r'"cancelled_pow_indices":\s*\[\s*([^\]]+)\s*\]',
+            lambda m: '"cancelled_pow_indices": [' + ', '.join(x.strip() for x in m.group(1).split(',')) + ']',
+            json_str
+        )
+
+        with open(f"./result/{exp_id}_full_report.json", "w", encoding="utf-8") as f:
+            f.write(json_str)
+        
+        print(f"\nExperiment report saved to: {exp_id}_full_report.json")
+        return experiment_data
