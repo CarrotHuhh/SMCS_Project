@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "exp_id": "STRESS_A1.0_B1.0_N12_75pct_mock_duty_matrix_100_500",
+        "matrix_used": "mock_duty_matrix_100_500.csv"
+    },
+    "input_config": {
+        "alpha": 1.0,
+        "beta": 1.0,
+        "N_limit": 12,
+        "penalty_vector": [100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    },
+    "output_results": {
+        "status": "Optimal",
+        "solver": "CBC",
+        "runtime_sec": 3.8462,
+        "total_cost": 22.0,
+        "drivers_used": 12,
+        "total_penalty": 10,
+        "cancelled_count": 10,
+        "selected_duty_indices": [1, 13, 137, 147, 208, 326, 334, 336, 349, 360, 366, 486],
+        "cancelled_pow_indices": [40, 46, 62, 68, 72, 73, 75, 89, 90, 96]
+    }
+}
