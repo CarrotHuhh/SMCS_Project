@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "exp_id": "CN_A1.0_B1.0_N12_75pct_mock_duty_matrix_100_500",
+        "matrix_used": "mock_duty_matrix_100_500"
+    },
+    "input_config": {
+        "alpha": 1.0,
+        "beta": 1.0,
+        "N_limit": 12,
+        "penalty_vector": [3, 1, 3, 3, 3, 1, 3, 1, 1, 3, 3, 3, 3, 1, 3, 1, 3, 3, 1, 3, 3, 3, 1, 3, 1, 3, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 1, 1, 1, 3, 1, 1, 3, 1, 3, 3, 1, 1, 1, 1, 3, 3, 3, 1, 1, 1, 1, 3, 1, 1, 1, 1, 3, 3, 3, 1, 1, 3, 3, 3, 3, 3, 3, 1, 1, 1, 3, 1, 1, 3, 1, 3, 3, 3, 1, 3, 3, 1, 3, 3, 1, 3, 3, 1, 1, 3, 1, 1, 3, 3],
+        "penalty_mapping": {
+            "CP": 3,
+            "CO": 3,
+            "NP": 1,
+            "NO": 1
+        }
+    },
+    "output_results": {
+        "status": "Optimal",
+        "solver": "GUROBI",
+        "runtime_sec": 1.3809,
+        "total_cost": 25.0,
+        "drivers_used": 12,
+        "total_penalty": 13,
+        "cancelled_count": 13,
+        "selected_duty_indices": [13, 21, 215, 249, 258, 284, 328, 340, 360, 413, 486, 499],
+        "cancelled_pow_indices": [7, 13, 22, 24, 27, 41, 54, 60, 61, 66, 74, 96, 97],
+        "cancleled_pow_code": ["NO", "NP", "NP", "NO", "NP", "NO", "NP", "NP", "NP", "NO", "NP", "NO", "NO"],
+        "statistics_four_catagories": {
+            "CP": 0,
+            "CO": 0,
+            "NP": 7,
+            "NO": 6
+        }
+    }
+}
