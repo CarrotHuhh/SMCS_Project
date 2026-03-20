@@ -18,7 +18,7 @@
     "output_results": {
         "status": "Optimal",
         "solver": "GUROBI",
-        "runtime_sec": 1.9605,
+        "runtime_sec": 2.1213,
         "total_cost": 16.0,
         "drivers_used": 16,
         "total_penalty": 0,
