@@ -1,0 +1,3181 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,P+R Science Park,05:53,055300
+1,2,WKZ / PMC,05:54,055400
+1,3,UMC Utrecht,05:56,055600
+1,4,Heidelberglaan,05:57,055700
+1,5,Padualaan,05:58,055800
+1,6,Rijnsweerd-Zuid,06:00,060000
+1,7,Rijnsweerd-Noord,06:01,060100
+1,8,Oorsprongpark,06:03,060300
+1,9,Wittevrouwen,06:04,060400
+1,10,Stadsschouwburg,06:06,060600
+1,11,Janskerkhof,06:07,060700
+1,12,Neude,06:08,060800
+1,13,CS Centrumzijde,06:16,061600
+1,14,Hasebroekstraat,06:20,062000
+1,15,Majellapark,06:22,062200
+1,16,Thomas à Kempisplantsoen,06:23,062300
+1,17,Station Leidsche Rijn,06:25,062500
+1,18,Centrumboulevard,06:26,062600
+1,19,Korianderstraat,06:27,062700
+1,20,Eerste Westerparklaan,06:30,063000
+1,21,De Meern-Oost,06:32,063200
+1,22,Meernbrug,06:34,063400
+1,23,Boekbinderslaan,06:35,063500
+1,24,De Balije,06:37,063700
+1,25,Europaweg,06:38,063800
+1,26,Veldhuizen,06:39,063900
+1,27,De Tuinlanden,06:41,064100
+1,28,Vleuterweide-Centrum,06:42,064200
+1,29,Eyckenstein,06:43,064300
+1,30,Station Vleuten,06:47,064700
+2,1,P+R Science Park,06:08,060800
+2,2,WKZ / PMC,06:09,060900
+2,3,UMC Utrecht,06:11,061100
+2,4,Heidelberglaan,06:12,061200
+2,5,Padualaan,06:13,061300
+2,6,Rijnsweerd-Zuid,06:15,061500
+2,7,Rijnsweerd-Noord,06:16,061600
+2,8,Oorsprongpark,06:18,061800
+2,9,Wittevrouwen,06:19,061900
+2,10,Stadsschouwburg,06:21,062100
+2,11,Janskerkhof,06:22,062200
+2,12,Neude,06:23,062300
+2,13,CS Centrumzijde,06:31,063100
+2,14,Hasebroekstraat,06:36,063600
+2,15,Majellapark,06:38,063800
+2,16,Thomas à Kempisplantsoen,06:39,063900
+2,17,Station Leidsche Rijn,06:41,064100
+2,18,Centrumboulevard,06:42,064200
+2,19,Korianderstraat,06:43,064300
+2,20,Eerste Westerparklaan,06:46,064600
+2,21,De Meern-Oost,06:48,064800
+2,22,Meernbrug,06:50,065000
+2,23,Boekbinderslaan,06:51,065100
+2,24,De Balije,06:53,065300
+2,25,Europaweg,06:54,065400
+2,26,Veldhuizen,06:55,065500
+2,27,De Tuinlanden,06:57,065700
+2,28,Vleuterweide-Centrum,06:58,065800
+2,29,Eyckenstein,06:59,065900
+2,30,Station Vleuten,07:03,070300
+3,1,P+R Science Park,06:23,062300
+3,2,WKZ / PMC,06:24,062400
+3,3,UMC Utrecht,06:26,062600
+3,4,Heidelberglaan,06:27,062700
+3,5,Padualaan,06:28,062800
+3,6,Rijnsweerd-Zuid,06:30,063000
+3,7,Rijnsweerd-Noord,06:32,063200
+3,8,Oorsprongpark,06:34,063400
+3,9,Wittevrouwen,06:35,063500
+3,10,Stadsschouwburg,06:37,063700
+3,11,Janskerkhof,06:38,063800
+3,12,Neude,06:40,064000
+3,13,CS Centrumzijde,06:48,064800
+3,14,Hasebroekstraat,06:53,065300
+3,15,Majellapark,06:55,065500
+3,16,Thomas à Kempisplantsoen,06:56,065600
+3,17,Station Leidsche Rijn,06:58,065800
+3,18,Centrumboulevard,06:59,065900
+3,19,Korianderstraat,07:00,070000
+3,20,Eerste Westerparklaan,07:03,070300
+3,21,De Meern-Oost,07:05,070500
+3,22,Meernbrug,07:07,070700
+3,23,Boekbinderslaan,07:08,070800
+3,24,De Balije,07:10,071000
+3,25,Europaweg,07:11,071100
+3,26,Veldhuizen,07:12,071200
+3,27,De Tuinlanden,07:14,071400
+3,28,Vleuterweide-Centrum,07:15,071500
+3,29,Eyckenstein,07:16,071600
+3,30,Station Vleuten,07:20,072000
+4,1,P+R Science Park,06:38,063800
+4,2,WKZ / PMC,06:39,063900
+4,3,UMC Utrecht,06:41,064100
+4,4,Heidelberglaan,06:42,064200
+4,5,Padualaan,06:43,064300
+4,6,Rijnsweerd-Zuid,06:45,064500
+4,7,Rijnsweerd-Noord,06:47,064700
+4,8,Oorsprongpark,06:49,064900
+4,9,Wittevrouwen,06:50,065000
+4,10,Stadsschouwburg,06:52,065200
+4,11,Janskerkhof,06:53,065300
+4,12,Neude,06:55,065500
+4,13,CS Centrumzijde,07:04,070400
+4,14,Hasebroekstraat,07:09,070900
+4,15,Majellapark,07:11,071100
+4,16,Thomas à Kempisplantsoen,07:12,071200
+4,17,Station Leidsche Rijn,07:14,071400
+4,18,Centrumboulevard,07:15,071500
+4,19,Korianderstraat,07:16,071600
+4,20,Eerste Westerparklaan,07:19,071900
+4,21,De Meern-Oost,07:21,072100
+4,22,Meernbrug,07:23,072300
+4,23,Boekbinderslaan,07:24,072400
+4,24,De Balije,07:26,072600
+4,25,Europaweg,07:27,072700
+4,26,Veldhuizen,07:28,072800
+4,27,De Tuinlanden,07:30,073000
+4,28,Vleuterweide-Centrum,07:31,073100
+4,29,Eyckenstein,07:32,073200
+4,30,Station Vleuten,07:36,073600
+5,1,P+R Science Park,06:53,065300
+5,2,WKZ / PMC,06:54,065400
+5,3,UMC Utrecht,06:56,065600
+5,4,Heidelberglaan,06:57,065700
+5,5,Padualaan,06:59,065900
+5,6,Rijnsweerd-Zuid,07:01,070100
+5,7,Rijnsweerd-Noord,07:03,070300
+5,8,Oorsprongpark,07:05,070500
+5,9,Wittevrouwen,07:06,070600
+5,10,Stadsschouwburg,07:08,070800
+5,11,Janskerkhof,07:09,070900
+5,12,Neude,07:11,071100
+5,13,CS Centrumzijde,07:20,072000
+5,14,Hasebroekstraat,07:25,072500
+5,15,Majellapark,07:27,072700
+5,16,Thomas à Kempisplantsoen,07:28,072800
+5,17,Station Leidsche Rijn,07:30,073000
+5,18,Centrumboulevard,07:31,073100
+5,19,Korianderstraat,07:32,073200
+5,20,Eerste Westerparklaan,07:35,073500
+5,21,De Meern-Oost,07:37,073700
+5,22,Meernbrug,07:39,073900
+5,23,Boekbinderslaan,07:40,074000
+5,24,De Balije,07:42,074200
+5,25,Europaweg,07:43,074300
+5,26,Veldhuizen,07:44,074400
+5,27,De Tuinlanden,07:46,074600
+5,28,Vleuterweide-Centrum,07:47,074700
+5,29,Eyckenstein,07:48,074800
+5,30,Station Vleuten,07:52,075200
+6,1,P+R Science Park,07:08,070800
+6,2,WKZ / PMC,07:09,070900
+6,3,UMC Utrecht,07:11,071100
+6,4,Heidelberglaan,07:12,071200
+6,5,Padualaan,07:14,071400
+6,6,Rijnsweerd-Zuid,07:16,071600
+6,7,Rijnsweerd-Noord,07:18,071800
+6,8,Oorsprongpark,07:20,072000
+6,9,Wittevrouwen,07:21,072100
+6,10,Stadsschouwburg,07:23,072300
+6,11,Janskerkhof,07:24,072400
+6,12,Neude,07:26,072600
+6,13,CS Centrumzijde,07:35,073500
+6,14,Hasebroekstraat,07:40,074000
+6,15,Majellapark,07:42,074200
+6,16,Thomas à Kempisplantsoen,07:43,074300
+6,17,Station Leidsche Rijn,07:45,074500
+6,18,Centrumboulevard,07:46,074600
+6,19,Korianderstraat,07:47,074700
+6,20,Eerste Westerparklaan,07:50,075000
+6,21,De Meern-Oost,07:52,075200
+6,22,Meernbrug,07:54,075400
+6,23,Boekbinderslaan,07:55,075500
+6,24,De Balije,07:57,075700
+6,25,Europaweg,07:58,075800
+6,26,Veldhuizen,07:59,075900
+6,27,De Tuinlanden,08:01,080100
+6,28,Vleuterweide-Centrum,08:02,080200
+6,29,Eyckenstein,08:03,080300
+6,30,Station Vleuten,08:07,080700
+7,1,P+R Science Park,07:18,071800
+7,2,WKZ / PMC,07:19,071900
+7,3,UMC Utrecht,07:21,072100
+7,4,Heidelberglaan,07:22,072200
+7,5,Padualaan,07:24,072400
+7,6,Rijnsweerd-Zuid,07:26,072600
+7,7,Rijnsweerd-Noord,07:28,072800
+7,8,Oorsprongpark,07:30,073000
+7,9,Wittevrouwen,07:31,073100
+7,10,Stadsschouwburg,07:33,073300
+7,11,Janskerkhof,07:34,073400
+7,12,Neude,07:36,073600
+7,13,CS Centrumzijde,07:45,074500
+7,14,Hasebroekstraat,07:50,075000
+7,15,Majellapark,07:52,075200
+7,16,Thomas à Kempisplantsoen,07:53,075300
+7,17,Station Leidsche Rijn,07:55,075500
+7,18,Centrumboulevard,07:56,075600
+7,19,Korianderstraat,07:57,075700
+7,20,Eerste Westerparklaan,08:00,080000
+7,21,De Meern-Oost,08:02,080200
+7,22,Meernbrug,08:04,080400
+7,23,Boekbinderslaan,08:05,080500
+7,24,De Balije,08:07,080700
+7,25,Europaweg,08:08,080800
+7,26,Veldhuizen,08:09,080900
+7,27,De Tuinlanden,08:11,081100
+7,28,Vleuterweide-Centrum,08:12,081200
+7,29,Eyckenstein,08:13,081300
+7,30,Station Vleuten,08:17,081700
+8,1,P+R Science Park,07:28,072800
+8,2,WKZ / PMC,07:29,072900
+8,3,UMC Utrecht,07:31,073100
+8,4,Heidelberglaan,07:32,073200
+8,5,Padualaan,07:34,073400
+8,6,Rijnsweerd-Zuid,07:36,073600
+8,7,Rijnsweerd-Noord,07:38,073800
+8,8,Oorsprongpark,07:40,074000
+8,9,Wittevrouwen,07:41,074100
+8,10,Stadsschouwburg,07:43,074300
+8,11,Janskerkhof,07:44,074400
+8,12,Neude,07:46,074600
+8,13,CS Centrumzijde,07:55,075500
+8,14,Hasebroekstraat,08:00,080000
+8,15,Majellapark,08:02,080200
+8,16,Thomas à Kempisplantsoen,08:03,080300
+8,17,Station Leidsche Rijn,08:05,080500
+8,18,Centrumboulevard,08:06,080600
+8,19,Korianderstraat,08:07,080700
+8,20,Eerste Westerparklaan,08:10,081000
+8,21,De Meern-Oost,08:12,081200
+8,22,Meernbrug,08:14,081400
+8,23,Boekbinderslaan,08:15,081500
+8,24,De Balije,08:16,081600
+8,25,Europaweg,08:17,081700
+8,26,Veldhuizen,08:18,081800
+8,27,De Tuinlanden,08:20,082000
+8,28,Vleuterweide-Centrum,08:21,082100
+8,29,Eyckenstein,08:22,082200
+8,30,Station Vleuten,08:26,082600
+9,1,P+R Science Park,07:38,073800
+9,2,WKZ / PMC,07:39,073900
+9,3,UMC Utrecht,07:41,074100
+9,4,Heidelberglaan,07:42,074200
+9,5,Padualaan,07:44,074400
+9,6,Rijnsweerd-Zuid,07:46,074600
+9,7,Rijnsweerd-Noord,07:48,074800
+9,8,Oorsprongpark,07:50,075000
+9,9,Wittevrouwen,07:51,075100
+9,10,Stadsschouwburg,07:53,075300
+9,11,Janskerkhof,07:54,075400
+9,12,Neude,07:56,075600
+9,13,CS Centrumzijde,08:05,080500
+9,14,Hasebroekstraat,08:10,081000
+9,15,Majellapark,08:12,081200
+9,16,Thomas à Kempisplantsoen,08:13,081300
+9,17,Station Leidsche Rijn,08:15,081500
+9,18,Centrumboulevard,08:16,081600
+9,19,Korianderstraat,08:17,081700
+9,20,Eerste Westerparklaan,08:20,082000
+9,21,De Meern-Oost,08:22,082200
+9,22,Meernbrug,08:24,082400
+9,23,Boekbinderslaan,08:25,082500
+9,24,De Balije,08:26,082600
+9,25,Europaweg,08:27,082700
+9,26,Veldhuizen,08:28,082800
+9,27,De Tuinlanden,08:30,083000
+9,28,Vleuterweide-Centrum,08:31,083100
+9,29,Eyckenstein,08:32,083200
+9,30,Station Vleuten,08:36,083600
+10,1,P+R Science Park,07:48,074800
+10,2,WKZ / PMC,07:49,074900
+10,3,UMC Utrecht,07:51,075100
+10,4,Heidelberglaan,07:52,075200
+10,5,Padualaan,07:54,075400
+10,6,Rijnsweerd-Zuid,07:56,075600
+10,7,Rijnsweerd-Noord,07:58,075800
+10,8,Oorsprongpark,08:00,080000
+10,9,Wittevrouwen,08:01,080100
+10,10,Stadsschouwburg,08:03,080300
+10,11,Janskerkhof,08:04,080400
+10,12,Neude,08:06,080600
+10,13,CS Centrumzijde,08:15,081500
+10,14,Hasebroekstraat,08:19,081900
+10,15,Majellapark,08:21,082100
+10,16,Thomas à Kempisplantsoen,08:22,082200
+10,17,Station Leidsche Rijn,08:24,082400
+10,18,Centrumboulevard,08:25,082500
+10,19,Korianderstraat,08:26,082600
+10,20,Eerste Westerparklaan,08:29,082900
+10,21,De Meern-Oost,08:31,083100
+10,22,Meernbrug,08:33,083300
+10,23,Boekbinderslaan,08:34,083400
+10,24,De Balije,08:35,083500
+10,25,Europaweg,08:36,083600
+10,26,Veldhuizen,08:37,083700
+10,27,De Tuinlanden,08:39,083900
+10,28,Vleuterweide-Centrum,08:40,084000
+10,29,Eyckenstein,08:41,084100
+10,30,Station Vleuten,08:45,084500
+11,1,P+R Science Park,07:58,075800
+11,2,WKZ / PMC,07:59,075900
+11,3,UMC Utrecht,08:01,080100
+11,4,Heidelberglaan,08:02,080200
+11,5,Padualaan,08:04,080400
+11,6,Rijnsweerd-Zuid,08:06,080600
+11,7,Rijnsweerd-Noord,08:08,080800
+11,8,Oorsprongpark,08:10,081000
+11,9,Wittevrouwen,08:11,081100
+11,10,Stadsschouwburg,08:13,081300
+11,11,Janskerkhof,08:14,081400
+11,12,Neude,08:16,081600
+11,13,CS Centrumzijde,08:25,082500
+11,14,Hasebroekstraat,08:29,082900
+11,15,Majellapark,08:31,083100
+11,16,Thomas à Kempisplantsoen,08:32,083200
+11,17,Station Leidsche Rijn,08:34,083400
+11,18,Centrumboulevard,08:35,083500
+11,19,Korianderstraat,08:36,083600
+11,20,Eerste Westerparklaan,08:39,083900
+11,21,De Meern-Oost,08:41,084100
+11,22,Meernbrug,08:43,084300
+11,23,Boekbinderslaan,08:44,084400
+11,24,De Balije,08:45,084500
+11,25,Europaweg,08:46,084600
+11,26,Veldhuizen,08:47,084700
+11,27,De Tuinlanden,08:49,084900
+11,28,Vleuterweide-Centrum,08:50,085000
+11,29,Eyckenstein,08:51,085100
+11,30,Station Vleuten,08:55,085500
+12,1,P+R Science Park,08:08,080800
+12,2,WKZ / PMC,08:09,080900
+12,3,UMC Utrecht,08:11,081100
+12,4,Heidelberglaan,08:12,081200
+12,5,Padualaan,08:14,081400
+12,6,Rijnsweerd-Zuid,08:16,081600
+12,7,Rijnsweerd-Noord,08:18,081800
+12,8,Oorsprongpark,08:20,082000
+12,9,Wittevrouwen,08:21,082100
+12,10,Stadsschouwburg,08:23,082300
+12,11,Janskerkhof,08:24,082400
+12,12,Neude,08:26,082600
+12,13,CS Centrumzijde,08:35,083500
+12,14,Hasebroekstraat,08:39,083900
+12,15,Majellapark,08:41,084100
+12,16,Thomas à Kempisplantsoen,08:42,084200
+12,17,Station Leidsche Rijn,08:44,084400
+12,18,Centrumboulevard,08:45,084500
+12,19,Korianderstraat,08:46,084600
+12,20,Eerste Westerparklaan,08:49,084900
+12,21,De Meern-Oost,08:51,085100
+12,22,Meernbrug,08:53,085300
+12,23,Boekbinderslaan,08:54,085400
+12,24,De Balije,08:55,085500
+12,25,Europaweg,08:56,085600
+12,26,Veldhuizen,08:57,085700
+12,27,De Tuinlanden,08:59,085900
+12,28,Vleuterweide-Centrum,09:00,090000
+12,29,Eyckenstein,09:01,090100
+12,30,Station Vleuten,09:05,090500
+13,1,P+R Science Park,08:18,081800
+13,2,WKZ / PMC,08:19,081900
+13,3,UMC Utrecht,08:21,082100
+13,4,Heidelberglaan,08:22,082200
+13,5,Padualaan,08:24,082400
+13,6,Rijnsweerd-Zuid,08:26,082600
+13,7,Rijnsweerd-Noord,08:28,082800
+13,8,Oorsprongpark,08:30,083000
+13,9,Wittevrouwen,08:31,083100
+13,10,Stadsschouwburg,08:33,083300
+13,11,Janskerkhof,08:34,083400
+13,12,Neude,08:36,083600
+13,13,CS Centrumzijde,08:45,084500
+13,14,Hasebroekstraat,08:49,084900
+13,15,Majellapark,08:51,085100
+13,16,Thomas à Kempisplantsoen,08:52,085200
+13,17,Station Leidsche Rijn,08:54,085400
+13,18,Centrumboulevard,08:55,085500
+13,19,Korianderstraat,08:56,085600
+13,20,Eerste Westerparklaan,08:59,085900
+13,21,De Meern-Oost,09:01,090100
+13,22,Meernbrug,09:03,090300
+13,23,Boekbinderslaan,09:04,090400
+13,24,De Balije,09:05,090500
+13,25,Europaweg,09:06,090600
+13,26,Veldhuizen,09:07,090700
+13,27,De Tuinlanden,09:09,090900
+13,28,Vleuterweide-Centrum,09:10,091000
+13,29,Eyckenstein,09:11,091100
+13,30,Station Vleuten,09:15,091500
+14,1,P+R Science Park,08:28,082800
+14,2,WKZ / PMC,08:29,082900
+14,3,UMC Utrecht,08:31,083100
+14,4,Heidelberglaan,08:32,083200
+14,5,Padualaan,08:34,083400
+14,6,Rijnsweerd-Zuid,08:36,083600
+14,7,Rijnsweerd-Noord,08:38,083800
+14,8,Oorsprongpark,08:40,084000
+14,9,Wittevrouwen,08:41,084100
+14,10,Stadsschouwburg,08:43,084300
+14,11,Janskerkhof,08:44,084400
+14,12,Neude,08:46,084600
+14,13,CS Centrumzijde,08:55,085500
+14,14,Hasebroekstraat,08:59,085900
+14,15,Majellapark,09:01,090100
+14,16,Thomas à Kempisplantsoen,09:02,090200
+14,17,Station Leidsche Rijn,09:04,090400
+14,18,Centrumboulevard,09:05,090500
+14,19,Korianderstraat,09:06,090600
+14,20,Eerste Westerparklaan,09:09,090900
+14,21,De Meern-Oost,09:11,091100
+14,22,Meernbrug,09:13,091300
+14,23,Boekbinderslaan,09:14,091400
+14,24,De Balije,09:15,091500
+14,25,Europaweg,09:16,091600
+14,26,Veldhuizen,09:17,091700
+14,27,De Tuinlanden,09:19,091900
+14,28,Vleuterweide-Centrum,09:20,092000
+14,29,Eyckenstein,09:21,092100
+14,30,Station Vleuten,09:25,092500
+15,1,P+R Science Park,08:38,083800
+15,2,WKZ / PMC,08:39,083900
+15,3,UMC Utrecht,08:41,084100
+15,4,Heidelberglaan,08:42,084200
+15,5,Padualaan,08:44,084400
+15,6,Rijnsweerd-Zuid,08:46,084600
+15,7,Rijnsweerd-Noord,08:48,084800
+15,8,Oorsprongpark,08:50,085000
+15,9,Wittevrouwen,08:51,085100
+15,10,Stadsschouwburg,08:53,085300
+15,11,Janskerkhof,08:54,085400
+15,12,Neude,08:56,085600
+15,13,CS Centrumzijde,09:05,090500
+15,14,Hasebroekstraat,09:09,090900
+15,15,Majellapark,09:11,091100
+15,16,Thomas à Kempisplantsoen,09:12,091200
+15,17,Station Leidsche Rijn,09:14,091400
+15,18,Centrumboulevard,09:15,091500
+15,19,Korianderstraat,09:16,091600
+15,20,Eerste Westerparklaan,09:19,091900
+15,21,De Meern-Oost,09:21,092100
+15,22,Meernbrug,09:23,092300
+15,23,Boekbinderslaan,09:24,092400
+15,24,De Balije,09:25,092500
+15,25,Europaweg,09:26,092600
+15,26,Veldhuizen,09:27,092700
+15,27,De Tuinlanden,09:29,092900
+15,28,Vleuterweide-Centrum,09:30,093000
+15,29,Eyckenstein,09:31,093100
+15,30,Station Vleuten,09:35,093500
+16,1,P+R Science Park,08:48,084800
+16,2,WKZ / PMC,08:49,084900
+16,3,UMC Utrecht,08:51,085100
+16,4,Heidelberglaan,08:52,085200
+16,5,Padualaan,08:54,085400
+16,6,Rijnsweerd-Zuid,08:56,085600
+16,7,Rijnsweerd-Noord,08:58,085800
+16,8,Oorsprongpark,09:00,090000
+16,9,Wittevrouwen,09:01,090100
+16,10,Stadsschouwburg,09:03,090300
+16,11,Janskerkhof,09:04,090400
+16,12,Neude,09:06,090600
+16,13,CS Centrumzijde,09:15,091500
+16,14,Hasebroekstraat,09:19,091900
+16,15,Majellapark,09:21,092100
+16,16,Thomas à Kempisplantsoen,09:22,092200
+16,17,Station Leidsche Rijn,09:24,092400
+16,18,Centrumboulevard,09:25,092500
+16,19,Korianderstraat,09:26,092600
+16,20,Eerste Westerparklaan,09:29,092900
+16,21,De Meern-Oost,09:31,093100
+16,22,Meernbrug,09:33,093300
+16,23,Boekbinderslaan,09:34,093400
+16,24,De Balije,09:35,093500
+16,25,Europaweg,09:36,093600
+16,26,Veldhuizen,09:37,093700
+16,27,De Tuinlanden,09:39,093900
+16,28,Vleuterweide-Centrum,09:40,094000
+16,29,Eyckenstein,09:41,094100
+16,30,Station Vleuten,09:45,094500
+17,1,P+R Science Park,08:58,085800
+17,2,WKZ / PMC,08:59,085900
+17,3,UMC Utrecht,09:01,090100
+17,4,Heidelberglaan,09:02,090200
+17,5,Padualaan,09:04,090400
+17,6,Rijnsweerd-Zuid,09:06,090600
+17,7,Rijnsweerd-Noord,09:08,090800
+17,8,Oorsprongpark,09:10,091000
+17,9,Wittevrouwen,09:11,091100
+17,10,Stadsschouwburg,09:13,091300
+17,11,Janskerkhof,09:14,091400
+17,12,Neude,09:16,091600
+17,13,CS Centrumzijde,09:25,092500
+17,14,Hasebroekstraat,09:29,092900
+17,15,Majellapark,09:31,093100
+17,16,Thomas à Kempisplantsoen,09:32,093200
+17,17,Station Leidsche Rijn,09:34,093400
+17,18,Centrumboulevard,09:35,093500
+17,19,Korianderstraat,09:36,093600
+17,20,Eerste Westerparklaan,09:39,093900
+17,21,De Meern-Oost,09:41,094100
+17,22,Meernbrug,09:43,094300
+17,23,Boekbinderslaan,09:44,094400
+17,24,De Balije,09:45,094500
+17,25,Europaweg,09:46,094600
+17,26,Veldhuizen,09:47,094700
+17,27,De Tuinlanden,09:49,094900
+17,28,Vleuterweide-Centrum,09:50,095000
+17,29,Eyckenstein,09:51,095100
+17,30,Station Vleuten,09:55,095500
+18,1,P+R Science Park,09:08,090800
+18,2,WKZ / PMC,09:09,090900
+18,3,UMC Utrecht,09:11,091100
+18,4,Heidelberglaan,09:12,091200
+18,5,Padualaan,09:14,091400
+18,6,Rijnsweerd-Zuid,09:16,091600
+18,7,Rijnsweerd-Noord,09:18,091800
+18,8,Oorsprongpark,09:20,092000
+18,9,Wittevrouwen,09:21,092100
+18,10,Stadsschouwburg,09:23,092300
+18,11,Janskerkhof,09:24,092400
+18,12,Neude,09:26,092600
+18,13,CS Centrumzijde,09:35,093500
+18,14,Hasebroekstraat,09:39,093900
+18,15,Majellapark,09:41,094100
+18,16,Thomas à Kempisplantsoen,09:42,094200
+18,17,Station Leidsche Rijn,09:44,094400
+18,18,Centrumboulevard,09:45,094500
+18,19,Korianderstraat,09:46,094600
+18,20,Eerste Westerparklaan,09:49,094900
+18,21,De Meern-Oost,09:51,095100
+18,22,Meernbrug,09:53,095300
+18,23,Boekbinderslaan,09:54,095400
+18,24,De Balije,09:55,095500
+18,25,Europaweg,09:56,095600
+18,26,Veldhuizen,09:57,095700
+18,27,De Tuinlanden,09:59,095900
+18,28,Vleuterweide-Centrum,10:00,100000
+18,29,Eyckenstein,10:01,100100
+18,30,Station Vleuten,10:05,100500
+19,1,P+R Science Park,09:18,091800
+19,2,WKZ / PMC,09:19,091900
+19,3,UMC Utrecht,09:21,092100
+19,4,Heidelberglaan,09:22,092200
+19,5,Padualaan,09:24,092400
+19,6,Rijnsweerd-Zuid,09:26,092600
+19,7,Rijnsweerd-Noord,09:28,092800
+19,8,Oorsprongpark,09:30,093000
+19,9,Wittevrouwen,09:31,093100
+19,10,Stadsschouwburg,09:33,093300
+19,11,Janskerkhof,09:34,093400
+19,12,Neude,09:36,093600
+19,13,CS Centrumzijde,09:45,094500
+19,14,Hasebroekstraat,09:49,094900
+19,15,Majellapark,09:51,095100
+19,16,Thomas à Kempisplantsoen,09:52,095200
+19,17,Station Leidsche Rijn,09:54,095400
+19,18,Centrumboulevard,09:55,095500
+19,19,Korianderstraat,09:56,095600
+19,20,Eerste Westerparklaan,09:59,095900
+19,21,De Meern-Oost,10:01,100100
+19,22,Meernbrug,10:03,100300
+19,23,Boekbinderslaan,10:04,100400
+19,24,De Balije,10:05,100500
+19,25,Europaweg,10:06,100600
+19,26,Veldhuizen,10:07,100700
+19,27,De Tuinlanden,10:09,100900
+19,28,Vleuterweide-Centrum,10:10,101000
+19,29,Eyckenstein,10:11,101100
+19,30,Station Vleuten,10:15,101500
+20,1,P+R Science Park,09:28,092800
+20,2,WKZ / PMC,09:29,092900
+20,3,UMC Utrecht,09:31,093100
+20,4,Heidelberglaan,09:32,093200
+20,5,Padualaan,09:34,093400
+20,6,Rijnsweerd-Zuid,09:36,093600
+20,7,Rijnsweerd-Noord,09:38,093800
+20,8,Oorsprongpark,09:40,094000
+20,9,Wittevrouwen,09:41,094100
+20,10,Stadsschouwburg,09:43,094300
+20,11,Janskerkhof,09:44,094400
+20,12,Neude,09:46,094600
+20,13,CS Centrumzijde,09:55,095500
+20,14,Hasebroekstraat,09:59,095900
+20,15,Majellapark,10:01,100100
+20,16,Thomas à Kempisplantsoen,10:02,100200
+20,17,Station Leidsche Rijn,10:04,100400
+20,18,Centrumboulevard,10:05,100500
+20,19,Korianderstraat,10:06,100600
+20,20,Eerste Westerparklaan,10:09,100900
+20,21,De Meern-Oost,10:11,101100
+20,22,Meernbrug,10:13,101300
+20,23,Boekbinderslaan,10:14,101400
+20,24,De Balije,10:15,101500
+20,25,Europaweg,10:16,101600
+20,26,Veldhuizen,10:17,101700
+20,27,De Tuinlanden,10:19,101900
+20,28,Vleuterweide-Centrum,10:20,102000
+20,29,Eyckenstein,10:21,102100
+20,30,Station Vleuten,10:25,102500
+21,1,P+R Science Park,09:38,093800
+21,2,WKZ / PMC,09:39,093900
+21,3,UMC Utrecht,09:41,094100
+21,4,Heidelberglaan,09:42,094200
+21,5,Padualaan,09:44,094400
+21,6,Rijnsweerd-Zuid,09:46,094600
+21,7,Rijnsweerd-Noord,09:48,094800
+21,8,Oorsprongpark,09:50,095000
+21,9,Wittevrouwen,09:51,095100
+21,10,Stadsschouwburg,09:53,095300
+21,11,Janskerkhof,09:54,095400
+21,12,Neude,09:56,095600
+21,13,CS Centrumzijde,10:05,100500
+21,14,Hasebroekstraat,10:09,100900
+21,15,Majellapark,10:11,101100
+21,16,Thomas à Kempisplantsoen,10:12,101200
+21,17,Station Leidsche Rijn,10:14,101400
+21,18,Centrumboulevard,10:15,101500
+21,19,Korianderstraat,10:16,101600
+21,20,Eerste Westerparklaan,10:19,101900
+21,21,De Meern-Oost,10:21,102100
+21,22,Meernbrug,10:23,102300
+21,23,Boekbinderslaan,10:24,102400
+21,24,De Balije,10:25,102500
+21,25,Europaweg,10:26,102600
+21,26,Veldhuizen,10:27,102700
+21,27,De Tuinlanden,10:29,102900
+21,28,Vleuterweide-Centrum,10:30,103000
+21,29,Eyckenstein,10:31,103100
+21,30,Station Vleuten,10:35,103500
+22,1,P+R Science Park,09:48,094800
+22,2,WKZ / PMC,09:49,094900
+22,3,UMC Utrecht,09:51,095100
+22,4,Heidelberglaan,09:52,095200
+22,5,Padualaan,09:54,095400
+22,6,Rijnsweerd-Zuid,09:56,095600
+22,7,Rijnsweerd-Noord,09:58,095800
+22,8,Oorsprongpark,10:00,100000
+22,9,Wittevrouwen,10:01,100100
+22,10,Stadsschouwburg,10:03,100300
+22,11,Janskerkhof,10:04,100400
+22,12,Neude,10:06,100600
+22,13,CS Centrumzijde,10:15,101500
+22,14,Hasebroekstraat,10:19,101900
+22,15,Majellapark,10:21,102100
+22,16,Thomas à Kempisplantsoen,10:22,102200
+22,17,Station Leidsche Rijn,10:24,102400
+22,18,Centrumboulevard,10:25,102500
+22,19,Korianderstraat,10:26,102600
+22,20,Eerste Westerparklaan,10:29,102900
+22,21,De Meern-Oost,10:31,103100
+22,22,Meernbrug,10:33,103300
+22,23,Boekbinderslaan,10:34,103400
+22,24,De Balije,10:35,103500
+22,25,Europaweg,10:36,103600
+22,26,Veldhuizen,10:37,103700
+22,27,De Tuinlanden,10:39,103900
+22,28,Vleuterweide-Centrum,10:40,104000
+22,29,Eyckenstein,10:41,104100
+22,30,Station Vleuten,10:45,104500
+23,1,P+R Science Park,09:58,095800
+23,2,WKZ / PMC,09:59,095900
+23,3,UMC Utrecht,10:01,100100
+23,4,Heidelberglaan,10:02,100200
+23,5,Padualaan,10:04,100400
+23,6,Rijnsweerd-Zuid,10:06,100600
+23,7,Rijnsweerd-Noord,10:08,100800
+23,8,Oorsprongpark,10:10,101000
+23,9,Wittevrouwen,10:11,101100
+23,10,Stadsschouwburg,10:13,101300
+23,11,Janskerkhof,10:14,101400
+23,12,Neude,10:16,101600
+23,13,CS Centrumzijde,10:25,102500
+23,14,Hasebroekstraat,10:29,102900
+23,15,Majellapark,10:31,103100
+23,16,Thomas à Kempisplantsoen,10:32,103200
+23,17,Station Leidsche Rijn,10:34,103400
+23,18,Centrumboulevard,10:35,103500
+23,19,Korianderstraat,10:36,103600
+23,20,Eerste Westerparklaan,10:39,103900
+23,21,De Meern-Oost,10:41,104100
+23,22,Meernbrug,10:43,104300
+23,23,Boekbinderslaan,10:44,104400
+23,24,De Balije,10:45,104500
+23,25,Europaweg,10:46,104600
+23,26,Veldhuizen,10:47,104700
+23,27,De Tuinlanden,10:49,104900
+23,28,Vleuterweide-Centrum,10:50,105000
+23,29,Eyckenstein,10:51,105100
+23,30,Station Vleuten,10:55,105500
+24,1,P+R Science Park,10:08,100800
+24,2,WKZ / PMC,10:09,100900
+24,3,UMC Utrecht,10:11,101100
+24,4,Heidelberglaan,10:12,101200
+24,5,Padualaan,10:14,101400
+24,6,Rijnsweerd-Zuid,10:16,101600
+24,7,Rijnsweerd-Noord,10:18,101800
+24,8,Oorsprongpark,10:20,102000
+24,9,Wittevrouwen,10:21,102100
+24,10,Stadsschouwburg,10:23,102300
+24,11,Janskerkhof,10:24,102400
+24,12,Neude,10:26,102600
+24,13,CS Centrumzijde,10:35,103500
+24,14,Hasebroekstraat,10:39,103900
+24,15,Majellapark,10:41,104100
+24,16,Thomas à Kempisplantsoen,10:42,104200
+24,17,Station Leidsche Rijn,10:44,104400
+24,18,Centrumboulevard,10:45,104500
+24,19,Korianderstraat,10:46,104600
+24,20,Eerste Westerparklaan,10:49,104900
+24,21,De Meern-Oost,10:51,105100
+24,22,Meernbrug,10:53,105300
+24,23,Boekbinderslaan,10:54,105400
+24,24,De Balije,10:55,105500
+24,25,Europaweg,10:56,105600
+24,26,Veldhuizen,10:57,105700
+24,27,De Tuinlanden,10:59,105900
+24,28,Vleuterweide-Centrum,11:00,110000
+24,29,Eyckenstein,11:01,110100
+24,30,Station Vleuten,11:05,110500
+25,1,P+R Science Park,10:18,101800
+25,2,WKZ / PMC,10:19,101900
+25,3,UMC Utrecht,10:21,102100
+25,4,Heidelberglaan,10:22,102200
+25,5,Padualaan,10:24,102400
+25,6,Rijnsweerd-Zuid,10:26,102600
+25,7,Rijnsweerd-Noord,10:28,102800
+25,8,Oorsprongpark,10:30,103000
+25,9,Wittevrouwen,10:31,103100
+25,10,Stadsschouwburg,10:33,103300
+25,11,Janskerkhof,10:34,103400
+25,12,Neude,10:36,103600
+25,13,CS Centrumzijde,10:45,104500
+25,14,Hasebroekstraat,10:49,104900
+25,15,Majellapark,10:51,105100
+25,16,Thomas à Kempisplantsoen,10:52,105200
+25,17,Station Leidsche Rijn,10:54,105400
+25,18,Centrumboulevard,10:55,105500
+25,19,Korianderstraat,10:56,105600
+25,20,Eerste Westerparklaan,10:59,105900
+25,21,De Meern-Oost,11:01,110100
+25,22,Meernbrug,11:03,110300
+25,23,Boekbinderslaan,11:04,110400
+25,24,De Balije,11:05,110500
+25,25,Europaweg,11:06,110600
+25,26,Veldhuizen,11:07,110700
+25,27,De Tuinlanden,11:09,110900
+25,28,Vleuterweide-Centrum,11:10,111000
+25,29,Eyckenstein,11:11,111100
+25,30,Station Vleuten,11:15,111500
+26,1,P+R Science Park,10:28,102800
+26,2,WKZ / PMC,10:29,102900
+26,3,UMC Utrecht,10:31,103100
+26,4,Heidelberglaan,10:32,103200
+26,5,Padualaan,10:34,103400
+26,6,Rijnsweerd-Zuid,10:36,103600
+26,7,Rijnsweerd-Noord,10:38,103800
+26,8,Oorsprongpark,10:40,104000
+26,9,Wittevrouwen,10:41,104100
+26,10,Stadsschouwburg,10:43,104300
+26,11,Janskerkhof,10:44,104400
+26,12,Neude,10:46,104600
+26,13,CS Centrumzijde,10:55,105500
+26,14,Hasebroekstraat,10:59,105900
+26,15,Majellapark,11:01,110100
+26,16,Thomas à Kempisplantsoen,11:02,110200
+26,17,Station Leidsche Rijn,11:04,110400
+26,18,Centrumboulevard,11:05,110500
+26,19,Korianderstraat,11:06,110600
+26,20,Eerste Westerparklaan,11:09,110900
+26,21,De Meern-Oost,11:11,111100
+26,22,Meernbrug,11:13,111300
+26,23,Boekbinderslaan,11:14,111400
+26,24,De Balije,11:15,111500
+26,25,Europaweg,11:16,111600
+26,26,Veldhuizen,11:17,111700
+26,27,De Tuinlanden,11:19,111900
+26,28,Vleuterweide-Centrum,11:20,112000
+26,29,Eyckenstein,11:21,112100
+26,30,Station Vleuten,11:25,112500
+27,1,P+R Science Park,10:38,103800
+27,2,WKZ / PMC,10:39,103900
+27,3,UMC Utrecht,10:41,104100
+27,4,Heidelberglaan,10:42,104200
+27,5,Padualaan,10:44,104400
+27,6,Rijnsweerd-Zuid,10:46,104600
+27,7,Rijnsweerd-Noord,10:48,104800
+27,8,Oorsprongpark,10:50,105000
+27,9,Wittevrouwen,10:51,105100
+27,10,Stadsschouwburg,10:53,105300
+27,11,Janskerkhof,10:54,105400
+27,12,Neude,10:56,105600
+27,13,CS Centrumzijde,11:05,110500
+27,14,Hasebroekstraat,11:09,110900
+27,15,Majellapark,11:11,111100
+27,16,Thomas à Kempisplantsoen,11:12,111200
+27,17,Station Leidsche Rijn,11:14,111400
+27,18,Centrumboulevard,11:15,111500
+27,19,Korianderstraat,11:16,111600
+27,20,Eerste Westerparklaan,11:19,111900
+27,21,De Meern-Oost,11:21,112100
+27,22,Meernbrug,11:23,112300
+27,23,Boekbinderslaan,11:24,112400
+27,24,De Balije,11:25,112500
+27,25,Europaweg,11:26,112600
+27,26,Veldhuizen,11:27,112700
+27,27,De Tuinlanden,11:29,112900
+27,28,Vleuterweide-Centrum,11:30,113000
+27,29,Eyckenstein,11:31,113100
+27,30,Station Vleuten,11:35,113500
+28,1,P+R Science Park,10:48,104800
+28,2,WKZ / PMC,10:49,104900
+28,3,UMC Utrecht,10:51,105100
+28,4,Heidelberglaan,10:52,105200
+28,5,Padualaan,10:54,105400
+28,6,Rijnsweerd-Zuid,10:56,105600
+28,7,Rijnsweerd-Noord,10:58,105800
+28,8,Oorsprongpark,11:00,110000
+28,9,Wittevrouwen,11:01,110100
+28,10,Stadsschouwburg,11:03,110300
+28,11,Janskerkhof,11:04,110400
+28,12,Neude,11:06,110600
+28,13,CS Centrumzijde,11:15,111500
+28,14,Hasebroekstraat,11:19,111900
+28,15,Majellapark,11:21,112100
+28,16,Thomas à Kempisplantsoen,11:22,112200
+28,17,Station Leidsche Rijn,11:24,112400
+28,18,Centrumboulevard,11:25,112500
+28,19,Korianderstraat,11:26,112600
+28,20,Eerste Westerparklaan,11:29,112900
+28,21,De Meern-Oost,11:31,113100
+28,22,Meernbrug,11:33,113300
+28,23,Boekbinderslaan,11:34,113400
+28,24,De Balije,11:35,113500
+28,25,Europaweg,11:36,113600
+28,26,Veldhuizen,11:37,113700
+28,27,De Tuinlanden,11:39,113900
+28,28,Vleuterweide-Centrum,11:40,114000
+28,29,Eyckenstein,11:41,114100
+28,30,Station Vleuten,11:45,114500
+29,1,P+R Science Park,10:58,105800
+29,2,WKZ / PMC,10:59,105900
+29,3,UMC Utrecht,11:01,110100
+29,4,Heidelberglaan,11:02,110200
+29,5,Padualaan,11:04,110400
+29,6,Rijnsweerd-Zuid,11:06,110600
+29,7,Rijnsweerd-Noord,11:08,110800
+29,8,Oorsprongpark,11:10,111000
+29,9,Wittevrouwen,11:11,111100
+29,10,Stadsschouwburg,11:13,111300
+29,11,Janskerkhof,11:14,111400
+29,12,Neude,11:16,111600
+29,13,CS Centrumzijde,11:25,112500
+29,14,Hasebroekstraat,11:29,112900
+29,15,Majellapark,11:31,113100
+29,16,Thomas à Kempisplantsoen,11:32,113200
+29,17,Station Leidsche Rijn,11:34,113400
+29,18,Centrumboulevard,11:35,113500
+29,19,Korianderstraat,11:36,113600
+29,20,Eerste Westerparklaan,11:39,113900
+29,21,De Meern-Oost,11:41,114100
+29,22,Meernbrug,11:43,114300
+29,23,Boekbinderslaan,11:44,114400
+29,24,De Balije,11:45,114500
+29,25,Europaweg,11:46,114600
+29,26,Veldhuizen,11:47,114700
+29,27,De Tuinlanden,11:49,114900
+29,28,Vleuterweide-Centrum,11:50,115000
+29,29,Eyckenstein,11:51,115100
+29,30,Station Vleuten,11:55,115500
+30,1,P+R Science Park,11:08,110800
+30,2,WKZ / PMC,11:09,110900
+30,3,UMC Utrecht,11:11,111100
+30,4,Heidelberglaan,11:12,111200
+30,5,Padualaan,11:14,111400
+30,6,Rijnsweerd-Zuid,11:16,111600
+30,7,Rijnsweerd-Noord,11:18,111800
+30,8,Oorsprongpark,11:20,112000
+30,9,Wittevrouwen,11:21,112100
+30,10,Stadsschouwburg,11:23,112300
+30,11,Janskerkhof,11:24,112400
+30,12,Neude,11:26,112600
+30,13,CS Centrumzijde,11:35,113500
+30,14,Hasebroekstraat,11:39,113900
+30,15,Majellapark,11:41,114100
+30,16,Thomas à Kempisplantsoen,11:42,114200
+30,17,Station Leidsche Rijn,11:44,114400
+30,18,Centrumboulevard,11:45,114500
+30,19,Korianderstraat,11:46,114600
+30,20,Eerste Westerparklaan,11:49,114900
+30,21,De Meern-Oost,11:51,115100
+30,22,Meernbrug,11:53,115300
+30,23,Boekbinderslaan,11:54,115400
+30,24,De Balije,11:55,115500
+30,25,Europaweg,11:56,115600
+30,26,Veldhuizen,11:57,115700
+30,27,De Tuinlanden,11:59,115900
+30,28,Vleuterweide-Centrum,12:00,120000
+30,29,Eyckenstein,12:01,120100
+30,30,Station Vleuten,12:05,120500
+31,1,P+R Science Park,11:18,111800
+31,2,WKZ / PMC,11:19,111900
+31,3,UMC Utrecht,11:21,112100
+31,4,Heidelberglaan,11:22,112200
+31,5,Padualaan,11:24,112400
+31,6,Rijnsweerd-Zuid,11:26,112600
+31,7,Rijnsweerd-Noord,11:28,112800
+31,8,Oorsprongpark,11:30,113000
+31,9,Wittevrouwen,11:31,113100
+31,10,Stadsschouwburg,11:33,113300
+31,11,Janskerkhof,11:34,113400
+31,12,Neude,11:36,113600
+31,13,CS Centrumzijde,11:45,114500
+31,14,Hasebroekstraat,11:49,114900
+31,15,Majellapark,11:51,115100
+31,16,Thomas à Kempisplantsoen,11:52,115200
+31,17,Station Leidsche Rijn,11:54,115400
+31,18,Centrumboulevard,11:55,115500
+31,19,Korianderstraat,11:56,115600
+31,20,Eerste Westerparklaan,11:59,115900
+31,21,De Meern-Oost,12:01,120100
+31,22,Meernbrug,12:03,120300
+31,23,Boekbinderslaan,12:04,120400
+31,24,De Balije,12:06,120600
+31,25,Europaweg,12:07,120700
+31,26,Veldhuizen,12:08,120800
+31,27,De Tuinlanden,12:10,121000
+31,28,Vleuterweide-Centrum,12:11,121100
+31,29,Eyckenstein,12:12,121200
+31,30,Station Vleuten,12:16,121600
+32,1,P+R Science Park,11:28,112800
+32,2,WKZ / PMC,11:29,112900
+32,3,UMC Utrecht,11:31,113100
+32,4,Heidelberglaan,11:32,113200
+32,5,Padualaan,11:34,113400
+32,6,Rijnsweerd-Zuid,11:36,113600
+32,7,Rijnsweerd-Noord,11:38,113800
+32,8,Oorsprongpark,11:40,114000
+32,9,Wittevrouwen,11:41,114100
+32,10,Stadsschouwburg,11:43,114300
+32,11,Janskerkhof,11:44,114400
+32,12,Neude,11:46,114600
+32,13,CS Centrumzijde,11:55,115500
+32,14,Hasebroekstraat,12:00,120000
+32,15,Majellapark,12:02,120200
+32,16,Thomas à Kempisplantsoen,12:03,120300
+32,17,Station Leidsche Rijn,12:05,120500
+32,18,Centrumboulevard,12:06,120600
+32,19,Korianderstraat,12:07,120700
+32,20,Eerste Westerparklaan,12:10,121000
+32,21,De Meern-Oost,12:12,121200
+32,22,Meernbrug,12:14,121400
+32,23,Boekbinderslaan,12:15,121500
+32,24,De Balije,12:17,121700
+32,25,Europaweg,12:18,121800
+32,26,Veldhuizen,12:19,121900
+32,27,De Tuinlanden,12:21,122100
+32,28,Vleuterweide-Centrum,12:22,122200
+32,29,Eyckenstein,12:23,122300
+32,30,Station Vleuten,12:27,122700
+33,1,P+R Science Park,11:38,113800
+33,2,WKZ / PMC,11:39,113900
+33,3,UMC Utrecht,11:41,114100
+33,4,Heidelberglaan,11:42,114200
+33,5,Padualaan,11:44,114400
+33,6,Rijnsweerd-Zuid,11:46,114600
+33,7,Rijnsweerd-Noord,11:48,114800
+33,8,Oorsprongpark,11:50,115000
+33,9,Wittevrouwen,11:51,115100
+33,10,Stadsschouwburg,11:53,115300
+33,11,Janskerkhof,11:54,115400
+33,12,Neude,11:56,115600
+33,13,CS Centrumzijde,12:05,120500
+33,14,Hasebroekstraat,12:10,121000
+33,15,Majellapark,12:12,121200
+33,16,Thomas à Kempisplantsoen,12:13,121300
+33,17,Station Leidsche Rijn,12:15,121500
+33,18,Centrumboulevard,12:16,121600
+33,19,Korianderstraat,12:17,121700
+33,20,Eerste Westerparklaan,12:20,122000
+33,21,De Meern-Oost,12:22,122200
+33,22,Meernbrug,12:24,122400
+33,23,Boekbinderslaan,12:25,122500
+33,24,De Balije,12:27,122700
+33,25,Europaweg,12:28,122800
+33,26,Veldhuizen,12:29,122900
+33,27,De Tuinlanden,12:31,123100
+33,28,Vleuterweide-Centrum,12:32,123200
+33,29,Eyckenstein,12:33,123300
+33,30,Station Vleuten,12:37,123700
+34,1,P+R Science Park,11:48,114800
+34,2,WKZ / PMC,11:49,114900
+34,3,UMC Utrecht,11:51,115100
+34,4,Heidelberglaan,11:52,115200
+34,5,Padualaan,11:54,115400
+34,6,Rijnsweerd-Zuid,11:56,115600
+34,7,Rijnsweerd-Noord,11:58,115800
+34,8,Oorsprongpark,12:00,120000
+34,9,Wittevrouwen,12:01,120100
+34,10,Stadsschouwburg,12:03,120300
+34,11,Janskerkhof,12:04,120400
+34,12,Neude,12:06,120600
+34,13,CS Centrumzijde,12:15,121500
+34,14,Hasebroekstraat,12:20,122000
+34,15,Majellapark,12:22,122200
+34,16,Thomas à Kempisplantsoen,12:23,122300
+34,17,Station Leidsche Rijn,12:25,122500
+34,18,Centrumboulevard,12:26,122600
+34,19,Korianderstraat,12:27,122700
+34,20,Eerste Westerparklaan,12:30,123000
+34,21,De Meern-Oost,12:32,123200
+34,22,Meernbrug,12:34,123400
+34,23,Boekbinderslaan,12:35,123500
+34,24,De Balije,12:37,123700
+34,25,Europaweg,12:38,123800
+34,26,Veldhuizen,12:39,123900
+34,27,De Tuinlanden,12:41,124100
+34,28,Vleuterweide-Centrum,12:42,124200
+34,29,Eyckenstein,12:43,124300
+34,30,Station Vleuten,12:47,124700
+35,1,P+R Science Park,11:58,115800
+35,2,WKZ / PMC,11:59,115900
+35,3,UMC Utrecht,12:01,120100
+35,4,Heidelberglaan,12:02,120200
+35,5,Padualaan,12:04,120400
+35,6,Rijnsweerd-Zuid,12:06,120600
+35,7,Rijnsweerd-Noord,12:08,120800
+35,8,Oorsprongpark,12:10,121000
+35,9,Wittevrouwen,12:11,121100
+35,10,Stadsschouwburg,12:13,121300
+35,11,Janskerkhof,12:14,121400
+35,12,Neude,12:16,121600
+35,13,CS Centrumzijde,12:25,122500
+35,14,Hasebroekstraat,12:30,123000
+35,15,Majellapark,12:32,123200
+35,16,Thomas à Kempisplantsoen,12:33,123300
+35,17,Station Leidsche Rijn,12:35,123500
+35,18,Centrumboulevard,12:36,123600
+35,19,Korianderstraat,12:37,123700
+35,20,Eerste Westerparklaan,12:40,124000
+35,21,De Meern-Oost,12:42,124200
+35,22,Meernbrug,12:44,124400
+35,23,Boekbinderslaan,12:45,124500
+35,24,De Balije,12:47,124700
+35,25,Europaweg,12:48,124800
+35,26,Veldhuizen,12:49,124900
+35,27,De Tuinlanden,12:51,125100
+35,28,Vleuterweide-Centrum,12:52,125200
+35,29,Eyckenstein,12:53,125300
+35,30,Station Vleuten,12:57,125700
+36,1,P+R Science Park,12:08,120800
+36,2,WKZ / PMC,12:09,120900
+36,3,UMC Utrecht,12:11,121100
+36,4,Heidelberglaan,12:12,121200
+36,5,Padualaan,12:14,121400
+36,6,Rijnsweerd-Zuid,12:16,121600
+36,7,Rijnsweerd-Noord,12:18,121800
+36,8,Oorsprongpark,12:20,122000
+36,9,Wittevrouwen,12:21,122100
+36,10,Stadsschouwburg,12:23,122300
+36,11,Janskerkhof,12:24,122400
+36,12,Neude,12:26,122600
+36,13,CS Centrumzijde,12:35,123500
+36,14,Hasebroekstraat,12:40,124000
+36,15,Majellapark,12:42,124200
+36,16,Thomas à Kempisplantsoen,12:43,124300
+36,17,Station Leidsche Rijn,12:45,124500
+36,18,Centrumboulevard,12:46,124600
+36,19,Korianderstraat,12:47,124700
+36,20,Eerste Westerparklaan,12:50,125000
+36,21,De Meern-Oost,12:52,125200
+36,22,Meernbrug,12:54,125400
+36,23,Boekbinderslaan,12:55,125500
+36,24,De Balije,12:57,125700
+36,25,Europaweg,12:58,125800
+36,26,Veldhuizen,12:59,125900
+36,27,De Tuinlanden,13:01,130100
+36,28,Vleuterweide-Centrum,13:02,130200
+36,29,Eyckenstein,13:03,130300
+36,30,Station Vleuten,13:07,130700
+37,1,P+R Science Park,12:18,121800
+37,2,WKZ / PMC,12:19,121900
+37,3,UMC Utrecht,12:21,122100
+37,4,Heidelberglaan,12:22,122200
+37,5,Padualaan,12:24,122400
+37,6,Rijnsweerd-Zuid,12:26,122600
+37,7,Rijnsweerd-Noord,12:28,122800
+37,8,Oorsprongpark,12:30,123000
+37,9,Wittevrouwen,12:31,123100
+37,10,Stadsschouwburg,12:33,123300
+37,11,Janskerkhof,12:34,123400
+37,12,Neude,12:36,123600
+37,13,CS Centrumzijde,12:45,124500
+37,14,Hasebroekstraat,12:50,125000
+37,15,Majellapark,12:52,125200
+37,16,Thomas à Kempisplantsoen,12:53,125300
+37,17,Station Leidsche Rijn,12:55,125500
+37,18,Centrumboulevard,12:56,125600
+37,19,Korianderstraat,12:57,125700
+37,20,Eerste Westerparklaan,13:00,130000
+37,21,De Meern-Oost,13:02,130200
+37,22,Meernbrug,13:04,130400
+37,23,Boekbinderslaan,13:05,130500
+37,24,De Balije,13:07,130700
+37,25,Europaweg,13:08,130800
+37,26,Veldhuizen,13:09,130900
+37,27,De Tuinlanden,13:11,131100
+37,28,Vleuterweide-Centrum,13:12,131200
+37,29,Eyckenstein,13:13,131300
+37,30,Station Vleuten,13:17,131700
+38,1,P+R Science Park,12:28,122800
+38,2,WKZ / PMC,12:29,122900
+38,3,UMC Utrecht,12:31,123100
+38,4,Heidelberglaan,12:32,123200
+38,5,Padualaan,12:34,123400
+38,6,Rijnsweerd-Zuid,12:36,123600
+38,7,Rijnsweerd-Noord,12:38,123800
+38,8,Oorsprongpark,12:40,124000
+38,9,Wittevrouwen,12:41,124100
+38,10,Stadsschouwburg,12:43,124300
+38,11,Janskerkhof,12:44,124400
+38,12,Neude,12:46,124600
+38,13,CS Centrumzijde,12:55,125500
+38,14,Hasebroekstraat,13:00,130000
+38,15,Majellapark,13:02,130200
+38,16,Thomas à Kempisplantsoen,13:03,130300
+38,17,Station Leidsche Rijn,13:05,130500
+38,18,Centrumboulevard,13:06,130600
+38,19,Korianderstraat,13:07,130700
+38,20,Eerste Westerparklaan,13:10,131000
+38,21,De Meern-Oost,13:12,131200
+38,22,Meernbrug,13:14,131400
+38,23,Boekbinderslaan,13:15,131500
+38,24,De Balije,13:17,131700
+38,25,Europaweg,13:18,131800
+38,26,Veldhuizen,13:19,131900
+38,27,De Tuinlanden,13:21,132100
+38,28,Vleuterweide-Centrum,13:22,132200
+38,29,Eyckenstein,13:23,132300
+38,30,Station Vleuten,13:27,132700
+39,1,P+R Science Park,12:38,123800
+39,2,WKZ / PMC,12:39,123900
+39,3,UMC Utrecht,12:41,124100
+39,4,Heidelberglaan,12:42,124200
+39,5,Padualaan,12:44,124400
+39,6,Rijnsweerd-Zuid,12:46,124600
+39,7,Rijnsweerd-Noord,12:48,124800
+39,8,Oorsprongpark,12:50,125000
+39,9,Wittevrouwen,12:51,125100
+39,10,Stadsschouwburg,12:53,125300
+39,11,Janskerkhof,12:54,125400
+39,12,Neude,12:56,125600
+39,13,CS Centrumzijde,13:05,130500
+39,14,Hasebroekstraat,13:10,131000
+39,15,Majellapark,13:12,131200
+39,16,Thomas à Kempisplantsoen,13:13,131300
+39,17,Station Leidsche Rijn,13:15,131500
+39,18,Centrumboulevard,13:16,131600
+39,19,Korianderstraat,13:17,131700
+39,20,Eerste Westerparklaan,13:20,132000
+39,21,De Meern-Oost,13:22,132200
+39,22,Meernbrug,13:24,132400
+39,23,Boekbinderslaan,13:25,132500
+39,24,De Balije,13:27,132700
+39,25,Europaweg,13:28,132800
+39,26,Veldhuizen,13:29,132900
+39,27,De Tuinlanden,13:31,133100
+39,28,Vleuterweide-Centrum,13:32,133200
+39,29,Eyckenstein,13:33,133300
+39,30,Station Vleuten,13:37,133700
+40,1,P+R Science Park,12:48,124800
+40,2,WKZ / PMC,12:49,124900
+40,3,UMC Utrecht,12:51,125100
+40,4,Heidelberglaan,12:52,125200
+40,5,Padualaan,12:54,125400
+40,6,Rijnsweerd-Zuid,12:56,125600
+40,7,Rijnsweerd-Noord,12:58,125800
+40,8,Oorsprongpark,13:00,130000
+40,9,Wittevrouwen,13:01,130100
+40,10,Stadsschouwburg,13:03,130300
+40,11,Janskerkhof,13:04,130400
+40,12,Neude,13:06,130600
+40,13,CS Centrumzijde,13:15,131500
+40,14,Hasebroekstraat,13:20,132000
+40,15,Majellapark,13:22,132200
+40,16,Thomas à Kempisplantsoen,13:23,132300
+40,17,Station Leidsche Rijn,13:25,132500
+40,18,Centrumboulevard,13:26,132600
+40,19,Korianderstraat,13:27,132700
+40,20,Eerste Westerparklaan,13:30,133000
+40,21,De Meern-Oost,13:32,133200
+40,22,Meernbrug,13:34,133400
+40,23,Boekbinderslaan,13:35,133500
+40,24,De Balije,13:37,133700
+40,25,Europaweg,13:38,133800
+40,26,Veldhuizen,13:39,133900
+40,27,De Tuinlanden,13:41,134100
+40,28,Vleuterweide-Centrum,13:42,134200
+40,29,Eyckenstein,13:43,134300
+40,30,Station Vleuten,13:47,134700
+41,1,P+R Science Park,12:58,125800
+41,2,WKZ / PMC,12:59,125900
+41,3,UMC Utrecht,13:01,130100
+41,4,Heidelberglaan,13:02,130200
+41,5,Padualaan,13:04,130400
+41,6,Rijnsweerd-Zuid,13:06,130600
+41,7,Rijnsweerd-Noord,13:08,130800
+41,8,Oorsprongpark,13:10,131000
+41,9,Wittevrouwen,13:11,131100
+41,10,Stadsschouwburg,13:13,131300
+41,11,Janskerkhof,13:14,131400
+41,12,Neude,13:16,131600
+41,13,CS Centrumzijde,13:25,132500
+41,14,Hasebroekstraat,13:30,133000
+41,15,Majellapark,13:32,133200
+41,16,Thomas à Kempisplantsoen,13:33,133300
+41,17,Station Leidsche Rijn,13:35,133500
+41,18,Centrumboulevard,13:36,133600
+41,19,Korianderstraat,13:37,133700
+41,20,Eerste Westerparklaan,13:40,134000
+41,21,De Meern-Oost,13:42,134200
+41,22,Meernbrug,13:44,134400
+41,23,Boekbinderslaan,13:45,134500
+41,24,De Balije,13:47,134700
+41,25,Europaweg,13:48,134800
+41,26,Veldhuizen,13:49,134900
+41,27,De Tuinlanden,13:51,135100
+41,28,Vleuterweide-Centrum,13:52,135200
+41,29,Eyckenstein,13:53,135300
+41,30,Station Vleuten,13:57,135700
+42,1,P+R Science Park,13:08,130800
+42,2,WKZ / PMC,13:09,130900
+42,3,UMC Utrecht,13:11,131100
+42,4,Heidelberglaan,13:12,131200
+42,5,Padualaan,13:14,131400
+42,6,Rijnsweerd-Zuid,13:16,131600
+42,7,Rijnsweerd-Noord,13:18,131800
+42,8,Oorsprongpark,13:20,132000
+42,9,Wittevrouwen,13:21,132100
+42,10,Stadsschouwburg,13:23,132300
+42,11,Janskerkhof,13:24,132400
+42,12,Neude,13:26,132600
+42,13,CS Centrumzijde,13:35,133500
+42,14,Hasebroekstraat,13:40,134000
+42,15,Majellapark,13:42,134200
+42,16,Thomas à Kempisplantsoen,13:43,134300
+42,17,Station Leidsche Rijn,13:45,134500
+42,18,Centrumboulevard,13:46,134600
+42,19,Korianderstraat,13:47,134700
+42,20,Eerste Westerparklaan,13:50,135000
+42,21,De Meern-Oost,13:52,135200
+42,22,Meernbrug,13:54,135400
+42,23,Boekbinderslaan,13:55,135500
+42,24,De Balije,13:57,135700
+42,25,Europaweg,13:58,135800
+42,26,Veldhuizen,13:59,135900
+42,27,De Tuinlanden,14:01,140100
+42,28,Vleuterweide-Centrum,14:02,140200
+42,29,Eyckenstein,14:03,140300
+42,30,Station Vleuten,14:07,140700
+43,1,P+R Science Park,13:18,131800
+43,2,WKZ / PMC,13:19,131900
+43,3,UMC Utrecht,13:21,132100
+43,4,Heidelberglaan,13:22,132200
+43,5,Padualaan,13:24,132400
+43,6,Rijnsweerd-Zuid,13:26,132600
+43,7,Rijnsweerd-Noord,13:28,132800
+43,8,Oorsprongpark,13:30,133000
+43,9,Wittevrouwen,13:31,133100
+43,10,Stadsschouwburg,13:33,133300
+43,11,Janskerkhof,13:34,133400
+43,12,Neude,13:36,133600
+43,13,CS Centrumzijde,13:45,134500
+43,14,Hasebroekstraat,13:50,135000
+43,15,Majellapark,13:52,135200
+43,16,Thomas à Kempisplantsoen,13:53,135300
+43,17,Station Leidsche Rijn,13:55,135500
+43,18,Centrumboulevard,13:56,135600
+43,19,Korianderstraat,13:57,135700
+43,20,Eerste Westerparklaan,14:00,140000
+43,21,De Meern-Oost,14:02,140200
+43,22,Meernbrug,14:04,140400
+43,23,Boekbinderslaan,14:05,140500
+43,24,De Balije,14:07,140700
+43,25,Europaweg,14:08,140800
+43,26,Veldhuizen,14:09,140900
+43,27,De Tuinlanden,14:11,141100
+43,28,Vleuterweide-Centrum,14:12,141200
+43,29,Eyckenstein,14:13,141300
+43,30,Station Vleuten,14:17,141700
+44,1,P+R Science Park,13:28,132800
+44,2,WKZ / PMC,13:29,132900
+44,3,UMC Utrecht,13:31,133100
+44,4,Heidelberglaan,13:32,133200
+44,5,Padualaan,13:34,133400
+44,6,Rijnsweerd-Zuid,13:36,133600
+44,7,Rijnsweerd-Noord,13:38,133800
+44,8,Oorsprongpark,13:40,134000
+44,9,Wittevrouwen,13:41,134100
+44,10,Stadsschouwburg,13:43,134300
+44,11,Janskerkhof,13:44,134400
+44,12,Neude,13:46,134600
+44,13,CS Centrumzijde,13:55,135500
+44,14,Hasebroekstraat,14:00,140000
+44,15,Majellapark,14:02,140200
+44,16,Thomas à Kempisplantsoen,14:03,140300
+44,17,Station Leidsche Rijn,14:05,140500
+44,18,Centrumboulevard,14:06,140600
+44,19,Korianderstraat,14:07,140700
+44,20,Eerste Westerparklaan,14:10,141000
+44,21,De Meern-Oost,14:12,141200
+44,22,Meernbrug,14:14,141400
+44,23,Boekbinderslaan,14:15,141500
+44,24,De Balije,14:17,141700
+44,25,Europaweg,14:18,141800
+44,26,Veldhuizen,14:19,141900
+44,27,De Tuinlanden,14:21,142100
+44,28,Vleuterweide-Centrum,14:22,142200
+44,29,Eyckenstein,14:23,142300
+44,30,Station Vleuten,14:27,142700
+45,1,P+R Science Park,13:38,133800
+45,2,WKZ / PMC,13:39,133900
+45,3,UMC Utrecht,13:41,134100
+45,4,Heidelberglaan,13:42,134200
+45,5,Padualaan,13:44,134400
+45,6,Rijnsweerd-Zuid,13:46,134600
+45,7,Rijnsweerd-Noord,13:48,134800
+45,8,Oorsprongpark,13:50,135000
+45,9,Wittevrouwen,13:51,135100
+45,10,Stadsschouwburg,13:53,135300
+45,11,Janskerkhof,13:54,135400
+45,12,Neude,13:56,135600
+45,13,CS Centrumzijde,14:05,140500
+45,14,Hasebroekstraat,14:10,141000
+45,15,Majellapark,14:12,141200
+45,16,Thomas à Kempisplantsoen,14:13,141300
+45,17,Station Leidsche Rijn,14:15,141500
+45,18,Centrumboulevard,14:16,141600
+45,19,Korianderstraat,14:17,141700
+45,20,Eerste Westerparklaan,14:20,142000
+45,21,De Meern-Oost,14:22,142200
+45,22,Meernbrug,14:24,142400
+45,23,Boekbinderslaan,14:25,142500
+45,24,De Balije,14:27,142700
+45,25,Europaweg,14:28,142800
+45,26,Veldhuizen,14:29,142900
+45,27,De Tuinlanden,14:31,143100
+45,28,Vleuterweide-Centrum,14:32,143200
+45,29,Eyckenstein,14:33,143300
+45,30,Station Vleuten,14:37,143700
+46,1,P+R Science Park,13:48,134800
+46,2,WKZ / PMC,13:49,134900
+46,3,UMC Utrecht,13:51,135100
+46,4,Heidelberglaan,13:52,135200
+46,5,Padualaan,13:54,135400
+46,6,Rijnsweerd-Zuid,13:56,135600
+46,7,Rijnsweerd-Noord,13:58,135800
+46,8,Oorsprongpark,14:00,140000
+46,9,Wittevrouwen,14:01,140100
+46,10,Stadsschouwburg,14:03,140300
+46,11,Janskerkhof,14:04,140400
+46,12,Neude,14:06,140600
+46,13,CS Centrumzijde,14:15,141500
+46,14,Hasebroekstraat,14:20,142000
+46,15,Majellapark,14:22,142200
+46,16,Thomas à Kempisplantsoen,14:23,142300
+46,17,Station Leidsche Rijn,14:25,142500
+46,18,Centrumboulevard,14:26,142600
+46,19,Korianderstraat,14:27,142700
+46,20,Eerste Westerparklaan,14:30,143000
+46,21,De Meern-Oost,14:32,143200
+46,22,Meernbrug,14:34,143400
+46,23,Boekbinderslaan,14:35,143500
+46,24,De Balije,14:37,143700
+46,25,Europaweg,14:38,143800
+46,26,Veldhuizen,14:39,143900
+46,27,De Tuinlanden,14:41,144100
+46,28,Vleuterweide-Centrum,14:42,144200
+46,29,Eyckenstein,14:43,144300
+46,30,Station Vleuten,14:47,144700
+47,1,P+R Science Park,13:58,135800
+47,2,WKZ / PMC,13:59,135900
+47,3,UMC Utrecht,14:01,140100
+47,4,Heidelberglaan,14:02,140200
+47,5,Padualaan,14:04,140400
+47,6,Rijnsweerd-Zuid,14:06,140600
+47,7,Rijnsweerd-Noord,14:08,140800
+47,8,Oorsprongpark,14:10,141000
+47,9,Wittevrouwen,14:11,141100
+47,10,Stadsschouwburg,14:13,141300
+47,11,Janskerkhof,14:14,141400
+47,12,Neude,14:16,141600
+47,13,CS Centrumzijde,14:25,142500
+47,14,Hasebroekstraat,14:30,143000
+47,15,Majellapark,14:32,143200
+47,16,Thomas à Kempisplantsoen,14:33,143300
+47,17,Station Leidsche Rijn,14:35,143500
+47,18,Centrumboulevard,14:36,143600
+47,19,Korianderstraat,14:37,143700
+47,20,Eerste Westerparklaan,14:40,144000
+47,21,De Meern-Oost,14:42,144200
+47,22,Meernbrug,14:44,144400
+47,23,Boekbinderslaan,14:45,144500
+47,24,De Balije,14:47,144700
+47,25,Europaweg,14:48,144800
+47,26,Veldhuizen,14:49,144900
+47,27,De Tuinlanden,14:51,145100
+47,28,Vleuterweide-Centrum,14:52,145200
+47,29,Eyckenstein,14:53,145300
+47,30,Station Vleuten,14:57,145700
+48,1,P+R Science Park,14:08,140800
+48,2,WKZ / PMC,14:09,140900
+48,3,UMC Utrecht,14:11,141100
+48,4,Heidelberglaan,14:12,141200
+48,5,Padualaan,14:14,141400
+48,6,Rijnsweerd-Zuid,14:16,141600
+48,7,Rijnsweerd-Noord,14:18,141800
+48,8,Oorsprongpark,14:20,142000
+48,9,Wittevrouwen,14:21,142100
+48,10,Stadsschouwburg,14:23,142300
+48,11,Janskerkhof,14:24,142400
+48,12,Neude,14:26,142600
+48,13,CS Centrumzijde,14:35,143500
+48,14,Hasebroekstraat,14:40,144000
+48,15,Majellapark,14:42,144200
+48,16,Thomas à Kempisplantsoen,14:43,144300
+48,17,Station Leidsche Rijn,14:45,144500
+48,18,Centrumboulevard,14:46,144600
+48,19,Korianderstraat,14:47,144700
+48,20,Eerste Westerparklaan,14:50,145000
+48,21,De Meern-Oost,14:52,145200
+48,22,Meernbrug,14:54,145400
+48,23,Boekbinderslaan,14:55,145500
+48,24,De Balije,14:57,145700
+48,25,Europaweg,14:58,145800
+48,26,Veldhuizen,14:59,145900
+48,27,De Tuinlanden,15:01,150100
+48,28,Vleuterweide-Centrum,15:02,150200
+48,29,Eyckenstein,15:03,150300
+48,30,Station Vleuten,15:07,150700
+49,1,P+R Science Park,14:18,141800
+49,2,WKZ / PMC,14:19,141900
+49,3,UMC Utrecht,14:21,142100
+49,4,Heidelberglaan,14:22,142200
+49,5,Padualaan,14:24,142400
+49,6,Rijnsweerd-Zuid,14:26,142600
+49,7,Rijnsweerd-Noord,14:28,142800
+49,8,Oorsprongpark,14:30,143000
+49,9,Wittevrouwen,14:31,143100
+49,10,Stadsschouwburg,14:33,143300
+49,11,Janskerkhof,14:34,143400
+49,12,Neude,14:36,143600
+49,13,CS Centrumzijde,14:45,144500
+49,14,Hasebroekstraat,14:50,145000
+49,15,Majellapark,14:52,145200
+49,16,Thomas à Kempisplantsoen,14:53,145300
+49,17,Station Leidsche Rijn,14:55,145500
+49,18,Centrumboulevard,14:56,145600
+49,19,Korianderstraat,14:57,145700
+49,20,Eerste Westerparklaan,15:00,150000
+49,21,De Meern-Oost,15:02,150200
+49,22,Meernbrug,15:04,150400
+49,23,Boekbinderslaan,15:05,150500
+49,24,De Balije,15:07,150700
+49,25,Europaweg,15:08,150800
+49,26,Veldhuizen,15:09,150900
+49,27,De Tuinlanden,15:11,151100
+49,28,Vleuterweide-Centrum,15:12,151200
+49,29,Eyckenstein,15:13,151300
+49,30,Station Vleuten,15:17,151700
+50,1,P+R Science Park,14:28,142800
+50,2,WKZ / PMC,14:29,142900
+50,3,UMC Utrecht,14:31,143100
+50,4,Heidelberglaan,14:32,143200
+50,5,Padualaan,14:34,143400
+50,6,Rijnsweerd-Zuid,14:36,143600
+50,7,Rijnsweerd-Noord,14:38,143800
+50,8,Oorsprongpark,14:40,144000
+50,9,Wittevrouwen,14:41,144100
+50,10,Stadsschouwburg,14:43,144300
+50,11,Janskerkhof,14:44,144400
+50,12,Neude,14:46,144600
+50,13,CS Centrumzijde,14:55,145500
+50,14,Hasebroekstraat,15:00,150000
+50,15,Majellapark,15:02,150200
+50,16,Thomas à Kempisplantsoen,15:03,150300
+50,17,Station Leidsche Rijn,15:05,150500
+50,18,Centrumboulevard,15:06,150600
+50,19,Korianderstraat,15:07,150700
+50,20,Eerste Westerparklaan,15:10,151000
+50,21,De Meern-Oost,15:12,151200
+50,22,Meernbrug,15:14,151400
+50,23,Boekbinderslaan,15:15,151500
+50,24,De Balije,15:17,151700
+50,25,Europaweg,15:18,151800
+50,26,Veldhuizen,15:19,151900
+50,27,De Tuinlanden,15:21,152100
+50,28,Vleuterweide-Centrum,15:22,152200
+50,29,Eyckenstein,15:23,152300
+50,30,Station Vleuten,15:27,152700
+51,1,P+R Science Park,14:38,143800
+51,2,WKZ / PMC,14:39,143900
+51,3,UMC Utrecht,14:41,144100
+51,4,Heidelberglaan,14:42,144200
+51,5,Padualaan,14:44,144400
+51,6,Rijnsweerd-Zuid,14:46,144600
+51,7,Rijnsweerd-Noord,14:48,144800
+51,8,Oorsprongpark,14:50,145000
+51,9,Wittevrouwen,14:51,145100
+51,10,Stadsschouwburg,14:53,145300
+51,11,Janskerkhof,14:54,145400
+51,12,Neude,14:56,145600
+51,13,CS Centrumzijde,15:05,150500
+51,14,Hasebroekstraat,15:10,151000
+51,15,Majellapark,15:12,151200
+51,16,Thomas à Kempisplantsoen,15:13,151300
+51,17,Station Leidsche Rijn,15:15,151500
+51,18,Centrumboulevard,15:16,151600
+51,19,Korianderstraat,15:17,151700
+51,20,Eerste Westerparklaan,15:20,152000
+51,21,De Meern-Oost,15:22,152200
+51,22,Meernbrug,15:24,152400
+51,23,Boekbinderslaan,15:25,152500
+51,24,De Balije,15:27,152700
+51,25,Europaweg,15:28,152800
+51,26,Veldhuizen,15:29,152900
+51,27,De Tuinlanden,15:31,153100
+51,28,Vleuterweide-Centrum,15:32,153200
+51,29,Eyckenstein,15:33,153300
+51,30,Station Vleuten,15:37,153700
+52,1,P+R Science Park,14:48,144800
+52,2,WKZ / PMC,14:49,144900
+52,3,UMC Utrecht,14:51,145100
+52,4,Heidelberglaan,14:52,145200
+52,5,Padualaan,14:54,145400
+52,6,Rijnsweerd-Zuid,14:56,145600
+52,7,Rijnsweerd-Noord,14:58,145800
+52,8,Oorsprongpark,15:00,150000
+52,9,Wittevrouwen,15:01,150100
+52,10,Stadsschouwburg,15:03,150300
+52,11,Janskerkhof,15:04,150400
+52,12,Neude,15:06,150600
+52,13,CS Centrumzijde,15:15,151500
+52,14,Hasebroekstraat,15:20,152000
+52,15,Majellapark,15:22,152200
+52,16,Thomas à Kempisplantsoen,15:23,152300
+52,17,Station Leidsche Rijn,15:25,152500
+52,18,Centrumboulevard,15:26,152600
+52,19,Korianderstraat,15:27,152700
+52,20,Eerste Westerparklaan,15:30,153000
+52,21,De Meern-Oost,15:32,153200
+52,22,Meernbrug,15:34,153400
+52,23,Boekbinderslaan,15:35,153500
+52,24,De Balije,15:37,153700
+52,25,Europaweg,15:38,153800
+52,26,Veldhuizen,15:39,153900
+52,27,De Tuinlanden,15:41,154100
+52,28,Vleuterweide-Centrum,15:42,154200
+52,29,Eyckenstein,15:43,154300
+52,30,Station Vleuten,15:47,154700
+53,1,P+R Science Park,14:58,145800
+53,2,WKZ / PMC,14:59,145900
+53,3,UMC Utrecht,15:01,150100
+53,4,Heidelberglaan,15:02,150200
+53,5,Padualaan,15:04,150400
+53,6,Rijnsweerd-Zuid,15:06,150600
+53,7,Rijnsweerd-Noord,15:08,150800
+53,8,Oorsprongpark,15:10,151000
+53,9,Wittevrouwen,15:11,151100
+53,10,Stadsschouwburg,15:13,151300
+53,11,Janskerkhof,15:14,151400
+53,12,Neude,15:16,151600
+53,13,CS Centrumzijde,15:25,152500
+53,14,Hasebroekstraat,15:30,153000
+53,15,Majellapark,15:32,153200
+53,16,Thomas à Kempisplantsoen,15:33,153300
+53,17,Station Leidsche Rijn,15:35,153500
+53,18,Centrumboulevard,15:36,153600
+53,19,Korianderstraat,15:37,153700
+53,20,Eerste Westerparklaan,15:40,154000
+53,21,De Meern-Oost,15:42,154200
+53,22,Meernbrug,15:44,154400
+53,23,Boekbinderslaan,15:45,154500
+53,24,De Balije,15:47,154700
+53,25,Europaweg,15:48,154800
+53,26,Veldhuizen,15:49,154900
+53,27,De Tuinlanden,15:51,155100
+53,28,Vleuterweide-Centrum,15:52,155200
+53,29,Eyckenstein,15:53,155300
+53,30,Station Vleuten,15:57,155700
+54,1,P+R Science Park,15:08,150800
+54,2,WKZ / PMC,15:09,150900
+54,3,UMC Utrecht,15:11,151100
+54,4,Heidelberglaan,15:12,151200
+54,5,Padualaan,15:14,151400
+54,6,Rijnsweerd-Zuid,15:16,151600
+54,7,Rijnsweerd-Noord,15:18,151800
+54,8,Oorsprongpark,15:20,152000
+54,9,Wittevrouwen,15:21,152100
+54,10,Stadsschouwburg,15:23,152300
+54,11,Janskerkhof,15:24,152400
+54,12,Neude,15:26,152600
+54,13,CS Centrumzijde,15:35,153500
+54,14,Hasebroekstraat,15:40,154000
+54,15,Majellapark,15:42,154200
+54,16,Thomas à Kempisplantsoen,15:43,154300
+54,17,Station Leidsche Rijn,15:45,154500
+54,18,Centrumboulevard,15:46,154600
+54,19,Korianderstraat,15:47,154700
+54,20,Eerste Westerparklaan,15:50,155000
+54,21,De Meern-Oost,15:52,155200
+54,22,Meernbrug,15:54,155400
+54,23,Boekbinderslaan,15:55,155500
+54,24,De Balije,15:57,155700
+54,25,Europaweg,15:58,155800
+54,26,Veldhuizen,15:59,155900
+54,27,De Tuinlanden,16:01,160100
+54,28,Vleuterweide-Centrum,16:02,160200
+54,29,Eyckenstein,16:03,160300
+54,30,Station Vleuten,16:07,160700
+55,1,P+R Science Park,15:16,151600
+55,2,WKZ / PMC,15:17,151700
+55,3,UMC Utrecht,15:19,151900
+55,4,Heidelberglaan,15:20,152000
+55,5,Padualaan,15:22,152200
+55,6,Rijnsweerd-Zuid,15:24,152400
+55,7,Rijnsweerd-Noord,15:26,152600
+55,8,Oorsprongpark,15:28,152800
+55,9,Wittevrouwen,15:29,152900
+55,10,Stadsschouwburg,15:31,153100
+55,11,Janskerkhof,15:32,153200
+55,12,Neude,15:34,153400
+55,13,CS Centrumzijde,15:43,154300
+55,14,Hasebroekstraat,15:48,154800
+55,15,Majellapark,15:50,155000
+55,16,Thomas à Kempisplantsoen,15:51,155100
+55,17,Station Leidsche Rijn,15:53,155300
+55,18,Centrumboulevard,15:54,155400
+55,19,Korianderstraat,15:55,155500
+55,20,Eerste Westerparklaan,15:58,155800
+55,21,De Meern-Oost,16:00,160000
+55,22,Meernbrug,16:02,160200
+55,23,Boekbinderslaan,16:03,160300
+55,24,De Balije,16:05,160500
+55,25,Europaweg,16:06,160600
+55,26,Veldhuizen,16:07,160700
+55,27,De Tuinlanden,16:09,160900
+55,28,Vleuterweide-Centrum,16:10,161000
+55,29,Eyckenstein,16:11,161100
+55,30,Station Vleuten,16:15,161500
+56,1,P+R Science Park,15:23,152300
+56,2,WKZ / PMC,15:24,152400
+56,3,UMC Utrecht,15:26,152600
+56,4,Heidelberglaan,15:27,152700
+56,5,Padualaan,15:29,152900
+56,6,Rijnsweerd-Zuid,15:31,153100
+56,7,Rijnsweerd-Noord,15:33,153300
+56,8,Oorsprongpark,15:35,153500
+56,9,Wittevrouwen,15:36,153600
+56,10,Stadsschouwburg,15:38,153800
+56,11,Janskerkhof,15:39,153900
+56,12,Neude,15:41,154100
+56,13,CS Centrumzijde,15:50,155000
+56,14,Hasebroekstraat,15:55,155500
+56,15,Majellapark,15:57,155700
+56,16,Thomas à Kempisplantsoen,15:58,155800
+56,17,Station Leidsche Rijn,16:00,160000
+56,18,Centrumboulevard,16:01,160100
+56,19,Korianderstraat,16:02,160200
+56,20,Eerste Westerparklaan,16:05,160500
+56,21,De Meern-Oost,16:07,160700
+56,22,Meernbrug,16:09,160900
+56,23,Boekbinderslaan,16:10,161000
+56,24,De Balije,16:12,161200
+56,25,Europaweg,16:13,161300
+56,26,Veldhuizen,16:14,161400
+56,27,De Tuinlanden,16:16,161600
+56,28,Vleuterweide-Centrum,16:17,161700
+56,29,Eyckenstein,16:18,161800
+56,30,Station Vleuten,16:22,162200
+57,1,P+R Science Park,15:31,153100
+57,2,WKZ / PMC,15:32,153200
+57,3,UMC Utrecht,15:34,153400
+57,4,Heidelberglaan,15:35,153500
+57,5,Padualaan,15:37,153700
+57,6,Rijnsweerd-Zuid,15:39,153900
+57,7,Rijnsweerd-Noord,15:41,154100
+57,8,Oorsprongpark,15:43,154300
+57,9,Wittevrouwen,15:44,154400
+57,10,Stadsschouwburg,15:46,154600
+57,11,Janskerkhof,15:47,154700
+57,12,Neude,15:49,154900
+57,13,CS Centrumzijde,15:59,155900
+57,14,Hasebroekstraat,16:04,160400
+57,15,Majellapark,16:06,160600
+57,16,Thomas à Kempisplantsoen,16:07,160700
+57,17,Station Leidsche Rijn,16:09,160900
+57,18,Centrumboulevard,16:10,161000
+57,19,Korianderstraat,16:11,161100
+57,20,Eerste Westerparklaan,16:14,161400
+57,21,De Meern-Oost,16:16,161600
+57,22,Meernbrug,16:18,161800
+57,23,Boekbinderslaan,16:19,161900
+57,24,De Balije,16:21,162100
+57,25,Europaweg,16:22,162200
+57,26,Veldhuizen,16:23,162300
+57,27,De Tuinlanden,16:25,162500
+57,28,Vleuterweide-Centrum,16:26,162600
+57,29,Eyckenstein,16:27,162700
+57,30,Station Vleuten,16:31,163100
+58,1,P+R Science Park,15:38,153800
+58,2,WKZ / PMC,15:39,153900
+58,3,UMC Utrecht,15:41,154100
+58,4,Heidelberglaan,15:42,154200
+58,5,Padualaan,15:44,154400
+58,6,Rijnsweerd-Zuid,15:46,154600
+58,7,Rijnsweerd-Noord,15:48,154800
+58,8,Oorsprongpark,15:51,155100
+58,9,Wittevrouwen,15:52,155200
+58,10,Stadsschouwburg,15:54,155400
+58,11,Janskerkhof,15:55,155500
+58,12,Neude,15:57,155700
+58,13,CS Centrumzijde,16:07,160700
+58,14,Hasebroekstraat,16:12,161200
+58,15,Majellapark,16:14,161400
+58,16,Thomas à Kempisplantsoen,16:15,161500
+58,17,Station Leidsche Rijn,16:17,161700
+58,18,Centrumboulevard,16:18,161800
+58,19,Korianderstraat,16:19,161900
+58,20,Eerste Westerparklaan,16:22,162200
+58,21,De Meern-Oost,16:24,162400
+58,22,Meernbrug,16:26,162600
+58,23,Boekbinderslaan,16:27,162700
+58,24,De Balije,16:29,162900
+58,25,Europaweg,16:30,163000
+58,26,Veldhuizen,16:31,163100
+58,27,De Tuinlanden,16:33,163300
+58,28,Vleuterweide-Centrum,16:34,163400
+58,29,Eyckenstein,16:35,163500
+58,30,Station Vleuten,16:39,163900
+59,1,P+R Science Park,15:46,154600
+59,2,WKZ / PMC,15:47,154700
+59,3,UMC Utrecht,15:49,154900
+59,4,Heidelberglaan,15:50,155000
+59,5,Padualaan,15:52,155200
+59,6,Rijnsweerd-Zuid,15:54,155400
+59,7,Rijnsweerd-Noord,15:56,155600
+59,8,Oorsprongpark,15:59,155900
+59,9,Wittevrouwen,16:00,160000
+59,10,Stadsschouwburg,16:02,160200
+59,11,Janskerkhof,16:03,160300
+59,12,Neude,16:05,160500
+59,13,CS Centrumzijde,16:15,161500
+59,14,Hasebroekstraat,16:20,162000
+59,15,Majellapark,16:22,162200
+59,16,Thomas à Kempisplantsoen,16:23,162300
+59,17,Station Leidsche Rijn,16:25,162500
+59,18,Centrumboulevard,16:26,162600
+59,19,Korianderstraat,16:27,162700
+59,20,Eerste Westerparklaan,16:30,163000
+59,21,De Meern-Oost,16:32,163200
+59,22,Meernbrug,16:34,163400
+59,23,Boekbinderslaan,16:35,163500
+59,24,De Balije,16:37,163700
+59,25,Europaweg,16:38,163800
+59,26,Veldhuizen,16:39,163900
+59,27,De Tuinlanden,16:41,164100
+59,28,Vleuterweide-Centrum,16:42,164200
+59,29,Eyckenstein,16:43,164300
+59,30,Station Vleuten,16:47,164700
+60,1,P+R Science Park,15:53,155300
+60,2,WKZ / PMC,15:54,155400
+60,3,UMC Utrecht,15:56,155600
+60,4,Heidelberglaan,15:57,155700
+60,5,Padualaan,15:59,155900
+60,6,Rijnsweerd-Zuid,16:01,160100
+60,7,Rijnsweerd-Noord,16:03,160300
+60,8,Oorsprongpark,16:06,160600
+60,9,Wittevrouwen,16:07,160700
+60,10,Stadsschouwburg,16:09,160900
+60,11,Janskerkhof,16:10,161000
+60,12,Neude,16:12,161200
+60,13,CS Centrumzijde,16:22,162200
+60,14,Hasebroekstraat,16:27,162700
+60,15,Majellapark,16:29,162900
+60,16,Thomas à Kempisplantsoen,16:30,163000
+60,17,Station Leidsche Rijn,16:32,163200
+60,18,Centrumboulevard,16:33,163300
+60,19,Korianderstraat,16:34,163400
+60,20,Eerste Westerparklaan,16:37,163700
+60,21,De Meern-Oost,16:39,163900
+60,22,Meernbrug,16:41,164100
+60,23,Boekbinderslaan,16:42,164200
+60,24,De Balije,16:44,164400
+60,25,Europaweg,16:45,164500
+60,26,Veldhuizen,16:46,164600
+60,27,De Tuinlanden,16:48,164800
+60,28,Vleuterweide-Centrum,16:49,164900
+60,29,Eyckenstein,16:50,165000
+60,30,Station Vleuten,16:54,165400
+61,1,P+R Science Park,16:01,160100
+61,2,WKZ / PMC,16:02,160200
+61,3,UMC Utrecht,16:04,160400
+61,4,Heidelberglaan,16:05,160500
+61,5,Padualaan,16:07,160700
+61,6,Rijnsweerd-Zuid,16:09,160900
+61,7,Rijnsweerd-Noord,16:11,161100
+61,8,Oorsprongpark,16:14,161400
+61,9,Wittevrouwen,16:15,161500
+61,10,Stadsschouwburg,16:17,161700
+61,11,Janskerkhof,16:18,161800
+61,12,Neude,16:20,162000
+61,13,CS Centrumzijde,16:30,163000
+61,14,Hasebroekstraat,16:35,163500
+61,15,Majellapark,16:37,163700
+61,16,Thomas à Kempisplantsoen,16:38,163800
+61,17,Station Leidsche Rijn,16:40,164000
+61,18,Centrumboulevard,16:41,164100
+61,19,Korianderstraat,16:42,164200
+61,20,Eerste Westerparklaan,16:45,164500
+61,21,De Meern-Oost,16:47,164700
+61,22,Meernbrug,16:49,164900
+61,23,Boekbinderslaan,16:50,165000
+61,24,De Balije,16:52,165200
+61,25,Europaweg,16:53,165300
+61,26,Veldhuizen,16:54,165400
+61,27,De Tuinlanden,16:56,165600
+61,28,Vleuterweide-Centrum,16:57,165700
+61,29,Eyckenstein,16:58,165800
+61,30,Station Vleuten,17:02,170200
+62,1,P+R Science Park,16:08,160800
+62,2,WKZ / PMC,16:09,160900
+62,3,UMC Utrecht,16:11,161100
+62,4,Heidelberglaan,16:12,161200
+62,5,Padualaan,16:14,161400
+62,6,Rijnsweerd-Zuid,16:16,161600
+62,7,Rijnsweerd-Noord,16:18,161800
+62,8,Oorsprongpark,16:21,162100
+62,9,Wittevrouwen,16:22,162200
+62,10,Stadsschouwburg,16:24,162400
+62,11,Janskerkhof,16:25,162500
+62,12,Neude,16:27,162700
+62,13,CS Centrumzijde,16:37,163700
+62,14,Hasebroekstraat,16:42,164200
+62,15,Majellapark,16:44,164400
+62,16,Thomas à Kempisplantsoen,16:45,164500
+62,17,Station Leidsche Rijn,16:47,164700
+62,18,Centrumboulevard,16:48,164800
+62,19,Korianderstraat,16:49,164900
+62,20,Eerste Westerparklaan,16:52,165200
+62,21,De Meern-Oost,16:54,165400
+62,22,Meernbrug,16:56,165600
+62,23,Boekbinderslaan,16:57,165700
+62,24,De Balije,16:59,165900
+62,25,Europaweg,17:00,170000
+62,26,Veldhuizen,17:01,170100
+62,27,De Tuinlanden,17:03,170300
+62,28,Vleuterweide-Centrum,17:04,170400
+62,29,Eyckenstein,17:05,170500
+62,30,Station Vleuten,17:09,170900
+63,1,P+R Science Park,16:16,161600
+63,2,WKZ / PMC,16:17,161700
+63,3,UMC Utrecht,16:19,161900
+63,4,Heidelberglaan,16:20,162000
+63,5,Padualaan,16:22,162200
+63,6,Rijnsweerd-Zuid,16:24,162400
+63,7,Rijnsweerd-Noord,16:26,162600
+63,8,Oorsprongpark,16:29,162900
+63,9,Wittevrouwen,16:30,163000
+63,10,Stadsschouwburg,16:32,163200
+63,11,Janskerkhof,16:33,163300
+63,12,Neude,16:35,163500
+63,13,CS Centrumzijde,16:45,164500
+63,14,Hasebroekstraat,16:50,165000
+63,15,Majellapark,16:52,165200
+63,16,Thomas à Kempisplantsoen,16:53,165300
+63,17,Station Leidsche Rijn,16:55,165500
+63,18,Centrumboulevard,16:56,165600
+63,19,Korianderstraat,16:57,165700
+63,20,Eerste Westerparklaan,17:00,170000
+63,21,De Meern-Oost,17:02,170200
+63,22,Meernbrug,17:04,170400
+63,23,Boekbinderslaan,17:05,170500
+63,24,De Balije,17:07,170700
+63,25,Europaweg,17:08,170800
+63,26,Veldhuizen,17:09,170900
+63,27,De Tuinlanden,17:11,171100
+63,28,Vleuterweide-Centrum,17:12,171200
+63,29,Eyckenstein,17:13,171300
+63,30,Station Vleuten,17:17,171700
+64,1,P+R Science Park,16:23,162300
+64,2,WKZ / PMC,16:24,162400
+64,3,UMC Utrecht,16:26,162600
+64,4,Heidelberglaan,16:27,162700
+64,5,Padualaan,16:29,162900
+64,6,Rijnsweerd-Zuid,16:31,163100
+64,7,Rijnsweerd-Noord,16:33,163300
+64,8,Oorsprongpark,16:36,163600
+64,9,Wittevrouwen,16:37,163700
+64,10,Stadsschouwburg,16:39,163900
+64,11,Janskerkhof,16:40,164000
+64,12,Neude,16:42,164200
+64,13,CS Centrumzijde,16:52,165200
+64,14,Hasebroekstraat,16:57,165700
+64,15,Majellapark,16:59,165900
+64,16,Thomas à Kempisplantsoen,17:00,170000
+64,17,Station Leidsche Rijn,17:02,170200
+64,18,Centrumboulevard,17:03,170300
+64,19,Korianderstraat,17:04,170400
+64,20,Eerste Westerparklaan,17:07,170700
+64,21,De Meern-Oost,17:09,170900
+64,22,Meernbrug,17:11,171100
+64,23,Boekbinderslaan,17:12,171200
+64,24,De Balije,17:14,171400
+64,25,Europaweg,17:15,171500
+64,26,Veldhuizen,17:16,171600
+64,27,De Tuinlanden,17:18,171800
+64,28,Vleuterweide-Centrum,17:19,171900
+64,29,Eyckenstein,17:20,172000
+64,30,Station Vleuten,17:24,172400
+65,1,P+R Science Park,16:31,163100
+65,2,WKZ / PMC,16:32,163200
+65,3,UMC Utrecht,16:34,163400
+65,4,Heidelberglaan,16:35,163500
+65,5,Padualaan,16:37,163700
+65,6,Rijnsweerd-Zuid,16:39,163900
+65,7,Rijnsweerd-Noord,16:41,164100
+65,8,Oorsprongpark,16:44,164400
+65,9,Wittevrouwen,16:45,164500
+65,10,Stadsschouwburg,16:47,164700
+65,11,Janskerkhof,16:48,164800
+65,12,Neude,16:50,165000
+65,13,CS Centrumzijde,17:00,170000
+65,14,Hasebroekstraat,17:05,170500
+65,15,Majellapark,17:07,170700
+65,16,Thomas à Kempisplantsoen,17:08,170800
+65,17,Station Leidsche Rijn,17:10,171000
+65,18,Centrumboulevard,17:11,171100
+65,19,Korianderstraat,17:12,171200
+65,20,Eerste Westerparklaan,17:15,171500
+65,21,De Meern-Oost,17:17,171700
+65,22,Meernbrug,17:19,171900
+65,23,Boekbinderslaan,17:20,172000
+65,24,De Balije,17:22,172200
+65,25,Europaweg,17:23,172300
+65,26,Veldhuizen,17:24,172400
+65,27,De Tuinlanden,17:26,172600
+65,28,Vleuterweide-Centrum,17:27,172700
+65,29,Eyckenstein,17:28,172800
+65,30,Station Vleuten,17:32,173200
+66,1,P+R Science Park,16:38,163800
+66,2,WKZ / PMC,16:39,163900
+66,3,UMC Utrecht,16:41,164100
+66,4,Heidelberglaan,16:42,164200
+66,5,Padualaan,16:44,164400
+66,6,Rijnsweerd-Zuid,16:46,164600
+66,7,Rijnsweerd-Noord,16:48,164800
+66,8,Oorsprongpark,16:51,165100
+66,9,Wittevrouwen,16:52,165200
+66,10,Stadsschouwburg,16:54,165400
+66,11,Janskerkhof,16:55,165500
+66,12,Neude,16:57,165700
+66,13,CS Centrumzijde,17:07,170700
+66,14,Hasebroekstraat,17:12,171200
+66,15,Majellapark,17:14,171400
+66,16,Thomas à Kempisplantsoen,17:15,171500
+66,17,Station Leidsche Rijn,17:17,171700
+66,18,Centrumboulevard,17:18,171800
+66,19,Korianderstraat,17:19,171900
+66,20,Eerste Westerparklaan,17:22,172200
+66,21,De Meern-Oost,17:24,172400
+66,22,Meernbrug,17:26,172600
+66,23,Boekbinderslaan,17:27,172700
+66,24,De Balije,17:29,172900
+66,25,Europaweg,17:30,173000
+66,26,Veldhuizen,17:31,173100
+66,27,De Tuinlanden,17:33,173300
+66,28,Vleuterweide-Centrum,17:34,173400
+66,29,Eyckenstein,17:35,173500
+66,30,Station Vleuten,17:39,173900
+67,1,P+R Science Park,16:46,164600
+67,2,WKZ / PMC,16:47,164700
+67,3,UMC Utrecht,16:49,164900
+67,4,Heidelberglaan,16:50,165000
+67,5,Padualaan,16:52,165200
+67,6,Rijnsweerd-Zuid,16:54,165400
+67,7,Rijnsweerd-Noord,16:56,165600
+67,8,Oorsprongpark,16:59,165900
+67,9,Wittevrouwen,17:00,170000
+67,10,Stadsschouwburg,17:02,170200
+67,11,Janskerkhof,17:03,170300
+67,12,Neude,17:05,170500
+67,13,CS Centrumzijde,17:15,171500
+67,14,Hasebroekstraat,17:20,172000
+67,15,Majellapark,17:22,172200
+67,16,Thomas à Kempisplantsoen,17:23,172300
+67,17,Station Leidsche Rijn,17:25,172500
+67,18,Centrumboulevard,17:26,172600
+67,19,Korianderstraat,17:27,172700
+67,20,Eerste Westerparklaan,17:30,173000
+67,21,De Meern-Oost,17:32,173200
+67,22,Meernbrug,17:34,173400
+67,23,Boekbinderslaan,17:35,173500
+67,24,De Balije,17:37,173700
+67,25,Europaweg,17:38,173800
+67,26,Veldhuizen,17:39,173900
+67,27,De Tuinlanden,17:41,174100
+67,28,Vleuterweide-Centrum,17:42,174200
+67,29,Eyckenstein,17:43,174300
+67,30,Station Vleuten,17:47,174700
+68,1,P+R Science Park,16:53,165300
+68,2,WKZ / PMC,16:54,165400
+68,3,UMC Utrecht,16:56,165600
+68,4,Heidelberglaan,16:57,165700
+68,5,Padualaan,16:59,165900
+68,6,Rijnsweerd-Zuid,17:01,170100
+68,7,Rijnsweerd-Noord,17:03,170300
+68,8,Oorsprongpark,17:06,170600
+68,9,Wittevrouwen,17:07,170700
+68,10,Stadsschouwburg,17:09,170900
+68,11,Janskerkhof,17:10,171000
+68,12,Neude,17:12,171200
+68,13,CS Centrumzijde,17:22,172200
+68,14,Hasebroekstraat,17:27,172700
+68,15,Majellapark,17:29,172900
+68,16,Thomas à Kempisplantsoen,17:30,173000
+68,17,Station Leidsche Rijn,17:32,173200
+68,18,Centrumboulevard,17:33,173300
+68,19,Korianderstraat,17:34,173400
+68,20,Eerste Westerparklaan,17:37,173700
+68,21,De Meern-Oost,17:39,173900
+68,22,Meernbrug,17:41,174100
+68,23,Boekbinderslaan,17:42,174200
+68,24,De Balije,17:44,174400
+68,25,Europaweg,17:45,174500
+68,26,Veldhuizen,17:46,174600
+68,27,De Tuinlanden,17:48,174800
+68,28,Vleuterweide-Centrum,17:49,174900
+68,29,Eyckenstein,17:50,175000
+68,30,Station Vleuten,17:54,175400
+69,1,P+R Science Park,17:01,170100
+69,2,WKZ / PMC,17:02,170200
+69,3,UMC Utrecht,17:04,170400
+69,4,Heidelberglaan,17:05,170500
+69,5,Padualaan,17:07,170700
+69,6,Rijnsweerd-Zuid,17:09,170900
+69,7,Rijnsweerd-Noord,17:11,171100
+69,8,Oorsprongpark,17:14,171400
+69,9,Wittevrouwen,17:15,171500
+69,10,Stadsschouwburg,17:17,171700
+69,11,Janskerkhof,17:18,171800
+69,12,Neude,17:20,172000
+69,13,CS Centrumzijde,17:30,173000
+69,14,Hasebroekstraat,17:35,173500
+69,15,Majellapark,17:37,173700
+69,16,Thomas à Kempisplantsoen,17:38,173800
+69,17,Station Leidsche Rijn,17:40,174000
+69,18,Centrumboulevard,17:41,174100
+69,19,Korianderstraat,17:42,174200
+69,20,Eerste Westerparklaan,17:45,174500
+69,21,De Meern-Oost,17:47,174700
+69,22,Meernbrug,17:49,174900
+69,23,Boekbinderslaan,17:50,175000
+69,24,De Balije,17:52,175200
+69,25,Europaweg,17:53,175300
+69,26,Veldhuizen,17:54,175400
+69,27,De Tuinlanden,17:56,175600
+69,28,Vleuterweide-Centrum,17:57,175700
+69,29,Eyckenstein,17:58,175800
+69,30,Station Vleuten,18:02,180200
+70,1,P+R Science Park,17:08,170800
+70,2,WKZ / PMC,17:09,170900
+70,3,UMC Utrecht,17:11,171100
+70,4,Heidelberglaan,17:12,171200
+70,5,Padualaan,17:14,171400
+70,6,Rijnsweerd-Zuid,17:16,171600
+70,7,Rijnsweerd-Noord,17:18,171800
+70,8,Oorsprongpark,17:21,172100
+70,9,Wittevrouwen,17:22,172200
+70,10,Stadsschouwburg,17:24,172400
+70,11,Janskerkhof,17:25,172500
+70,12,Neude,17:27,172700
+70,13,CS Centrumzijde,17:37,173700
+70,14,Hasebroekstraat,17:42,174200
+70,15,Majellapark,17:44,174400
+70,16,Thomas à Kempisplantsoen,17:45,174500
+70,17,Station Leidsche Rijn,17:47,174700
+70,18,Centrumboulevard,17:48,174800
+70,19,Korianderstraat,17:49,174900
+70,20,Eerste Westerparklaan,17:52,175200
+70,21,De Meern-Oost,17:54,175400
+70,22,Meernbrug,17:56,175600
+70,23,Boekbinderslaan,17:57,175700
+70,24,De Balije,17:59,175900
+70,25,Europaweg,18:00,180000
+70,26,Veldhuizen,18:01,180100
+70,27,De Tuinlanden,18:03,180300
+70,28,Vleuterweide-Centrum,18:04,180400
+70,29,Eyckenstein,18:05,180500
+70,30,Station Vleuten,18:09,180900
+71,1,P+R Science Park,17:16,171600
+71,2,WKZ / PMC,17:17,171700
+71,3,UMC Utrecht,17:19,171900
+71,4,Heidelberglaan,17:20,172000
+71,5,Padualaan,17:22,172200
+71,6,Rijnsweerd-Zuid,17:24,172400
+71,7,Rijnsweerd-Noord,17:26,172600
+71,8,Oorsprongpark,17:29,172900
+71,9,Wittevrouwen,17:30,173000
+71,10,Stadsschouwburg,17:32,173200
+71,11,Janskerkhof,17:33,173300
+71,12,Neude,17:35,173500
+71,13,CS Centrumzijde,17:45,174500
+71,14,Hasebroekstraat,17:50,175000
+71,15,Majellapark,17:52,175200
+71,16,Thomas à Kempisplantsoen,17:53,175300
+71,17,Station Leidsche Rijn,17:55,175500
+71,18,Centrumboulevard,17:56,175600
+71,19,Korianderstraat,17:57,175700
+71,20,Eerste Westerparklaan,18:00,180000
+71,21,De Meern-Oost,18:02,180200
+71,22,Meernbrug,18:04,180400
+71,23,Boekbinderslaan,18:05,180500
+71,24,De Balije,18:07,180700
+71,25,Europaweg,18:08,180800
+71,26,Veldhuizen,18:09,180900
+71,27,De Tuinlanden,18:11,181100
+71,28,Vleuterweide-Centrum,18:12,181200
+71,29,Eyckenstein,18:13,181300
+71,30,Station Vleuten,18:17,181700
+72,1,P+R Science Park,17:23,172300
+72,2,WKZ / PMC,17:24,172400
+72,3,UMC Utrecht,17:26,172600
+72,4,Heidelberglaan,17:27,172700
+72,5,Padualaan,17:29,172900
+72,6,Rijnsweerd-Zuid,17:31,173100
+72,7,Rijnsweerd-Noord,17:33,173300
+72,8,Oorsprongpark,17:36,173600
+72,9,Wittevrouwen,17:37,173700
+72,10,Stadsschouwburg,17:39,173900
+72,11,Janskerkhof,17:40,174000
+72,12,Neude,17:42,174200
+72,13,CS Centrumzijde,17:52,175200
+72,14,Hasebroekstraat,17:57,175700
+72,15,Majellapark,17:59,175900
+72,16,Thomas à Kempisplantsoen,18:00,180000
+72,17,Station Leidsche Rijn,18:02,180200
+72,18,Centrumboulevard,18:03,180300
+72,19,Korianderstraat,18:04,180400
+72,20,Eerste Westerparklaan,18:07,180700
+72,21,De Meern-Oost,18:09,180900
+72,22,Meernbrug,18:11,181100
+72,23,Boekbinderslaan,18:12,181200
+72,24,De Balije,18:14,181400
+72,25,Europaweg,18:15,181500
+72,26,Veldhuizen,18:16,181600
+72,27,De Tuinlanden,18:18,181800
+72,28,Vleuterweide-Centrum,18:19,181900
+72,29,Eyckenstein,18:20,182000
+72,30,Station Vleuten,18:24,182400
+73,1,P+R Science Park,17:31,173100
+73,2,WKZ / PMC,17:32,173200
+73,3,UMC Utrecht,17:34,173400
+73,4,Heidelberglaan,17:35,173500
+73,5,Padualaan,17:37,173700
+73,6,Rijnsweerd-Zuid,17:39,173900
+73,7,Rijnsweerd-Noord,17:41,174100
+73,8,Oorsprongpark,17:44,174400
+73,9,Wittevrouwen,17:45,174500
+73,10,Stadsschouwburg,17:47,174700
+73,11,Janskerkhof,17:48,174800
+73,12,Neude,17:50,175000
+73,13,CS Centrumzijde,18:00,180000
+73,14,Hasebroekstraat,18:05,180500
+73,15,Majellapark,18:07,180700
+73,16,Thomas à Kempisplantsoen,18:08,180800
+73,17,Station Leidsche Rijn,18:10,181000
+73,18,Centrumboulevard,18:11,181100
+73,19,Korianderstraat,18:12,181200
+73,20,Eerste Westerparklaan,18:15,181500
+73,21,De Meern-Oost,18:17,181700
+73,22,Meernbrug,18:19,181900
+73,23,Boekbinderslaan,18:20,182000
+73,24,De Balije,18:22,182200
+73,25,Europaweg,18:23,182300
+73,26,Veldhuizen,18:24,182400
+73,27,De Tuinlanden,18:26,182600
+73,28,Vleuterweide-Centrum,18:27,182700
+73,29,Eyckenstein,18:28,182800
+73,30,Station Vleuten,18:32,183200
+74,1,P+R Science Park,17:38,173800
+74,2,WKZ / PMC,17:39,173900
+74,3,UMC Utrecht,17:41,174100
+74,4,Heidelberglaan,17:42,174200
+74,5,Padualaan,17:44,174400
+74,6,Rijnsweerd-Zuid,17:46,174600
+74,7,Rijnsweerd-Noord,17:48,174800
+74,8,Oorsprongpark,17:51,175100
+74,9,Wittevrouwen,17:52,175200
+74,10,Stadsschouwburg,17:54,175400
+74,11,Janskerkhof,17:55,175500
+74,12,Neude,17:57,175700
+74,13,CS Centrumzijde,18:07,180700
+74,14,Hasebroekstraat,18:12,181200
+74,15,Majellapark,18:14,181400
+74,16,Thomas à Kempisplantsoen,18:15,181500
+74,17,Station Leidsche Rijn,18:17,181700
+74,18,Centrumboulevard,18:18,181800
+74,19,Korianderstraat,18:19,181900
+74,20,Eerste Westerparklaan,18:22,182200
+74,21,De Meern-Oost,18:24,182400
+74,22,Meernbrug,18:26,182600
+74,23,Boekbinderslaan,18:27,182700
+74,24,De Balije,18:29,182900
+74,25,Europaweg,18:30,183000
+74,26,Veldhuizen,18:31,183100
+74,27,De Tuinlanden,18:33,183300
+74,28,Vleuterweide-Centrum,18:34,183400
+74,29,Eyckenstein,18:35,183500
+74,30,Station Vleuten,18:39,183900
+75,1,P+R Science Park,17:46,174600
+75,2,WKZ / PMC,17:47,174700
+75,3,UMC Utrecht,17:49,174900
+75,4,Heidelberglaan,17:50,175000
+75,5,Padualaan,17:52,175200
+75,6,Rijnsweerd-Zuid,17:54,175400
+75,7,Rijnsweerd-Noord,17:56,175600
+75,8,Oorsprongpark,17:59,175900
+75,9,Wittevrouwen,18:00,180000
+75,10,Stadsschouwburg,18:02,180200
+75,11,Janskerkhof,18:03,180300
+75,12,Neude,18:05,180500
+75,13,CS Centrumzijde,18:14,181400
+75,14,Hasebroekstraat,18:19,181900
+75,15,Majellapark,18:21,182100
+75,16,Thomas à Kempisplantsoen,18:22,182200
+75,17,Station Leidsche Rijn,18:24,182400
+75,18,Centrumboulevard,18:25,182500
+75,19,Korianderstraat,18:26,182600
+75,20,Eerste Westerparklaan,18:29,182900
+75,21,De Meern-Oost,18:31,183100
+75,22,Meernbrug,18:33,183300
+75,23,Boekbinderslaan,18:34,183400
+75,24,De Balije,18:35,183500
+75,25,Europaweg,18:36,183600
+75,26,Veldhuizen,18:37,183700
+75,27,De Tuinlanden,18:39,183900
+75,28,Vleuterweide-Centrum,18:40,184000
+75,29,Eyckenstein,18:41,184100
+75,30,Station Vleuten,18:45,184500
+76,1,P+R Science Park,17:53,175300
+76,2,WKZ / PMC,17:54,175400
+76,3,UMC Utrecht,17:56,175600
+76,4,Heidelberglaan,17:57,175700
+76,5,Padualaan,17:59,175900
+76,6,Rijnsweerd-Zuid,18:01,180100
+76,7,Rijnsweerd-Noord,18:03,180300
+76,8,Oorsprongpark,18:05,180500
+76,9,Wittevrouwen,18:06,180600
+76,10,Stadsschouwburg,18:08,180800
+76,11,Janskerkhof,18:09,180900
+76,12,Neude,18:11,181100
+76,13,CS Centrumzijde,18:20,182000
+76,14,Hasebroekstraat,18:25,182500
+76,15,Majellapark,18:27,182700
+76,16,Thomas à Kempisplantsoen,18:28,182800
+76,17,Station Leidsche Rijn,18:30,183000
+76,18,Centrumboulevard,18:31,183100
+76,19,Korianderstraat,18:32,183200
+76,20,Eerste Westerparklaan,18:35,183500
+76,21,De Meern-Oost,18:37,183700
+76,22,Meernbrug,18:39,183900
+76,23,Boekbinderslaan,18:40,184000
+76,24,De Balije,18:41,184100
+76,25,Europaweg,18:42,184200
+76,26,Veldhuizen,18:43,184300
+76,27,De Tuinlanden,18:45,184500
+76,28,Vleuterweide-Centrum,18:46,184600
+76,29,Eyckenstein,18:47,184700
+76,30,Station Vleuten,18:51,185100
+77,1,P+R Science Park,18:01,180100
+77,2,WKZ / PMC,18:02,180200
+77,3,UMC Utrecht,18:04,180400
+77,4,Heidelberglaan,18:05,180500
+77,5,Padualaan,18:07,180700
+77,6,Rijnsweerd-Zuid,18:09,180900
+77,7,Rijnsweerd-Noord,18:11,181100
+77,8,Oorsprongpark,18:13,181300
+77,9,Wittevrouwen,18:14,181400
+77,10,Stadsschouwburg,18:16,181600
+77,11,Janskerkhof,18:17,181700
+77,12,Neude,18:19,181900
+77,13,CS Centrumzijde,18:28,182800
+77,14,Hasebroekstraat,18:33,183300
+77,15,Majellapark,18:35,183500
+77,16,Thomas à Kempisplantsoen,18:36,183600
+77,17,Station Leidsche Rijn,18:38,183800
+77,18,Centrumboulevard,18:39,183900
+77,19,Korianderstraat,18:40,184000
+77,20,Eerste Westerparklaan,18:43,184300
+77,21,De Meern-Oost,18:45,184500
+77,22,Meernbrug,18:47,184700
+77,23,Boekbinderslaan,18:48,184800
+77,24,De Balije,18:49,184900
+77,25,Europaweg,18:50,185000
+77,26,Veldhuizen,18:51,185100
+77,27,De Tuinlanden,18:53,185300
+77,28,Vleuterweide-Centrum,18:54,185400
+77,29,Eyckenstein,18:55,185500
+77,30,Station Vleuten,18:59,185900
+78,1,P+R Science Park,18:08,180800
+78,2,WKZ / PMC,18:09,180900
+78,3,UMC Utrecht,18:11,181100
+78,4,Heidelberglaan,18:12,181200
+78,5,Padualaan,18:14,181400
+78,6,Rijnsweerd-Zuid,18:16,181600
+78,7,Rijnsweerd-Noord,18:18,181800
+78,8,Oorsprongpark,18:20,182000
+78,9,Wittevrouwen,18:21,182100
+78,10,Stadsschouwburg,18:23,182300
+78,11,Janskerkhof,18:24,182400
+78,12,Neude,18:26,182600
+78,13,CS Centrumzijde,18:35,183500
+78,14,Hasebroekstraat,18:39,183900
+78,15,Majellapark,18:41,184100
+78,16,Thomas à Kempisplantsoen,18:42,184200
+78,17,Station Leidsche Rijn,18:44,184400
+78,18,Centrumboulevard,18:45,184500
+78,19,Korianderstraat,18:46,184600
+78,20,Eerste Westerparklaan,18:49,184900
+78,21,De Meern-Oost,18:51,185100
+78,22,Meernbrug,18:53,185300
+78,23,Boekbinderslaan,18:54,185400
+78,24,De Balije,18:55,185500
+78,25,Europaweg,18:56,185600
+78,26,Veldhuizen,18:57,185700
+78,27,De Tuinlanden,18:59,185900
+78,28,Vleuterweide-Centrum,19:00,190000
+78,29,Eyckenstein,19:01,190100
+78,30,Station Vleuten,19:05,190500
+79,1,P+R Science Park,18:18,181800
+79,2,WKZ / PMC,18:19,181900
+79,3,UMC Utrecht,18:21,182100
+79,4,Heidelberglaan,18:22,182200
+79,5,Padualaan,18:24,182400
+79,6,Rijnsweerd-Zuid,18:26,182600
+79,7,Rijnsweerd-Noord,18:28,182800
+79,8,Oorsprongpark,18:30,183000
+79,9,Wittevrouwen,18:31,183100
+79,10,Stadsschouwburg,18:33,183300
+79,11,Janskerkhof,18:34,183400
+79,12,Neude,18:36,183600
+79,13,CS Centrumzijde,18:45,184500
+79,14,Hasebroekstraat,18:49,184900
+79,15,Majellapark,18:51,185100
+79,16,Thomas à Kempisplantsoen,18:52,185200
+79,17,Station Leidsche Rijn,18:54,185400
+79,18,Centrumboulevard,18:55,185500
+79,19,Korianderstraat,18:56,185600
+79,20,Eerste Westerparklaan,18:59,185900
+79,21,De Meern-Oost,19:01,190100
+79,22,Meernbrug,19:03,190300
+79,23,Boekbinderslaan,19:04,190400
+79,24,De Balije,19:05,190500
+79,25,Europaweg,19:06,190600
+79,26,Veldhuizen,19:07,190700
+79,27,De Tuinlanden,19:09,190900
+79,28,Vleuterweide-Centrum,19:10,191000
+79,29,Eyckenstein,19:11,191100
+79,30,Station Vleuten,19:15,191500
+80,1,P+R Science Park,18:28,182800
+80,2,WKZ / PMC,18:29,182900
+80,3,UMC Utrecht,18:31,183100
+80,4,Heidelberglaan,18:32,183200
+80,5,Padualaan,18:34,183400
+80,6,Rijnsweerd-Zuid,18:36,183600
+80,7,Rijnsweerd-Noord,18:38,183800
+80,8,Oorsprongpark,18:40,184000
+80,9,Wittevrouwen,18:41,184100
+80,10,Stadsschouwburg,18:43,184300
+80,11,Janskerkhof,18:44,184400
+80,12,Neude,18:46,184600
+80,13,CS Centrumzijde,18:55,185500
+80,14,Hasebroekstraat,18:59,185900
+80,15,Majellapark,19:01,190100
+80,16,Thomas à Kempisplantsoen,19:02,190200
+80,17,Station Leidsche Rijn,19:04,190400
+80,18,Centrumboulevard,19:05,190500
+80,19,Korianderstraat,19:06,190600
+80,20,Eerste Westerparklaan,19:09,190900
+80,21,De Meern-Oost,19:11,191100
+80,22,Meernbrug,19:13,191300
+80,23,Boekbinderslaan,19:14,191400
+80,24,De Balije,19:15,191500
+80,25,Europaweg,19:16,191600
+80,26,Veldhuizen,19:17,191700
+80,27,De Tuinlanden,19:19,191900
+80,28,Vleuterweide-Centrum,19:20,192000
+80,29,Eyckenstein,19:21,192100
+80,30,Station Vleuten,19:25,192500
+81,1,P+R Science Park,18:38,183800
+81,2,WKZ / PMC,18:39,183900
+81,3,UMC Utrecht,18:41,184100
+81,4,Heidelberglaan,18:42,184200
+81,5,Padualaan,18:44,184400
+81,6,Rijnsweerd-Zuid,18:46,184600
+81,7,Rijnsweerd-Noord,18:48,184800
+81,8,Oorsprongpark,18:50,185000
+81,9,Wittevrouwen,18:51,185100
+81,10,Stadsschouwburg,18:53,185300
+81,11,Janskerkhof,18:54,185400
+81,12,Neude,18:56,185600
+81,13,CS Centrumzijde,19:05,190500
+81,14,Hasebroekstraat,19:09,190900
+81,15,Majellapark,19:11,191100
+81,16,Thomas à Kempisplantsoen,19:12,191200
+81,17,Station Leidsche Rijn,19:14,191400
+81,18,Centrumboulevard,19:15,191500
+81,19,Korianderstraat,19:16,191600
+81,20,Eerste Westerparklaan,19:19,191900
+81,21,De Meern-Oost,19:21,192100
+81,22,Meernbrug,19:23,192300
+81,23,Boekbinderslaan,19:24,192400
+81,24,De Balije,19:25,192500
+81,25,Europaweg,19:26,192600
+81,26,Veldhuizen,19:27,192700
+81,27,De Tuinlanden,19:29,192900
+81,28,Vleuterweide-Centrum,19:30,193000
+81,29,Eyckenstein,19:31,193100
+81,30,Station Vleuten,19:35,193500
+82,1,P+R Science Park,18:48,184800
+82,2,WKZ / PMC,18:49,184900
+82,3,UMC Utrecht,18:51,185100
+82,4,Heidelberglaan,18:52,185200
+82,5,Padualaan,18:54,185400
+82,6,Rijnsweerd-Zuid,18:56,185600
+82,7,Rijnsweerd-Noord,18:58,185800
+82,8,Oorsprongpark,19:00,190000
+82,9,Wittevrouwen,19:01,190100
+82,10,Stadsschouwburg,19:03,190300
+82,11,Janskerkhof,19:04,190400
+82,12,Neude,19:06,190600
+82,13,CS Centrumzijde,19:15,191500
+82,14,Hasebroekstraat,19:19,191900
+82,15,Majellapark,19:21,192100
+82,16,Thomas à Kempisplantsoen,19:22,192200
+82,17,Station Leidsche Rijn,19:24,192400
+82,18,Centrumboulevard,19:25,192500
+82,19,Korianderstraat,19:26,192600
+82,20,Eerste Westerparklaan,19:29,192900
+82,21,De Meern-Oost,19:31,193100
+82,22,Meernbrug,19:33,193300
+82,23,Boekbinderslaan,19:34,193400
+82,24,De Balije,19:35,193500
+82,25,Europaweg,19:36,193600
+82,26,Veldhuizen,19:37,193700
+82,27,De Tuinlanden,19:39,193900
+82,28,Vleuterweide-Centrum,19:40,194000
+82,29,Eyckenstein,19:41,194100
+82,30,Station Vleuten,19:45,194500
+83,1,P+R Science Park,18:58,185800
+83,2,WKZ / PMC,18:59,185900
+83,3,UMC Utrecht,19:01,190100
+83,4,Heidelberglaan,19:02,190200
+83,5,Padualaan,19:04,190400
+83,6,Rijnsweerd-Zuid,19:06,190600
+83,7,Rijnsweerd-Noord,19:08,190800
+83,8,Oorsprongpark,19:10,191000
+83,9,Wittevrouwen,19:11,191100
+83,10,Stadsschouwburg,19:13,191300
+83,11,Janskerkhof,19:14,191400
+83,12,Neude,19:16,191600
+83,13,CS Centrumzijde,19:24,192400
+83,14,Hasebroekstraat,19:28,192800
+83,15,Majellapark,19:30,193000
+83,16,Thomas à Kempisplantsoen,19:31,193100
+83,17,Station Leidsche Rijn,19:33,193300
+83,18,Centrumboulevard,19:34,193400
+83,19,Korianderstraat,19:35,193500
+83,20,Eerste Westerparklaan,19:38,193800
+83,21,De Meern-Oost,19:40,194000
+83,22,Meernbrug,19:42,194200
+83,23,Boekbinderslaan,19:43,194300
+83,24,De Balije,19:44,194400
+83,25,Europaweg,19:45,194500
+83,26,Veldhuizen,19:46,194600
+83,27,De Tuinlanden,19:48,194800
+83,28,Vleuterweide-Centrum,19:49,194900
+83,29,Eyckenstein,19:50,195000
+83,30,Station Vleuten,19:54,195400
+84,1,P+R Science Park,19:08,190800
+84,2,WKZ / PMC,19:09,190900
+84,3,UMC Utrecht,19:11,191100
+84,4,Heidelberglaan,19:12,191200
+84,5,Padualaan,19:14,191400
+84,6,Rijnsweerd-Zuid,19:16,191600
+84,7,Rijnsweerd-Noord,19:18,191800
+84,8,Oorsprongpark,19:20,192000
+84,9,Wittevrouwen,19:21,192100
+84,10,Stadsschouwburg,19:23,192300
+84,11,Janskerkhof,19:24,192400
+84,12,Neude,19:26,192600
+84,13,CS Centrumzijde,19:34,193400
+84,14,Hasebroekstraat,19:38,193800
+84,15,Majellapark,19:40,194000
+84,16,Thomas à Kempisplantsoen,19:41,194100
+84,17,Station Leidsche Rijn,19:43,194300
+84,18,Centrumboulevard,19:44,194400
+84,19,Korianderstraat,19:45,194500
+84,20,Eerste Westerparklaan,19:48,194800
+84,21,De Meern-Oost,19:50,195000
+84,22,Meernbrug,19:52,195200
+84,23,Boekbinderslaan,19:53,195300
+84,24,De Balije,19:54,195400
+84,25,Europaweg,19:55,195500
+84,26,Veldhuizen,19:56,195600
+84,27,De Tuinlanden,19:58,195800
+84,28,Vleuterweide-Centrum,19:59,195900
+84,29,Eyckenstein,20:00,200000
+84,30,Station Vleuten,20:04,200400
+85,1,P+R Science Park,19:23,192300
+85,2,WKZ / PMC,19:24,192400
+85,3,UMC Utrecht,19:26,192600
+85,4,Heidelberglaan,19:27,192700
+85,5,Padualaan,19:28,192800
+85,6,Rijnsweerd-Zuid,19:30,193000
+85,7,Rijnsweerd-Noord,19:32,193200
+85,8,Oorsprongpark,19:34,193400
+85,9,Wittevrouwen,19:35,193500
+85,10,Stadsschouwburg,19:37,193700
+85,11,Janskerkhof,19:38,193800
+85,12,Neude,19:40,194000
+85,13,CS Centrumzijde,19:48,194800
+85,14,Hasebroekstraat,19:52,195200
+85,15,Majellapark,19:54,195400
+85,16,Thomas à Kempisplantsoen,19:55,195500
+85,17,Station Leidsche Rijn,19:57,195700
+85,18,Centrumboulevard,19:58,195800
+85,19,Korianderstraat,19:59,195900
+85,20,Eerste Westerparklaan,20:02,200200
+85,21,De Meern-Oost,20:04,200400
+85,22,Meernbrug,20:06,200600
+85,23,Boekbinderslaan,20:07,200700
+85,24,De Balije,20:08,200800
+85,25,Europaweg,20:09,200900
+85,26,Veldhuizen,20:10,201000
+85,27,De Tuinlanden,20:12,201200
+85,28,Vleuterweide-Centrum,20:13,201300
+85,29,Eyckenstein,20:14,201400
+85,30,Station Vleuten,20:18,201800
+86,1,P+R Science Park,19:38,193800
+86,2,WKZ / PMC,19:39,193900
+86,3,UMC Utrecht,19:41,194100
+86,4,Heidelberglaan,19:42,194200
+86,5,Padualaan,19:43,194300
+86,6,Rijnsweerd-Zuid,19:45,194500
+86,7,Rijnsweerd-Noord,19:47,194700
+86,8,Oorsprongpark,19:49,194900
+86,9,Wittevrouwen,19:50,195000
+86,10,Stadsschouwburg,19:52,195200
+86,11,Janskerkhof,19:53,195300
+86,12,Neude,19:55,195500
+86,13,CS Centrumzijde,20:03,200300
+86,14,Hasebroekstraat,20:07,200700
+86,15,Majellapark,20:09,200900
+86,16,Thomas à Kempisplantsoen,20:10,201000
+86,17,Station Leidsche Rijn,20:12,201200
+86,18,Centrumboulevard,20:13,201300
+86,19,Korianderstraat,20:14,201400
+86,20,Eerste Westerparklaan,20:17,201700
+86,21,De Meern-Oost,20:19,201900
+86,22,Meernbrug,20:21,202100
+86,23,Boekbinderslaan,20:22,202200
+86,24,De Balije,20:23,202300
+86,25,Europaweg,20:24,202400
+86,26,Veldhuizen,20:25,202500
+86,27,De Tuinlanden,20:27,202700
+86,28,Vleuterweide-Centrum,20:28,202800
+86,29,Eyckenstein,20:29,202900
+86,30,Station Vleuten,20:33,203300
+87,1,P+R Science Park,19:53,195300
+87,2,WKZ / PMC,19:54,195400
+87,3,UMC Utrecht,19:56,195600
+87,4,Heidelberglaan,19:57,195700
+87,5,Padualaan,19:58,195800
+87,6,Rijnsweerd-Zuid,20:00,200000
+87,7,Rijnsweerd-Noord,20:02,200200
+87,8,Oorsprongpark,20:04,200400
+87,9,Wittevrouwen,20:05,200500
+87,10,Stadsschouwburg,20:07,200700
+87,11,Janskerkhof,20:08,200800
+87,12,Neude,20:10,201000
+87,13,CS Centrumzijde,20:18,201800
+87,14,Hasebroekstraat,20:22,202200
+87,15,Majellapark,20:24,202400
+87,16,Thomas à Kempisplantsoen,20:25,202500
+87,17,Station Leidsche Rijn,20:27,202700
+87,18,Centrumboulevard,20:28,202800
+87,19,Korianderstraat,20:29,202900
+87,20,Eerste Westerparklaan,20:32,203200
+87,21,De Meern-Oost,20:34,203400
+87,22,Meernbrug,20:36,203600
+87,23,Boekbinderslaan,20:37,203700
+87,24,De Balije,20:38,203800
+87,25,Europaweg,20:39,203900
+87,26,Veldhuizen,20:40,204000
+87,27,De Tuinlanden,20:42,204200
+87,28,Vleuterweide-Centrum,20:43,204300
+87,29,Eyckenstein,20:44,204400
+87,30,Station Vleuten,20:48,204800
+88,1,P+R Science Park,20:08,200800
+88,2,WKZ / PMC,20:09,200900
+88,3,UMC Utrecht,20:11,201100
+88,4,Heidelberglaan,20:12,201200
+88,5,Padualaan,20:13,201300
+88,6,Rijnsweerd-Zuid,20:15,201500
+88,7,Rijnsweerd-Noord,20:17,201700
+88,8,Oorsprongpark,20:19,201900
+88,9,Wittevrouwen,20:20,202000
+88,10,Stadsschouwburg,20:22,202200
+88,11,Janskerkhof,20:23,202300
+88,12,Neude,20:25,202500
+88,13,CS Centrumzijde,20:33,203300
+88,14,Hasebroekstraat,20:37,203700
+88,15,Majellapark,20:39,203900
+88,16,Thomas à Kempisplantsoen,20:40,204000
+88,17,Station Leidsche Rijn,20:42,204200
+88,18,Centrumboulevard,20:43,204300
+88,19,Korianderstraat,20:44,204400
+88,20,Eerste Westerparklaan,20:47,204700
+88,21,De Meern-Oost,20:49,204900
+88,22,Meernbrug,20:51,205100
+88,23,Boekbinderslaan,20:52,205200
+88,24,De Balije,20:53,205300
+88,25,Europaweg,20:54,205400
+88,26,Veldhuizen,20:55,205500
+88,27,De Tuinlanden,20:57,205700
+88,28,Vleuterweide-Centrum,20:58,205800
+88,29,Eyckenstein,20:59,205900
+88,30,Station Vleuten,21:03,210300
+89,1,P+R Science Park,20:23,202300
+89,2,WKZ / PMC,20:24,202400
+89,3,UMC Utrecht,20:26,202600
+89,4,Heidelberglaan,20:27,202700
+89,5,Padualaan,20:28,202800
+89,6,Rijnsweerd-Zuid,20:30,203000
+89,7,Rijnsweerd-Noord,20:32,203200
+89,8,Oorsprongpark,20:34,203400
+89,9,Wittevrouwen,20:35,203500
+89,10,Stadsschouwburg,20:37,203700
+89,11,Janskerkhof,20:38,203800
+89,12,Neude,20:40,204000
+89,13,CS Centrumzijde,20:48,204800
+89,14,Hasebroekstraat,20:52,205200
+89,15,Majellapark,20:54,205400
+89,16,Thomas à Kempisplantsoen,20:55,205500
+89,17,Station Leidsche Rijn,20:57,205700
+89,18,Centrumboulevard,20:58,205800
+89,19,Korianderstraat,20:59,205900
+89,20,Eerste Westerparklaan,21:02,210200
+89,21,De Meern-Oost,21:04,210400
+89,22,Meernbrug,21:06,210600
+89,23,Boekbinderslaan,21:07,210700
+89,24,De Balije,21:08,210800
+89,25,Europaweg,21:09,210900
+89,26,Veldhuizen,21:10,211000
+89,27,De Tuinlanden,21:12,211200
+89,28,Vleuterweide-Centrum,21:13,211300
+89,29,Eyckenstein,21:14,211400
+89,30,Station Vleuten,21:18,211800
+90,1,P+R Science Park,20:38,203800
+90,2,WKZ / PMC,20:39,203900
+90,3,UMC Utrecht,20:41,204100
+90,4,Heidelberglaan,20:42,204200
+90,5,Padualaan,20:43,204300
+90,6,Rijnsweerd-Zuid,20:45,204500
+90,7,Rijnsweerd-Noord,20:47,204700
+90,8,Oorsprongpark,20:49,204900
+90,9,Wittevrouwen,20:50,205000
+90,10,Stadsschouwburg,20:52,205200
+90,11,Janskerkhof,20:53,205300
+90,12,Neude,20:55,205500
+90,13,CS Centrumzijde,21:03,210300
+90,14,Hasebroekstraat,21:07,210700
+90,15,Majellapark,21:09,210900
+90,16,Thomas à Kempisplantsoen,21:10,211000
+90,17,Station Leidsche Rijn,21:12,211200
+90,18,Centrumboulevard,21:13,211300
+90,19,Korianderstraat,21:14,211400
+90,20,Eerste Westerparklaan,21:17,211700
+90,21,De Meern-Oost,21:19,211900
+90,22,Meernbrug,21:21,212100
+90,23,Boekbinderslaan,21:22,212200
+90,24,De Balije,21:23,212300
+90,25,Europaweg,21:24,212400
+90,26,Veldhuizen,21:25,212500
+90,27,De Tuinlanden,21:27,212700
+90,28,Vleuterweide-Centrum,21:28,212800
+90,29,Eyckenstein,21:29,212900
+90,30,Station Vleuten,21:32,213200
+91,1,P+R Science Park,20:53,205300
+91,2,WKZ / PMC,20:54,205400
+91,3,UMC Utrecht,20:56,205600
+91,4,Heidelberglaan,20:57,205700
+91,5,Padualaan,20:58,205800
+91,6,Rijnsweerd-Zuid,21:00,210000
+91,7,Rijnsweerd-Noord,21:02,210200
+91,8,Oorsprongpark,21:04,210400
+91,9,Wittevrouwen,21:05,210500
+91,10,Stadsschouwburg,21:07,210700
+91,11,Janskerkhof,21:08,210800
+91,12,Neude,21:10,211000
+91,13,CS Centrumzijde,21:18,211800
+91,14,Hasebroekstraat,21:22,212200
+91,15,Majellapark,21:24,212400
+91,16,Thomas à Kempisplantsoen,21:25,212500
+91,17,Station Leidsche Rijn,21:27,212700
+91,18,Centrumboulevard,21:28,212800
+91,19,Korianderstraat,21:29,212900
+91,20,Eerste Westerparklaan,21:31,213100
+91,21,De Meern-Oost,21:33,213300
+91,22,Meernbrug,21:35,213500
+91,23,Boekbinderslaan,21:36,213600
+91,24,De Balije,21:37,213700
+91,25,Europaweg,21:38,213800
+91,26,Veldhuizen,21:39,213900
+91,27,De Tuinlanden,21:41,214100
+91,28,Vleuterweide-Centrum,21:42,214200
+91,29,Eyckenstein,21:43,214300
+91,30,Station Vleuten,21:46,214600
+92,1,P+R Science Park,21:08,210800
+92,2,WKZ / PMC,21:09,210900
+92,3,UMC Utrecht,21:11,211100
+92,4,Heidelberglaan,21:12,211200
+92,5,Padualaan,21:13,211300
+92,6,Rijnsweerd-Zuid,21:15,211500
+92,7,Rijnsweerd-Noord,21:17,211700
+92,8,Oorsprongpark,21:19,211900
+92,9,Wittevrouwen,21:20,212000
+92,10,Stadsschouwburg,21:22,212200
+92,11,Janskerkhof,21:23,212300
+92,12,Neude,21:25,212500
+92,13,CS Centrumzijde,21:33,213300
+92,14,Hasebroekstraat,21:37,213700
+92,15,Majellapark,21:39,213900
+92,16,Thomas à Kempisplantsoen,21:40,214000
+92,17,Station Leidsche Rijn,21:42,214200
+92,18,Centrumboulevard,21:43,214300
+92,19,Korianderstraat,21:44,214400
+92,20,Eerste Westerparklaan,21:46,214600
+92,21,De Meern-Oost,21:48,214800
+92,22,Meernbrug,21:50,215000
+92,23,Boekbinderslaan,21:51,215100
+92,24,De Balije,21:52,215200
+92,25,Europaweg,21:53,215300
+92,26,Veldhuizen,21:54,215400
+92,27,De Tuinlanden,21:56,215600
+92,28,Vleuterweide-Centrum,21:57,215700
+92,29,Eyckenstein,21:58,215800
+92,30,Station Vleuten,22:01,220100
+93,1,P+R Science Park,21:23,212300
+93,2,WKZ / PMC,21:24,212400
+93,3,UMC Utrecht,21:26,212600
+93,4,Heidelberglaan,21:27,212700
+93,5,Padualaan,21:28,212800
+93,6,Rijnsweerd-Zuid,21:30,213000
+93,7,Rijnsweerd-Noord,21:32,213200
+93,8,Oorsprongpark,21:34,213400
+93,9,Wittevrouwen,21:35,213500
+93,10,Stadsschouwburg,21:37,213700
+93,11,Janskerkhof,21:38,213800
+93,12,Neude,21:40,214000
+93,13,CS Centrumzijde,21:48,214800
+93,14,Hasebroekstraat,21:52,215200
+93,15,Majellapark,21:54,215400
+93,16,Thomas à Kempisplantsoen,21:55,215500
+93,17,Station Leidsche Rijn,21:57,215700
+93,18,Centrumboulevard,21:58,215800
+93,19,Korianderstraat,21:59,215900
+93,20,Eerste Westerparklaan,22:01,220100
+93,21,De Meern-Oost,22:03,220300
+93,22,Meernbrug,22:05,220500
+93,23,Boekbinderslaan,22:06,220600
+93,24,De Balije,22:07,220700
+93,25,Europaweg,22:08,220800
+93,26,Veldhuizen,22:09,220900
+93,27,De Tuinlanden,22:11,221100
+93,28,Vleuterweide-Centrum,22:12,221200
+93,29,Eyckenstein,22:13,221300
+93,30,Station Vleuten,22:16,221600
+94,1,P+R Science Park,21:38,213800
+94,2,WKZ / PMC,21:39,213900
+94,3,UMC Utrecht,21:41,214100
+94,4,Heidelberglaan,21:42,214200
+94,5,Padualaan,21:43,214300
+94,6,Rijnsweerd-Zuid,21:45,214500
+94,7,Rijnsweerd-Noord,21:47,214700
+94,8,Oorsprongpark,21:49,214900
+94,9,Wittevrouwen,21:50,215000
+94,10,Stadsschouwburg,21:52,215200
+94,11,Janskerkhof,21:53,215300
+94,12,Neude,21:55,215500
+94,13,CS Centrumzijde,22:03,220300
+94,14,Hasebroekstraat,22:07,220700
+94,15,Majellapark,22:09,220900
+94,16,Thomas à Kempisplantsoen,22:10,221000
+94,17,Station Leidsche Rijn,22:12,221200
+94,18,Centrumboulevard,22:13,221300
+94,19,Korianderstraat,22:14,221400
+94,20,Eerste Westerparklaan,22:16,221600
+94,21,De Meern-Oost,22:18,221800
+94,22,Meernbrug,22:20,222000
+94,23,Boekbinderslaan,22:21,222100
+94,24,De Balije,22:22,222200
+94,25,Europaweg,22:23,222300
+94,26,Veldhuizen,22:24,222400
+94,27,De Tuinlanden,22:26,222600
+94,28,Vleuterweide-Centrum,22:27,222700
+94,29,Eyckenstein,22:28,222800
+94,30,Station Vleuten,22:31,223100
+95,1,P+R Science Park,21:53,215300
+95,2,WKZ / PMC,21:54,215400
+95,3,UMC Utrecht,21:56,215600
+95,4,Heidelberglaan,21:57,215700
+95,5,Padualaan,21:58,215800
+95,6,Rijnsweerd-Zuid,22:00,220000
+95,7,Rijnsweerd-Noord,22:02,220200
+95,8,Oorsprongpark,22:04,220400
+95,9,Wittevrouwen,22:05,220500
+95,10,Stadsschouwburg,22:07,220700
+95,11,Janskerkhof,22:08,220800
+95,12,Neude,22:10,221000
+95,13,CS Centrumzijde,22:18,221800
+95,14,Hasebroekstraat,22:22,222200
+95,15,Majellapark,22:24,222400
+95,16,Thomas à Kempisplantsoen,22:25,222500
+95,17,Station Leidsche Rijn,22:27,222700
+95,18,Centrumboulevard,22:28,222800
+95,19,Korianderstraat,22:29,222900
+95,20,Eerste Westerparklaan,22:31,223100
+95,21,De Meern-Oost,22:33,223300
+95,22,Meernbrug,22:35,223500
+95,23,Boekbinderslaan,22:36,223600
+95,24,De Balije,22:37,223700
+95,25,Europaweg,22:38,223800
+95,26,Veldhuizen,22:39,223900
+95,27,De Tuinlanden,22:41,224100
+95,28,Vleuterweide-Centrum,22:42,224200
+95,29,Eyckenstein,22:43,224300
+95,30,Station Vleuten,22:46,224600
+96,1,P+R Science Park,22:08,220800
+96,2,WKZ / PMC,22:09,220900
+96,3,UMC Utrecht,22:11,221100
+96,4,Heidelberglaan,22:12,221200
+96,5,Padualaan,22:13,221300
+96,6,Rijnsweerd-Zuid,22:15,221500
+96,7,Rijnsweerd-Noord,22:17,221700
+96,8,Oorsprongpark,22:19,221900
+96,9,Wittevrouwen,22:20,222000
+96,10,Stadsschouwburg,22:22,222200
+96,11,Janskerkhof,22:23,222300
+96,12,Neude,22:25,222500
+96,13,CS Centrumzijde,22:33,223300
+96,14,Hasebroekstraat,22:37,223700
+96,15,Majellapark,22:39,223900
+96,16,Thomas à Kempisplantsoen,22:40,224000
+96,17,Station Leidsche Rijn,22:42,224200
+96,18,Centrumboulevard,22:43,224300
+96,19,Korianderstraat,22:44,224400
+96,20,Eerste Westerparklaan,22:46,224600
+96,21,De Meern-Oost,22:48,224800
+96,22,Meernbrug,22:50,225000
+96,23,Boekbinderslaan,22:51,225100
+96,24,De Balije,22:52,225200
+96,25,Europaweg,22:53,225300
+96,26,Veldhuizen,22:54,225400
+96,27,De Tuinlanden,22:56,225600
+96,28,Vleuterweide-Centrum,22:57,225700
+96,29,Eyckenstein,22:58,225800
+96,30,Station Vleuten,23:01,230100
+97,1,P+R Science Park,22:23,222300
+97,2,WKZ / PMC,22:24,222400
+97,3,UMC Utrecht,22:26,222600
+97,4,Heidelberglaan,22:27,222700
+97,5,Padualaan,22:28,222800
+97,6,Rijnsweerd-Zuid,22:30,223000
+97,7,Rijnsweerd-Noord,22:32,223200
+97,8,Oorsprongpark,22:34,223400
+97,9,Wittevrouwen,22:35,223500
+97,10,Stadsschouwburg,22:37,223700
+97,11,Janskerkhof,22:38,223800
+97,12,Neude,22:40,224000
+97,13,CS Centrumzijde,22:48,224800
+97,14,Hasebroekstraat,22:52,225200
+97,15,Majellapark,22:54,225400
+97,16,Thomas à Kempisplantsoen,22:55,225500
+97,17,Station Leidsche Rijn,22:57,225700
+97,18,Centrumboulevard,22:58,225800
+97,19,Korianderstraat,22:59,225900
+97,20,Eerste Westerparklaan,23:01,230100
+97,21,De Meern-Oost,23:03,230300
+97,22,Meernbrug,23:05,230500
+97,23,Boekbinderslaan,23:06,230600
+97,24,De Balije,23:07,230700
+97,25,Europaweg,23:08,230800
+97,26,Veldhuizen,23:09,230900
+97,27,De Tuinlanden,23:11,231100
+97,28,Vleuterweide-Centrum,23:12,231200
+97,29,Eyckenstein,23:13,231300
+97,30,Station Vleuten,23:16,231600
+98,1,P+R Science Park,22:38,223800
+98,2,WKZ / PMC,22:39,223900
+98,3,UMC Utrecht,22:41,224100
+98,4,Heidelberglaan,22:42,224200
+98,5,Padualaan,22:43,224300
+98,6,Rijnsweerd-Zuid,22:45,224500
+98,7,Rijnsweerd-Noord,22:47,224700
+98,8,Oorsprongpark,22:49,224900
+98,9,Wittevrouwen,22:50,225000
+98,10,Stadsschouwburg,22:52,225200
+98,11,Janskerkhof,22:53,225300
+98,12,Neude,22:55,225500
+98,13,CS Centrumzijde,23:03,230300
+98,14,Hasebroekstraat,23:07,230700
+98,15,Majellapark,23:09,230900
+98,16,Thomas à Kempisplantsoen,23:10,231000
+98,17,Station Leidsche Rijn,23:12,231200
+98,18,Centrumboulevard,23:13,231300
+98,19,Korianderstraat,23:14,231400
+98,20,Eerste Westerparklaan,23:16,231600
+98,21,De Meern-Oost,23:18,231800
+98,22,Meernbrug,23:20,232000
+98,23,Boekbinderslaan,23:21,232100
+98,24,De Balije,23:22,232200
+98,25,Europaweg,23:23,232300
+98,26,Veldhuizen,23:24,232400
+98,27,De Tuinlanden,23:26,232600
+98,28,Vleuterweide-Centrum,23:27,232700
+98,29,Eyckenstein,23:28,232800
+98,30,Station Vleuten,23:31,233100
+99,1,P+R Science Park,22:53,225300
+99,2,WKZ / PMC,22:54,225400
+99,3,UMC Utrecht,22:56,225600
+99,4,Heidelberglaan,22:57,225700
+99,5,Padualaan,22:58,225800
+99,6,Rijnsweerd-Zuid,23:00,230000
+99,7,Rijnsweerd-Noord,23:02,230200
+99,8,Oorsprongpark,23:04,230400
+99,9,Wittevrouwen,23:05,230500
+99,10,Stadsschouwburg,23:07,230700
+99,11,Janskerkhof,23:08,230800
+99,12,Neude,23:10,231000
+99,13,CS Centrumzijde,23:18,231800
+99,14,Hasebroekstraat,23:22,232200
+99,15,Majellapark,23:24,232400
+99,16,Thomas à Kempisplantsoen,23:25,232500
+99,17,Station Leidsche Rijn,23:27,232700
+99,18,Centrumboulevard,23:28,232800
+99,19,Korianderstraat,23:29,232900
+99,20,Eerste Westerparklaan,23:31,233100
+99,21,De Meern-Oost,23:33,233300
+99,22,Meernbrug,23:34,233400
+99,23,Boekbinderslaan,23:35,233500
+99,24,De Balije,23:36,233600
+99,25,Europaweg,23:37,233700
+99,26,Veldhuizen,23:38,233800
+99,27,De Tuinlanden,23:40,234000
+99,28,Vleuterweide-Centrum,23:41,234100
+99,29,Eyckenstein,23:42,234200
+99,30,Station Vleuten,23:45,234500
+100,1,P+R Science Park,23:08,230800
+100,2,WKZ / PMC,23:09,230900
+100,3,UMC Utrecht,23:11,231100
+100,4,Heidelberglaan,23:12,231200
+100,5,Padualaan,23:13,231300
+100,6,Rijnsweerd-Zuid,23:15,231500
+100,7,Rijnsweerd-Noord,23:17,231700
+100,8,Oorsprongpark,23:19,231900
+100,9,Wittevrouwen,23:20,232000
+100,10,Stadsschouwburg,23:22,232200
+100,11,Janskerkhof,23:23,232300
+100,12,Neude,23:25,232500
+100,13,CS Centrumzijde,23:33,233300
+100,14,Hasebroekstraat,23:37,233700
+100,15,Majellapark,23:38,233800
+100,16,Thomas à Kempisplantsoen,23:39,233900
+100,17,Station Leidsche Rijn,23:41,234100
+100,18,Centrumboulevard,23:42,234200
+100,19,Korianderstraat,23:43,234300
+100,20,Eerste Westerparklaan,23:45,234500
+100,21,De Meern-Oost,23:47,234700
+100,22,Meernbrug,23:48,234800
+100,23,Boekbinderslaan,23:49,234900
+100,24,De Balije,23:50,235000
+100,25,Europaweg,23:51,235100
+100,26,Veldhuizen,23:52,235200
+100,27,De Tuinlanden,23:54,235400
+100,28,Vleuterweide-Centrum,23:55,235500
+100,29,Eyckenstein,23:56,235600
+100,30,Station Vleuten,23:59,235900
+101,1,P+R Science Park,23:23,232300
+101,2,WKZ / PMC,23:24,232400
+101,3,UMC Utrecht,23:26,232600
+101,4,Heidelberglaan,23:27,232700
+101,5,Padualaan,23:28,232800
+101,6,Rijnsweerd-Zuid,23:30,233000
+101,7,Rijnsweerd-Noord,23:32,233200
+101,8,Oorsprongpark,23:34,233400
+101,9,Wittevrouwen,23:35,233500
+101,10,Stadsschouwburg,23:37,233700
+101,11,Janskerkhof,23:38,233800
+101,12,Neude,23:39,233900
+101,13,CS Centrumzijde,23:47,234700
+101,14,Hasebroekstraat,23:51,235100
+101,15,Majellapark,23:52,235200
+101,16,Thomas à Kempisplantsoen,23:53,235300
+101,17,Station Leidsche Rijn,23:55,235500
+101,18,Centrumboulevard,23:56,235600
+101,19,Korianderstraat,23:57,235700
+101,20,Eerste Westerparklaan,23:59,235900
+101,21,De Meern-Oost,00:01*,240100
+101,22,Meernbrug,00:02*,240200
+101,23,Boekbinderslaan,00:03*,240300
+101,24,De Balije,00:04*,240400
+101,25,Europaweg,00:05*,240500
+101,26,Veldhuizen,00:06*,240600
+101,27,De Tuinlanden,00:08*,240800
+101,28,Vleuterweide-Centrum,00:09*,240900
+101,29,Eyckenstein,00:10*,241000
+101,30,Station Vleuten,00:13*,241300
+102,1,P+R Science Park,23:38,233800
+102,2,WKZ / PMC,23:39,233900
+102,3,UMC Utrecht,23:41,234100
+102,4,Heidelberglaan,23:42,234200
+102,5,Padualaan,23:43,234300
+102,6,Rijnsweerd-Zuid,23:45,234500
+102,7,Rijnsweerd-Noord,23:46,234600
+102,8,Oorsprongpark,23:48,234800
+102,9,Wittevrouwen,23:49,234900
+102,10,Stadsschouwburg,23:51,235100
+102,11,Janskerkhof,23:52,235200
+102,12,Neude,23:53,235300
+102,13,CS Centrumzijde,00:01*,240100
+102,14,Hasebroekstraat,00:05*,240500
+102,15,Majellapark,00:06*,240600
+102,16,Thomas à Kempisplantsoen,00:07*,240700
+102,17,Station Leidsche Rijn,00:09*,240900
+102,18,Centrumboulevard,00:10*,241000
+102,19,Korianderstraat,00:11*,241100
+102,20,Eerste Westerparklaan,00:13*,241300
+102,21,De Meern-Oost,00:15*,241500
+102,22,Meernbrug,00:16*,241600
+102,23,Boekbinderslaan,00:17*,241700
+102,24,De Balije,00:18*,241800
+102,25,Europaweg,00:19*,241900
+102,26,Veldhuizen,00:20*,242000
+102,27,De Tuinlanden,00:22*,242200
+102,28,Vleuterweide-Centrum,00:23*,242300
+102,29,Eyckenstein,00:24*,242400
+102,30,Station Vleuten,00:27*,242700
+103,1,P+R Science Park,23:53,235300
+103,2,WKZ / PMC,23:54,235400
+103,3,UMC Utrecht,23:56,235600
+103,4,Heidelberglaan,23:57,235700
+103,5,Padualaan,23:58,235800
+103,6,Rijnsweerd-Zuid,00:00*,240000
+103,7,Rijnsweerd-Noord,00:01*,240100
+103,8,Oorsprongpark,00:03*,240300
+103,9,Wittevrouwen,00:04*,240400
+103,10,Stadsschouwburg,00:06*,240600
+103,11,Janskerkhof,00:07*,240700
+103,12,Neude,00:08*,240800
+103,13,CS Centrumzijde,00:16*,241600
+103,14,Hasebroekstraat,00:20*,242000
+103,15,Majellapark,00:21*,242100
+103,16,Thomas à Kempisplantsoen,00:22*,242200
+103,17,Station Leidsche Rijn,00:24*,242400
+103,18,Centrumboulevard,00:25*,242500
+103,19,Korianderstraat,00:26*,242600
+103,20,Eerste Westerparklaan,00:28*,242800
+103,21,De Meern-Oost,00:30*,243000
+103,22,Meernbrug,00:31*,243100
+103,23,Boekbinderslaan,00:32*,243200
+103,24,De Balije,00:33*,243300
+103,25,Europaweg,00:34*,243400
+103,26,Veldhuizen,00:35*,243500
+103,27,De Tuinlanden,00:37*,243700
+103,28,Vleuterweide-Centrum,00:38*,243800
+103,29,Eyckenstein,00:39*,243900
+103,30,Station Vleuten,00:42*,244200
+104,1,P+R Science Park,00:08*,240800
+104,2,WKZ / PMC,00:09*,240900
+104,3,UMC Utrecht,00:11*,241100
+104,4,Heidelberglaan,00:12*,241200
+104,5,Padualaan,00:13*,241300
+104,6,Rijnsweerd-Zuid,00:15*,241500
+104,7,Rijnsweerd-Noord,00:16*,241600
+104,8,Oorsprongpark,00:18*,241800
+104,9,Wittevrouwen,00:19*,241900
+104,10,Stadsschouwburg,00:21*,242100
+104,11,Janskerkhof,00:22*,242200
+104,12,Neude,00:23*,242300
+104,13,CS Centrumzijde,00:31*,243100
+104,14,Hasebroekstraat,00:35*,243500
+104,15,Majellapark,00:36*,243600
+104,16,Thomas à Kempisplantsoen,00:37*,243700
+104,17,Station Leidsche Rijn,00:39*,243900
+104,18,Centrumboulevard,00:40*,244000
+104,19,Korianderstraat,00:41*,244100
+104,20,Eerste Westerparklaan,00:43*,244300
+104,21,De Meern-Oost,00:45*,244500
+104,22,Meernbrug,00:46*,244600
+104,23,Boekbinderslaan,00:47*,244700
+104,24,De Balije,00:48*,244800
+104,25,Europaweg,00:49*,244900
+104,26,Veldhuizen,00:50*,245000
+104,27,De Tuinlanden,00:52*,245200
+104,28,Vleuterweide-Centrum,00:53*,245300
+104,29,Eyckenstein,00:54*,245400
+104,30,Station Vleuten,00:57*,245700
+105,1,P+R Science Park,00:21*,242100
+105,2,WKZ / PMC,00:22*,242200
+105,3,UMC Utrecht,00:24*,242400
+105,4,Heidelberglaan,00:25*,242500
+105,5,Padualaan,00:26*,242600
+105,6,Rijnsweerd-Zuid,00:28*,242800
+105,7,Rijnsweerd-Noord,00:29*,242900
+105,8,Oorsprongpark,00:31*,243100
+105,9,Wittevrouwen,00:32*,243200
+105,10,Stadsschouwburg,00:34*,243400
+105,11,Janskerkhof,00:35*,243500
+105,12,Neude,00:36*,243600
+105,13,CS Centrumzijde,00:44*,244400
+105,14,Hasebroekstraat,00:48*,244800
+105,15,Majellapark,00:49*,244900
+105,16,Thomas à Kempisplantsoen,00:50*,245000
+105,17,Station Leidsche Rijn,00:52*,245200
+105,18,Centrumboulevard,00:53*,245300
+105,19,Korianderstraat,00:54*,245400
+105,20,Eerste Westerparklaan,00:56*,245600
+105,21,De Meern-Oost,00:58*,245800
+105,22,Meernbrug,00:59*,245900
+105,23,Boekbinderslaan,01:00*,250000
+105,24,De Balije,01:01*,250100
+105,25,Europaweg,01:02*,250200
+105,26,Veldhuizen,01:03*,250300
+105,27,De Tuinlanden,01:05*,250500
+105,28,Vleuterweide-Centrum,01:06*,250600
+105,29,Eyckenstein,01:07*,250700
+105,30,Station Vleuten,01:10*,251000
+106,1,P+R Science Park,00:34*,243400
+106,2,WKZ / PMC,00:35*,243500
+106,3,UMC Utrecht,00:37*,243700
+106,4,Heidelberglaan,00:38*,243800
+106,5,Padualaan,00:39*,243900
+106,6,Rijnsweerd-Zuid,00:41*,244100
+106,7,Rijnsweerd-Noord,00:42*,244200
+106,8,Oorsprongpark,00:44*,244400
+106,9,Wittevrouwen,00:45*,244500
+106,10,Stadsschouwburg,00:47*,244700
+106,11,Janskerkhof,00:48*,244800
+106,12,Neude,00:49*,244900
+106,13,CS Centrumzijde,01:00*,250000
+106,14,Hasebroekstraat,01:04*,250400
+106,15,Majellapark,01:05*,250500
+106,16,Thomas à Kempisplantsoen,01:06*,250600
+106,17,Station Leidsche Rijn,01:08*,250800
+106,18,Centrumboulevard,01:09*,250900
+106,19,Korianderstraat,01:10*,251000
+106,20,Eerste Westerparklaan,01:12*,251200
+106,21,De Meern-Oost,01:14*,251400
+106,22,Meernbrug,01:15*,251500
+106,23,Boekbinderslaan,01:16*,251600
+106,24,De Balije,01:17*,251700
+106,25,Europaweg,01:18*,251800
+106,26,Veldhuizen,01:19*,251900
+106,27,De Tuinlanden,01:21*,252100
+106,28,Vleuterweide-Centrum,01:22*,252200
+106,29,Eyckenstein,01:23*,252300
+106,30,Station Vleuten,01:26*,252600

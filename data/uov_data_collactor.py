@@ -12,9 +12,9 @@ from playwright.sync_api import sync_playwright
 CONFIG = {
     # Route object used in URL
     "route_obj": {
-        "route_id": 68829,
-        "route_long_name": "Overvecht+-+Utrecht+CS+-+Hoograven",
-        "route_short_name": "1",
+        "route_id": 68783,
+        "route_long_name": "Nieuwegein+-+Utrecht+CS+-+Bilthoven",
+        "route_short_name": "77",
         "agency_id": "UOV",
     },
 
@@ -28,7 +28,7 @@ CONFIG = {
     # Runtime options
     "headless": True,
     "verbose": True,
-    "output_csv": "uov_timetable_1_rev.csv",
+    "output_csv": "uov_timetable_77_rev.csv",
 }
 
 

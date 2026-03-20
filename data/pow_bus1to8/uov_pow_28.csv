@@ -1,0 +1,213 @@
+trip_index,start_stop,end_stop,start_hour,start_min,end_hour,end_min,duration_min
+1,P+R Science Park,CS Centrumzijde,5,53,6,16,23
+2,CS Centrumzijde,Station Vleuten,6,16,6,47,31
+3,P+R Science Park,CS Centrumzijde,6,8,6,31,23
+4,CS Centrumzijde,Station Vleuten,6,31,7,3,32
+5,P+R Science Park,CS Centrumzijde,6,23,6,48,25
+6,CS Centrumzijde,Station Vleuten,6,48,7,20,32
+7,P+R Science Park,CS Centrumzijde,6,38,7,4,26
+8,CS Centrumzijde,Station Vleuten,7,4,7,36,32
+9,P+R Science Park,CS Centrumzijde,6,53,7,20,27
+10,CS Centrumzijde,Station Vleuten,7,20,7,52,32
+11,P+R Science Park,CS Centrumzijde,7,8,7,35,27
+12,CS Centrumzijde,Station Vleuten,7,35,8,7,32
+13,P+R Science Park,CS Centrumzijde,7,18,7,45,27
+14,CS Centrumzijde,Station Vleuten,7,45,8,17,32
+15,P+R Science Park,CS Centrumzijde,7,28,7,55,27
+16,CS Centrumzijde,Station Vleuten,7,55,8,26,31
+17,P+R Science Park,CS Centrumzijde,7,38,8,5,27
+18,CS Centrumzijde,Station Vleuten,8,5,8,36,31
+19,P+R Science Park,CS Centrumzijde,7,48,8,15,27
+20,CS Centrumzijde,Station Vleuten,8,15,8,45,30
+21,P+R Science Park,CS Centrumzijde,7,58,8,25,27
+22,CS Centrumzijde,Station Vleuten,8,25,8,55,30
+23,P+R Science Park,CS Centrumzijde,8,8,8,35,27
+24,CS Centrumzijde,Station Vleuten,8,35,9,5,30
+25,P+R Science Park,CS Centrumzijde,8,18,8,45,27
+26,CS Centrumzijde,Station Vleuten,8,45,9,15,30
+27,P+R Science Park,CS Centrumzijde,8,28,8,55,27
+28,CS Centrumzijde,Station Vleuten,8,55,9,25,30
+29,P+R Science Park,CS Centrumzijde,8,38,9,5,27
+30,CS Centrumzijde,Station Vleuten,9,5,9,35,30
+31,P+R Science Park,CS Centrumzijde,8,48,9,15,27
+32,CS Centrumzijde,Station Vleuten,9,15,9,45,30
+33,P+R Science Park,CS Centrumzijde,8,58,9,25,27
+34,CS Centrumzijde,Station Vleuten,9,25,9,55,30
+35,P+R Science Park,CS Centrumzijde,9,8,9,35,27
+36,CS Centrumzijde,Station Vleuten,9,35,10,5,30
+37,P+R Science Park,CS Centrumzijde,9,18,9,45,27
+38,CS Centrumzijde,Station Vleuten,9,45,10,15,30
+39,P+R Science Park,CS Centrumzijde,9,28,9,55,27
+40,CS Centrumzijde,Station Vleuten,9,55,10,25,30
+41,P+R Science Park,CS Centrumzijde,9,38,10,5,27
+42,CS Centrumzijde,Station Vleuten,10,5,10,35,30
+43,P+R Science Park,CS Centrumzijde,9,48,10,15,27
+44,CS Centrumzijde,Station Vleuten,10,15,10,45,30
+45,P+R Science Park,CS Centrumzijde,9,58,10,25,27
+46,CS Centrumzijde,Station Vleuten,10,25,10,55,30
+47,P+R Science Park,CS Centrumzijde,10,8,10,35,27
+48,CS Centrumzijde,Station Vleuten,10,35,11,5,30
+49,P+R Science Park,CS Centrumzijde,10,18,10,45,27
+50,CS Centrumzijde,Station Vleuten,10,45,11,15,30
+51,P+R Science Park,CS Centrumzijde,10,28,10,55,27
+52,CS Centrumzijde,Station Vleuten,10,55,11,25,30
+53,P+R Science Park,CS Centrumzijde,10,38,11,5,27
+54,CS Centrumzijde,Station Vleuten,11,5,11,35,30
+55,P+R Science Park,CS Centrumzijde,10,48,11,15,27
+56,CS Centrumzijde,Station Vleuten,11,15,11,45,30
+57,P+R Science Park,CS Centrumzijde,10,58,11,25,27
+58,CS Centrumzijde,Station Vleuten,11,25,11,55,30
+59,P+R Science Park,CS Centrumzijde,11,8,11,35,27
+60,CS Centrumzijde,Station Vleuten,11,35,12,5,30
+61,P+R Science Park,CS Centrumzijde,11,18,11,45,27
+62,CS Centrumzijde,Station Vleuten,11,45,12,16,31
+63,P+R Science Park,CS Centrumzijde,11,28,11,55,27
+64,CS Centrumzijde,Station Vleuten,11,55,12,27,32
+65,P+R Science Park,CS Centrumzijde,11,38,12,5,27
+66,CS Centrumzijde,Station Vleuten,12,5,12,37,32
+67,P+R Science Park,CS Centrumzijde,11,48,12,15,27
+68,CS Centrumzijde,Station Vleuten,12,15,12,47,32
+69,P+R Science Park,CS Centrumzijde,11,58,12,25,27
+70,CS Centrumzijde,Station Vleuten,12,25,12,57,32
+71,P+R Science Park,CS Centrumzijde,12,8,12,35,27
+72,CS Centrumzijde,Station Vleuten,12,35,13,7,32
+73,P+R Science Park,CS Centrumzijde,12,18,12,45,27
+74,CS Centrumzijde,Station Vleuten,12,45,13,17,32
+75,P+R Science Park,CS Centrumzijde,12,28,12,55,27
+76,CS Centrumzijde,Station Vleuten,12,55,13,27,32
+77,P+R Science Park,CS Centrumzijde,12,38,13,5,27
+78,CS Centrumzijde,Station Vleuten,13,5,13,37,32
+79,P+R Science Park,CS Centrumzijde,12,48,13,15,27
+80,CS Centrumzijde,Station Vleuten,13,15,13,47,32
+81,P+R Science Park,CS Centrumzijde,12,58,13,25,27
+82,CS Centrumzijde,Station Vleuten,13,25,13,57,32
+83,P+R Science Park,CS Centrumzijde,13,8,13,35,27
+84,CS Centrumzijde,Station Vleuten,13,35,14,7,32
+85,P+R Science Park,CS Centrumzijde,13,18,13,45,27
+86,CS Centrumzijde,Station Vleuten,13,45,14,17,32
+87,P+R Science Park,CS Centrumzijde,13,28,13,55,27
+88,CS Centrumzijde,Station Vleuten,13,55,14,27,32
+89,P+R Science Park,CS Centrumzijde,13,38,14,5,27
+90,CS Centrumzijde,Station Vleuten,14,5,14,37,32
+91,P+R Science Park,CS Centrumzijde,13,48,14,15,27
+92,CS Centrumzijde,Station Vleuten,14,15,14,47,32
+93,P+R Science Park,CS Centrumzijde,13,58,14,25,27
+94,CS Centrumzijde,Station Vleuten,14,25,14,57,32
+95,P+R Science Park,CS Centrumzijde,14,8,14,35,27
+96,CS Centrumzijde,Station Vleuten,14,35,15,7,32
+97,P+R Science Park,CS Centrumzijde,14,18,14,45,27
+98,CS Centrumzijde,Station Vleuten,14,45,15,17,32
+99,P+R Science Park,CS Centrumzijde,14,28,14,55,27
+100,CS Centrumzijde,Station Vleuten,14,55,15,27,32
+101,P+R Science Park,CS Centrumzijde,14,38,15,5,27
+102,CS Centrumzijde,Station Vleuten,15,5,15,37,32
+103,P+R Science Park,CS Centrumzijde,14,48,15,15,27
+104,CS Centrumzijde,Station Vleuten,15,15,15,47,32
+105,P+R Science Park,CS Centrumzijde,14,58,15,25,27
+106,CS Centrumzijde,Station Vleuten,15,25,15,57,32
+107,P+R Science Park,CS Centrumzijde,15,8,15,35,27
+108,CS Centrumzijde,Station Vleuten,15,35,16,7,32
+109,P+R Science Park,CS Centrumzijde,15,16,15,43,27
+110,CS Centrumzijde,Station Vleuten,15,43,16,15,32
+111,P+R Science Park,CS Centrumzijde,15,23,15,50,27
+112,CS Centrumzijde,Station Vleuten,15,50,16,22,32
+113,P+R Science Park,CS Centrumzijde,15,31,15,59,28
+114,CS Centrumzijde,Station Vleuten,15,59,16,31,32
+115,P+R Science Park,CS Centrumzijde,15,38,16,7,29
+116,CS Centrumzijde,Station Vleuten,16,7,16,39,32
+117,P+R Science Park,CS Centrumzijde,15,46,16,15,29
+118,CS Centrumzijde,Station Vleuten,16,15,16,47,32
+119,P+R Science Park,CS Centrumzijde,15,53,16,22,29
+120,CS Centrumzijde,Station Vleuten,16,22,16,54,32
+121,P+R Science Park,CS Centrumzijde,16,1,16,30,29
+122,CS Centrumzijde,Station Vleuten,16,30,17,2,32
+123,P+R Science Park,CS Centrumzijde,16,8,16,37,29
+124,CS Centrumzijde,Station Vleuten,16,37,17,9,32
+125,P+R Science Park,CS Centrumzijde,16,16,16,45,29
+126,CS Centrumzijde,Station Vleuten,16,45,17,17,32
+127,P+R Science Park,CS Centrumzijde,16,23,16,52,29
+128,CS Centrumzijde,Station Vleuten,16,52,17,24,32
+129,P+R Science Park,CS Centrumzijde,16,31,17,0,29
+130,CS Centrumzijde,Station Vleuten,17,0,17,32,32
+131,P+R Science Park,CS Centrumzijde,16,38,17,7,29
+132,CS Centrumzijde,Station Vleuten,17,7,17,39,32
+133,P+R Science Park,CS Centrumzijde,16,46,17,15,29
+134,CS Centrumzijde,Station Vleuten,17,15,17,47,32
+135,P+R Science Park,CS Centrumzijde,16,53,17,22,29
+136,CS Centrumzijde,Station Vleuten,17,22,17,54,32
+137,P+R Science Park,CS Centrumzijde,17,1,17,30,29
+138,CS Centrumzijde,Station Vleuten,17,30,18,2,32
+139,P+R Science Park,CS Centrumzijde,17,8,17,37,29
+140,CS Centrumzijde,Station Vleuten,17,37,18,9,32
+141,P+R Science Park,CS Centrumzijde,17,16,17,45,29
+142,CS Centrumzijde,Station Vleuten,17,45,18,17,32
+143,P+R Science Park,CS Centrumzijde,17,23,17,52,29
+144,CS Centrumzijde,Station Vleuten,17,52,18,24,32
+145,P+R Science Park,CS Centrumzijde,17,31,18,0,29
+146,CS Centrumzijde,Station Vleuten,18,0,18,32,32
+147,P+R Science Park,CS Centrumzijde,17,38,18,7,29
+148,CS Centrumzijde,Station Vleuten,18,7,18,39,32
+149,P+R Science Park,CS Centrumzijde,17,46,18,14,28
+150,CS Centrumzijde,Station Vleuten,18,14,18,45,31
+151,P+R Science Park,CS Centrumzijde,17,53,18,20,27
+152,CS Centrumzijde,Station Vleuten,18,20,18,51,31
+153,P+R Science Park,CS Centrumzijde,18,1,18,28,27
+154,CS Centrumzijde,Station Vleuten,18,28,18,59,31
+155,P+R Science Park,CS Centrumzijde,18,8,18,35,27
+156,CS Centrumzijde,Station Vleuten,18,35,19,5,30
+157,P+R Science Park,CS Centrumzijde,18,18,18,45,27
+158,CS Centrumzijde,Station Vleuten,18,45,19,15,30
+159,P+R Science Park,CS Centrumzijde,18,28,18,55,27
+160,CS Centrumzijde,Station Vleuten,18,55,19,25,30
+161,P+R Science Park,CS Centrumzijde,18,38,19,5,27
+162,CS Centrumzijde,Station Vleuten,19,5,19,35,30
+163,P+R Science Park,CS Centrumzijde,18,48,19,15,27
+164,CS Centrumzijde,Station Vleuten,19,15,19,45,30
+165,P+R Science Park,CS Centrumzijde,18,58,19,24,26
+166,CS Centrumzijde,Station Vleuten,19,24,19,54,30
+167,P+R Science Park,CS Centrumzijde,19,8,19,34,26
+168,CS Centrumzijde,Station Vleuten,19,34,20,4,30
+169,P+R Science Park,CS Centrumzijde,19,23,19,48,25
+170,CS Centrumzijde,Station Vleuten,19,48,20,18,30
+171,P+R Science Park,CS Centrumzijde,19,38,20,3,25
+172,CS Centrumzijde,Station Vleuten,20,3,20,33,30
+173,P+R Science Park,CS Centrumzijde,19,53,20,18,25
+174,CS Centrumzijde,Station Vleuten,20,18,20,48,30
+175,P+R Science Park,CS Centrumzijde,20,8,20,33,25
+176,CS Centrumzijde,Station Vleuten,20,33,21,3,30
+177,P+R Science Park,CS Centrumzijde,20,23,20,48,25
+178,CS Centrumzijde,Station Vleuten,20,48,21,18,30
+179,P+R Science Park,CS Centrumzijde,20,38,21,3,25
+180,CS Centrumzijde,Station Vleuten,21,3,21,32,29
+181,P+R Science Park,CS Centrumzijde,20,53,21,18,25
+182,CS Centrumzijde,Station Vleuten,21,18,21,46,28
+183,P+R Science Park,CS Centrumzijde,21,8,21,33,25
+184,CS Centrumzijde,Station Vleuten,21,33,22,1,28
+185,P+R Science Park,CS Centrumzijde,21,23,21,48,25
+186,CS Centrumzijde,Station Vleuten,21,48,22,16,28
+187,P+R Science Park,CS Centrumzijde,21,38,22,3,25
+188,CS Centrumzijde,Station Vleuten,22,3,22,31,28
+189,P+R Science Park,CS Centrumzijde,21,53,22,18,25
+190,CS Centrumzijde,Station Vleuten,22,18,22,46,28
+191,P+R Science Park,CS Centrumzijde,22,8,22,33,25
+192,CS Centrumzijde,Station Vleuten,22,33,23,1,28
+193,P+R Science Park,CS Centrumzijde,22,23,22,48,25
+194,CS Centrumzijde,Station Vleuten,22,48,23,16,28
+195,P+R Science Park,CS Centrumzijde,22,38,23,3,25
+196,CS Centrumzijde,Station Vleuten,23,3,23,31,28
+197,P+R Science Park,CS Centrumzijde,22,53,23,18,25
+198,CS Centrumzijde,Station Vleuten,23,18,23,45,27
+199,P+R Science Park,CS Centrumzijde,23,8,23,33,25
+200,CS Centrumzijde,Station Vleuten,23,33,23,59,26
+201,P+R Science Park,CS Centrumzijde,23,23,23,47,24
+202,CS Centrumzijde,Station Vleuten,23,47,24,13,26
+203,P+R Science Park,CS Centrumzijde,23,38,24,1,23
+204,CS Centrumzijde,Station Vleuten,24,1,24,27,26
+205,P+R Science Park,CS Centrumzijde,23,53,24,16,23
+206,CS Centrumzijde,Station Vleuten,24,16,24,42,26
+207,P+R Science Park,CS Centrumzijde,24,8,24,31,23
+208,CS Centrumzijde,Station Vleuten,24,31,24,57,26
+209,P+R Science Park,CS Centrumzijde,24,21,24,44,23
+210,CS Centrumzijde,Station Vleuten,24,44,25,10,26
+211,P+R Science Park,CS Centrumzijde,24,34,25,0,26
+212,CS Centrumzijde,Station Vleuten,25,0,25,26,26

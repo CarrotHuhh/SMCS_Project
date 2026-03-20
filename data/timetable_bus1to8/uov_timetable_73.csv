@@ -1,0 +1,3529 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,Busstation,05:40,054000
+1,2,Steynlaan,05:41,054100
+1,3,Schaerweydelaan,05:43,054300
+1,4,Nepveulaan,05:44,054400
+1,5,De Dreef/Panweg,05:45,054500
+1,6,L-Flat,05:46,054600
+1,7,Gunninglaan,05:47,054700
+1,8,Winkelcentrum Vollenhove,05:48,054800
+1,9,Jordanlaan,05:50,055000
+1,10,KNMI,05:52,055200
+1,11,Oorsprongpark,05:56,055600
+1,12,Wittevrouwen,05:57,055700
+1,13,Stadsschouwburg,05:59,055900
+1,14,Janskerkhof,06:00,060000
+1,15,Neude,06:01,060100
+1,16,CS Jaarbeurszijde,06:06,060600
+1,17,CS Jaarbeurszijde,06:09,060900
+1,18,Hasebroekstraat,06:13,061300
+1,19,Majellapark,06:14,061400
+1,20,Thomas à Kempisplantsoen,06:15,061500
+1,21,Station Leidsche Rijn,06:17,061700
+1,22,Jan Wolkerssingel,06:18,061800
+1,23,Soestw./Antonius Zkh,06:20,062000
+1,24,Rijpwetering,06:21,062100
+1,25,Otto Hahnweg,06:24,062400
+1,26,Savannahweg,06:25,062500
+1,27,Zonnebaan,06:27,062700
+1,28,Bloem-Boomstede,06:28,062800
+1,29,Duiven-Fazantenkamp,06:29,062900
+1,30,Pauwen-Reigerskamp,06:30,063000
+1,31,Spechten-Valkenkamp,06:31,063100
+1,32,Spechten-Zwanenkamp,06:32,063200
+1,33,Vogelweg-Zwanenkamp,06:32,063200
+1,34,Zebraspoor,06:34,063400
+1,35,Kamelenspoor,06:34,063400
+1,36,Station Maarssen,06:36,063600
+2,1,Busstation,05:54,055400
+2,2,Steynlaan,05:55,055500
+2,3,Schaerweydelaan,05:57,055700
+2,4,Nepveulaan,05:58,055800
+2,5,De Dreef/Panweg,05:59,055900
+2,6,L-Flat,06:00,060000
+2,7,Gunninglaan,06:01,060100
+2,8,Winkelcentrum Vollenhove,06:02,060200
+2,9,Jordanlaan,06:04,060400
+2,10,KNMI,06:06,060600
+2,11,Oorsprongpark,06:10,061000
+2,12,Wittevrouwen,06:11,061100
+2,13,Stadsschouwburg,06:13,061300
+2,14,Janskerkhof,06:14,061400
+2,15,Neude,06:15,061500
+2,16,CS Jaarbeurszijde,06:20,062000
+2,17,CS Jaarbeurszijde,06:23,062300
+2,18,Hasebroekstraat,06:27,062700
+2,19,Majellapark,06:28,062800
+2,20,Thomas à Kempisplantsoen,06:29,062900
+2,21,Station Leidsche Rijn,06:31,063100
+2,22,Jan Wolkerssingel,06:32,063200
+2,23,Soestw./Antonius Zkh,06:35,063500
+2,24,Rijpwetering,06:36,063600
+2,25,Otto Hahnweg,06:39,063900
+2,26,Savannahweg,06:40,064000
+2,27,Zonnebaan,06:42,064200
+2,28,Bloem-Boomstede,06:43,064300
+2,29,Duiven-Fazantenkamp,06:44,064400
+2,30,Pauwen-Reigerskamp,06:45,064500
+2,31,Spechten-Valkenkamp,06:46,064600
+2,32,Spechten-Zwanenkamp,06:47,064700
+2,33,Vogelweg-Zwanenkamp,06:47,064700
+2,34,Zebraspoor,06:49,064900
+2,35,Kamelenspoor,06:49,064900
+2,36,Station Maarssen,06:51,065100
+3,1,Busstation,06:08,060800
+3,2,Steynlaan,06:09,060900
+3,3,Schaerweydelaan,06:11,061100
+3,4,Nepveulaan,06:12,061200
+3,5,De Dreef/Panweg,06:13,061300
+3,6,L-Flat,06:14,061400
+3,7,Gunninglaan,06:15,061500
+3,8,Winkelcentrum Vollenhove,06:16,061600
+3,9,Jordanlaan,06:18,061800
+3,10,KNMI,06:20,062000
+3,11,Oorsprongpark,06:24,062400
+3,12,Wittevrouwen,06:25,062500
+3,13,Stadsschouwburg,06:27,062700
+3,14,Janskerkhof,06:28,062800
+3,15,Neude,06:29,062900
+3,16,CS Jaarbeurszijde,06:34,063400
+3,17,CS Jaarbeurszijde,06:37,063700
+3,18,Hasebroekstraat,06:41,064100
+3,19,Majellapark,06:43,064300
+3,20,Thomas à Kempisplantsoen,06:44,064400
+3,21,Station Leidsche Rijn,06:46,064600
+3,22,Jan Wolkerssingel,06:47,064700
+3,23,Soestw./Antonius Zkh,06:50,065000
+3,24,Rijpwetering,06:51,065100
+3,25,Otto Hahnweg,06:54,065400
+3,26,Savannahweg,06:55,065500
+3,27,Zonnebaan,06:57,065700
+3,28,Bloem-Boomstede,06:58,065800
+3,29,Duiven-Fazantenkamp,06:59,065900
+3,30,Pauwen-Reigerskamp,07:00,070000
+3,31,Spechten-Valkenkamp,07:01,070100
+3,32,Spechten-Zwanenkamp,07:02,070200
+3,33,Vogelweg-Zwanenkamp,07:02,070200
+3,34,Zebraspoor,07:04,070400
+3,35,Kamelenspoor,07:04,070400
+3,36,Station Maarssen,07:06,070600
+4,1,Busstation,06:21,062100
+4,2,Steynlaan,06:22,062200
+4,3,Schaerweydelaan,06:24,062400
+4,4,Nepveulaan,06:25,062500
+4,5,De Dreef/Panweg,06:26,062600
+4,6,L-Flat,06:27,062700
+4,7,Gunninglaan,06:28,062800
+4,8,Winkelcentrum Vollenhove,06:29,062900
+4,9,Jordanlaan,06:31,063100
+4,10,KNMI,06:33,063300
+4,11,Oorsprongpark,06:37,063700
+4,12,Wittevrouwen,06:38,063800
+4,13,Stadsschouwburg,06:40,064000
+4,14,Janskerkhof,06:41,064100
+4,15,Neude,06:42,064200
+4,16,CS Jaarbeurszijde,06:47,064700
+4,17,CS Jaarbeurszijde,06:50,065000
+4,18,Hasebroekstraat,06:54,065400
+4,19,Majellapark,06:56,065600
+4,20,Thomas à Kempisplantsoen,06:57,065700
+4,21,Station Leidsche Rijn,06:59,065900
+4,22,Jan Wolkerssingel,07:01,070100
+4,23,Soestw./Antonius Zkh,07:04,070400
+4,24,Rijpwetering,07:05,070500
+4,25,Otto Hahnweg,07:08,070800
+4,26,Savannahweg,07:09,070900
+4,27,Zonnebaan,07:11,071100
+4,28,Bloem-Boomstede,07:12,071200
+4,29,Duiven-Fazantenkamp,07:13,071300
+4,30,Pauwen-Reigerskamp,07:14,071400
+4,31,Spechten-Valkenkamp,07:15,071500
+4,32,Spechten-Zwanenkamp,07:16,071600
+4,33,Vogelweg-Zwanenkamp,07:17,071700
+4,34,Zebraspoor,07:19,071900
+4,35,Kamelenspoor,07:19,071900
+4,36,Station Maarssen,07:21,072100
+5,1,Busstation,06:35,063500
+5,2,Steynlaan,06:36,063600
+5,3,Schaerweydelaan,06:38,063800
+5,4,Nepveulaan,06:39,063900
+5,5,De Dreef/Panweg,06:40,064000
+5,6,L-Flat,06:41,064100
+5,7,Gunninglaan,06:42,064200
+5,8,Winkelcentrum Vollenhove,06:43,064300
+5,9,Jordanlaan,06:45,064500
+5,10,KNMI,06:47,064700
+5,11,Oorsprongpark,06:51,065100
+5,12,Wittevrouwen,06:52,065200
+5,13,Stadsschouwburg,06:54,065400
+5,14,Janskerkhof,06:55,065500
+5,15,Neude,06:56,065600
+5,16,CS Jaarbeurszijde,07:02,070200
+5,17,CS Jaarbeurszijde,07:05,070500
+5,18,Hasebroekstraat,07:09,070900
+5,19,Majellapark,07:11,071100
+5,20,Thomas à Kempisplantsoen,07:12,071200
+5,21,Station Leidsche Rijn,07:14,071400
+5,22,Jan Wolkerssingel,07:16,071600
+5,23,Soestw./Antonius Zkh,07:19,071900
+5,24,Rijpwetering,07:20,072000
+5,25,Otto Hahnweg,07:23,072300
+5,26,Savannahweg,07:24,072400
+5,27,Zonnebaan,07:26,072600
+5,28,Bloem-Boomstede,07:27,072700
+5,29,Duiven-Fazantenkamp,07:28,072800
+5,30,Pauwen-Reigerskamp,07:29,072900
+5,31,Spechten-Valkenkamp,07:30,073000
+5,32,Spechten-Zwanenkamp,07:31,073100
+5,33,Vogelweg-Zwanenkamp,07:32,073200
+5,34,Zebraspoor,07:34,073400
+5,35,Kamelenspoor,07:34,073400
+5,36,Station Maarssen,07:36,073600
+6,1,Busstation,06:45,064500
+6,2,Steynlaan,06:46,064600
+6,3,Schaerweydelaan,06:48,064800
+6,4,Nepveulaan,06:49,064900
+6,5,De Dreef/Panweg,06:50,065000
+6,6,L-Flat,06:51,065100
+6,7,Gunninglaan,06:52,065200
+6,8,Winkelcentrum Vollenhove,06:53,065300
+6,9,Jordanlaan,06:55,065500
+6,10,KNMI,06:57,065700
+6,11,Oorsprongpark,07:01,070100
+6,12,Wittevrouwen,07:02,070200
+6,13,Stadsschouwburg,07:04,070400
+6,14,Janskerkhof,07:05,070500
+6,15,Neude,07:06,070600
+6,16,CS Jaarbeurszijde,07:12,071200
+6,17,CS Jaarbeurszijde,07:15,071500
+6,18,Hasebroekstraat,07:19,071900
+6,19,Majellapark,07:21,072100
+6,20,Thomas à Kempisplantsoen,07:22,072200
+6,21,Station Leidsche Rijn,07:24,072400
+6,22,Jan Wolkerssingel,07:26,072600
+6,23,Soestw./Antonius Zkh,07:29,072900
+6,24,Rijpwetering,07:30,073000
+6,25,Otto Hahnweg,07:33,073300
+6,26,Savannahweg,07:34,073400
+6,27,Zonnebaan,07:36,073600
+6,28,Bloem-Boomstede,07:37,073700
+6,29,Duiven-Fazantenkamp,07:38,073800
+6,30,Pauwen-Reigerskamp,07:39,073900
+6,31,Spechten-Valkenkamp,07:40,074000
+6,32,Spechten-Zwanenkamp,07:41,074100
+6,33,Vogelweg-Zwanenkamp,07:42,074200
+6,34,Zebraspoor,07:44,074400
+6,35,Kamelenspoor,07:44,074400
+6,36,Station Maarssen,07:46,074600
+7,1,Busstation,06:54,065400
+7,2,Steynlaan,06:56,065600
+7,3,Schaerweydelaan,06:57,065700
+7,4,Nepveulaan,06:58,065800
+7,5,De Dreef/Panweg,07:00,070000
+7,6,L-Flat,07:01,070100
+7,7,Gunninglaan,07:02,070200
+7,8,Winkelcentrum Vollenhove,07:03,070300
+7,9,Jordanlaan,07:05,070500
+7,10,KNMI,07:07,070700
+7,11,Oorsprongpark,07:11,071100
+7,12,Wittevrouwen,07:12,071200
+7,13,Stadsschouwburg,07:14,071400
+7,14,Janskerkhof,07:15,071500
+7,15,Neude,07:16,071600
+7,16,CS Jaarbeurszijde,07:22,072200
+7,17,CS Jaarbeurszijde,07:25,072500
+7,18,Hasebroekstraat,07:29,072900
+7,19,Majellapark,07:31,073100
+7,20,Thomas à Kempisplantsoen,07:32,073200
+7,21,Station Leidsche Rijn,07:34,073400
+7,22,Jan Wolkerssingel,07:36,073600
+7,23,Soestw./Antonius Zkh,07:39,073900
+7,24,Rijpwetering,07:40,074000
+7,25,Otto Hahnweg,07:43,074300
+7,26,Savannahweg,07:44,074400
+7,27,Zonnebaan,07:46,074600
+7,28,Bloem-Boomstede,07:47,074700
+7,29,Duiven-Fazantenkamp,07:48,074800
+7,30,Pauwen-Reigerskamp,07:49,074900
+7,31,Spechten-Valkenkamp,07:50,075000
+7,32,Spechten-Zwanenkamp,07:51,075100
+7,33,Vogelweg-Zwanenkamp,07:52,075200
+7,34,Zebraspoor,07:54,075400
+7,35,Kamelenspoor,07:54,075400
+7,36,Station Maarssen,07:56,075600
+8,1,Busstation,07:03,070300
+8,2,Steynlaan,07:05,070500
+8,3,Schaerweydelaan,07:06,070600
+8,4,Nepveulaan,07:07,070700
+8,5,De Dreef/Panweg,07:09,070900
+8,6,L-Flat,07:10,071000
+8,7,Gunninglaan,07:11,071100
+8,8,Winkelcentrum Vollenhove,07:12,071200
+8,9,Jordanlaan,07:14,071400
+8,10,KNMI,07:17,071700
+8,11,Oorsprongpark,07:21,072100
+8,12,Wittevrouwen,07:22,072200
+8,13,Stadsschouwburg,07:24,072400
+8,14,Janskerkhof,07:25,072500
+8,15,Neude,07:26,072600
+8,16,CS Jaarbeurszijde,07:32,073200
+8,17,CS Jaarbeurszijde,07:35,073500
+8,18,Hasebroekstraat,07:39,073900
+8,19,Majellapark,07:41,074100
+8,20,Thomas à Kempisplantsoen,07:42,074200
+8,21,Station Leidsche Rijn,07:44,074400
+8,22,Jan Wolkerssingel,07:46,074600
+8,23,Soestw./Antonius Zkh,07:49,074900
+8,24,Rijpwetering,07:50,075000
+8,25,Otto Hahnweg,07:53,075300
+8,26,Savannahweg,07:54,075400
+8,27,Zonnebaan,07:56,075600
+8,28,Bloem-Boomstede,07:57,075700
+8,29,Duiven-Fazantenkamp,07:58,075800
+8,30,Pauwen-Reigerskamp,07:59,075900
+8,31,Spechten-Valkenkamp,08:00,080000
+8,32,Spechten-Zwanenkamp,08:01,080100
+8,33,Vogelweg-Zwanenkamp,08:02,080200
+8,34,Zebraspoor,08:04,080400
+8,35,Kamelenspoor,08:04,080400
+8,36,Station Maarssen,08:06,080600
+9,1,Busstation,07:12,071200
+9,2,Steynlaan,07:14,071400
+9,3,Schaerweydelaan,07:15,071500
+9,4,Nepveulaan,07:16,071600
+9,5,De Dreef/Panweg,07:18,071800
+9,6,L-Flat,07:19,071900
+9,7,Gunninglaan,07:20,072000
+9,8,Winkelcentrum Vollenhove,07:22,072200
+9,9,Jordanlaan,07:24,072400
+9,10,KNMI,07:27,072700
+9,11,Oorsprongpark,07:31,073100
+9,12,Wittevrouwen,07:32,073200
+9,13,Stadsschouwburg,07:34,073400
+9,14,Janskerkhof,07:35,073500
+9,15,Neude,07:37,073700
+9,16,CS Jaarbeurszijde,07:43,074300
+9,17,CS Jaarbeurszijde,07:46,074600
+9,18,Hasebroekstraat,07:50,075000
+9,19,Majellapark,07:52,075200
+9,20,Thomas à Kempisplantsoen,07:53,075300
+9,21,Station Leidsche Rijn,07:55,075500
+9,22,Jan Wolkerssingel,07:57,075700
+9,23,Soestw./Antonius Zkh,08:00,080000
+9,24,Rijpwetering,08:01,080100
+9,25,Otto Hahnweg,08:04,080400
+9,26,Savannahweg,08:05,080500
+9,27,Zonnebaan,08:07,080700
+9,28,Bloem-Boomstede,08:08,080800
+9,29,Duiven-Fazantenkamp,08:09,080900
+9,30,Pauwen-Reigerskamp,08:10,081000
+9,31,Spechten-Valkenkamp,08:11,081100
+9,32,Spechten-Zwanenkamp,08:12,081200
+9,33,Vogelweg-Zwanenkamp,08:12,081200
+9,34,Zebraspoor,08:14,081400
+9,35,Kamelenspoor,08:14,081400
+9,36,Station Maarssen,08:16,081600
+10,1,Busstation,07:21,072100
+10,2,Steynlaan,07:23,072300
+10,3,Schaerweydelaan,07:24,072400
+10,4,Nepveulaan,07:25,072500
+10,5,De Dreef/Panweg,07:27,072700
+10,6,L-Flat,07:28,072800
+10,7,Gunninglaan,07:29,072900
+10,8,Winkelcentrum Vollenhove,07:31,073100
+10,9,Jordanlaan,07:33,073300
+10,10,KNMI,07:36,073600
+10,11,Oorsprongpark,07:41,074100
+10,12,Wittevrouwen,07:42,074200
+10,13,Stadsschouwburg,07:44,074400
+10,14,Janskerkhof,07:45,074500
+10,15,Neude,07:47,074700
+10,16,CS Jaarbeurszijde,07:53,075300
+10,17,CS Jaarbeurszijde,07:56,075600
+10,18,Hasebroekstraat,08:00,080000
+10,19,Majellapark,08:02,080200
+10,20,Thomas à Kempisplantsoen,08:03,080300
+10,21,Station Leidsche Rijn,08:05,080500
+10,22,Jan Wolkerssingel,08:07,080700
+10,23,Soestw./Antonius Zkh,08:10,081000
+10,24,Rijpwetering,08:11,081100
+10,25,Otto Hahnweg,08:14,081400
+10,26,Savannahweg,08:15,081500
+10,27,Zonnebaan,08:17,081700
+10,28,Bloem-Boomstede,08:18,081800
+10,29,Duiven-Fazantenkamp,08:19,081900
+10,30,Pauwen-Reigerskamp,08:20,082000
+10,31,Spechten-Valkenkamp,08:21,082100
+10,32,Spechten-Zwanenkamp,08:22,082200
+10,33,Vogelweg-Zwanenkamp,08:22,082200
+10,34,Zebraspoor,08:24,082400
+10,35,Kamelenspoor,08:24,082400
+10,36,Station Maarssen,08:26,082600
+11,1,Busstation,07:32,073200
+11,2,Steynlaan,07:34,073400
+11,3,Schaerweydelaan,07:35,073500
+11,4,Nepveulaan,07:36,073600
+11,5,De Dreef/Panweg,07:38,073800
+11,6,L-Flat,07:39,073900
+11,7,Gunninglaan,07:40,074000
+11,8,Winkelcentrum Vollenhove,07:42,074200
+11,9,Jordanlaan,07:44,074400
+11,10,KNMI,07:47,074700
+11,11,Oorsprongpark,07:52,075200
+11,12,Wittevrouwen,07:53,075300
+11,13,Stadsschouwburg,07:55,075500
+11,14,Janskerkhof,07:56,075600
+11,15,Neude,07:58,075800
+11,16,CS Jaarbeurszijde,08:04,080400
+11,17,CS Jaarbeurszijde,08:07,080700
+11,18,Hasebroekstraat,08:11,081100
+11,19,Majellapark,08:13,081300
+11,20,Thomas à Kempisplantsoen,08:14,081400
+11,21,Station Leidsche Rijn,08:16,081600
+11,22,Jan Wolkerssingel,08:17,081700
+11,23,Soestw./Antonius Zkh,08:20,082000
+11,24,Rijpwetering,08:21,082100
+11,25,Otto Hahnweg,08:24,082400
+11,26,Savannahweg,08:25,082500
+11,27,Zonnebaan,08:27,082700
+11,28,Bloem-Boomstede,08:28,082800
+11,29,Duiven-Fazantenkamp,08:29,082900
+11,30,Pauwen-Reigerskamp,08:30,083000
+11,31,Spechten-Valkenkamp,08:31,083100
+11,32,Spechten-Zwanenkamp,08:32,083200
+11,33,Vogelweg-Zwanenkamp,08:32,083200
+11,34,Zebraspoor,08:34,083400
+11,35,Kamelenspoor,08:34,083400
+11,36,Station Maarssen,08:36,083600
+12,1,Busstation,07:42,074200
+12,2,Steynlaan,07:44,074400
+12,3,Schaerweydelaan,07:45,074500
+12,4,Nepveulaan,07:46,074600
+12,5,De Dreef/Panweg,07:48,074800
+12,6,L-Flat,07:49,074900
+12,7,Gunninglaan,07:50,075000
+12,8,Winkelcentrum Vollenhove,07:52,075200
+12,9,Jordanlaan,07:54,075400
+12,10,KNMI,07:57,075700
+12,11,Oorsprongpark,08:02,080200
+12,12,Wittevrouwen,08:03,080300
+12,13,Stadsschouwburg,08:05,080500
+12,14,Janskerkhof,08:06,080600
+12,15,Neude,08:08,080800
+12,16,CS Jaarbeurszijde,08:14,081400
+12,17,CS Jaarbeurszijde,08:17,081700
+12,18,Hasebroekstraat,08:21,082100
+12,19,Majellapark,08:23,082300
+12,20,Thomas à Kempisplantsoen,08:24,082400
+12,21,Station Leidsche Rijn,08:26,082600
+12,22,Jan Wolkerssingel,08:27,082700
+12,23,Soestw./Antonius Zkh,08:30,083000
+12,24,Rijpwetering,08:31,083100
+12,25,Otto Hahnweg,08:34,083400
+12,26,Savannahweg,08:35,083500
+12,27,Zonnebaan,08:37,083700
+12,28,Bloem-Boomstede,08:38,083800
+12,29,Duiven-Fazantenkamp,08:39,083900
+12,30,Pauwen-Reigerskamp,08:40,084000
+12,31,Spechten-Valkenkamp,08:41,084100
+12,32,Spechten-Zwanenkamp,08:42,084200
+12,33,Vogelweg-Zwanenkamp,08:42,084200
+12,34,Zebraspoor,08:44,084400
+12,35,Kamelenspoor,08:44,084400
+12,36,Station Maarssen,08:46,084600
+13,1,Busstation,07:52,075200
+13,2,Steynlaan,07:54,075400
+13,3,Schaerweydelaan,07:55,075500
+13,4,Nepveulaan,07:56,075600
+13,5,De Dreef/Panweg,07:58,075800
+13,6,L-Flat,07:59,075900
+13,7,Gunninglaan,08:00,080000
+13,8,Winkelcentrum Vollenhove,08:02,080200
+13,9,Jordanlaan,08:04,080400
+13,10,KNMI,08:07,080700
+13,11,Oorsprongpark,08:12,081200
+13,12,Wittevrouwen,08:13,081300
+13,13,Stadsschouwburg,08:15,081500
+13,14,Janskerkhof,08:16,081600
+13,15,Neude,08:18,081800
+13,16,CS Jaarbeurszijde,08:24,082400
+13,17,CS Jaarbeurszijde,08:27,082700
+13,18,Hasebroekstraat,08:31,083100
+13,19,Majellapark,08:33,083300
+13,20,Thomas à Kempisplantsoen,08:34,083400
+13,21,Station Leidsche Rijn,08:36,083600
+13,22,Jan Wolkerssingel,08:37,083700
+13,23,Soestw./Antonius Zkh,08:40,084000
+13,24,Rijpwetering,08:41,084100
+13,25,Otto Hahnweg,08:44,084400
+13,26,Savannahweg,08:45,084500
+13,27,Zonnebaan,08:47,084700
+13,28,Bloem-Boomstede,08:48,084800
+13,29,Duiven-Fazantenkamp,08:49,084900
+13,30,Pauwen-Reigerskamp,08:50,085000
+13,31,Spechten-Valkenkamp,08:51,085100
+13,32,Spechten-Zwanenkamp,08:52,085200
+13,33,Vogelweg-Zwanenkamp,08:52,085200
+13,34,Zebraspoor,08:54,085400
+13,35,Kamelenspoor,08:54,085400
+13,36,Station Maarssen,08:56,085600
+14,1,Busstation,08:02,080200
+14,2,Steynlaan,08:04,080400
+14,3,Schaerweydelaan,08:05,080500
+14,4,Nepveulaan,08:06,080600
+14,5,De Dreef/Panweg,08:08,080800
+14,6,L-Flat,08:09,080900
+14,7,Gunninglaan,08:10,081000
+14,8,Winkelcentrum Vollenhove,08:12,081200
+14,9,Jordanlaan,08:14,081400
+14,10,KNMI,08:17,081700
+14,11,Oorsprongpark,08:22,082200
+14,12,Wittevrouwen,08:23,082300
+14,13,Stadsschouwburg,08:25,082500
+14,14,Janskerkhof,08:26,082600
+14,15,Neude,08:28,082800
+14,16,CS Jaarbeurszijde,08:34,083400
+14,17,CS Jaarbeurszijde,08:37,083700
+14,18,Hasebroekstraat,08:41,084100
+14,19,Majellapark,08:43,084300
+14,20,Thomas à Kempisplantsoen,08:44,084400
+14,21,Station Leidsche Rijn,08:46,084600
+14,22,Jan Wolkerssingel,08:47,084700
+14,23,Soestw./Antonius Zkh,08:50,085000
+14,24,Rijpwetering,08:51,085100
+14,25,Otto Hahnweg,08:54,085400
+14,26,Savannahweg,08:55,085500
+14,27,Zonnebaan,08:57,085700
+14,28,Bloem-Boomstede,08:58,085800
+14,29,Duiven-Fazantenkamp,08:59,085900
+14,30,Pauwen-Reigerskamp,09:00,090000
+14,31,Spechten-Valkenkamp,09:01,090100
+14,32,Spechten-Zwanenkamp,09:02,090200
+14,33,Vogelweg-Zwanenkamp,09:02,090200
+14,34,Zebraspoor,09:04,090400
+14,35,Kamelenspoor,09:04,090400
+14,36,Station Maarssen,09:06,090600
+15,1,Busstation,08:12,081200
+15,2,Steynlaan,08:14,081400
+15,3,Schaerweydelaan,08:15,081500
+15,4,Nepveulaan,08:16,081600
+15,5,De Dreef/Panweg,08:18,081800
+15,6,L-Flat,08:19,081900
+15,7,Gunninglaan,08:20,082000
+15,8,Winkelcentrum Vollenhove,08:22,082200
+15,9,Jordanlaan,08:24,082400
+15,10,KNMI,08:27,082700
+15,11,Oorsprongpark,08:32,083200
+15,12,Wittevrouwen,08:33,083300
+15,13,Stadsschouwburg,08:35,083500
+15,14,Janskerkhof,08:36,083600
+15,15,Neude,08:38,083800
+15,16,CS Jaarbeurszijde,08:44,084400
+15,17,CS Jaarbeurszijde,08:47,084700
+15,18,Hasebroekstraat,08:51,085100
+15,19,Majellapark,08:53,085300
+15,20,Thomas à Kempisplantsoen,08:54,085400
+15,21,Station Leidsche Rijn,08:56,085600
+15,22,Jan Wolkerssingel,08:57,085700
+15,23,Soestw./Antonius Zkh,09:00,090000
+15,24,Rijpwetering,09:01,090100
+15,25,Otto Hahnweg,09:04,090400
+15,26,Savannahweg,09:05,090500
+15,27,Zonnebaan,09:07,090700
+15,28,Bloem-Boomstede,09:08,090800
+15,29,Duiven-Fazantenkamp,09:09,090900
+15,30,Pauwen-Reigerskamp,09:10,091000
+15,31,Spechten-Valkenkamp,09:11,091100
+15,32,Spechten-Zwanenkamp,09:12,091200
+15,33,Vogelweg-Zwanenkamp,09:12,091200
+15,34,Zebraspoor,09:14,091400
+15,35,Kamelenspoor,09:14,091400
+15,36,Station Maarssen,09:16,091600
+16,1,Busstation,08:23,082300
+16,2,Steynlaan,08:25,082500
+16,3,Schaerweydelaan,08:26,082600
+16,4,Nepveulaan,08:27,082700
+16,5,De Dreef/Panweg,08:29,082900
+16,6,L-Flat,08:30,083000
+16,7,Gunninglaan,08:31,083100
+16,8,Winkelcentrum Vollenhove,08:33,083300
+16,9,Jordanlaan,08:35,083500
+16,10,KNMI,08:38,083800
+16,11,Oorsprongpark,08:43,084300
+16,12,Wittevrouwen,08:44,084400
+16,13,Stadsschouwburg,08:46,084600
+16,14,Janskerkhof,08:47,084700
+16,15,Neude,08:48,084800
+16,16,CS Jaarbeurszijde,08:54,085400
+16,17,CS Jaarbeurszijde,08:57,085700
+16,18,Hasebroekstraat,09:01,090100
+16,19,Majellapark,09:03,090300
+16,20,Thomas à Kempisplantsoen,09:04,090400
+16,21,Station Leidsche Rijn,09:06,090600
+16,22,Jan Wolkerssingel,09:07,090700
+16,23,Soestw./Antonius Zkh,09:10,091000
+16,24,Rijpwetering,09:11,091100
+16,25,Otto Hahnweg,09:14,091400
+16,26,Savannahweg,09:15,091500
+16,27,Zonnebaan,09:17,091700
+16,28,Bloem-Boomstede,09:18,091800
+16,29,Duiven-Fazantenkamp,09:19,091900
+16,30,Pauwen-Reigerskamp,09:20,092000
+16,31,Spechten-Valkenkamp,09:21,092100
+16,32,Spechten-Zwanenkamp,09:22,092200
+16,33,Vogelweg-Zwanenkamp,09:22,092200
+16,34,Zebraspoor,09:24,092400
+16,35,Kamelenspoor,09:24,092400
+16,36,Station Maarssen,09:26,092600
+17,1,Busstation,08:34,083400
+17,2,Steynlaan,08:36,083600
+17,3,Schaerweydelaan,08:37,083700
+17,4,Nepveulaan,08:38,083800
+17,5,De Dreef/Panweg,08:40,084000
+17,6,L-Flat,08:41,084100
+17,7,Gunninglaan,08:42,084200
+17,8,Winkelcentrum Vollenhove,08:44,084400
+17,9,Jordanlaan,08:46,084600
+17,10,KNMI,08:49,084900
+17,11,Oorsprongpark,08:53,085300
+17,12,Wittevrouwen,08:54,085400
+17,13,Stadsschouwburg,08:56,085600
+17,14,Janskerkhof,08:57,085700
+17,15,Neude,08:58,085800
+17,16,CS Jaarbeurszijde,09:04,090400
+17,17,CS Jaarbeurszijde,09:07,090700
+17,18,Hasebroekstraat,09:11,091100
+17,19,Majellapark,09:13,091300
+17,20,Thomas à Kempisplantsoen,09:14,091400
+17,21,Station Leidsche Rijn,09:16,091600
+17,22,Jan Wolkerssingel,09:17,091700
+17,23,Soestw./Antonius Zkh,09:20,092000
+17,24,Rijpwetering,09:21,092100
+17,25,Otto Hahnweg,09:24,092400
+17,26,Savannahweg,09:25,092500
+17,27,Zonnebaan,09:27,092700
+17,28,Bloem-Boomstede,09:28,092800
+17,29,Duiven-Fazantenkamp,09:29,092900
+17,30,Pauwen-Reigerskamp,09:30,093000
+17,31,Spechten-Valkenkamp,09:31,093100
+17,32,Spechten-Zwanenkamp,09:32,093200
+17,33,Vogelweg-Zwanenkamp,09:32,093200
+17,34,Zebraspoor,09:34,093400
+17,35,Kamelenspoor,09:34,093400
+17,36,Station Maarssen,09:36,093600
+18,1,Busstation,08:44,084400
+18,2,Steynlaan,08:46,084600
+18,3,Schaerweydelaan,08:47,084700
+18,4,Nepveulaan,08:48,084800
+18,5,De Dreef/Panweg,08:50,085000
+18,6,L-Flat,08:51,085100
+18,7,Gunninglaan,08:52,085200
+18,8,Winkelcentrum Vollenhove,08:54,085400
+18,9,Jordanlaan,08:56,085600
+18,10,KNMI,08:59,085900
+18,11,Oorsprongpark,09:03,090300
+18,12,Wittevrouwen,09:04,090400
+18,13,Stadsschouwburg,09:06,090600
+18,14,Janskerkhof,09:07,090700
+18,15,Neude,09:08,090800
+18,16,CS Jaarbeurszijde,09:14,091400
+18,17,CS Jaarbeurszijde,09:17,091700
+18,18,Hasebroekstraat,09:21,092100
+18,19,Majellapark,09:23,092300
+18,20,Thomas à Kempisplantsoen,09:24,092400
+18,21,Station Leidsche Rijn,09:26,092600
+18,22,Jan Wolkerssingel,09:27,092700
+18,23,Soestw./Antonius Zkh,09:30,093000
+18,24,Rijpwetering,09:31,093100
+18,25,Otto Hahnweg,09:34,093400
+18,26,Savannahweg,09:35,093500
+18,27,Zonnebaan,09:37,093700
+18,28,Bloem-Boomstede,09:38,093800
+18,29,Duiven-Fazantenkamp,09:39,093900
+18,30,Pauwen-Reigerskamp,09:40,094000
+18,31,Spechten-Valkenkamp,09:41,094100
+18,32,Spechten-Zwanenkamp,09:42,094200
+18,33,Vogelweg-Zwanenkamp,09:42,094200
+18,34,Zebraspoor,09:44,094400
+18,35,Kamelenspoor,09:44,094400
+18,36,Station Maarssen,09:46,094600
+19,1,Busstation,08:54,085400
+19,2,Steynlaan,08:56,085600
+19,3,Schaerweydelaan,08:57,085700
+19,4,Nepveulaan,08:58,085800
+19,5,De Dreef/Panweg,09:00,090000
+19,6,L-Flat,09:01,090100
+19,7,Gunninglaan,09:02,090200
+19,8,Winkelcentrum Vollenhove,09:04,090400
+19,9,Jordanlaan,09:06,090600
+19,10,KNMI,09:09,090900
+19,11,Oorsprongpark,09:13,091300
+19,12,Wittevrouwen,09:14,091400
+19,13,Stadsschouwburg,09:16,091600
+19,14,Janskerkhof,09:17,091700
+19,15,Neude,09:18,091800
+19,16,CS Jaarbeurszijde,09:24,092400
+19,17,CS Jaarbeurszijde,09:27,092700
+19,18,Hasebroekstraat,09:31,093100
+19,19,Majellapark,09:33,093300
+19,20,Thomas à Kempisplantsoen,09:34,093400
+19,21,Station Leidsche Rijn,09:36,093600
+19,22,Jan Wolkerssingel,09:37,093700
+19,23,Soestw./Antonius Zkh,09:40,094000
+19,24,Rijpwetering,09:41,094100
+19,25,Otto Hahnweg,09:44,094400
+19,26,Savannahweg,09:45,094500
+19,27,Zonnebaan,09:47,094700
+19,28,Bloem-Boomstede,09:48,094800
+19,29,Duiven-Fazantenkamp,09:49,094900
+19,30,Pauwen-Reigerskamp,09:50,095000
+19,31,Spechten-Valkenkamp,09:51,095100
+19,32,Spechten-Zwanenkamp,09:52,095200
+19,33,Vogelweg-Zwanenkamp,09:52,095200
+19,34,Zebraspoor,09:54,095400
+19,35,Kamelenspoor,09:54,095400
+19,36,Station Maarssen,09:56,095600
+20,1,Busstation,09:04,090400
+20,2,Steynlaan,09:06,090600
+20,3,Schaerweydelaan,09:07,090700
+20,4,Nepveulaan,09:08,090800
+20,5,De Dreef/Panweg,09:10,091000
+20,6,L-Flat,09:11,091100
+20,7,Gunninglaan,09:12,091200
+20,8,Winkelcentrum Vollenhove,09:14,091400
+20,9,Jordanlaan,09:16,091600
+20,10,KNMI,09:19,091900
+20,11,Oorsprongpark,09:23,092300
+20,12,Wittevrouwen,09:24,092400
+20,13,Stadsschouwburg,09:26,092600
+20,14,Janskerkhof,09:27,092700
+20,15,Neude,09:28,092800
+20,16,CS Jaarbeurszijde,09:34,093400
+20,17,CS Jaarbeurszijde,09:37,093700
+20,18,Hasebroekstraat,09:41,094100
+20,19,Majellapark,09:43,094300
+20,20,Thomas à Kempisplantsoen,09:44,094400
+20,21,Station Leidsche Rijn,09:46,094600
+20,22,Jan Wolkerssingel,09:47,094700
+20,23,Soestw./Antonius Zkh,09:50,095000
+20,24,Rijpwetering,09:51,095100
+20,25,Otto Hahnweg,09:54,095400
+20,26,Savannahweg,09:55,095500
+20,27,Zonnebaan,09:57,095700
+20,28,Bloem-Boomstede,09:58,095800
+20,29,Duiven-Fazantenkamp,09:59,095900
+20,30,Pauwen-Reigerskamp,10:00,100000
+20,31,Spechten-Valkenkamp,10:01,100100
+20,32,Spechten-Zwanenkamp,10:02,100200
+20,33,Vogelweg-Zwanenkamp,10:02,100200
+20,34,Zebraspoor,10:04,100400
+20,35,Kamelenspoor,10:04,100400
+20,36,Station Maarssen,10:06,100600
+21,1,Busstation,09:14,091400
+21,2,Steynlaan,09:16,091600
+21,3,Schaerweydelaan,09:17,091700
+21,4,Nepveulaan,09:18,091800
+21,5,De Dreef/Panweg,09:20,092000
+21,6,L-Flat,09:21,092100
+21,7,Gunninglaan,09:22,092200
+21,8,Winkelcentrum Vollenhove,09:24,092400
+21,9,Jordanlaan,09:26,092600
+21,10,KNMI,09:29,092900
+21,11,Oorsprongpark,09:33,093300
+21,12,Wittevrouwen,09:34,093400
+21,13,Stadsschouwburg,09:36,093600
+21,14,Janskerkhof,09:37,093700
+21,15,Neude,09:38,093800
+21,16,CS Jaarbeurszijde,09:44,094400
+21,17,CS Jaarbeurszijde,09:47,094700
+21,18,Hasebroekstraat,09:51,095100
+21,19,Majellapark,09:53,095300
+21,20,Thomas à Kempisplantsoen,09:54,095400
+21,21,Station Leidsche Rijn,09:56,095600
+21,22,Jan Wolkerssingel,09:57,095700
+21,23,Soestw./Antonius Zkh,10:00,100000
+21,24,Rijpwetering,10:01,100100
+21,25,Otto Hahnweg,10:04,100400
+21,26,Savannahweg,10:05,100500
+21,27,Zonnebaan,10:07,100700
+21,28,Bloem-Boomstede,10:08,100800
+21,29,Duiven-Fazantenkamp,10:09,100900
+21,30,Pauwen-Reigerskamp,10:10,101000
+21,31,Spechten-Valkenkamp,10:11,101100
+21,32,Spechten-Zwanenkamp,10:12,101200
+21,33,Vogelweg-Zwanenkamp,10:12,101200
+21,34,Zebraspoor,10:14,101400
+21,35,Kamelenspoor,10:14,101400
+21,36,Station Maarssen,10:16,101600
+22,1,Busstation,09:24,092400
+22,2,Steynlaan,09:26,092600
+22,3,Schaerweydelaan,09:27,092700
+22,4,Nepveulaan,09:28,092800
+22,5,De Dreef/Panweg,09:30,093000
+22,6,L-Flat,09:31,093100
+22,7,Gunninglaan,09:32,093200
+22,8,Winkelcentrum Vollenhove,09:34,093400
+22,9,Jordanlaan,09:36,093600
+22,10,KNMI,09:39,093900
+22,11,Oorsprongpark,09:43,094300
+22,12,Wittevrouwen,09:44,094400
+22,13,Stadsschouwburg,09:46,094600
+22,14,Janskerkhof,09:47,094700
+22,15,Neude,09:48,094800
+22,16,CS Jaarbeurszijde,09:54,095400
+22,17,CS Jaarbeurszijde,09:57,095700
+22,18,Hasebroekstraat,10:01,100100
+22,19,Majellapark,10:03,100300
+22,20,Thomas à Kempisplantsoen,10:04,100400
+22,21,Station Leidsche Rijn,10:06,100600
+22,22,Jan Wolkerssingel,10:07,100700
+22,23,Soestw./Antonius Zkh,10:10,101000
+22,24,Rijpwetering,10:11,101100
+22,25,Otto Hahnweg,10:14,101400
+22,26,Savannahweg,10:15,101500
+22,27,Zonnebaan,10:17,101700
+22,28,Bloem-Boomstede,10:18,101800
+22,29,Duiven-Fazantenkamp,10:19,101900
+22,30,Pauwen-Reigerskamp,10:20,102000
+22,31,Spechten-Valkenkamp,10:21,102100
+22,32,Spechten-Zwanenkamp,10:22,102200
+22,33,Vogelweg-Zwanenkamp,10:22,102200
+22,34,Zebraspoor,10:24,102400
+22,35,Kamelenspoor,10:24,102400
+22,36,Station Maarssen,10:26,102600
+23,1,Busstation,09:34,093400
+23,2,Steynlaan,09:36,093600
+23,3,Schaerweydelaan,09:37,093700
+23,4,Nepveulaan,09:38,093800
+23,5,De Dreef/Panweg,09:40,094000
+23,6,L-Flat,09:41,094100
+23,7,Gunninglaan,09:42,094200
+23,8,Winkelcentrum Vollenhove,09:44,094400
+23,9,Jordanlaan,09:46,094600
+23,10,KNMI,09:49,094900
+23,11,Oorsprongpark,09:53,095300
+23,12,Wittevrouwen,09:54,095400
+23,13,Stadsschouwburg,09:56,095600
+23,14,Janskerkhof,09:57,095700
+23,15,Neude,09:58,095800
+23,16,CS Jaarbeurszijde,10:04,100400
+23,17,CS Jaarbeurszijde,10:07,100700
+23,18,Hasebroekstraat,10:11,101100
+23,19,Majellapark,10:13,101300
+23,20,Thomas à Kempisplantsoen,10:14,101400
+23,21,Station Leidsche Rijn,10:16,101600
+23,22,Jan Wolkerssingel,10:17,101700
+23,23,Soestw./Antonius Zkh,10:20,102000
+23,24,Rijpwetering,10:21,102100
+23,25,Otto Hahnweg,10:24,102400
+23,26,Savannahweg,10:25,102500
+23,27,Zonnebaan,10:27,102700
+23,28,Bloem-Boomstede,10:28,102800
+23,29,Duiven-Fazantenkamp,10:29,102900
+23,30,Pauwen-Reigerskamp,10:30,103000
+23,31,Spechten-Valkenkamp,10:31,103100
+23,32,Spechten-Zwanenkamp,10:32,103200
+23,33,Vogelweg-Zwanenkamp,10:32,103200
+23,34,Zebraspoor,10:34,103400
+23,35,Kamelenspoor,10:34,103400
+23,36,Station Maarssen,10:36,103600
+24,1,Busstation,09:44,094400
+24,2,Steynlaan,09:46,094600
+24,3,Schaerweydelaan,09:47,094700
+24,4,Nepveulaan,09:48,094800
+24,5,De Dreef/Panweg,09:50,095000
+24,6,L-Flat,09:51,095100
+24,7,Gunninglaan,09:52,095200
+24,8,Winkelcentrum Vollenhove,09:54,095400
+24,9,Jordanlaan,09:56,095600
+24,10,KNMI,09:59,095900
+24,11,Oorsprongpark,10:03,100300
+24,12,Wittevrouwen,10:04,100400
+24,13,Stadsschouwburg,10:06,100600
+24,14,Janskerkhof,10:07,100700
+24,15,Neude,10:08,100800
+24,16,CS Jaarbeurszijde,10:14,101400
+24,17,CS Jaarbeurszijde,10:17,101700
+24,18,Hasebroekstraat,10:21,102100
+24,19,Majellapark,10:23,102300
+24,20,Thomas à Kempisplantsoen,10:24,102400
+24,21,Station Leidsche Rijn,10:26,102600
+24,22,Jan Wolkerssingel,10:27,102700
+24,23,Soestw./Antonius Zkh,10:30,103000
+24,24,Rijpwetering,10:31,103100
+24,25,Otto Hahnweg,10:34,103400
+24,26,Savannahweg,10:35,103500
+24,27,Zonnebaan,10:37,103700
+24,28,Bloem-Boomstede,10:38,103800
+24,29,Duiven-Fazantenkamp,10:39,103900
+24,30,Pauwen-Reigerskamp,10:40,104000
+24,31,Spechten-Valkenkamp,10:41,104100
+24,32,Spechten-Zwanenkamp,10:42,104200
+24,33,Vogelweg-Zwanenkamp,10:42,104200
+24,34,Zebraspoor,10:44,104400
+24,35,Kamelenspoor,10:44,104400
+24,36,Station Maarssen,10:46,104600
+25,1,Busstation,09:54,095400
+25,2,Steynlaan,09:56,095600
+25,3,Schaerweydelaan,09:57,095700
+25,4,Nepveulaan,09:58,095800
+25,5,De Dreef/Panweg,10:00,100000
+25,6,L-Flat,10:01,100100
+25,7,Gunninglaan,10:02,100200
+25,8,Winkelcentrum Vollenhove,10:04,100400
+25,9,Jordanlaan,10:06,100600
+25,10,KNMI,10:09,100900
+25,11,Oorsprongpark,10:13,101300
+25,12,Wittevrouwen,10:14,101400
+25,13,Stadsschouwburg,10:16,101600
+25,14,Janskerkhof,10:17,101700
+25,15,Neude,10:18,101800
+25,16,CS Jaarbeurszijde,10:24,102400
+25,17,CS Jaarbeurszijde,10:27,102700
+25,18,Hasebroekstraat,10:31,103100
+25,19,Majellapark,10:33,103300
+25,20,Thomas à Kempisplantsoen,10:34,103400
+25,21,Station Leidsche Rijn,10:36,103600
+25,22,Jan Wolkerssingel,10:37,103700
+25,23,Soestw./Antonius Zkh,10:40,104000
+25,24,Rijpwetering,10:41,104100
+25,25,Otto Hahnweg,10:44,104400
+25,26,Savannahweg,10:45,104500
+25,27,Zonnebaan,10:47,104700
+25,28,Bloem-Boomstede,10:48,104800
+25,29,Duiven-Fazantenkamp,10:49,104900
+25,30,Pauwen-Reigerskamp,10:50,105000
+25,31,Spechten-Valkenkamp,10:51,105100
+25,32,Spechten-Zwanenkamp,10:52,105200
+25,33,Vogelweg-Zwanenkamp,10:52,105200
+25,34,Zebraspoor,10:54,105400
+25,35,Kamelenspoor,10:54,105400
+25,36,Station Maarssen,10:56,105600
+26,1,Busstation,10:04,100400
+26,2,Steynlaan,10:06,100600
+26,3,Schaerweydelaan,10:07,100700
+26,4,Nepveulaan,10:08,100800
+26,5,De Dreef/Panweg,10:10,101000
+26,6,L-Flat,10:11,101100
+26,7,Gunninglaan,10:12,101200
+26,8,Winkelcentrum Vollenhove,10:14,101400
+26,9,Jordanlaan,10:16,101600
+26,10,KNMI,10:19,101900
+26,11,Oorsprongpark,10:23,102300
+26,12,Wittevrouwen,10:24,102400
+26,13,Stadsschouwburg,10:26,102600
+26,14,Janskerkhof,10:27,102700
+26,15,Neude,10:28,102800
+26,16,CS Jaarbeurszijde,10:34,103400
+26,17,CS Jaarbeurszijde,10:37,103700
+26,18,Hasebroekstraat,10:41,104100
+26,19,Majellapark,10:43,104300
+26,20,Thomas à Kempisplantsoen,10:44,104400
+26,21,Station Leidsche Rijn,10:46,104600
+26,22,Jan Wolkerssingel,10:47,104700
+26,23,Soestw./Antonius Zkh,10:50,105000
+26,24,Rijpwetering,10:51,105100
+26,25,Otto Hahnweg,10:54,105400
+26,26,Savannahweg,10:55,105500
+26,27,Zonnebaan,10:57,105700
+26,28,Bloem-Boomstede,10:58,105800
+26,29,Duiven-Fazantenkamp,10:59,105900
+26,30,Pauwen-Reigerskamp,11:00,110000
+26,31,Spechten-Valkenkamp,11:01,110100
+26,32,Spechten-Zwanenkamp,11:02,110200
+26,33,Vogelweg-Zwanenkamp,11:02,110200
+26,34,Zebraspoor,11:04,110400
+26,35,Kamelenspoor,11:04,110400
+26,36,Station Maarssen,11:06,110600
+27,1,Busstation,10:14,101400
+27,2,Steynlaan,10:16,101600
+27,3,Schaerweydelaan,10:17,101700
+27,4,Nepveulaan,10:18,101800
+27,5,De Dreef/Panweg,10:20,102000
+27,6,L-Flat,10:21,102100
+27,7,Gunninglaan,10:22,102200
+27,8,Winkelcentrum Vollenhove,10:24,102400
+27,9,Jordanlaan,10:26,102600
+27,10,KNMI,10:29,102900
+27,11,Oorsprongpark,10:33,103300
+27,12,Wittevrouwen,10:34,103400
+27,13,Stadsschouwburg,10:36,103600
+27,14,Janskerkhof,10:37,103700
+27,15,Neude,10:38,103800
+27,16,CS Jaarbeurszijde,10:44,104400
+27,17,CS Jaarbeurszijde,10:47,104700
+27,18,Hasebroekstraat,10:51,105100
+27,19,Majellapark,10:53,105300
+27,20,Thomas à Kempisplantsoen,10:54,105400
+27,21,Station Leidsche Rijn,10:56,105600
+27,22,Jan Wolkerssingel,10:57,105700
+27,23,Soestw./Antonius Zkh,11:00,110000
+27,24,Rijpwetering,11:01,110100
+27,25,Otto Hahnweg,11:04,110400
+27,26,Savannahweg,11:05,110500
+27,27,Zonnebaan,11:07,110700
+27,28,Bloem-Boomstede,11:08,110800
+27,29,Duiven-Fazantenkamp,11:09,110900
+27,30,Pauwen-Reigerskamp,11:10,111000
+27,31,Spechten-Valkenkamp,11:11,111100
+27,32,Spechten-Zwanenkamp,11:12,111200
+27,33,Vogelweg-Zwanenkamp,11:12,111200
+27,34,Zebraspoor,11:14,111400
+27,35,Kamelenspoor,11:14,111400
+27,36,Station Maarssen,11:16,111600
+28,1,Busstation,10:24,102400
+28,2,Steynlaan,10:26,102600
+28,3,Schaerweydelaan,10:27,102700
+28,4,Nepveulaan,10:28,102800
+28,5,De Dreef/Panweg,10:30,103000
+28,6,L-Flat,10:31,103100
+28,7,Gunninglaan,10:32,103200
+28,8,Winkelcentrum Vollenhove,10:34,103400
+28,9,Jordanlaan,10:36,103600
+28,10,KNMI,10:39,103900
+28,11,Oorsprongpark,10:43,104300
+28,12,Wittevrouwen,10:44,104400
+28,13,Stadsschouwburg,10:46,104600
+28,14,Janskerkhof,10:47,104700
+28,15,Neude,10:48,104800
+28,16,CS Jaarbeurszijde,10:54,105400
+28,17,CS Jaarbeurszijde,10:57,105700
+28,18,Hasebroekstraat,11:01,110100
+28,19,Majellapark,11:03,110300
+28,20,Thomas à Kempisplantsoen,11:04,110400
+28,21,Station Leidsche Rijn,11:06,110600
+28,22,Jan Wolkerssingel,11:07,110700
+28,23,Soestw./Antonius Zkh,11:10,111000
+28,24,Rijpwetering,11:11,111100
+28,25,Otto Hahnweg,11:14,111400
+28,26,Savannahweg,11:15,111500
+28,27,Zonnebaan,11:17,111700
+28,28,Bloem-Boomstede,11:18,111800
+28,29,Duiven-Fazantenkamp,11:19,111900
+28,30,Pauwen-Reigerskamp,11:20,112000
+28,31,Spechten-Valkenkamp,11:21,112100
+28,32,Spechten-Zwanenkamp,11:22,112200
+28,33,Vogelweg-Zwanenkamp,11:22,112200
+28,34,Zebraspoor,11:24,112400
+28,35,Kamelenspoor,11:24,112400
+28,36,Station Maarssen,11:26,112600
+29,1,Busstation,10:34,103400
+29,2,Steynlaan,10:36,103600
+29,3,Schaerweydelaan,10:37,103700
+29,4,Nepveulaan,10:38,103800
+29,5,De Dreef/Panweg,10:40,104000
+29,6,L-Flat,10:41,104100
+29,7,Gunninglaan,10:42,104200
+29,8,Winkelcentrum Vollenhove,10:44,104400
+29,9,Jordanlaan,10:46,104600
+29,10,KNMI,10:49,104900
+29,11,Oorsprongpark,10:53,105300
+29,12,Wittevrouwen,10:54,105400
+29,13,Stadsschouwburg,10:56,105600
+29,14,Janskerkhof,10:57,105700
+29,15,Neude,10:58,105800
+29,16,CS Jaarbeurszijde,11:04,110400
+29,17,CS Jaarbeurszijde,11:07,110700
+29,18,Hasebroekstraat,11:11,111100
+29,19,Majellapark,11:13,111300
+29,20,Thomas à Kempisplantsoen,11:14,111400
+29,21,Station Leidsche Rijn,11:16,111600
+29,22,Jan Wolkerssingel,11:17,111700
+29,23,Soestw./Antonius Zkh,11:20,112000
+29,24,Rijpwetering,11:21,112100
+29,25,Otto Hahnweg,11:24,112400
+29,26,Savannahweg,11:25,112500
+29,27,Zonnebaan,11:27,112700
+29,28,Bloem-Boomstede,11:28,112800
+29,29,Duiven-Fazantenkamp,11:29,112900
+29,30,Pauwen-Reigerskamp,11:30,113000
+29,31,Spechten-Valkenkamp,11:31,113100
+29,32,Spechten-Zwanenkamp,11:32,113200
+29,33,Vogelweg-Zwanenkamp,11:32,113200
+29,34,Zebraspoor,11:34,113400
+29,35,Kamelenspoor,11:34,113400
+29,36,Station Maarssen,11:36,113600
+30,1,Busstation,10:44,104400
+30,2,Steynlaan,10:46,104600
+30,3,Schaerweydelaan,10:47,104700
+30,4,Nepveulaan,10:48,104800
+30,5,De Dreef/Panweg,10:50,105000
+30,6,L-Flat,10:51,105100
+30,7,Gunninglaan,10:52,105200
+30,8,Winkelcentrum Vollenhove,10:54,105400
+30,9,Jordanlaan,10:56,105600
+30,10,KNMI,10:59,105900
+30,11,Oorsprongpark,11:03,110300
+30,12,Wittevrouwen,11:04,110400
+30,13,Stadsschouwburg,11:06,110600
+30,14,Janskerkhof,11:07,110700
+30,15,Neude,11:08,110800
+30,16,CS Jaarbeurszijde,11:14,111400
+30,17,CS Jaarbeurszijde,11:17,111700
+30,18,Hasebroekstraat,11:21,112100
+30,19,Majellapark,11:23,112300
+30,20,Thomas à Kempisplantsoen,11:24,112400
+30,21,Station Leidsche Rijn,11:26,112600
+30,22,Jan Wolkerssingel,11:27,112700
+30,23,Soestw./Antonius Zkh,11:30,113000
+30,24,Rijpwetering,11:31,113100
+30,25,Otto Hahnweg,11:34,113400
+30,26,Savannahweg,11:35,113500
+30,27,Zonnebaan,11:37,113700
+30,28,Bloem-Boomstede,11:38,113800
+30,29,Duiven-Fazantenkamp,11:39,113900
+30,30,Pauwen-Reigerskamp,11:40,114000
+30,31,Spechten-Valkenkamp,11:41,114100
+30,32,Spechten-Zwanenkamp,11:42,114200
+30,33,Vogelweg-Zwanenkamp,11:42,114200
+30,34,Zebraspoor,11:44,114400
+30,35,Kamelenspoor,11:44,114400
+30,36,Station Maarssen,11:46,114600
+31,1,Busstation,10:54,105400
+31,2,Steynlaan,10:56,105600
+31,3,Schaerweydelaan,10:57,105700
+31,4,Nepveulaan,10:58,105800
+31,5,De Dreef/Panweg,11:00,110000
+31,6,L-Flat,11:01,110100
+31,7,Gunninglaan,11:02,110200
+31,8,Winkelcentrum Vollenhove,11:04,110400
+31,9,Jordanlaan,11:06,110600
+31,10,KNMI,11:09,110900
+31,11,Oorsprongpark,11:13,111300
+31,12,Wittevrouwen,11:14,111400
+31,13,Stadsschouwburg,11:16,111600
+31,14,Janskerkhof,11:17,111700
+31,15,Neude,11:18,111800
+31,16,CS Jaarbeurszijde,11:24,112400
+31,17,CS Jaarbeurszijde,11:27,112700
+31,18,Hasebroekstraat,11:31,113100
+31,19,Majellapark,11:33,113300
+31,20,Thomas à Kempisplantsoen,11:34,113400
+31,21,Station Leidsche Rijn,11:36,113600
+31,22,Jan Wolkerssingel,11:37,113700
+31,23,Soestw./Antonius Zkh,11:40,114000
+31,24,Rijpwetering,11:41,114100
+31,25,Otto Hahnweg,11:44,114400
+31,26,Savannahweg,11:45,114500
+31,27,Zonnebaan,11:47,114700
+31,28,Bloem-Boomstede,11:48,114800
+31,29,Duiven-Fazantenkamp,11:49,114900
+31,30,Pauwen-Reigerskamp,11:50,115000
+31,31,Spechten-Valkenkamp,11:51,115100
+31,32,Spechten-Zwanenkamp,11:52,115200
+31,33,Vogelweg-Zwanenkamp,11:52,115200
+31,34,Zebraspoor,11:54,115400
+31,35,Kamelenspoor,11:54,115400
+31,36,Station Maarssen,11:56,115600
+32,1,Busstation,11:04,110400
+32,2,Steynlaan,11:06,110600
+32,3,Schaerweydelaan,11:07,110700
+32,4,Nepveulaan,11:08,110800
+32,5,De Dreef/Panweg,11:10,111000
+32,6,L-Flat,11:11,111100
+32,7,Gunninglaan,11:12,111200
+32,8,Winkelcentrum Vollenhove,11:14,111400
+32,9,Jordanlaan,11:16,111600
+32,10,KNMI,11:19,111900
+32,11,Oorsprongpark,11:23,112300
+32,12,Wittevrouwen,11:24,112400
+32,13,Stadsschouwburg,11:26,112600
+32,14,Janskerkhof,11:27,112700
+32,15,Neude,11:28,112800
+32,16,CS Jaarbeurszijde,11:34,113400
+32,17,CS Jaarbeurszijde,11:37,113700
+32,18,Hasebroekstraat,11:41,114100
+32,19,Majellapark,11:43,114300
+32,20,Thomas à Kempisplantsoen,11:44,114400
+32,21,Station Leidsche Rijn,11:46,114600
+32,22,Jan Wolkerssingel,11:47,114700
+32,23,Soestw./Antonius Zkh,11:50,115000
+32,24,Rijpwetering,11:51,115100
+32,25,Otto Hahnweg,11:54,115400
+32,26,Savannahweg,11:55,115500
+32,27,Zonnebaan,11:57,115700
+32,28,Bloem-Boomstede,11:58,115800
+32,29,Duiven-Fazantenkamp,11:59,115900
+32,30,Pauwen-Reigerskamp,12:00,120000
+32,31,Spechten-Valkenkamp,12:01,120100
+32,32,Spechten-Zwanenkamp,12:02,120200
+32,33,Vogelweg-Zwanenkamp,12:02,120200
+32,34,Zebraspoor,12:04,120400
+32,35,Kamelenspoor,12:04,120400
+32,36,Station Maarssen,12:06,120600
+33,1,Busstation,11:13,111300
+33,2,Steynlaan,11:15,111500
+33,3,Schaerweydelaan,11:16,111600
+33,4,Nepveulaan,11:17,111700
+33,5,De Dreef/Panweg,11:19,111900
+33,6,L-Flat,11:20,112000
+33,7,Gunninglaan,11:21,112100
+33,8,Winkelcentrum Vollenhove,11:23,112300
+33,9,Jordanlaan,11:25,112500
+33,10,KNMI,11:28,112800
+33,11,Oorsprongpark,11:32,113200
+33,12,Wittevrouwen,11:33,113300
+33,13,Stadsschouwburg,11:35,113500
+33,14,Janskerkhof,11:36,113600
+33,15,Neude,11:37,113700
+33,16,CS Jaarbeurszijde,11:43,114300
+33,17,CS Jaarbeurszijde,11:46,114600
+33,18,Hasebroekstraat,11:50,115000
+33,19,Majellapark,11:52,115200
+33,20,Thomas à Kempisplantsoen,11:53,115300
+33,21,Station Leidsche Rijn,11:55,115500
+33,22,Jan Wolkerssingel,11:56,115600
+33,23,Soestw./Antonius Zkh,11:59,115900
+33,24,Rijpwetering,12:00,120000
+33,25,Otto Hahnweg,12:03,120300
+33,26,Savannahweg,12:04,120400
+33,27,Zonnebaan,12:06,120600
+33,28,Bloem-Boomstede,12:07,120700
+33,29,Duiven-Fazantenkamp,12:08,120800
+33,30,Pauwen-Reigerskamp,12:09,120900
+33,31,Spechten-Valkenkamp,12:10,121000
+33,32,Spechten-Zwanenkamp,12:11,121100
+33,33,Vogelweg-Zwanenkamp,12:12,121200
+33,34,Zebraspoor,12:14,121400
+33,35,Kamelenspoor,12:14,121400
+33,36,Station Maarssen,12:16,121600
+34,1,Busstation,11:22,112200
+34,2,Steynlaan,11:24,112400
+34,3,Schaerweydelaan,11:25,112500
+34,4,Nepveulaan,11:26,112600
+34,5,De Dreef/Panweg,11:28,112800
+34,6,L-Flat,11:29,112900
+34,7,Gunninglaan,11:30,113000
+34,8,Winkelcentrum Vollenhove,11:32,113200
+34,9,Jordanlaan,11:34,113400
+34,10,KNMI,11:37,113700
+34,11,Oorsprongpark,11:41,114100
+34,12,Wittevrouwen,11:42,114200
+34,13,Stadsschouwburg,11:44,114400
+34,14,Janskerkhof,11:45,114500
+34,15,Neude,11:46,114600
+34,16,CS Jaarbeurszijde,11:52,115200
+34,17,CS Jaarbeurszijde,11:55,115500
+34,18,Hasebroekstraat,11:59,115900
+34,19,Majellapark,12:01,120100
+34,20,Thomas à Kempisplantsoen,12:02,120200
+34,21,Station Leidsche Rijn,12:04,120400
+34,22,Jan Wolkerssingel,12:06,120600
+34,23,Soestw./Antonius Zkh,12:09,120900
+34,24,Rijpwetering,12:10,121000
+34,25,Otto Hahnweg,12:13,121300
+34,26,Savannahweg,12:14,121400
+34,27,Zonnebaan,12:16,121600
+34,28,Bloem-Boomstede,12:17,121700
+34,29,Duiven-Fazantenkamp,12:18,121800
+34,30,Pauwen-Reigerskamp,12:19,121900
+34,31,Spechten-Valkenkamp,12:20,122000
+34,32,Spechten-Zwanenkamp,12:21,122100
+34,33,Vogelweg-Zwanenkamp,12:22,122200
+34,34,Zebraspoor,12:24,122400
+34,35,Kamelenspoor,12:24,122400
+34,36,Station Maarssen,12:26,122600
+35,1,Busstation,11:32,113200
+35,2,Steynlaan,11:34,113400
+35,3,Schaerweydelaan,11:35,113500
+35,4,Nepveulaan,11:36,113600
+35,5,De Dreef/Panweg,11:38,113800
+35,6,L-Flat,11:39,113900
+35,7,Gunninglaan,11:40,114000
+35,8,Winkelcentrum Vollenhove,11:42,114200
+35,9,Jordanlaan,11:44,114400
+35,10,KNMI,11:47,114700
+35,11,Oorsprongpark,11:51,115100
+35,12,Wittevrouwen,11:52,115200
+35,13,Stadsschouwburg,11:54,115400
+35,14,Janskerkhof,11:55,115500
+35,15,Neude,11:56,115600
+35,16,CS Jaarbeurszijde,12:02,120200
+35,17,CS Jaarbeurszijde,12:05,120500
+35,18,Hasebroekstraat,12:09,120900
+35,19,Majellapark,12:11,121100
+35,20,Thomas à Kempisplantsoen,12:12,121200
+35,21,Station Leidsche Rijn,12:14,121400
+35,22,Jan Wolkerssingel,12:16,121600
+35,23,Soestw./Antonius Zkh,12:19,121900
+35,24,Rijpwetering,12:20,122000
+35,25,Otto Hahnweg,12:23,122300
+35,26,Savannahweg,12:24,122400
+35,27,Zonnebaan,12:26,122600
+35,28,Bloem-Boomstede,12:27,122700
+35,29,Duiven-Fazantenkamp,12:28,122800
+35,30,Pauwen-Reigerskamp,12:29,122900
+35,31,Spechten-Valkenkamp,12:30,123000
+35,32,Spechten-Zwanenkamp,12:31,123100
+35,33,Vogelweg-Zwanenkamp,12:32,123200
+35,34,Zebraspoor,12:34,123400
+35,35,Kamelenspoor,12:34,123400
+35,36,Station Maarssen,12:36,123600
+36,1,Busstation,11:42,114200
+36,2,Steynlaan,11:44,114400
+36,3,Schaerweydelaan,11:45,114500
+36,4,Nepveulaan,11:46,114600
+36,5,De Dreef/Panweg,11:48,114800
+36,6,L-Flat,11:49,114900
+36,7,Gunninglaan,11:50,115000
+36,8,Winkelcentrum Vollenhove,11:52,115200
+36,9,Jordanlaan,11:54,115400
+36,10,KNMI,11:57,115700
+36,11,Oorsprongpark,12:01,120100
+36,12,Wittevrouwen,12:02,120200
+36,13,Stadsschouwburg,12:04,120400
+36,14,Janskerkhof,12:05,120500
+36,15,Neude,12:06,120600
+36,16,CS Jaarbeurszijde,12:12,121200
+36,17,CS Jaarbeurszijde,12:15,121500
+36,18,Hasebroekstraat,12:19,121900
+36,19,Majellapark,12:21,122100
+36,20,Thomas à Kempisplantsoen,12:22,122200
+36,21,Station Leidsche Rijn,12:24,122400
+36,22,Jan Wolkerssingel,12:26,122600
+36,23,Soestw./Antonius Zkh,12:29,122900
+36,24,Rijpwetering,12:30,123000
+36,25,Otto Hahnweg,12:33,123300
+36,26,Savannahweg,12:34,123400
+36,27,Zonnebaan,12:36,123600
+36,28,Bloem-Boomstede,12:37,123700
+36,29,Duiven-Fazantenkamp,12:38,123800
+36,30,Pauwen-Reigerskamp,12:39,123900
+36,31,Spechten-Valkenkamp,12:40,124000
+36,32,Spechten-Zwanenkamp,12:41,124100
+36,33,Vogelweg-Zwanenkamp,12:42,124200
+36,34,Zebraspoor,12:44,124400
+36,35,Kamelenspoor,12:44,124400
+36,36,Station Maarssen,12:46,124600
+37,1,Busstation,11:52,115200
+37,2,Steynlaan,11:54,115400
+37,3,Schaerweydelaan,11:55,115500
+37,4,Nepveulaan,11:56,115600
+37,5,De Dreef/Panweg,11:58,115800
+37,6,L-Flat,11:59,115900
+37,7,Gunninglaan,12:00,120000
+37,8,Winkelcentrum Vollenhove,12:02,120200
+37,9,Jordanlaan,12:04,120400
+37,10,KNMI,12:07,120700
+37,11,Oorsprongpark,12:11,121100
+37,12,Wittevrouwen,12:12,121200
+37,13,Stadsschouwburg,12:14,121400
+37,14,Janskerkhof,12:15,121500
+37,15,Neude,12:16,121600
+37,16,CS Jaarbeurszijde,12:22,122200
+37,17,CS Jaarbeurszijde,12:25,122500
+37,18,Hasebroekstraat,12:29,122900
+37,19,Majellapark,12:31,123100
+37,20,Thomas à Kempisplantsoen,12:32,123200
+37,21,Station Leidsche Rijn,12:34,123400
+37,22,Jan Wolkerssingel,12:36,123600
+37,23,Soestw./Antonius Zkh,12:39,123900
+37,24,Rijpwetering,12:40,124000
+37,25,Otto Hahnweg,12:43,124300
+37,26,Savannahweg,12:44,124400
+37,27,Zonnebaan,12:46,124600
+37,28,Bloem-Boomstede,12:47,124700
+37,29,Duiven-Fazantenkamp,12:48,124800
+37,30,Pauwen-Reigerskamp,12:49,124900
+37,31,Spechten-Valkenkamp,12:50,125000
+37,32,Spechten-Zwanenkamp,12:51,125100
+37,33,Vogelweg-Zwanenkamp,12:52,125200
+37,34,Zebraspoor,12:54,125400
+37,35,Kamelenspoor,12:54,125400
+37,36,Station Maarssen,12:56,125600
+38,1,Busstation,12:02,120200
+38,2,Steynlaan,12:04,120400
+38,3,Schaerweydelaan,12:05,120500
+38,4,Nepveulaan,12:06,120600
+38,5,De Dreef/Panweg,12:08,120800
+38,6,L-Flat,12:09,120900
+38,7,Gunninglaan,12:10,121000
+38,8,Winkelcentrum Vollenhove,12:12,121200
+38,9,Jordanlaan,12:14,121400
+38,10,KNMI,12:17,121700
+38,11,Oorsprongpark,12:21,122100
+38,12,Wittevrouwen,12:22,122200
+38,13,Stadsschouwburg,12:24,122400
+38,14,Janskerkhof,12:25,122500
+38,15,Neude,12:26,122600
+38,16,CS Jaarbeurszijde,12:32,123200
+38,17,CS Jaarbeurszijde,12:35,123500
+38,18,Hasebroekstraat,12:39,123900
+38,19,Majellapark,12:41,124100
+38,20,Thomas à Kempisplantsoen,12:42,124200
+38,21,Station Leidsche Rijn,12:44,124400
+38,22,Jan Wolkerssingel,12:46,124600
+38,23,Soestw./Antonius Zkh,12:49,124900
+38,24,Rijpwetering,12:50,125000
+38,25,Otto Hahnweg,12:53,125300
+38,26,Savannahweg,12:54,125400
+38,27,Zonnebaan,12:56,125600
+38,28,Bloem-Boomstede,12:57,125700
+38,29,Duiven-Fazantenkamp,12:58,125800
+38,30,Pauwen-Reigerskamp,12:59,125900
+38,31,Spechten-Valkenkamp,13:00,130000
+38,32,Spechten-Zwanenkamp,13:01,130100
+38,33,Vogelweg-Zwanenkamp,13:02,130200
+38,34,Zebraspoor,13:04,130400
+38,35,Kamelenspoor,13:04,130400
+38,36,Station Maarssen,13:06,130600
+39,1,Busstation,12:12,121200
+39,2,Steynlaan,12:14,121400
+39,3,Schaerweydelaan,12:15,121500
+39,4,Nepveulaan,12:16,121600
+39,5,De Dreef/Panweg,12:18,121800
+39,6,L-Flat,12:19,121900
+39,7,Gunninglaan,12:20,122000
+39,8,Winkelcentrum Vollenhove,12:22,122200
+39,9,Jordanlaan,12:24,122400
+39,10,KNMI,12:27,122700
+39,11,Oorsprongpark,12:31,123100
+39,12,Wittevrouwen,12:32,123200
+39,13,Stadsschouwburg,12:34,123400
+39,14,Janskerkhof,12:35,123500
+39,15,Neude,12:36,123600
+39,16,CS Jaarbeurszijde,12:42,124200
+39,17,CS Jaarbeurszijde,12:45,124500
+39,18,Hasebroekstraat,12:49,124900
+39,19,Majellapark,12:51,125100
+39,20,Thomas à Kempisplantsoen,12:52,125200
+39,21,Station Leidsche Rijn,12:54,125400
+39,22,Jan Wolkerssingel,12:56,125600
+39,23,Soestw./Antonius Zkh,12:59,125900
+39,24,Rijpwetering,13:00,130000
+39,25,Otto Hahnweg,13:03,130300
+39,26,Savannahweg,13:04,130400
+39,27,Zonnebaan,13:06,130600
+39,28,Bloem-Boomstede,13:07,130700
+39,29,Duiven-Fazantenkamp,13:08,130800
+39,30,Pauwen-Reigerskamp,13:09,130900
+39,31,Spechten-Valkenkamp,13:10,131000
+39,32,Spechten-Zwanenkamp,13:11,131100
+39,33,Vogelweg-Zwanenkamp,13:12,131200
+39,34,Zebraspoor,13:14,131400
+39,35,Kamelenspoor,13:14,131400
+39,36,Station Maarssen,13:16,131600
+40,1,Busstation,12:22,122200
+40,2,Steynlaan,12:24,122400
+40,3,Schaerweydelaan,12:25,122500
+40,4,Nepveulaan,12:26,122600
+40,5,De Dreef/Panweg,12:28,122800
+40,6,L-Flat,12:29,122900
+40,7,Gunninglaan,12:30,123000
+40,8,Winkelcentrum Vollenhove,12:32,123200
+40,9,Jordanlaan,12:34,123400
+40,10,KNMI,12:37,123700
+40,11,Oorsprongpark,12:41,124100
+40,12,Wittevrouwen,12:42,124200
+40,13,Stadsschouwburg,12:44,124400
+40,14,Janskerkhof,12:45,124500
+40,15,Neude,12:46,124600
+40,16,CS Jaarbeurszijde,12:52,125200
+40,17,CS Jaarbeurszijde,12:55,125500
+40,18,Hasebroekstraat,12:59,125900
+40,19,Majellapark,13:01,130100
+40,20,Thomas à Kempisplantsoen,13:02,130200
+40,21,Station Leidsche Rijn,13:04,130400
+40,22,Jan Wolkerssingel,13:06,130600
+40,23,Soestw./Antonius Zkh,13:09,130900
+40,24,Rijpwetering,13:10,131000
+40,25,Otto Hahnweg,13:13,131300
+40,26,Savannahweg,13:14,131400
+40,27,Zonnebaan,13:16,131600
+40,28,Bloem-Boomstede,13:17,131700
+40,29,Duiven-Fazantenkamp,13:18,131800
+40,30,Pauwen-Reigerskamp,13:19,131900
+40,31,Spechten-Valkenkamp,13:20,132000
+40,32,Spechten-Zwanenkamp,13:21,132100
+40,33,Vogelweg-Zwanenkamp,13:22,132200
+40,34,Zebraspoor,13:24,132400
+40,35,Kamelenspoor,13:24,132400
+40,36,Station Maarssen,13:26,132600
+41,1,Busstation,12:32,123200
+41,2,Steynlaan,12:34,123400
+41,3,Schaerweydelaan,12:35,123500
+41,4,Nepveulaan,12:36,123600
+41,5,De Dreef/Panweg,12:38,123800
+41,6,L-Flat,12:39,123900
+41,7,Gunninglaan,12:40,124000
+41,8,Winkelcentrum Vollenhove,12:42,124200
+41,9,Jordanlaan,12:44,124400
+41,10,KNMI,12:47,124700
+41,11,Oorsprongpark,12:51,125100
+41,12,Wittevrouwen,12:52,125200
+41,13,Stadsschouwburg,12:54,125400
+41,14,Janskerkhof,12:55,125500
+41,15,Neude,12:56,125600
+41,16,CS Jaarbeurszijde,13:02,130200
+41,17,CS Jaarbeurszijde,13:05,130500
+41,18,Hasebroekstraat,13:09,130900
+41,19,Majellapark,13:11,131100
+41,20,Thomas à Kempisplantsoen,13:12,131200
+41,21,Station Leidsche Rijn,13:14,131400
+41,22,Jan Wolkerssingel,13:16,131600
+41,23,Soestw./Antonius Zkh,13:19,131900
+41,24,Rijpwetering,13:20,132000
+41,25,Otto Hahnweg,13:23,132300
+41,26,Savannahweg,13:24,132400
+41,27,Zonnebaan,13:26,132600
+41,28,Bloem-Boomstede,13:27,132700
+41,29,Duiven-Fazantenkamp,13:28,132800
+41,30,Pauwen-Reigerskamp,13:29,132900
+41,31,Spechten-Valkenkamp,13:30,133000
+41,32,Spechten-Zwanenkamp,13:31,133100
+41,33,Vogelweg-Zwanenkamp,13:32,133200
+41,34,Zebraspoor,13:34,133400
+41,35,Kamelenspoor,13:34,133400
+41,36,Station Maarssen,13:36,133600
+42,1,Busstation,12:42,124200
+42,2,Steynlaan,12:44,124400
+42,3,Schaerweydelaan,12:45,124500
+42,4,Nepveulaan,12:46,124600
+42,5,De Dreef/Panweg,12:48,124800
+42,6,L-Flat,12:49,124900
+42,7,Gunninglaan,12:50,125000
+42,8,Winkelcentrum Vollenhove,12:52,125200
+42,9,Jordanlaan,12:54,125400
+42,10,KNMI,12:57,125700
+42,11,Oorsprongpark,13:01,130100
+42,12,Wittevrouwen,13:02,130200
+42,13,Stadsschouwburg,13:04,130400
+42,14,Janskerkhof,13:05,130500
+42,15,Neude,13:06,130600
+42,16,CS Jaarbeurszijde,13:12,131200
+42,17,CS Jaarbeurszijde,13:15,131500
+42,18,Hasebroekstraat,13:19,131900
+42,19,Majellapark,13:21,132100
+42,20,Thomas à Kempisplantsoen,13:22,132200
+42,21,Station Leidsche Rijn,13:24,132400
+42,22,Jan Wolkerssingel,13:26,132600
+42,23,Soestw./Antonius Zkh,13:29,132900
+42,24,Rijpwetering,13:30,133000
+42,25,Otto Hahnweg,13:33,133300
+42,26,Savannahweg,13:34,133400
+42,27,Zonnebaan,13:36,133600
+42,28,Bloem-Boomstede,13:37,133700
+42,29,Duiven-Fazantenkamp,13:38,133800
+42,30,Pauwen-Reigerskamp,13:39,133900
+42,31,Spechten-Valkenkamp,13:40,134000
+42,32,Spechten-Zwanenkamp,13:41,134100
+42,33,Vogelweg-Zwanenkamp,13:42,134200
+42,34,Zebraspoor,13:44,134400
+42,35,Kamelenspoor,13:44,134400
+42,36,Station Maarssen,13:46,134600
+43,1,Busstation,12:52,125200
+43,2,Steynlaan,12:54,125400
+43,3,Schaerweydelaan,12:55,125500
+43,4,Nepveulaan,12:56,125600
+43,5,De Dreef/Panweg,12:58,125800
+43,6,L-Flat,12:59,125900
+43,7,Gunninglaan,13:00,130000
+43,8,Winkelcentrum Vollenhove,13:02,130200
+43,9,Jordanlaan,13:04,130400
+43,10,KNMI,13:07,130700
+43,11,Oorsprongpark,13:11,131100
+43,12,Wittevrouwen,13:12,131200
+43,13,Stadsschouwburg,13:14,131400
+43,14,Janskerkhof,13:15,131500
+43,15,Neude,13:16,131600
+43,16,CS Jaarbeurszijde,13:22,132200
+43,17,CS Jaarbeurszijde,13:25,132500
+43,18,Hasebroekstraat,13:29,132900
+43,19,Majellapark,13:31,133100
+43,20,Thomas à Kempisplantsoen,13:32,133200
+43,21,Station Leidsche Rijn,13:34,133400
+43,22,Jan Wolkerssingel,13:36,133600
+43,23,Soestw./Antonius Zkh,13:39,133900
+43,24,Rijpwetering,13:40,134000
+43,25,Otto Hahnweg,13:43,134300
+43,26,Savannahweg,13:44,134400
+43,27,Zonnebaan,13:46,134600
+43,28,Bloem-Boomstede,13:47,134700
+43,29,Duiven-Fazantenkamp,13:48,134800
+43,30,Pauwen-Reigerskamp,13:49,134900
+43,31,Spechten-Valkenkamp,13:50,135000
+43,32,Spechten-Zwanenkamp,13:51,135100
+43,33,Vogelweg-Zwanenkamp,13:52,135200
+43,34,Zebraspoor,13:54,135400
+43,35,Kamelenspoor,13:54,135400
+43,36,Station Maarssen,13:56,135600
+44,1,Busstation,13:02,130200
+44,2,Steynlaan,13:04,130400
+44,3,Schaerweydelaan,13:05,130500
+44,4,Nepveulaan,13:06,130600
+44,5,De Dreef/Panweg,13:08,130800
+44,6,L-Flat,13:09,130900
+44,7,Gunninglaan,13:10,131000
+44,8,Winkelcentrum Vollenhove,13:12,131200
+44,9,Jordanlaan,13:14,131400
+44,10,KNMI,13:17,131700
+44,11,Oorsprongpark,13:21,132100
+44,12,Wittevrouwen,13:22,132200
+44,13,Stadsschouwburg,13:24,132400
+44,14,Janskerkhof,13:25,132500
+44,15,Neude,13:26,132600
+44,16,CS Jaarbeurszijde,13:32,133200
+44,17,CS Jaarbeurszijde,13:35,133500
+44,18,Hasebroekstraat,13:39,133900
+44,19,Majellapark,13:41,134100
+44,20,Thomas à Kempisplantsoen,13:42,134200
+44,21,Station Leidsche Rijn,13:44,134400
+44,22,Jan Wolkerssingel,13:46,134600
+44,23,Soestw./Antonius Zkh,13:49,134900
+44,24,Rijpwetering,13:50,135000
+44,25,Otto Hahnweg,13:53,135300
+44,26,Savannahweg,13:54,135400
+44,27,Zonnebaan,13:56,135600
+44,28,Bloem-Boomstede,13:57,135700
+44,29,Duiven-Fazantenkamp,13:58,135800
+44,30,Pauwen-Reigerskamp,13:59,135900
+44,31,Spechten-Valkenkamp,14:00,140000
+44,32,Spechten-Zwanenkamp,14:01,140100
+44,33,Vogelweg-Zwanenkamp,14:02,140200
+44,34,Zebraspoor,14:04,140400
+44,35,Kamelenspoor,14:04,140400
+44,36,Station Maarssen,14:06,140600
+45,1,Busstation,13:12,131200
+45,2,Steynlaan,13:14,131400
+45,3,Schaerweydelaan,13:15,131500
+45,4,Nepveulaan,13:16,131600
+45,5,De Dreef/Panweg,13:18,131800
+45,6,L-Flat,13:19,131900
+45,7,Gunninglaan,13:20,132000
+45,8,Winkelcentrum Vollenhove,13:22,132200
+45,9,Jordanlaan,13:24,132400
+45,10,KNMI,13:27,132700
+45,11,Oorsprongpark,13:31,133100
+45,12,Wittevrouwen,13:32,133200
+45,13,Stadsschouwburg,13:34,133400
+45,14,Janskerkhof,13:35,133500
+45,15,Neude,13:36,133600
+45,16,CS Jaarbeurszijde,13:42,134200
+45,17,CS Jaarbeurszijde,13:45,134500
+45,18,Hasebroekstraat,13:49,134900
+45,19,Majellapark,13:51,135100
+45,20,Thomas à Kempisplantsoen,13:52,135200
+45,21,Station Leidsche Rijn,13:54,135400
+45,22,Jan Wolkerssingel,13:56,135600
+45,23,Soestw./Antonius Zkh,13:59,135900
+45,24,Rijpwetering,14:00,140000
+45,25,Otto Hahnweg,14:03,140300
+45,26,Savannahweg,14:04,140400
+45,27,Zonnebaan,14:06,140600
+45,28,Bloem-Boomstede,14:07,140700
+45,29,Duiven-Fazantenkamp,14:08,140800
+45,30,Pauwen-Reigerskamp,14:09,140900
+45,31,Spechten-Valkenkamp,14:10,141000
+45,32,Spechten-Zwanenkamp,14:11,141100
+45,33,Vogelweg-Zwanenkamp,14:12,141200
+45,34,Zebraspoor,14:14,141400
+45,35,Kamelenspoor,14:14,141400
+45,36,Station Maarssen,14:16,141600
+46,1,Busstation,13:22,132200
+46,2,Steynlaan,13:24,132400
+46,3,Schaerweydelaan,13:25,132500
+46,4,Nepveulaan,13:26,132600
+46,5,De Dreef/Panweg,13:28,132800
+46,6,L-Flat,13:29,132900
+46,7,Gunninglaan,13:30,133000
+46,8,Winkelcentrum Vollenhove,13:32,133200
+46,9,Jordanlaan,13:34,133400
+46,10,KNMI,13:37,133700
+46,11,Oorsprongpark,13:41,134100
+46,12,Wittevrouwen,13:42,134200
+46,13,Stadsschouwburg,13:44,134400
+46,14,Janskerkhof,13:45,134500
+46,15,Neude,13:46,134600
+46,16,CS Jaarbeurszijde,13:52,135200
+46,17,CS Jaarbeurszijde,13:55,135500
+46,18,Hasebroekstraat,13:59,135900
+46,19,Majellapark,14:01,140100
+46,20,Thomas à Kempisplantsoen,14:02,140200
+46,21,Station Leidsche Rijn,14:04,140400
+46,22,Jan Wolkerssingel,14:06,140600
+46,23,Soestw./Antonius Zkh,14:09,140900
+46,24,Rijpwetering,14:10,141000
+46,25,Otto Hahnweg,14:13,141300
+46,26,Savannahweg,14:14,141400
+46,27,Zonnebaan,14:16,141600
+46,28,Bloem-Boomstede,14:17,141700
+46,29,Duiven-Fazantenkamp,14:18,141800
+46,30,Pauwen-Reigerskamp,14:19,141900
+46,31,Spechten-Valkenkamp,14:20,142000
+46,32,Spechten-Zwanenkamp,14:21,142100
+46,33,Vogelweg-Zwanenkamp,14:22,142200
+46,34,Zebraspoor,14:24,142400
+46,35,Kamelenspoor,14:24,142400
+46,36,Station Maarssen,14:26,142600
+47,1,Busstation,13:32,133200
+47,2,Steynlaan,13:34,133400
+47,3,Schaerweydelaan,13:35,133500
+47,4,Nepveulaan,13:36,133600
+47,5,De Dreef/Panweg,13:38,133800
+47,6,L-Flat,13:39,133900
+47,7,Gunninglaan,13:40,134000
+47,8,Winkelcentrum Vollenhove,13:42,134200
+47,9,Jordanlaan,13:44,134400
+47,10,KNMI,13:47,134700
+47,11,Oorsprongpark,13:51,135100
+47,12,Wittevrouwen,13:52,135200
+47,13,Stadsschouwburg,13:54,135400
+47,14,Janskerkhof,13:55,135500
+47,15,Neude,13:56,135600
+47,16,CS Jaarbeurszijde,14:02,140200
+47,17,CS Jaarbeurszijde,14:05,140500
+47,18,Hasebroekstraat,14:09,140900
+47,19,Majellapark,14:11,141100
+47,20,Thomas à Kempisplantsoen,14:12,141200
+47,21,Station Leidsche Rijn,14:14,141400
+47,22,Jan Wolkerssingel,14:16,141600
+47,23,Soestw./Antonius Zkh,14:19,141900
+47,24,Rijpwetering,14:20,142000
+47,25,Otto Hahnweg,14:23,142300
+47,26,Savannahweg,14:24,142400
+47,27,Zonnebaan,14:26,142600
+47,28,Bloem-Boomstede,14:27,142700
+47,29,Duiven-Fazantenkamp,14:28,142800
+47,30,Pauwen-Reigerskamp,14:29,142900
+47,31,Spechten-Valkenkamp,14:30,143000
+47,32,Spechten-Zwanenkamp,14:31,143100
+47,33,Vogelweg-Zwanenkamp,14:32,143200
+47,34,Zebraspoor,14:34,143400
+47,35,Kamelenspoor,14:34,143400
+47,36,Station Maarssen,14:36,143600
+48,1,Busstation,13:42,134200
+48,2,Steynlaan,13:44,134400
+48,3,Schaerweydelaan,13:45,134500
+48,4,Nepveulaan,13:46,134600
+48,5,De Dreef/Panweg,13:48,134800
+48,6,L-Flat,13:49,134900
+48,7,Gunninglaan,13:50,135000
+48,8,Winkelcentrum Vollenhove,13:52,135200
+48,9,Jordanlaan,13:54,135400
+48,10,KNMI,13:57,135700
+48,11,Oorsprongpark,14:01,140100
+48,12,Wittevrouwen,14:02,140200
+48,13,Stadsschouwburg,14:04,140400
+48,14,Janskerkhof,14:05,140500
+48,15,Neude,14:06,140600
+48,16,CS Jaarbeurszijde,14:12,141200
+48,17,CS Jaarbeurszijde,14:15,141500
+48,18,Hasebroekstraat,14:19,141900
+48,19,Majellapark,14:21,142100
+48,20,Thomas à Kempisplantsoen,14:22,142200
+48,21,Station Leidsche Rijn,14:24,142400
+48,22,Jan Wolkerssingel,14:26,142600
+48,23,Soestw./Antonius Zkh,14:29,142900
+48,24,Rijpwetering,14:30,143000
+48,25,Otto Hahnweg,14:33,143300
+48,26,Savannahweg,14:34,143400
+48,27,Zonnebaan,14:36,143600
+48,28,Bloem-Boomstede,14:37,143700
+48,29,Duiven-Fazantenkamp,14:38,143800
+48,30,Pauwen-Reigerskamp,14:39,143900
+48,31,Spechten-Valkenkamp,14:40,144000
+48,32,Spechten-Zwanenkamp,14:41,144100
+48,33,Vogelweg-Zwanenkamp,14:42,144200
+48,34,Zebraspoor,14:44,144400
+48,35,Kamelenspoor,14:44,144400
+48,36,Station Maarssen,14:46,144600
+49,1,Busstation,13:52,135200
+49,2,Steynlaan,13:54,135400
+49,3,Schaerweydelaan,13:55,135500
+49,4,Nepveulaan,13:56,135600
+49,5,De Dreef/Panweg,13:58,135800
+49,6,L-Flat,13:59,135900
+49,7,Gunninglaan,14:00,140000
+49,8,Winkelcentrum Vollenhove,14:02,140200
+49,9,Jordanlaan,14:04,140400
+49,10,KNMI,14:07,140700
+49,11,Oorsprongpark,14:11,141100
+49,12,Wittevrouwen,14:12,141200
+49,13,Stadsschouwburg,14:14,141400
+49,14,Janskerkhof,14:15,141500
+49,15,Neude,14:16,141600
+49,16,CS Jaarbeurszijde,14:22,142200
+49,17,CS Jaarbeurszijde,14:25,142500
+49,18,Hasebroekstraat,14:29,142900
+49,19,Majellapark,14:31,143100
+49,20,Thomas à Kempisplantsoen,14:32,143200
+49,21,Station Leidsche Rijn,14:34,143400
+49,22,Jan Wolkerssingel,14:36,143600
+49,23,Soestw./Antonius Zkh,14:39,143900
+49,24,Rijpwetering,14:40,144000
+49,25,Otto Hahnweg,14:43,144300
+49,26,Savannahweg,14:44,144400
+49,27,Zonnebaan,14:46,144600
+49,28,Bloem-Boomstede,14:47,144700
+49,29,Duiven-Fazantenkamp,14:48,144800
+49,30,Pauwen-Reigerskamp,14:49,144900
+49,31,Spechten-Valkenkamp,14:50,145000
+49,32,Spechten-Zwanenkamp,14:51,145100
+49,33,Vogelweg-Zwanenkamp,14:52,145200
+49,34,Zebraspoor,14:54,145400
+49,35,Kamelenspoor,14:54,145400
+49,36,Station Maarssen,14:56,145600
+50,1,Busstation,14:02,140200
+50,2,Steynlaan,14:04,140400
+50,3,Schaerweydelaan,14:05,140500
+50,4,Nepveulaan,14:06,140600
+50,5,De Dreef/Panweg,14:08,140800
+50,6,L-Flat,14:09,140900
+50,7,Gunninglaan,14:10,141000
+50,8,Winkelcentrum Vollenhove,14:12,141200
+50,9,Jordanlaan,14:14,141400
+50,10,KNMI,14:17,141700
+50,11,Oorsprongpark,14:21,142100
+50,12,Wittevrouwen,14:22,142200
+50,13,Stadsschouwburg,14:24,142400
+50,14,Janskerkhof,14:25,142500
+50,15,Neude,14:26,142600
+50,16,CS Jaarbeurszijde,14:32,143200
+50,17,CS Jaarbeurszijde,14:35,143500
+50,18,Hasebroekstraat,14:39,143900
+50,19,Majellapark,14:41,144100
+50,20,Thomas à Kempisplantsoen,14:42,144200
+50,21,Station Leidsche Rijn,14:44,144400
+50,22,Jan Wolkerssingel,14:46,144600
+50,23,Soestw./Antonius Zkh,14:49,144900
+50,24,Rijpwetering,14:50,145000
+50,25,Otto Hahnweg,14:53,145300
+50,26,Savannahweg,14:54,145400
+50,27,Zonnebaan,14:56,145600
+50,28,Bloem-Boomstede,14:57,145700
+50,29,Duiven-Fazantenkamp,14:58,145800
+50,30,Pauwen-Reigerskamp,14:59,145900
+50,31,Spechten-Valkenkamp,15:00,150000
+50,32,Spechten-Zwanenkamp,15:01,150100
+50,33,Vogelweg-Zwanenkamp,15:02,150200
+50,34,Zebraspoor,15:04,150400
+50,35,Kamelenspoor,15:04,150400
+50,36,Station Maarssen,15:06,150600
+51,1,Busstation,14:12,141200
+51,2,Steynlaan,14:14,141400
+51,3,Schaerweydelaan,14:15,141500
+51,4,Nepveulaan,14:16,141600
+51,5,De Dreef/Panweg,14:18,141800
+51,6,L-Flat,14:19,141900
+51,7,Gunninglaan,14:20,142000
+51,8,Winkelcentrum Vollenhove,14:22,142200
+51,9,Jordanlaan,14:24,142400
+51,10,KNMI,14:27,142700
+51,11,Oorsprongpark,14:31,143100
+51,12,Wittevrouwen,14:32,143200
+51,13,Stadsschouwburg,14:34,143400
+51,14,Janskerkhof,14:35,143500
+51,15,Neude,14:36,143600
+51,16,CS Jaarbeurszijde,14:42,144200
+51,17,CS Jaarbeurszijde,14:45,144500
+51,18,Hasebroekstraat,14:49,144900
+51,19,Majellapark,14:51,145100
+51,20,Thomas à Kempisplantsoen,14:52,145200
+51,21,Station Leidsche Rijn,14:54,145400
+51,22,Jan Wolkerssingel,14:56,145600
+51,23,Soestw./Antonius Zkh,14:59,145900
+51,24,Rijpwetering,15:00,150000
+51,25,Otto Hahnweg,15:03,150300
+51,26,Savannahweg,15:04,150400
+51,27,Zonnebaan,15:06,150600
+51,28,Bloem-Boomstede,15:07,150700
+51,29,Duiven-Fazantenkamp,15:08,150800
+51,30,Pauwen-Reigerskamp,15:09,150900
+51,31,Spechten-Valkenkamp,15:10,151000
+51,32,Spechten-Zwanenkamp,15:11,151100
+51,33,Vogelweg-Zwanenkamp,15:12,151200
+51,34,Zebraspoor,15:14,151400
+51,35,Kamelenspoor,15:14,151400
+51,36,Station Maarssen,15:16,151600
+52,1,Busstation,14:22,142200
+52,2,Steynlaan,14:24,142400
+52,3,Schaerweydelaan,14:25,142500
+52,4,Nepveulaan,14:26,142600
+52,5,De Dreef/Panweg,14:28,142800
+52,6,L-Flat,14:29,142900
+52,7,Gunninglaan,14:30,143000
+52,8,Winkelcentrum Vollenhove,14:32,143200
+52,9,Jordanlaan,14:34,143400
+52,10,KNMI,14:37,143700
+52,11,Oorsprongpark,14:41,144100
+52,12,Wittevrouwen,14:42,144200
+52,13,Stadsschouwburg,14:44,144400
+52,14,Janskerkhof,14:45,144500
+52,15,Neude,14:46,144600
+52,16,CS Jaarbeurszijde,14:52,145200
+52,17,CS Jaarbeurszijde,14:55,145500
+52,18,Hasebroekstraat,14:59,145900
+52,19,Majellapark,15:01,150100
+52,20,Thomas à Kempisplantsoen,15:02,150200
+52,21,Station Leidsche Rijn,15:04,150400
+52,22,Jan Wolkerssingel,15:06,150600
+52,23,Soestw./Antonius Zkh,15:09,150900
+52,24,Rijpwetering,15:10,151000
+52,25,Otto Hahnweg,15:13,151300
+52,26,Savannahweg,15:14,151400
+52,27,Zonnebaan,15:16,151600
+52,28,Bloem-Boomstede,15:17,151700
+52,29,Duiven-Fazantenkamp,15:18,151800
+52,30,Pauwen-Reigerskamp,15:19,151900
+52,31,Spechten-Valkenkamp,15:20,152000
+52,32,Spechten-Zwanenkamp,15:21,152100
+52,33,Vogelweg-Zwanenkamp,15:22,152200
+52,34,Zebraspoor,15:24,152400
+52,35,Kamelenspoor,15:24,152400
+52,36,Station Maarssen,15:26,152600
+53,1,Busstation,14:31,143100
+53,2,Steynlaan,14:33,143300
+53,3,Schaerweydelaan,14:34,143400
+53,4,Nepveulaan,14:35,143500
+53,5,De Dreef/Panweg,14:37,143700
+53,6,L-Flat,14:38,143800
+53,7,Gunninglaan,14:39,143900
+53,8,Winkelcentrum Vollenhove,14:41,144100
+53,9,Jordanlaan,14:43,144300
+53,10,KNMI,14:46,144600
+53,11,Oorsprongpark,14:50,145000
+53,12,Wittevrouwen,14:51,145100
+53,13,Stadsschouwburg,14:53,145300
+53,14,Janskerkhof,14:54,145400
+53,15,Neude,14:55,145500
+53,16,CS Jaarbeurszijde,15:01,150100
+53,17,CS Jaarbeurszijde,15:04,150400
+53,18,Hasebroekstraat,15:08,150800
+53,19,Majellapark,15:10,151000
+53,20,Thomas à Kempisplantsoen,15:11,151100
+53,21,Station Leidsche Rijn,15:13,151300
+53,22,Jan Wolkerssingel,15:15,151500
+53,23,Soestw./Antonius Zkh,15:18,151800
+53,24,Rijpwetering,15:19,151900
+53,25,Otto Hahnweg,15:22,152200
+53,26,Savannahweg,15:23,152300
+53,27,Zonnebaan,15:25,152500
+53,28,Bloem-Boomstede,15:26,152600
+53,29,Duiven-Fazantenkamp,15:27,152700
+53,30,Pauwen-Reigerskamp,15:28,152800
+53,31,Spechten-Valkenkamp,15:29,152900
+53,32,Spechten-Zwanenkamp,15:30,153000
+53,33,Vogelweg-Zwanenkamp,15:31,153100
+53,34,Zebraspoor,15:33,153300
+53,35,Kamelenspoor,15:34,153400
+53,36,Station Maarssen,15:36,153600
+54,1,Busstation,14:41,144100
+54,2,Steynlaan,14:43,144300
+54,3,Schaerweydelaan,14:44,144400
+54,4,Nepveulaan,14:45,144500
+54,5,De Dreef/Panweg,14:47,144700
+54,6,L-Flat,14:48,144800
+54,7,Gunninglaan,14:49,144900
+54,8,Winkelcentrum Vollenhove,14:51,145100
+54,9,Jordanlaan,14:53,145300
+54,10,KNMI,14:56,145600
+54,11,Oorsprongpark,15:00,150000
+54,12,Wittevrouwen,15:01,150100
+54,13,Stadsschouwburg,15:03,150300
+54,14,Janskerkhof,15:04,150400
+54,15,Neude,15:05,150500
+54,16,CS Jaarbeurszijde,15:11,151100
+54,17,CS Jaarbeurszijde,15:14,151400
+54,18,Hasebroekstraat,15:18,151800
+54,19,Majellapark,15:20,152000
+54,20,Thomas à Kempisplantsoen,15:21,152100
+54,21,Station Leidsche Rijn,15:23,152300
+54,22,Jan Wolkerssingel,15:25,152500
+54,23,Soestw./Antonius Zkh,15:28,152800
+54,24,Rijpwetering,15:29,152900
+54,25,Otto Hahnweg,15:32,153200
+54,26,Savannahweg,15:33,153300
+54,27,Zonnebaan,15:35,153500
+54,28,Bloem-Boomstede,15:36,153600
+54,29,Duiven-Fazantenkamp,15:37,153700
+54,30,Pauwen-Reigerskamp,15:38,153800
+54,31,Spechten-Valkenkamp,15:39,153900
+54,32,Spechten-Zwanenkamp,15:40,154000
+54,33,Vogelweg-Zwanenkamp,15:41,154100
+54,34,Zebraspoor,15:43,154300
+54,35,Kamelenspoor,15:44,154400
+54,36,Station Maarssen,15:46,154600
+55,1,Busstation,14:50,145000
+55,2,Steynlaan,14:52,145200
+55,3,Schaerweydelaan,14:53,145300
+55,4,Nepveulaan,14:54,145400
+55,5,De Dreef/Panweg,14:56,145600
+55,6,L-Flat,14:57,145700
+55,7,Gunninglaan,14:58,145800
+55,8,Winkelcentrum Vollenhove,15:00,150000
+55,9,Jordanlaan,15:02,150200
+55,10,KNMI,15:05,150500
+55,11,Oorsprongpark,15:09,150900
+55,12,Wittevrouwen,15:10,151000
+55,13,Stadsschouwburg,15:12,151200
+55,14,Janskerkhof,15:13,151300
+55,15,Neude,15:14,151400
+55,16,CS Jaarbeurszijde,15:20,152000
+55,17,CS Jaarbeurszijde,15:23,152300
+55,18,Hasebroekstraat,15:27,152700
+55,19,Majellapark,15:29,152900
+55,20,Thomas à Kempisplantsoen,15:30,153000
+55,21,Station Leidsche Rijn,15:33,153300
+55,22,Jan Wolkerssingel,15:35,153500
+55,23,Soestw./Antonius Zkh,15:38,153800
+55,24,Rijpwetering,15:39,153900
+55,25,Otto Hahnweg,15:42,154200
+55,26,Savannahweg,15:43,154300
+55,27,Zonnebaan,15:45,154500
+55,28,Bloem-Boomstede,15:46,154600
+55,29,Duiven-Fazantenkamp,15:47,154700
+55,30,Pauwen-Reigerskamp,15:48,154800
+55,31,Spechten-Valkenkamp,15:49,154900
+55,32,Spechten-Zwanenkamp,15:50,155000
+55,33,Vogelweg-Zwanenkamp,15:51,155100
+55,34,Zebraspoor,15:53,155300
+55,35,Kamelenspoor,15:54,155400
+55,36,Station Maarssen,15:56,155600
+56,1,Busstation,15:00,150000
+56,2,Steynlaan,15:02,150200
+56,3,Schaerweydelaan,15:03,150300
+56,4,Nepveulaan,15:04,150400
+56,5,De Dreef/Panweg,15:06,150600
+56,6,L-Flat,15:07,150700
+56,7,Gunninglaan,15:08,150800
+56,8,Winkelcentrum Vollenhove,15:10,151000
+56,9,Jordanlaan,15:12,151200
+56,10,KNMI,15:15,151500
+56,11,Oorsprongpark,15:19,151900
+56,12,Wittevrouwen,15:20,152000
+56,13,Stadsschouwburg,15:22,152200
+56,14,Janskerkhof,15:23,152300
+56,15,Neude,15:24,152400
+56,16,CS Jaarbeurszijde,15:30,153000
+56,17,CS Jaarbeurszijde,15:33,153300
+56,18,Hasebroekstraat,15:37,153700
+56,19,Majellapark,15:39,153900
+56,20,Thomas à Kempisplantsoen,15:40,154000
+56,21,Station Leidsche Rijn,15:43,154300
+56,22,Jan Wolkerssingel,15:45,154500
+56,23,Soestw./Antonius Zkh,15:48,154800
+56,24,Rijpwetering,15:49,154900
+56,25,Otto Hahnweg,15:52,155200
+56,26,Savannahweg,15:53,155300
+56,27,Zonnebaan,15:55,155500
+56,28,Bloem-Boomstede,15:56,155600
+56,29,Duiven-Fazantenkamp,15:57,155700
+56,30,Pauwen-Reigerskamp,15:58,155800
+56,31,Spechten-Valkenkamp,15:59,155900
+56,32,Spechten-Zwanenkamp,16:00,160000
+56,33,Vogelweg-Zwanenkamp,16:01,160100
+56,34,Zebraspoor,16:03,160300
+56,35,Kamelenspoor,16:04,160400
+56,36,Station Maarssen,16:06,160600
+57,1,Busstation,15:10,151000
+57,2,Steynlaan,15:12,151200
+57,3,Schaerweydelaan,15:13,151300
+57,4,Nepveulaan,15:14,151400
+57,5,De Dreef/Panweg,15:16,151600
+57,6,L-Flat,15:17,151700
+57,7,Gunninglaan,15:18,151800
+57,8,Winkelcentrum Vollenhove,15:20,152000
+57,9,Jordanlaan,15:22,152200
+57,10,KNMI,15:25,152500
+57,11,Oorsprongpark,15:29,152900
+57,12,Wittevrouwen,15:30,153000
+57,13,Stadsschouwburg,15:32,153200
+57,14,Janskerkhof,15:33,153300
+57,15,Neude,15:34,153400
+57,16,CS Jaarbeurszijde,15:40,154000
+57,17,CS Jaarbeurszijde,15:43,154300
+57,18,Hasebroekstraat,15:47,154700
+57,19,Majellapark,15:49,154900
+57,20,Thomas à Kempisplantsoen,15:50,155000
+57,21,Station Leidsche Rijn,15:53,155300
+57,22,Jan Wolkerssingel,15:55,155500
+57,23,Soestw./Antonius Zkh,15:58,155800
+57,24,Rijpwetering,15:59,155900
+57,25,Otto Hahnweg,16:02,160200
+57,26,Savannahweg,16:03,160300
+57,27,Zonnebaan,16:05,160500
+57,28,Bloem-Boomstede,16:06,160600
+57,29,Duiven-Fazantenkamp,16:07,160700
+57,30,Pauwen-Reigerskamp,16:08,160800
+57,31,Spechten-Valkenkamp,16:09,160900
+57,32,Spechten-Zwanenkamp,16:10,161000
+57,33,Vogelweg-Zwanenkamp,16:11,161100
+57,34,Zebraspoor,16:13,161300
+57,35,Kamelenspoor,16:14,161400
+57,36,Station Maarssen,16:16,161600
+58,1,Busstation,15:20,152000
+58,2,Steynlaan,15:22,152200
+58,3,Schaerweydelaan,15:23,152300
+58,4,Nepveulaan,15:24,152400
+58,5,De Dreef/Panweg,15:26,152600
+58,6,L-Flat,15:27,152700
+58,7,Gunninglaan,15:28,152800
+58,8,Winkelcentrum Vollenhove,15:30,153000
+58,9,Jordanlaan,15:32,153200
+58,10,KNMI,15:35,153500
+58,11,Oorsprongpark,15:39,153900
+58,12,Wittevrouwen,15:40,154000
+58,13,Stadsschouwburg,15:42,154200
+58,14,Janskerkhof,15:43,154300
+58,15,Neude,15:44,154400
+58,16,CS Jaarbeurszijde,15:50,155000
+58,17,CS Jaarbeurszijde,15:53,155300
+58,18,Hasebroekstraat,15:57,155700
+58,19,Majellapark,15:59,155900
+58,20,Thomas à Kempisplantsoen,16:00,160000
+58,21,Station Leidsche Rijn,16:03,160300
+58,22,Jan Wolkerssingel,16:05,160500
+58,23,Soestw./Antonius Zkh,16:08,160800
+58,24,Rijpwetering,16:09,160900
+58,25,Otto Hahnweg,16:12,161200
+58,26,Savannahweg,16:13,161300
+58,27,Zonnebaan,16:15,161500
+58,28,Bloem-Boomstede,16:16,161600
+58,29,Duiven-Fazantenkamp,16:17,161700
+58,30,Pauwen-Reigerskamp,16:18,161800
+58,31,Spechten-Valkenkamp,16:19,161900
+58,32,Spechten-Zwanenkamp,16:20,162000
+58,33,Vogelweg-Zwanenkamp,16:21,162100
+58,34,Zebraspoor,16:23,162300
+58,35,Kamelenspoor,16:24,162400
+58,36,Station Maarssen,16:26,162600
+59,1,Busstation,15:30,153000
+59,2,Steynlaan,15:32,153200
+59,3,Schaerweydelaan,15:33,153300
+59,4,Nepveulaan,15:34,153400
+59,5,De Dreef/Panweg,15:36,153600
+59,6,L-Flat,15:37,153700
+59,7,Gunninglaan,15:38,153800
+59,8,Winkelcentrum Vollenhove,15:40,154000
+59,9,Jordanlaan,15:42,154200
+59,10,KNMI,15:45,154500
+59,11,Oorsprongpark,15:49,154900
+59,12,Wittevrouwen,15:50,155000
+59,13,Stadsschouwburg,15:52,155200
+59,14,Janskerkhof,15:53,155300
+59,15,Neude,15:54,155400
+59,16,CS Jaarbeurszijde,16:00,160000
+59,17,CS Jaarbeurszijde,16:03,160300
+59,18,Hasebroekstraat,16:07,160700
+59,19,Majellapark,16:09,160900
+59,20,Thomas à Kempisplantsoen,16:10,161000
+59,21,Station Leidsche Rijn,16:13,161300
+59,22,Jan Wolkerssingel,16:15,161500
+59,23,Soestw./Antonius Zkh,16:18,161800
+59,24,Rijpwetering,16:19,161900
+59,25,Otto Hahnweg,16:22,162200
+59,26,Savannahweg,16:23,162300
+59,27,Zonnebaan,16:25,162500
+59,28,Bloem-Boomstede,16:26,162600
+59,29,Duiven-Fazantenkamp,16:27,162700
+59,30,Pauwen-Reigerskamp,16:28,162800
+59,31,Spechten-Valkenkamp,16:29,162900
+59,32,Spechten-Zwanenkamp,16:30,163000
+59,33,Vogelweg-Zwanenkamp,16:31,163100
+59,34,Zebraspoor,16:33,163300
+59,35,Kamelenspoor,16:34,163400
+59,36,Station Maarssen,16:36,163600
+60,1,Busstation,15:40,154000
+60,2,Steynlaan,15:42,154200
+60,3,Schaerweydelaan,15:43,154300
+60,4,Nepveulaan,15:44,154400
+60,5,De Dreef/Panweg,15:46,154600
+60,6,L-Flat,15:47,154700
+60,7,Gunninglaan,15:48,154800
+60,8,Winkelcentrum Vollenhove,15:50,155000
+60,9,Jordanlaan,15:52,155200
+60,10,KNMI,15:55,155500
+60,11,Oorsprongpark,15:59,155900
+60,12,Wittevrouwen,16:00,160000
+60,13,Stadsschouwburg,16:02,160200
+60,14,Janskerkhof,16:03,160300
+60,15,Neude,16:04,160400
+60,16,CS Jaarbeurszijde,16:10,161000
+60,17,CS Jaarbeurszijde,16:13,161300
+60,18,Hasebroekstraat,16:17,161700
+60,19,Majellapark,16:19,161900
+60,20,Thomas à Kempisplantsoen,16:20,162000
+60,21,Station Leidsche Rijn,16:23,162300
+60,22,Jan Wolkerssingel,16:25,162500
+60,23,Soestw./Antonius Zkh,16:28,162800
+60,24,Rijpwetering,16:29,162900
+60,25,Otto Hahnweg,16:32,163200
+60,26,Savannahweg,16:33,163300
+60,27,Zonnebaan,16:35,163500
+60,28,Bloem-Boomstede,16:36,163600
+60,29,Duiven-Fazantenkamp,16:37,163700
+60,30,Pauwen-Reigerskamp,16:38,163800
+60,31,Spechten-Valkenkamp,16:39,163900
+60,32,Spechten-Zwanenkamp,16:40,164000
+60,33,Vogelweg-Zwanenkamp,16:41,164100
+60,34,Zebraspoor,16:43,164300
+60,35,Kamelenspoor,16:44,164400
+60,36,Station Maarssen,16:46,164600
+61,1,Busstation,15:50,155000
+61,2,Steynlaan,15:52,155200
+61,3,Schaerweydelaan,15:53,155300
+61,4,Nepveulaan,15:54,155400
+61,5,De Dreef/Panweg,15:56,155600
+61,6,L-Flat,15:57,155700
+61,7,Gunninglaan,15:58,155800
+61,8,Winkelcentrum Vollenhove,16:00,160000
+61,9,Jordanlaan,16:02,160200
+61,10,KNMI,16:05,160500
+61,11,Oorsprongpark,16:09,160900
+61,12,Wittevrouwen,16:10,161000
+61,13,Stadsschouwburg,16:12,161200
+61,14,Janskerkhof,16:13,161300
+61,15,Neude,16:14,161400
+61,16,CS Jaarbeurszijde,16:20,162000
+61,17,CS Jaarbeurszijde,16:23,162300
+61,18,Hasebroekstraat,16:27,162700
+61,19,Majellapark,16:29,162900
+61,20,Thomas à Kempisplantsoen,16:30,163000
+61,21,Station Leidsche Rijn,16:33,163300
+61,22,Jan Wolkerssingel,16:35,163500
+61,23,Soestw./Antonius Zkh,16:38,163800
+61,24,Rijpwetering,16:39,163900
+61,25,Otto Hahnweg,16:42,164200
+61,26,Savannahweg,16:43,164300
+61,27,Zonnebaan,16:45,164500
+61,28,Bloem-Boomstede,16:46,164600
+61,29,Duiven-Fazantenkamp,16:47,164700
+61,30,Pauwen-Reigerskamp,16:48,164800
+61,31,Spechten-Valkenkamp,16:49,164900
+61,32,Spechten-Zwanenkamp,16:50,165000
+61,33,Vogelweg-Zwanenkamp,16:51,165100
+61,34,Zebraspoor,16:53,165300
+61,35,Kamelenspoor,16:54,165400
+61,36,Station Maarssen,16:56,165600
+62,1,Busstation,16:01,160100
+62,2,Steynlaan,16:03,160300
+62,3,Schaerweydelaan,16:04,160400
+62,4,Nepveulaan,16:05,160500
+62,5,De Dreef/Panweg,16:07,160700
+62,6,L-Flat,16:08,160800
+62,7,Gunninglaan,16:09,160900
+62,8,Winkelcentrum Vollenhove,16:11,161100
+62,9,Jordanlaan,16:13,161300
+62,10,KNMI,16:16,161600
+62,11,Oorsprongpark,16:20,162000
+62,12,Wittevrouwen,16:21,162100
+62,13,Stadsschouwburg,16:23,162300
+62,14,Janskerkhof,16:24,162400
+62,15,Neude,16:25,162500
+62,16,CS Jaarbeurszijde,16:31,163100
+62,17,CS Jaarbeurszijde,16:34,163400
+62,18,Hasebroekstraat,16:38,163800
+62,19,Majellapark,16:40,164000
+62,20,Thomas à Kempisplantsoen,16:41,164100
+62,21,Station Leidsche Rijn,16:44,164400
+62,22,Jan Wolkerssingel,16:46,164600
+62,23,Soestw./Antonius Zkh,16:49,164900
+62,24,Rijpwetering,16:50,165000
+62,25,Otto Hahnweg,16:53,165300
+62,26,Savannahweg,16:54,165400
+62,27,Zonnebaan,16:56,165600
+62,28,Bloem-Boomstede,16:57,165700
+62,29,Duiven-Fazantenkamp,16:58,165800
+62,30,Pauwen-Reigerskamp,16:59,165900
+62,31,Spechten-Valkenkamp,17:00,170000
+62,32,Spechten-Zwanenkamp,17:01,170100
+62,33,Vogelweg-Zwanenkamp,17:02,170200
+62,34,Zebraspoor,17:04,170400
+62,35,Kamelenspoor,17:04,170400
+62,36,Station Maarssen,17:06,170600
+63,1,Busstation,16:09,160900
+63,2,Steynlaan,16:11,161100
+63,3,Schaerweydelaan,16:12,161200
+63,4,Nepveulaan,16:13,161300
+63,5,De Dreef/Panweg,16:15,161500
+63,6,L-Flat,16:16,161600
+63,7,Gunninglaan,16:17,161700
+63,8,Winkelcentrum Vollenhove,16:19,161900
+63,9,Jordanlaan,16:21,162100
+63,10,KNMI,16:24,162400
+63,11,Oorsprongpark,16:29,162900
+63,12,Wittevrouwen,16:30,163000
+63,13,Stadsschouwburg,16:32,163200
+63,14,Janskerkhof,16:33,163300
+63,15,Neude,16:35,163500
+63,16,CS Jaarbeurszijde,16:41,164100
+63,17,CS Jaarbeurszijde,16:44,164400
+63,18,Hasebroekstraat,16:48,164800
+63,19,Majellapark,16:50,165000
+63,20,Thomas à Kempisplantsoen,16:51,165100
+63,21,Station Leidsche Rijn,16:54,165400
+63,22,Jan Wolkerssingel,16:56,165600
+63,23,Soestw./Antonius Zkh,16:59,165900
+63,24,Rijpwetering,17:00,170000
+63,25,Otto Hahnweg,17:03,170300
+63,26,Savannahweg,17:04,170400
+63,27,Zonnebaan,17:06,170600
+63,28,Bloem-Boomstede,17:07,170700
+63,29,Duiven-Fazantenkamp,17:08,170800
+63,30,Pauwen-Reigerskamp,17:09,170900
+63,31,Spechten-Valkenkamp,17:10,171000
+63,32,Spechten-Zwanenkamp,17:11,171100
+63,33,Vogelweg-Zwanenkamp,17:12,171200
+63,34,Zebraspoor,17:14,171400
+63,35,Kamelenspoor,17:14,171400
+63,36,Station Maarssen,17:16,171600
+64,1,Busstation,16:20,162000
+64,2,Steynlaan,16:22,162200
+64,3,Schaerweydelaan,16:23,162300
+64,4,Nepveulaan,16:24,162400
+64,5,De Dreef/Panweg,16:26,162600
+64,6,L-Flat,16:27,162700
+64,7,Gunninglaan,16:28,162800
+64,8,Winkelcentrum Vollenhove,16:30,163000
+64,9,Jordanlaan,16:32,163200
+64,10,KNMI,16:35,163500
+64,11,Oorsprongpark,16:40,164000
+64,12,Wittevrouwen,16:41,164100
+64,13,Stadsschouwburg,16:43,164300
+64,14,Janskerkhof,16:44,164400
+64,15,Neude,16:46,164600
+64,16,CS Jaarbeurszijde,16:52,165200
+64,17,CS Jaarbeurszijde,16:55,165500
+64,18,Hasebroekstraat,16:59,165900
+64,19,Majellapark,17:01,170100
+64,20,Thomas à Kempisplantsoen,17:02,170200
+64,21,Station Leidsche Rijn,17:04,170400
+64,22,Jan Wolkerssingel,17:06,170600
+64,23,Soestw./Antonius Zkh,17:09,170900
+64,24,Rijpwetering,17:10,171000
+64,25,Otto Hahnweg,17:13,171300
+64,26,Savannahweg,17:14,171400
+64,27,Zonnebaan,17:16,171600
+64,28,Bloem-Boomstede,17:17,171700
+64,29,Duiven-Fazantenkamp,17:18,171800
+64,30,Pauwen-Reigerskamp,17:19,171900
+64,31,Spechten-Valkenkamp,17:20,172000
+64,32,Spechten-Zwanenkamp,17:21,172100
+64,33,Vogelweg-Zwanenkamp,17:22,172200
+64,34,Zebraspoor,17:24,172400
+64,35,Kamelenspoor,17:24,172400
+64,36,Station Maarssen,17:26,172600
+65,1,Busstation,16:30,163000
+65,2,Steynlaan,16:32,163200
+65,3,Schaerweydelaan,16:33,163300
+65,4,Nepveulaan,16:34,163400
+65,5,De Dreef/Panweg,16:36,163600
+65,6,L-Flat,16:37,163700
+65,7,Gunninglaan,16:38,163800
+65,8,Winkelcentrum Vollenhove,16:40,164000
+65,9,Jordanlaan,16:42,164200
+65,10,KNMI,16:45,164500
+65,11,Oorsprongpark,16:50,165000
+65,12,Wittevrouwen,16:51,165100
+65,13,Stadsschouwburg,16:53,165300
+65,14,Janskerkhof,16:54,165400
+65,15,Neude,16:56,165600
+65,16,CS Jaarbeurszijde,17:02,170200
+65,17,CS Jaarbeurszijde,17:05,170500
+65,18,Hasebroekstraat,17:09,170900
+65,19,Majellapark,17:11,171100
+65,20,Thomas à Kempisplantsoen,17:12,171200
+65,21,Station Leidsche Rijn,17:14,171400
+65,22,Jan Wolkerssingel,17:16,171600
+65,23,Soestw./Antonius Zkh,17:19,171900
+65,24,Rijpwetering,17:20,172000
+65,25,Otto Hahnweg,17:23,172300
+65,26,Savannahweg,17:24,172400
+65,27,Zonnebaan,17:26,172600
+65,28,Bloem-Boomstede,17:27,172700
+65,29,Duiven-Fazantenkamp,17:28,172800
+65,30,Pauwen-Reigerskamp,17:29,172900
+65,31,Spechten-Valkenkamp,17:30,173000
+65,32,Spechten-Zwanenkamp,17:31,173100
+65,33,Vogelweg-Zwanenkamp,17:32,173200
+65,34,Zebraspoor,17:34,173400
+65,35,Kamelenspoor,17:34,173400
+65,36,Station Maarssen,17:36,173600
+66,1,Busstation,16:40,164000
+66,2,Steynlaan,16:42,164200
+66,3,Schaerweydelaan,16:43,164300
+66,4,Nepveulaan,16:44,164400
+66,5,De Dreef/Panweg,16:46,164600
+66,6,L-Flat,16:47,164700
+66,7,Gunninglaan,16:48,164800
+66,8,Winkelcentrum Vollenhove,16:50,165000
+66,9,Jordanlaan,16:52,165200
+66,10,KNMI,16:55,165500
+66,11,Oorsprongpark,17:00,170000
+66,12,Wittevrouwen,17:01,170100
+66,13,Stadsschouwburg,17:03,170300
+66,14,Janskerkhof,17:04,170400
+66,15,Neude,17:06,170600
+66,16,CS Jaarbeurszijde,17:12,171200
+66,17,CS Jaarbeurszijde,17:15,171500
+66,18,Hasebroekstraat,17:19,171900
+66,19,Majellapark,17:21,172100
+66,20,Thomas à Kempisplantsoen,17:22,172200
+66,21,Station Leidsche Rijn,17:24,172400
+66,22,Jan Wolkerssingel,17:26,172600
+66,23,Soestw./Antonius Zkh,17:29,172900
+66,24,Rijpwetering,17:30,173000
+66,25,Otto Hahnweg,17:33,173300
+66,26,Savannahweg,17:34,173400
+66,27,Zonnebaan,17:36,173600
+66,28,Bloem-Boomstede,17:37,173700
+66,29,Duiven-Fazantenkamp,17:38,173800
+66,30,Pauwen-Reigerskamp,17:39,173900
+66,31,Spechten-Valkenkamp,17:40,174000
+66,32,Spechten-Zwanenkamp,17:41,174100
+66,33,Vogelweg-Zwanenkamp,17:42,174200
+66,34,Zebraspoor,17:44,174400
+66,35,Kamelenspoor,17:44,174400
+66,36,Station Maarssen,17:46,174600
+67,1,Busstation,16:50,165000
+67,2,Steynlaan,16:52,165200
+67,3,Schaerweydelaan,16:53,165300
+67,4,Nepveulaan,16:54,165400
+67,5,De Dreef/Panweg,16:56,165600
+67,6,L-Flat,16:57,165700
+67,7,Gunninglaan,16:58,165800
+67,8,Winkelcentrum Vollenhove,17:00,170000
+67,9,Jordanlaan,17:02,170200
+67,10,KNMI,17:05,170500
+67,11,Oorsprongpark,17:10,171000
+67,12,Wittevrouwen,17:11,171100
+67,13,Stadsschouwburg,17:13,171300
+67,14,Janskerkhof,17:14,171400
+67,15,Neude,17:16,171600
+67,16,CS Jaarbeurszijde,17:22,172200
+67,17,CS Jaarbeurszijde,17:25,172500
+67,18,Hasebroekstraat,17:29,172900
+67,19,Majellapark,17:31,173100
+67,20,Thomas à Kempisplantsoen,17:32,173200
+67,21,Station Leidsche Rijn,17:34,173400
+67,22,Jan Wolkerssingel,17:36,173600
+67,23,Soestw./Antonius Zkh,17:39,173900
+67,24,Rijpwetering,17:40,174000
+67,25,Otto Hahnweg,17:43,174300
+67,26,Savannahweg,17:44,174400
+67,27,Zonnebaan,17:46,174600
+67,28,Bloem-Boomstede,17:47,174700
+67,29,Duiven-Fazantenkamp,17:48,174800
+67,30,Pauwen-Reigerskamp,17:49,174900
+67,31,Spechten-Valkenkamp,17:50,175000
+67,32,Spechten-Zwanenkamp,17:51,175100
+67,33,Vogelweg-Zwanenkamp,17:52,175200
+67,34,Zebraspoor,17:54,175400
+67,35,Kamelenspoor,17:54,175400
+67,36,Station Maarssen,17:56,175600
+68,1,Busstation,17:00,170000
+68,2,Steynlaan,17:02,170200
+68,3,Schaerweydelaan,17:03,170300
+68,4,Nepveulaan,17:04,170400
+68,5,De Dreef/Panweg,17:06,170600
+68,6,L-Flat,17:07,170700
+68,7,Gunninglaan,17:08,170800
+68,8,Winkelcentrum Vollenhove,17:10,171000
+68,9,Jordanlaan,17:12,171200
+68,10,KNMI,17:15,171500
+68,11,Oorsprongpark,17:20,172000
+68,12,Wittevrouwen,17:21,172100
+68,13,Stadsschouwburg,17:23,172300
+68,14,Janskerkhof,17:24,172400
+68,15,Neude,17:26,172600
+68,16,CS Jaarbeurszijde,17:32,173200
+68,17,CS Jaarbeurszijde,17:35,173500
+68,18,Hasebroekstraat,17:39,173900
+68,19,Majellapark,17:41,174100
+68,20,Thomas à Kempisplantsoen,17:42,174200
+68,21,Station Leidsche Rijn,17:44,174400
+68,22,Jan Wolkerssingel,17:46,174600
+68,23,Soestw./Antonius Zkh,17:49,174900
+68,24,Rijpwetering,17:50,175000
+68,25,Otto Hahnweg,17:53,175300
+68,26,Savannahweg,17:54,175400
+68,27,Zonnebaan,17:56,175600
+68,28,Bloem-Boomstede,17:57,175700
+68,29,Duiven-Fazantenkamp,17:58,175800
+68,30,Pauwen-Reigerskamp,17:59,175900
+68,31,Spechten-Valkenkamp,18:00,180000
+68,32,Spechten-Zwanenkamp,18:01,180100
+68,33,Vogelweg-Zwanenkamp,18:02,180200
+68,34,Zebraspoor,18:04,180400
+68,35,Kamelenspoor,18:04,180400
+68,36,Station Maarssen,18:06,180600
+69,1,Busstation,17:10,171000
+69,2,Steynlaan,17:12,171200
+69,3,Schaerweydelaan,17:13,171300
+69,4,Nepveulaan,17:14,171400
+69,5,De Dreef/Panweg,17:16,171600
+69,6,L-Flat,17:17,171700
+69,7,Gunninglaan,17:18,171800
+69,8,Winkelcentrum Vollenhove,17:20,172000
+69,9,Jordanlaan,17:22,172200
+69,10,KNMI,17:25,172500
+69,11,Oorsprongpark,17:30,173000
+69,12,Wittevrouwen,17:31,173100
+69,13,Stadsschouwburg,17:33,173300
+69,14,Janskerkhof,17:34,173400
+69,15,Neude,17:36,173600
+69,16,CS Jaarbeurszijde,17:42,174200
+69,17,CS Jaarbeurszijde,17:45,174500
+69,18,Hasebroekstraat,17:49,174900
+69,19,Majellapark,17:51,175100
+69,20,Thomas à Kempisplantsoen,17:52,175200
+69,21,Station Leidsche Rijn,17:54,175400
+69,22,Jan Wolkerssingel,17:56,175600
+69,23,Soestw./Antonius Zkh,17:59,175900
+69,24,Rijpwetering,18:00,180000
+69,25,Otto Hahnweg,18:03,180300
+69,26,Savannahweg,18:04,180400
+69,27,Zonnebaan,18:06,180600
+69,28,Bloem-Boomstede,18:07,180700
+69,29,Duiven-Fazantenkamp,18:08,180800
+69,30,Pauwen-Reigerskamp,18:09,180900
+69,31,Spechten-Valkenkamp,18:10,181000
+69,32,Spechten-Zwanenkamp,18:11,181100
+69,33,Vogelweg-Zwanenkamp,18:12,181200
+69,34,Zebraspoor,18:14,181400
+69,35,Kamelenspoor,18:14,181400
+69,36,Station Maarssen,18:16,181600
+70,1,Busstation,17:21,172100
+70,2,Steynlaan,17:23,172300
+70,3,Schaerweydelaan,17:24,172400
+70,4,Nepveulaan,17:25,172500
+70,5,De Dreef/Panweg,17:27,172700
+70,6,L-Flat,17:28,172800
+70,7,Gunninglaan,17:29,172900
+70,8,Winkelcentrum Vollenhove,17:31,173100
+70,9,Jordanlaan,17:33,173300
+70,10,KNMI,17:36,173600
+70,11,Oorsprongpark,17:41,174100
+70,12,Wittevrouwen,17:42,174200
+70,13,Stadsschouwburg,17:44,174400
+70,14,Janskerkhof,17:45,174500
+70,15,Neude,17:46,174600
+70,16,CS Jaarbeurszijde,17:52,175200
+70,17,CS Jaarbeurszijde,17:55,175500
+70,18,Hasebroekstraat,17:59,175900
+70,19,Majellapark,18:01,180100
+70,20,Thomas à Kempisplantsoen,18:02,180200
+70,21,Station Leidsche Rijn,18:04,180400
+70,22,Jan Wolkerssingel,18:06,180600
+70,23,Soestw./Antonius Zkh,18:09,180900
+70,24,Rijpwetering,18:10,181000
+70,25,Otto Hahnweg,18:13,181300
+70,26,Savannahweg,18:14,181400
+70,27,Zonnebaan,18:16,181600
+70,28,Bloem-Boomstede,18:17,181700
+70,29,Duiven-Fazantenkamp,18:18,181800
+70,30,Pauwen-Reigerskamp,18:19,181900
+70,31,Spechten-Valkenkamp,18:20,182000
+70,32,Spechten-Zwanenkamp,18:21,182100
+70,33,Vogelweg-Zwanenkamp,18:22,182200
+70,34,Zebraspoor,18:24,182400
+70,35,Kamelenspoor,18:24,182400
+70,36,Station Maarssen,18:26,182600
+71,1,Busstation,17:32,173200
+71,2,Steynlaan,17:34,173400
+71,3,Schaerweydelaan,17:35,173500
+71,4,Nepveulaan,17:36,173600
+71,5,De Dreef/Panweg,17:38,173800
+71,6,L-Flat,17:39,173900
+71,7,Gunninglaan,17:40,174000
+71,8,Winkelcentrum Vollenhove,17:42,174200
+71,9,Jordanlaan,17:44,174400
+71,10,KNMI,17:47,174700
+71,11,Oorsprongpark,17:51,175100
+71,12,Wittevrouwen,17:52,175200
+71,13,Stadsschouwburg,17:54,175400
+71,14,Janskerkhof,17:55,175500
+71,15,Neude,17:56,175600
+71,16,CS Jaarbeurszijde,18:02,180200
+71,17,CS Jaarbeurszijde,18:05,180500
+71,18,Hasebroekstraat,18:09,180900
+71,19,Majellapark,18:11,181100
+71,20,Thomas à Kempisplantsoen,18:12,181200
+71,21,Station Leidsche Rijn,18:14,181400
+71,22,Jan Wolkerssingel,18:16,181600
+71,23,Soestw./Antonius Zkh,18:19,181900
+71,24,Rijpwetering,18:20,182000
+71,25,Otto Hahnweg,18:23,182300
+71,26,Savannahweg,18:24,182400
+71,27,Zonnebaan,18:26,182600
+71,28,Bloem-Boomstede,18:27,182700
+71,29,Duiven-Fazantenkamp,18:28,182800
+71,30,Pauwen-Reigerskamp,18:29,182900
+71,31,Spechten-Valkenkamp,18:30,183000
+71,32,Spechten-Zwanenkamp,18:31,183100
+71,33,Vogelweg-Zwanenkamp,18:32,183200
+71,34,Zebraspoor,18:34,183400
+71,35,Kamelenspoor,18:34,183400
+71,36,Station Maarssen,18:36,183600
+72,1,Busstation,17:49,174900
+72,2,Steynlaan,17:51,175100
+72,3,Schaerweydelaan,17:52,175200
+72,4,Nepveulaan,17:53,175300
+72,5,De Dreef/Panweg,17:55,175500
+72,6,L-Flat,17:56,175600
+72,7,Gunninglaan,17:57,175700
+72,8,Winkelcentrum Vollenhove,17:59,175900
+72,9,Jordanlaan,18:01,180100
+72,10,KNMI,18:04,180400
+72,11,Oorsprongpark,18:08,180800
+72,12,Wittevrouwen,18:09,180900
+72,13,Stadsschouwburg,18:11,181100
+72,14,Janskerkhof,18:12,181200
+72,15,Neude,18:13,181300
+72,16,CS Jaarbeurszijde,18:19,181900
+72,17,CS Jaarbeurszijde,18:22,182200
+72,18,Hasebroekstraat,18:26,182600
+72,19,Majellapark,18:28,182800
+72,20,Thomas à Kempisplantsoen,18:29,182900
+72,21,Station Leidsche Rijn,18:31,183100
+72,22,Jan Wolkerssingel,18:32,183200
+72,23,Soestw./Antonius Zkh,18:35,183500
+72,24,Rijpwetering,18:36,183600
+72,25,Otto Hahnweg,18:39,183900
+72,26,Savannahweg,18:40,184000
+72,27,Zonnebaan,18:42,184200
+72,28,Bloem-Boomstede,18:43,184300
+72,29,Duiven-Fazantenkamp,18:44,184400
+72,30,Pauwen-Reigerskamp,18:45,184500
+72,31,Spechten-Valkenkamp,18:46,184600
+72,32,Spechten-Zwanenkamp,18:47,184700
+72,33,Vogelweg-Zwanenkamp,18:47,184700
+72,34,Zebraspoor,18:49,184900
+72,35,Kamelenspoor,18:49,184900
+72,36,Station Maarssen,18:51,185100
+73,1,Busstation,18:04,180400
+73,2,Steynlaan,18:06,180600
+73,3,Schaerweydelaan,18:07,180700
+73,4,Nepveulaan,18:08,180800
+73,5,De Dreef/Panweg,18:10,181000
+73,6,L-Flat,18:11,181100
+73,7,Gunninglaan,18:12,181200
+73,8,Winkelcentrum Vollenhove,18:14,181400
+73,9,Jordanlaan,18:16,181600
+73,10,KNMI,18:19,181900
+73,11,Oorsprongpark,18:23,182300
+73,12,Wittevrouwen,18:24,182400
+73,13,Stadsschouwburg,18:26,182600
+73,14,Janskerkhof,18:27,182700
+73,15,Neude,18:28,182800
+73,16,CS Jaarbeurszijde,18:34,183400
+73,17,CS Jaarbeurszijde,18:37,183700
+73,18,Hasebroekstraat,18:41,184100
+73,19,Majellapark,18:43,184300
+73,20,Thomas à Kempisplantsoen,18:44,184400
+73,21,Station Leidsche Rijn,18:46,184600
+73,22,Jan Wolkerssingel,18:47,184700
+73,23,Soestw./Antonius Zkh,18:50,185000
+73,24,Rijpwetering,18:51,185100
+73,25,Otto Hahnweg,18:54,185400
+73,26,Savannahweg,18:55,185500
+73,27,Zonnebaan,18:57,185700
+73,28,Bloem-Boomstede,18:58,185800
+73,29,Duiven-Fazantenkamp,18:59,185900
+73,30,Pauwen-Reigerskamp,19:00,190000
+73,31,Spechten-Valkenkamp,19:01,190100
+73,32,Spechten-Zwanenkamp,19:02,190200
+73,33,Vogelweg-Zwanenkamp,19:02,190200
+73,34,Zebraspoor,19:04,190400
+73,35,Kamelenspoor,19:04,190400
+73,36,Station Maarssen,19:06,190600
+74,1,Busstation,18:19,181900
+74,2,Steynlaan,18:21,182100
+74,3,Schaerweydelaan,18:22,182200
+74,4,Nepveulaan,18:23,182300
+74,5,De Dreef/Panweg,18:25,182500
+74,6,L-Flat,18:26,182600
+74,7,Gunninglaan,18:27,182700
+74,8,Winkelcentrum Vollenhove,18:29,182900
+74,9,Jordanlaan,18:31,183100
+74,10,KNMI,18:34,183400
+74,11,Oorsprongpark,18:38,183800
+74,12,Wittevrouwen,18:39,183900
+74,13,Stadsschouwburg,18:41,184100
+74,14,Janskerkhof,18:42,184200
+74,15,Neude,18:43,184300
+74,16,CS Jaarbeurszijde,18:49,184900
+74,17,CS Jaarbeurszijde,18:52,185200
+74,18,Hasebroekstraat,18:56,185600
+74,19,Majellapark,18:58,185800
+74,20,Thomas à Kempisplantsoen,18:59,185900
+74,21,Station Leidsche Rijn,19:01,190100
+74,22,Jan Wolkerssingel,19:02,190200
+74,23,Soestw./Antonius Zkh,19:05,190500
+74,24,Rijpwetering,19:06,190600
+74,25,Otto Hahnweg,19:09,190900
+74,26,Savannahweg,19:10,191000
+74,27,Zonnebaan,19:12,191200
+74,28,Bloem-Boomstede,19:13,191300
+74,29,Duiven-Fazantenkamp,19:14,191400
+74,30,Pauwen-Reigerskamp,19:15,191500
+74,31,Spechten-Valkenkamp,19:16,191600
+74,32,Spechten-Zwanenkamp,19:17,191700
+74,33,Vogelweg-Zwanenkamp,19:17,191700
+74,34,Zebraspoor,19:19,191900
+74,35,Kamelenspoor,19:19,191900
+74,36,Station Maarssen,19:21,192100
+75,1,Busstation,18:36,183600
+75,2,Steynlaan,18:38,183800
+75,3,Schaerweydelaan,18:39,183900
+75,4,Nepveulaan,18:40,184000
+75,5,De Dreef/Panweg,18:42,184200
+75,6,L-Flat,18:43,184300
+75,7,Gunninglaan,18:44,184400
+75,8,Winkelcentrum Vollenhove,18:46,184600
+75,9,Jordanlaan,18:48,184800
+75,10,KNMI,18:50,185000
+75,11,Oorsprongpark,18:54,185400
+75,12,Wittevrouwen,18:55,185500
+75,13,Stadsschouwburg,18:57,185700
+75,14,Janskerkhof,18:58,185800
+75,15,Neude,18:59,185900
+75,16,CS Jaarbeurszijde,19:04,190400
+75,17,CS Jaarbeurszijde,19:07,190700
+75,18,Hasebroekstraat,19:11,191100
+75,19,Majellapark,19:13,191300
+75,20,Thomas à Kempisplantsoen,19:14,191400
+75,21,Station Leidsche Rijn,19:16,191600
+75,22,Jan Wolkerssingel,19:17,191700
+75,23,Soestw./Antonius Zkh,19:20,192000
+75,24,Rijpwetering,19:21,192100
+75,25,Otto Hahnweg,19:24,192400
+75,26,Savannahweg,19:25,192500
+75,27,Zonnebaan,19:27,192700
+75,28,Bloem-Boomstede,19:28,192800
+75,29,Duiven-Fazantenkamp,19:29,192900
+75,30,Pauwen-Reigerskamp,19:30,193000
+75,31,Spechten-Valkenkamp,19:31,193100
+75,32,Spechten-Zwanenkamp,19:32,193200
+75,33,Vogelweg-Zwanenkamp,19:32,193200
+75,34,Zebraspoor,19:34,193400
+75,35,Kamelenspoor,19:34,193400
+75,36,Station Maarssen,19:36,193600
+76,1,Busstation,18:53,185300
+76,2,Steynlaan,18:54,185400
+76,3,Schaerweydelaan,18:56,185600
+76,4,Nepveulaan,18:57,185700
+76,5,De Dreef/Panweg,18:58,185800
+76,6,L-Flat,18:59,185900
+76,7,Gunninglaan,19:00,190000
+76,8,Winkelcentrum Vollenhove,19:01,190100
+76,9,Jordanlaan,19:03,190300
+76,10,KNMI,19:05,190500
+76,11,Oorsprongpark,19:09,190900
+76,12,Wittevrouwen,19:10,191000
+76,13,Stadsschouwburg,19:12,191200
+76,14,Janskerkhof,19:13,191300
+76,15,Neude,19:14,191400
+76,16,CS Jaarbeurszijde,19:19,191900
+76,17,CS Jaarbeurszijde,19:22,192200
+76,18,Hasebroekstraat,19:26,192600
+76,19,Majellapark,19:28,192800
+76,20,Thomas à Kempisplantsoen,19:29,192900
+76,21,Station Leidsche Rijn,19:31,193100
+76,22,Jan Wolkerssingel,19:32,193200
+76,23,Soestw./Antonius Zkh,19:35,193500
+76,24,Rijpwetering,19:36,193600
+76,25,Otto Hahnweg,19:39,193900
+76,26,Savannahweg,19:40,194000
+76,27,Zonnebaan,19:42,194200
+76,28,Bloem-Boomstede,19:43,194300
+76,29,Duiven-Fazantenkamp,19:44,194400
+76,30,Pauwen-Reigerskamp,19:45,194500
+76,31,Spechten-Valkenkamp,19:46,194600
+76,32,Spechten-Zwanenkamp,19:47,194700
+76,33,Vogelweg-Zwanenkamp,19:47,194700
+76,34,Zebraspoor,19:49,194900
+76,35,Kamelenspoor,19:49,194900
+76,36,Station Maarssen,19:51,195100
+77,1,Busstation,19:08,190800
+77,2,Steynlaan,19:09,190900
+77,3,Schaerweydelaan,19:11,191100
+77,4,Nepveulaan,19:12,191200
+77,5,De Dreef/Panweg,19:13,191300
+77,6,L-Flat,19:14,191400
+77,7,Gunninglaan,19:15,191500
+77,8,Winkelcentrum Vollenhove,19:16,191600
+77,9,Jordanlaan,19:18,191800
+77,10,KNMI,19:20,192000
+77,11,Oorsprongpark,19:24,192400
+77,12,Wittevrouwen,19:25,192500
+77,13,Stadsschouwburg,19:27,192700
+77,14,Janskerkhof,19:28,192800
+77,15,Neude,19:29,192900
+77,16,CS Jaarbeurszijde,19:34,193400
+77,17,CS Jaarbeurszijde,19:37,193700
+77,18,Hasebroekstraat,19:41,194100
+77,19,Majellapark,19:43,194300
+77,20,Thomas à Kempisplantsoen,19:44,194400
+77,21,Station Leidsche Rijn,19:46,194600
+77,22,Jan Wolkerssingel,19:47,194700
+77,23,Soestw./Antonius Zkh,19:50,195000
+77,24,Rijpwetering,19:51,195100
+77,25,Otto Hahnweg,19:54,195400
+77,26,Savannahweg,19:55,195500
+77,27,Zonnebaan,19:57,195700
+77,28,Bloem-Boomstede,19:58,195800
+77,29,Duiven-Fazantenkamp,19:59,195900
+77,30,Pauwen-Reigerskamp,20:00,200000
+77,31,Spechten-Valkenkamp,20:01,200100
+77,32,Spechten-Zwanenkamp,20:02,200200
+77,33,Vogelweg-Zwanenkamp,20:02,200200
+77,34,Zebraspoor,20:04,200400
+77,35,Kamelenspoor,20:04,200400
+77,36,Station Maarssen,20:06,200600
+78,1,Busstation,19:23,192300
+78,2,Steynlaan,19:24,192400
+78,3,Schaerweydelaan,19:26,192600
+78,4,Nepveulaan,19:27,192700
+78,5,De Dreef/Panweg,19:28,192800
+78,6,L-Flat,19:29,192900
+78,7,Gunninglaan,19:30,193000
+78,8,Winkelcentrum Vollenhove,19:31,193100
+78,9,Jordanlaan,19:33,193300
+78,10,KNMI,19:35,193500
+78,11,Oorsprongpark,19:39,193900
+78,12,Wittevrouwen,19:40,194000
+78,13,Stadsschouwburg,19:42,194200
+78,14,Janskerkhof,19:43,194300
+78,15,Neude,19:44,194400
+78,16,CS Jaarbeurszijde,19:49,194900
+78,17,CS Jaarbeurszijde,19:52,195200
+78,18,Hasebroekstraat,19:56,195600
+78,19,Majellapark,19:58,195800
+78,20,Thomas à Kempisplantsoen,19:59,195900
+78,21,Station Leidsche Rijn,20:01,200100
+78,22,Jan Wolkerssingel,20:02,200200
+78,23,Soestw./Antonius Zkh,20:05,200500
+78,24,Rijpwetering,20:06,200600
+78,25,Otto Hahnweg,20:09,200900
+78,26,Savannahweg,20:10,201000
+78,27,Zonnebaan,20:12,201200
+78,28,Bloem-Boomstede,20:13,201300
+78,29,Duiven-Fazantenkamp,20:14,201400
+78,30,Pauwen-Reigerskamp,20:15,201500
+78,31,Spechten-Valkenkamp,20:16,201600
+78,32,Spechten-Zwanenkamp,20:17,201700
+78,33,Vogelweg-Zwanenkamp,20:17,201700
+78,34,Zebraspoor,20:19,201900
+78,35,Kamelenspoor,20:19,201900
+78,36,Station Maarssen,20:21,202100
+79,1,Busstation,19:38,193800
+79,2,Steynlaan,19:39,193900
+79,3,Schaerweydelaan,19:41,194100
+79,4,Nepveulaan,19:42,194200
+79,5,De Dreef/Panweg,19:43,194300
+79,6,L-Flat,19:44,194400
+79,7,Gunninglaan,19:45,194500
+79,8,Winkelcentrum Vollenhove,19:46,194600
+79,9,Jordanlaan,19:48,194800
+79,10,KNMI,19:50,195000
+79,11,Oorsprongpark,19:54,195400
+79,12,Wittevrouwen,19:55,195500
+79,13,Stadsschouwburg,19:57,195700
+79,14,Janskerkhof,19:58,195800
+79,15,Neude,19:59,195900
+79,16,CS Jaarbeurszijde,20:04,200400
+79,17,CS Jaarbeurszijde,20:07,200700
+79,18,Hasebroekstraat,20:11,201100
+79,19,Majellapark,20:13,201300
+79,20,Thomas à Kempisplantsoen,20:14,201400
+79,21,Station Leidsche Rijn,20:16,201600
+79,22,Jan Wolkerssingel,20:17,201700
+79,23,Soestw./Antonius Zkh,20:20,202000
+79,24,Rijpwetering,20:21,202100
+79,25,Otto Hahnweg,20:24,202400
+79,26,Savannahweg,20:25,202500
+79,27,Zonnebaan,20:27,202700
+79,28,Bloem-Boomstede,20:28,202800
+79,29,Duiven-Fazantenkamp,20:29,202900
+79,30,Pauwen-Reigerskamp,20:30,203000
+79,31,Spechten-Valkenkamp,20:31,203100
+79,32,Spechten-Zwanenkamp,20:32,203200
+79,33,Vogelweg-Zwanenkamp,20:32,203200
+79,34,Zebraspoor,20:34,203400
+79,35,Kamelenspoor,20:34,203400
+79,36,Station Maarssen,20:36,203600
+80,1,Busstation,19:53,195300
+80,2,Steynlaan,19:54,195400
+80,3,Schaerweydelaan,19:56,195600
+80,4,Nepveulaan,19:57,195700
+80,5,De Dreef/Panweg,19:58,195800
+80,6,L-Flat,19:59,195900
+80,7,Gunninglaan,20:00,200000
+80,8,Winkelcentrum Vollenhove,20:01,200100
+80,9,Jordanlaan,20:03,200300
+80,10,KNMI,20:05,200500
+80,11,Oorsprongpark,20:09,200900
+80,12,Wittevrouwen,20:10,201000
+80,13,Stadsschouwburg,20:12,201200
+80,14,Janskerkhof,20:13,201300
+80,15,Neude,20:14,201400
+80,16,CS Jaarbeurszijde,20:19,201900
+80,17,CS Jaarbeurszijde,20:22,202200
+80,18,Hasebroekstraat,20:26,202600
+80,19,Majellapark,20:28,202800
+80,20,Thomas à Kempisplantsoen,20:29,202900
+80,21,Station Leidsche Rijn,20:31,203100
+80,22,Jan Wolkerssingel,20:32,203200
+80,23,Soestw./Antonius Zkh,20:35,203500
+80,24,Rijpwetering,20:36,203600
+80,25,Otto Hahnweg,20:39,203900
+80,26,Savannahweg,20:40,204000
+80,27,Zonnebaan,20:42,204200
+80,28,Bloem-Boomstede,20:43,204300
+80,29,Duiven-Fazantenkamp,20:44,204400
+80,30,Pauwen-Reigerskamp,20:45,204500
+80,31,Spechten-Valkenkamp,20:46,204600
+80,32,Spechten-Zwanenkamp,20:47,204700
+80,33,Vogelweg-Zwanenkamp,20:47,204700
+80,34,Zebraspoor,20:49,204900
+80,35,Kamelenspoor,20:49,204900
+80,36,Station Maarssen,20:51,205100
+81,1,Busstation,20:08,200800
+81,2,Steynlaan,20:09,200900
+81,3,Schaerweydelaan,20:11,201100
+81,4,Nepveulaan,20:12,201200
+81,5,De Dreef/Panweg,20:13,201300
+81,6,L-Flat,20:14,201400
+81,7,Gunninglaan,20:15,201500
+81,8,Winkelcentrum Vollenhove,20:16,201600
+81,9,Jordanlaan,20:18,201800
+81,10,KNMI,20:20,202000
+81,11,Oorsprongpark,20:24,202400
+81,12,Wittevrouwen,20:25,202500
+81,13,Stadsschouwburg,20:27,202700
+81,14,Janskerkhof,20:28,202800
+81,15,Neude,20:29,202900
+81,16,CS Jaarbeurszijde,20:34,203400
+81,17,CS Jaarbeurszijde,20:37,203700
+81,18,Hasebroekstraat,20:41,204100
+81,19,Majellapark,20:43,204300
+81,20,Thomas à Kempisplantsoen,20:44,204400
+81,21,Station Leidsche Rijn,20:46,204600
+81,22,Jan Wolkerssingel,20:47,204700
+81,23,Soestw./Antonius Zkh,20:50,205000
+81,24,Rijpwetering,20:51,205100
+81,25,Otto Hahnweg,20:54,205400
+81,26,Savannahweg,20:55,205500
+81,27,Zonnebaan,20:57,205700
+81,28,Bloem-Boomstede,20:58,205800
+81,29,Duiven-Fazantenkamp,20:59,205900
+81,30,Pauwen-Reigerskamp,21:00,210000
+81,31,Spechten-Valkenkamp,21:01,210100
+81,32,Spechten-Zwanenkamp,21:02,210200
+81,33,Vogelweg-Zwanenkamp,21:02,210200
+81,34,Zebraspoor,21:04,210400
+81,35,Kamelenspoor,21:04,210400
+81,36,Station Maarssen,21:06,210600
+82,1,Busstation,20:23,202300
+82,2,Steynlaan,20:24,202400
+82,3,Schaerweydelaan,20:26,202600
+82,4,Nepveulaan,20:27,202700
+82,5,De Dreef/Panweg,20:28,202800
+82,6,L-Flat,20:29,202900
+82,7,Gunninglaan,20:30,203000
+82,8,Winkelcentrum Vollenhove,20:31,203100
+82,9,Jordanlaan,20:33,203300
+82,10,KNMI,20:35,203500
+82,11,Oorsprongpark,20:39,203900
+82,12,Wittevrouwen,20:40,204000
+82,13,Stadsschouwburg,20:42,204200
+82,14,Janskerkhof,20:43,204300
+82,15,Neude,20:44,204400
+82,16,CS Jaarbeurszijde,20:49,204900
+82,17,CS Jaarbeurszijde,20:52,205200
+82,18,Hasebroekstraat,20:56,205600
+82,19,Majellapark,20:58,205800
+82,20,Thomas à Kempisplantsoen,20:59,205900
+82,21,Station Leidsche Rijn,21:01,210100
+82,22,Jan Wolkerssingel,21:02,210200
+82,23,Soestw./Antonius Zkh,21:05,210500
+82,24,Rijpwetering,21:06,210600
+82,25,Otto Hahnweg,21:09,210900
+82,26,Savannahweg,21:10,211000
+82,27,Zonnebaan,21:12,211200
+82,28,Bloem-Boomstede,21:13,211300
+82,29,Duiven-Fazantenkamp,21:14,211400
+82,30,Pauwen-Reigerskamp,21:15,211500
+82,31,Spechten-Valkenkamp,21:16,211600
+82,32,Spechten-Zwanenkamp,21:17,211700
+82,33,Vogelweg-Zwanenkamp,21:17,211700
+82,34,Zebraspoor,21:19,211900
+82,35,Kamelenspoor,21:19,211900
+82,36,Station Maarssen,21:21,212100
+83,1,Busstation,20:38,203800
+83,2,Steynlaan,20:39,203900
+83,3,Schaerweydelaan,20:41,204100
+83,4,Nepveulaan,20:42,204200
+83,5,De Dreef/Panweg,20:43,204300
+83,6,L-Flat,20:44,204400
+83,7,Gunninglaan,20:45,204500
+83,8,Winkelcentrum Vollenhove,20:46,204600
+83,9,Jordanlaan,20:48,204800
+83,10,KNMI,20:50,205000
+83,11,Oorsprongpark,20:54,205400
+83,12,Wittevrouwen,20:55,205500
+83,13,Stadsschouwburg,20:57,205700
+83,14,Janskerkhof,20:58,205800
+83,15,Neude,20:59,205900
+83,16,CS Jaarbeurszijde,21:04,210400
+83,17,CS Jaarbeurszijde,21:07,210700
+83,18,Hasebroekstraat,21:11,211100
+83,19,Majellapark,21:13,211300
+83,20,Thomas à Kempisplantsoen,21:14,211400
+83,21,Station Leidsche Rijn,21:16,211600
+83,22,Jan Wolkerssingel,21:17,211700
+83,23,Soestw./Antonius Zkh,21:20,212000
+83,24,Rijpwetering,21:21,212100
+83,25,Otto Hahnweg,21:24,212400
+83,26,Savannahweg,21:25,212500
+83,27,Zonnebaan,21:27,212700
+83,28,Bloem-Boomstede,21:28,212800
+83,29,Duiven-Fazantenkamp,21:29,212900
+83,30,Pauwen-Reigerskamp,21:30,213000
+83,31,Spechten-Valkenkamp,21:31,213100
+83,32,Spechten-Zwanenkamp,21:32,213200
+83,33,Vogelweg-Zwanenkamp,21:32,213200
+83,34,Zebraspoor,21:34,213400
+83,35,Kamelenspoor,21:34,213400
+83,36,Station Maarssen,21:36,213600
+84,1,Busstation,20:53,205300
+84,2,Steynlaan,20:54,205400
+84,3,Schaerweydelaan,20:56,205600
+84,4,Nepveulaan,20:57,205700
+84,5,De Dreef/Panweg,20:58,205800
+84,6,L-Flat,20:59,205900
+84,7,Gunninglaan,21:00,210000
+84,8,Winkelcentrum Vollenhove,21:01,210100
+84,9,Jordanlaan,21:03,210300
+84,10,KNMI,21:05,210500
+84,11,Oorsprongpark,21:09,210900
+84,12,Wittevrouwen,21:10,211000
+84,13,Stadsschouwburg,21:12,211200
+84,14,Janskerkhof,21:13,211300
+84,15,Neude,21:14,211400
+84,16,CS Jaarbeurszijde,21:19,211900
+84,17,CS Jaarbeurszijde,21:22,212200
+84,18,Hasebroekstraat,21:26,212600
+84,19,Majellapark,21:28,212800
+84,20,Thomas à Kempisplantsoen,21:29,212900
+84,21,Station Leidsche Rijn,21:31,213100
+84,22,Jan Wolkerssingel,21:32,213200
+84,23,Soestw./Antonius Zkh,21:35,213500
+84,24,Rijpwetering,21:36,213600
+84,25,Otto Hahnweg,21:39,213900
+84,26,Savannahweg,21:40,214000
+84,27,Zonnebaan,21:42,214200
+84,28,Bloem-Boomstede,21:43,214300
+84,29,Duiven-Fazantenkamp,21:44,214400
+84,30,Pauwen-Reigerskamp,21:45,214500
+84,31,Spechten-Valkenkamp,21:46,214600
+84,32,Spechten-Zwanenkamp,21:47,214700
+84,33,Vogelweg-Zwanenkamp,21:47,214700
+84,34,Zebraspoor,21:49,214900
+84,35,Kamelenspoor,21:49,214900
+84,36,Station Maarssen,21:51,215100
+85,1,Busstation,21:10,211000
+85,2,Steynlaan,21:11,211100
+85,3,Schaerweydelaan,21:13,211300
+85,4,Nepveulaan,21:14,211400
+85,5,De Dreef/Panweg,21:15,211500
+85,6,L-Flat,21:16,211600
+85,7,Gunninglaan,21:17,211700
+85,8,Winkelcentrum Vollenhove,21:18,211800
+85,9,Jordanlaan,21:20,212000
+85,10,KNMI,21:22,212200
+85,11,Oorsprongpark,21:26,212600
+85,12,Wittevrouwen,21:27,212700
+85,13,Stadsschouwburg,21:29,212900
+85,14,Janskerkhof,21:30,213000
+85,15,Neude,21:31,213100
+85,16,CS Jaarbeurszijde,21:36,213600
+85,17,CS Jaarbeurszijde,21:39,213900
+85,18,Hasebroekstraat,21:43,214300
+85,19,Majellapark,21:44,214400
+85,20,Thomas à Kempisplantsoen,21:45,214500
+85,21,Station Leidsche Rijn,21:47,214700
+85,22,Jan Wolkerssingel,21:48,214800
+85,23,Soestw./Antonius Zkh,21:50,215000
+85,24,Rijpwetering,21:51,215100
+85,25,Otto Hahnweg,21:54,215400
+85,26,Savannahweg,21:55,215500
+85,27,Zonnebaan,21:57,215700
+85,28,Bloem-Boomstede,21:58,215800
+85,29,Duiven-Fazantenkamp,21:59,215900
+85,30,Pauwen-Reigerskamp,22:00,220000
+85,31,Spechten-Valkenkamp,22:01,220100
+85,32,Spechten-Zwanenkamp,22:02,220200
+85,33,Vogelweg-Zwanenkamp,22:02,220200
+85,34,Zebraspoor,22:04,220400
+85,35,Kamelenspoor,22:04,220400
+85,36,Station Maarssen,22:06,220600
+86,1,Busstation,21:25,212500
+86,2,Steynlaan,21:26,212600
+86,3,Schaerweydelaan,21:28,212800
+86,4,Nepveulaan,21:29,212900
+86,5,De Dreef/Panweg,21:30,213000
+86,6,L-Flat,21:31,213100
+86,7,Gunninglaan,21:32,213200
+86,8,Winkelcentrum Vollenhove,21:33,213300
+86,9,Jordanlaan,21:35,213500
+86,10,KNMI,21:37,213700
+86,11,Oorsprongpark,21:41,214100
+86,12,Wittevrouwen,21:42,214200
+86,13,Stadsschouwburg,21:44,214400
+86,14,Janskerkhof,21:45,214500
+86,15,Neude,21:46,214600
+86,16,CS Jaarbeurszijde,21:51,215100
+86,17,CS Jaarbeurszijde,21:54,215400
+86,18,Hasebroekstraat,21:58,215800
+86,19,Majellapark,21:59,215900
+86,20,Thomas à Kempisplantsoen,22:00,220000
+86,21,Station Leidsche Rijn,22:02,220200
+86,22,Jan Wolkerssingel,22:03,220300
+86,23,Soestw./Antonius Zkh,22:05,220500
+86,24,Rijpwetering,22:06,220600
+86,25,Otto Hahnweg,22:09,220900
+86,26,Savannahweg,22:10,221000
+86,27,Zonnebaan,22:12,221200
+86,28,Bloem-Boomstede,22:13,221300
+86,29,Duiven-Fazantenkamp,22:14,221400
+86,30,Pauwen-Reigerskamp,22:15,221500
+86,31,Spechten-Valkenkamp,22:16,221600
+86,32,Spechten-Zwanenkamp,22:17,221700
+86,33,Vogelweg-Zwanenkamp,22:17,221700
+86,34,Zebraspoor,22:19,221900
+86,35,Kamelenspoor,22:19,221900
+86,36,Station Maarssen,22:21,222100
+87,1,Busstation,21:40,214000
+87,2,Steynlaan,21:41,214100
+87,3,Schaerweydelaan,21:43,214300
+87,4,Nepveulaan,21:44,214400
+87,5,De Dreef/Panweg,21:45,214500
+87,6,L-Flat,21:46,214600
+87,7,Gunninglaan,21:47,214700
+87,8,Winkelcentrum Vollenhove,21:48,214800
+87,9,Jordanlaan,21:50,215000
+87,10,KNMI,21:52,215200
+87,11,Oorsprongpark,21:56,215600
+87,12,Wittevrouwen,21:57,215700
+87,13,Stadsschouwburg,21:59,215900
+87,14,Janskerkhof,22:00,220000
+87,15,Neude,22:01,220100
+87,16,CS Jaarbeurszijde,22:06,220600
+87,17,CS Jaarbeurszijde,22:09,220900
+87,18,Hasebroekstraat,22:13,221300
+87,19,Majellapark,22:14,221400
+87,20,Thomas à Kempisplantsoen,22:15,221500
+87,21,Station Leidsche Rijn,22:17,221700
+87,22,Jan Wolkerssingel,22:18,221800
+87,23,Soestw./Antonius Zkh,22:20,222000
+87,24,Rijpwetering,22:21,222100
+87,25,Otto Hahnweg,22:24,222400
+87,26,Savannahweg,22:25,222500
+87,27,Zonnebaan,22:27,222700
+87,28,Bloem-Boomstede,22:28,222800
+87,29,Duiven-Fazantenkamp,22:29,222900
+87,30,Pauwen-Reigerskamp,22:30,223000
+87,31,Spechten-Valkenkamp,22:31,223100
+87,32,Spechten-Zwanenkamp,22:32,223200
+87,33,Vogelweg-Zwanenkamp,22:32,223200
+87,34,Zebraspoor,22:34,223400
+87,35,Kamelenspoor,22:34,223400
+87,36,Station Maarssen,22:36,223600
+88,1,Busstation,21:56,215600
+88,2,Steynlaan,21:57,215700
+88,3,Schaerweydelaan,21:59,215900
+88,4,Nepveulaan,22:00,220000
+88,5,De Dreef/Panweg,22:01,220100
+88,6,L-Flat,22:02,220200
+88,7,Gunninglaan,22:03,220300
+88,8,Winkelcentrum Vollenhove,22:04,220400
+88,9,Jordanlaan,22:06,220600
+88,10,KNMI,22:08,220800
+88,11,Oorsprongpark,22:12,221200
+88,12,Wittevrouwen,22:13,221300
+88,13,Stadsschouwburg,22:15,221500
+88,14,Janskerkhof,22:16,221600
+88,15,Neude,22:17,221700
+88,16,CS Jaarbeurszijde,22:21,222100
+88,17,CS Jaarbeurszijde,22:24,222400
+88,18,Hasebroekstraat,22:28,222800
+88,19,Majellapark,22:29,222900
+88,20,Thomas à Kempisplantsoen,22:30,223000
+88,21,Station Leidsche Rijn,22:32,223200
+88,22,Jan Wolkerssingel,22:33,223300
+88,23,Soestw./Antonius Zkh,22:35,223500
+88,24,Rijpwetering,22:36,223600
+88,25,Otto Hahnweg,22:39,223900
+88,26,Savannahweg,22:40,224000
+88,27,Zonnebaan,22:42,224200
+88,28,Bloem-Boomstede,22:43,224300
+88,29,Duiven-Fazantenkamp,22:44,224400
+88,30,Pauwen-Reigerskamp,22:45,224500
+88,31,Spechten-Valkenkamp,22:46,224600
+88,32,Spechten-Zwanenkamp,22:47,224700
+88,33,Vogelweg-Zwanenkamp,22:47,224700
+88,34,Zebraspoor,22:49,224900
+88,35,Kamelenspoor,22:49,224900
+88,36,Station Maarssen,22:51,225100
+89,1,Busstation,22:12,221200
+89,2,Steynlaan,22:13,221300
+89,3,Schaerweydelaan,22:15,221500
+89,4,Nepveulaan,22:16,221600
+89,5,De Dreef/Panweg,22:17,221700
+89,6,L-Flat,22:18,221800
+89,7,Gunninglaan,22:19,221900
+89,8,Winkelcentrum Vollenhove,22:20,222000
+89,9,Jordanlaan,22:22,222200
+89,10,KNMI,22:24,222400
+89,11,Oorsprongpark,22:28,222800
+89,12,Wittevrouwen,22:29,222900
+89,13,Stadsschouwburg,22:30,223000
+89,14,Janskerkhof,22:31,223100
+89,15,Neude,22:32,223200
+89,16,CS Jaarbeurszijde,22:36,223600
+89,17,CS Jaarbeurszijde,22:39,223900
+89,18,Hasebroekstraat,22:43,224300
+89,19,Majellapark,22:44,224400
+89,20,Thomas à Kempisplantsoen,22:45,224500
+89,21,Station Leidsche Rijn,22:47,224700
+89,22,Jan Wolkerssingel,22:48,224800
+89,23,Soestw./Antonius Zkh,22:50,225000
+89,24,Rijpwetering,22:51,225100
+89,25,Otto Hahnweg,22:54,225400
+89,26,Savannahweg,22:55,225500
+89,27,Zonnebaan,22:57,225700
+89,28,Bloem-Boomstede,22:58,225800
+89,29,Duiven-Fazantenkamp,22:59,225900
+89,30,Pauwen-Reigerskamp,23:00,230000
+89,31,Spechten-Valkenkamp,23:01,230100
+89,32,Spechten-Zwanenkamp,23:02,230200
+89,33,Vogelweg-Zwanenkamp,23:02,230200
+89,34,Zebraspoor,23:04,230400
+89,35,Kamelenspoor,23:04,230400
+89,36,Station Maarssen,23:06,230600
+90,1,Busstation,22:27,222700
+90,2,Steynlaan,22:28,222800
+90,3,Schaerweydelaan,22:30,223000
+90,4,Nepveulaan,22:31,223100
+90,5,De Dreef/Panweg,22:32,223200
+90,6,L-Flat,22:33,223300
+90,7,Gunninglaan,22:34,223400
+90,8,Winkelcentrum Vollenhove,22:35,223500
+90,9,Jordanlaan,22:37,223700
+90,10,KNMI,22:39,223900
+90,11,Oorsprongpark,22:43,224300
+90,12,Wittevrouwen,22:44,224400
+90,13,Stadsschouwburg,22:45,224500
+90,14,Janskerkhof,22:46,224600
+90,15,Neude,22:47,224700
+90,16,CS Jaarbeurszijde,22:51,225100
+90,17,CS Jaarbeurszijde,22:54,225400
+90,18,Hasebroekstraat,22:58,225800
+90,19,Majellapark,22:59,225900
+90,20,Thomas à Kempisplantsoen,23:00,230000
+90,21,Station Leidsche Rijn,23:02,230200
+90,22,Jan Wolkerssingel,23:03,230300
+90,23,Soestw./Antonius Zkh,23:05,230500
+90,24,Rijpwetering,23:06,230600
+90,25,Otto Hahnweg,23:09,230900
+90,26,Savannahweg,23:10,231000
+90,27,Zonnebaan,23:12,231200
+90,28,Bloem-Boomstede,23:13,231300
+90,29,Duiven-Fazantenkamp,23:14,231400
+90,30,Pauwen-Reigerskamp,23:15,231500
+90,31,Spechten-Valkenkamp,23:16,231600
+90,32,Spechten-Zwanenkamp,23:17,231700
+90,33,Vogelweg-Zwanenkamp,23:17,231700
+90,34,Zebraspoor,23:19,231900
+90,35,Kamelenspoor,23:19,231900
+90,36,Station Maarssen,23:21,232100
+91,1,Busstation,22:42,224200
+91,2,Steynlaan,22:43,224300
+91,3,Schaerweydelaan,22:45,224500
+91,4,Nepveulaan,22:46,224600
+91,5,De Dreef/Panweg,22:47,224700
+91,6,L-Flat,22:48,224800
+91,7,Gunninglaan,22:49,224900
+91,8,Winkelcentrum Vollenhove,22:50,225000
+91,9,Jordanlaan,22:52,225200
+91,10,KNMI,22:54,225400
+91,11,Oorsprongpark,22:58,225800
+91,12,Wittevrouwen,22:59,225900
+91,13,Stadsschouwburg,23:00,230000
+91,14,Janskerkhof,23:01,230100
+91,15,Neude,23:02,230200
+91,16,CS Jaarbeurszijde,23:06,230600
+91,17,CS Jaarbeurszijde,23:09,230900
+91,18,Hasebroekstraat,23:13,231300
+91,19,Majellapark,23:14,231400
+91,20,Thomas à Kempisplantsoen,23:15,231500
+91,21,Station Leidsche Rijn,23:17,231700
+91,22,Jan Wolkerssingel,23:18,231800
+91,23,Soestw./Antonius Zkh,23:20,232000
+91,24,Rijpwetering,23:21,232100
+91,25,Otto Hahnweg,23:24,232400
+91,26,Savannahweg,23:25,232500
+91,27,Zonnebaan,23:27,232700
+91,28,Bloem-Boomstede,23:28,232800
+91,29,Duiven-Fazantenkamp,23:29,232900
+91,30,Pauwen-Reigerskamp,23:30,233000
+91,31,Spechten-Valkenkamp,23:31,233100
+91,32,Spechten-Zwanenkamp,23:32,233200
+91,33,Vogelweg-Zwanenkamp,23:32,233200
+91,34,Zebraspoor,23:34,233400
+91,35,Kamelenspoor,23:34,233400
+91,36,Station Maarssen,23:36,233600
+92,1,Busstation,22:58,225800
+92,2,Steynlaan,22:59,225900
+92,3,Schaerweydelaan,23:01,230100
+92,4,Nepveulaan,23:02,230200
+92,5,De Dreef/Panweg,23:03,230300
+92,6,L-Flat,23:04,230400
+92,7,Gunninglaan,23:05,230500
+92,8,Winkelcentrum Vollenhove,23:06,230600
+92,9,Jordanlaan,23:08,230800
+92,10,KNMI,23:10,231000
+92,11,Oorsprongpark,23:14,231400
+92,12,Wittevrouwen,23:15,231500
+92,13,Stadsschouwburg,23:16,231600
+92,14,Janskerkhof,23:17,231700
+92,15,Neude,23:18,231800
+92,16,CS Jaarbeurszijde,23:22,232200
+92,17,CS Jaarbeurszijde,23:25,232500
+92,18,Hasebroekstraat,23:29,232900
+92,19,Majellapark,23:30,233000
+92,20,Thomas à Kempisplantsoen,23:31,233100
+92,21,Station Leidsche Rijn,23:33,233300
+92,22,Jan Wolkerssingel,23:34,233400
+92,23,Soestw./Antonius Zkh,23:36,233600
+92,24,Rijpwetering,23:37,233700
+92,25,Otto Hahnweg,23:40,234000
+92,26,Savannahweg,23:41,234100
+92,27,Zonnebaan,23:42,234200
+92,28,Bloem-Boomstede,23:43,234300
+92,29,Duiven-Fazantenkamp,23:44,234400
+92,30,Pauwen-Reigerskamp,23:45,234500
+92,31,Spechten-Valkenkamp,23:46,234600
+92,32,Spechten-Zwanenkamp,23:47,234700
+92,33,Vogelweg-Zwanenkamp,23:47,234700
+92,34,Zebraspoor,23:49,234900
+92,35,Kamelenspoor,23:49,234900
+92,36,Station Maarssen,23:51,235100
+93,1,Busstation,23:14,231400
+93,2,Steynlaan,23:15,231500
+93,3,Schaerweydelaan,23:17,231700
+93,4,Nepveulaan,23:18,231800
+93,5,De Dreef/Panweg,23:19,231900
+93,6,L-Flat,23:20,232000
+93,7,Gunninglaan,23:21,232100
+93,8,Winkelcentrum Vollenhove,23:22,232200
+93,9,Jordanlaan,23:24,232400
+93,10,KNMI,23:26,232600
+93,11,Oorsprongpark,23:30,233000
+93,12,Wittevrouwen,23:31,233100
+93,13,Stadsschouwburg,23:32,233200
+93,14,Janskerkhof,23:33,233300
+93,15,Neude,23:34,233400
+93,16,CS Jaarbeurszijde,23:38,233800
+93,17,CS Jaarbeurszijde,23:41,234100
+93,18,Hasebroekstraat,23:45,234500
+93,19,Majellapark,23:46,234600
+93,20,Thomas à Kempisplantsoen,23:47,234700
+93,21,Station Leidsche Rijn,23:49,234900
+93,22,Jan Wolkerssingel,23:50,235000
+93,23,Soestw./Antonius Zkh,23:52,235200
+93,24,Rijpwetering,23:53,235300
+93,25,Otto Hahnweg,23:55,235500
+93,26,Savannahweg,23:56,235600
+93,27,Zonnebaan,23:57,235700
+93,28,Bloem-Boomstede,23:58,235800
+93,29,Duiven-Fazantenkamp,23:59,235900
+93,30,Pauwen-Reigerskamp,00:00*,240000
+93,31,Spechten-Valkenkamp,00:01*,240100
+93,32,Spechten-Zwanenkamp,00:02*,240200
+93,33,Vogelweg-Zwanenkamp,00:02*,240200
+93,34,Zebraspoor,00:04*,240400
+93,35,Kamelenspoor,00:04*,240400
+93,36,Station Maarssen,00:06*,240600
+94,1,Busstation,23:29,232900
+94,2,Steynlaan,23:30,233000
+94,3,Schaerweydelaan,23:32,233200
+94,4,Nepveulaan,23:33,233300
+94,5,De Dreef/Panweg,23:34,233400
+94,6,L-Flat,23:35,233500
+94,7,Gunninglaan,23:36,233600
+94,8,Winkelcentrum Vollenhove,23:37,233700
+94,9,Jordanlaan,23:39,233900
+94,10,KNMI,23:41,234100
+94,11,Oorsprongpark,23:45,234500
+94,12,Wittevrouwen,23:46,234600
+94,13,Stadsschouwburg,23:47,234700
+94,14,Janskerkhof,23:48,234800
+94,15,Neude,23:49,234900
+94,16,CS Jaarbeurszijde,23:53,235300
+94,17,CS Jaarbeurszijde,23:56,235600
+94,18,Hasebroekstraat,00:00*,240000
+94,19,Majellapark,00:01*,240100
+94,20,Thomas à Kempisplantsoen,00:02*,240200
+94,21,Station Leidsche Rijn,00:04*,240400
+94,22,Jan Wolkerssingel,00:05*,240500
+94,23,Soestw./Antonius Zkh,00:07*,240700
+94,24,Rijpwetering,00:08*,240800
+94,25,Otto Hahnweg,00:10*,241000
+94,26,Savannahweg,00:11*,241100
+94,27,Zonnebaan,00:12*,241200
+94,28,Bloem-Boomstede,00:13*,241300
+94,29,Duiven-Fazantenkamp,00:14*,241400
+94,30,Pauwen-Reigerskamp,00:15*,241500
+94,31,Spechten-Valkenkamp,00:16*,241600
+94,32,Spechten-Zwanenkamp,00:17*,241700
+94,33,Vogelweg-Zwanenkamp,00:17*,241700
+94,34,Zebraspoor,00:19*,241900
+94,35,Kamelenspoor,00:19*,241900
+94,36,Station Maarssen,00:21*,242100
+95,1,Busstation,23:44,234400
+95,2,Steynlaan,23:45,234500
+95,3,Schaerweydelaan,23:47,234700
+95,4,Nepveulaan,23:48,234800
+95,5,De Dreef/Panweg,23:49,234900
+95,6,L-Flat,23:50,235000
+95,7,Gunninglaan,23:51,235100
+95,8,Winkelcentrum Vollenhove,23:52,235200
+95,9,Jordanlaan,23:54,235400
+95,10,KNMI,23:56,235600
+95,11,Oorsprongpark,00:00*,240000
+95,12,Wittevrouwen,00:01*,240100
+95,13,Stadsschouwburg,00:02*,240200
+95,14,Janskerkhof,00:03*,240300
+95,15,Neude,00:04*,240400
+95,16,CS Jaarbeurszijde,00:08*,240800
+95,17,CS Jaarbeurszijde,00:11*,241100
+95,18,Hasebroekstraat,00:15*,241500
+95,19,Majellapark,00:16*,241600
+95,20,Thomas à Kempisplantsoen,00:17*,241700
+95,21,Station Leidsche Rijn,00:19*,241900
+95,22,Jan Wolkerssingel,00:20*,242000
+95,23,Soestw./Antonius Zkh,00:22*,242200
+95,24,Rijpwetering,00:23*,242300
+95,25,Otto Hahnweg,00:25*,242500
+95,26,Savannahweg,00:26*,242600
+95,27,Zonnebaan,00:27*,242700
+95,28,Bloem-Boomstede,00:28*,242800
+95,29,Duiven-Fazantenkamp,00:29*,242900
+95,30,Pauwen-Reigerskamp,00:30*,243000
+95,31,Spechten-Valkenkamp,00:31*,243100
+95,32,Spechten-Zwanenkamp,00:32*,243200
+95,33,Vogelweg-Zwanenkamp,00:32*,243200
+95,34,Zebraspoor,00:34*,243400
+95,35,Kamelenspoor,00:34*,243400
+95,36,Station Maarssen,00:36*,243600
+96,1,Busstation,23:59,235900
+96,2,Steynlaan,00:00*,240000
+96,3,Schaerweydelaan,00:02*,240200
+96,4,Nepveulaan,00:03*,240300
+96,5,De Dreef/Panweg,00:04*,240400
+96,6,L-Flat,00:05*,240500
+96,7,Gunninglaan,00:06*,240600
+96,8,Winkelcentrum Vollenhove,00:07*,240700
+96,9,Jordanlaan,00:09*,240900
+96,10,KNMI,00:11*,241100
+96,11,Oorsprongpark,00:15*,241500
+96,12,Wittevrouwen,00:16*,241600
+96,13,Stadsschouwburg,00:17*,241700
+96,14,Janskerkhof,00:18*,241800
+96,15,Neude,00:19*,241900
+96,16,CS Jaarbeurszijde,00:23*,242300
+96,17,CS Jaarbeurszijde,00:26*,242600
+96,18,Hasebroekstraat,00:30*,243000
+96,19,Majellapark,00:31*,243100
+96,20,Thomas à Kempisplantsoen,00:32*,243200
+96,21,Station Leidsche Rijn,00:34*,243400
+96,22,Jan Wolkerssingel,00:35*,243500
+96,23,Soestw./Antonius Zkh,00:37*,243700
+96,24,Rijpwetering,00:38*,243800
+96,25,Otto Hahnweg,00:40*,244000
+96,26,Savannahweg,00:41*,244100
+96,27,Zonnebaan,00:42*,244200
+96,28,Bloem-Boomstede,00:43*,244300
+96,29,Duiven-Fazantenkamp,00:44*,244400
+96,30,Pauwen-Reigerskamp,00:45*,244500
+96,31,Spechten-Valkenkamp,00:46*,244600
+96,32,Spechten-Zwanenkamp,00:47*,244700
+96,33,Vogelweg-Zwanenkamp,00:47*,244700
+96,34,Zebraspoor,00:49*,244900
+96,35,Kamelenspoor,00:49*,244900
+96,36,Station Maarssen,00:51*,245100
+97,1,Busstation,00:14*,241400
+97,2,Steynlaan,00:15*,241500
+97,3,Schaerweydelaan,00:17*,241700
+97,4,Nepveulaan,00:18*,241800
+97,5,De Dreef/Panweg,00:19*,241900
+97,6,L-Flat,00:20*,242000
+97,7,Gunninglaan,00:21*,242100
+97,8,Winkelcentrum Vollenhove,00:22*,242200
+97,9,Jordanlaan,00:24*,242400
+97,10,KNMI,00:26*,242600
+97,11,Oorsprongpark,00:30*,243000
+97,12,Wittevrouwen,00:31*,243100
+97,13,Stadsschouwburg,00:32*,243200
+97,14,Janskerkhof,00:33*,243300
+97,15,Neude,00:34*,243400
+97,16,CS Jaarbeurszijde,00:38*,243800
+97,17,CS Jaarbeurszijde,00:41*,244100
+97,18,Hasebroekstraat,00:45*,244500
+97,19,Majellapark,00:46*,244600
+97,20,Thomas à Kempisplantsoen,00:47*,244700
+97,21,Station Leidsche Rijn,00:49*,244900
+97,22,Jan Wolkerssingel,00:50*,245000
+97,23,Soestw./Antonius Zkh,00:52*,245200
+97,24,Rijpwetering,00:53*,245300
+97,25,Otto Hahnweg,00:55*,245500
+97,26,Savannahweg,00:56*,245600
+97,27,Zonnebaan,00:57*,245700
+97,28,Bloem-Boomstede,00:58*,245800
+97,29,Duiven-Fazantenkamp,00:59*,245900
+97,30,Pauwen-Reigerskamp,01:00*,250000
+97,31,Spechten-Valkenkamp,01:01*,250100
+97,32,Spechten-Zwanenkamp,01:02*,250200
+97,33,Vogelweg-Zwanenkamp,01:02*,250200
+97,34,Zebraspoor,01:04*,250400
+97,35,Kamelenspoor,01:04*,250400
+97,36,Station Maarssen,01:06*,250600
+98,1,Busstation,00:30*,243000
+98,2,Steynlaan,00:31*,243100
+98,3,Schaerweydelaan,00:33*,243300
+98,4,Nepveulaan,00:34*,243400
+98,5,De Dreef/Panweg,00:35*,243500
+98,6,L-Flat,00:36*,243600
+98,7,Gunninglaan,00:37*,243700
+98,8,Winkelcentrum Vollenhove,00:38*,243800
+98,9,Jordanlaan,00:40*,244000
+98,10,KNMI,00:42*,244200
+98,11,Oorsprongpark,00:46*,244600
+98,12,Wittevrouwen,00:47*,244700
+98,13,Stadsschouwburg,00:48*,244800
+98,14,Janskerkhof,00:49*,244900
+98,15,Neude,00:50*,245000
+98,16,CS Jaarbeurszijde,00:54*,245400
+98,17,CS Jaarbeurszijde,01:00*,250000
+98,18,Hasebroekstraat,01:04*,250400
+98,19,Majellapark,01:05*,250500
+98,20,Thomas à Kempisplantsoen,01:06*,250600
+98,21,Station Leidsche Rijn,01:08*,250800
+98,22,Jan Wolkerssingel,01:09*,250900
+98,23,Soestw./Antonius Zkh,01:11*,251100
+98,24,Rijpwetering,01:12*,251200
+98,25,Otto Hahnweg,01:14*,251400
+98,26,Savannahweg,01:15*,251500
+98,27,Zonnebaan,01:16*,251600
+98,28,Bloem-Boomstede,01:17*,251700
+98,29,Duiven-Fazantenkamp,01:18*,251800
+98,30,Pauwen-Reigerskamp,01:19*,251900
+98,31,Spechten-Valkenkamp,01:20*,252000
+98,32,Spechten-Zwanenkamp,01:21*,252100
+98,33,Vogelweg-Zwanenkamp,01:21*,252100
+98,34,Zebraspoor,01:23*,252300
+98,35,Kamelenspoor,01:23*,252300
+98,36,Station Maarssen,01:25*,252500

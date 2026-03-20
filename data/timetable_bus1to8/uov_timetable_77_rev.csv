@@ -1,0 +1,3621 @@
+trip_index,stop_sequence,stop_name,time,timestamp
+1,1,Nieuwegein City,05:39,053900
+1,2,Noordstedeweg,05:41,054100
+1,3,Barnsteendrift,05:42,054200
+1,4,De Baten,05:43,054300
+1,5,Antilopeweide,05:44,054400
+1,6,Landmansweide,05:45,054500
+1,7,Middenweide,05:46,054600
+1,8,Rembrandthage,05:48,054800
+1,9,Gerbrandypark,05:49,054900
+1,10,Guido Gezellehove,05:50,055000
+1,11,Galecopperdijk,05:52,055200
+1,12,Herman Heijermanshove,05:53,055300
+1,13,Blokhoeve-Noord,05:54,055400
+1,14,P+R Westraven,05:56,055600
+1,15,Kanaleneiland-Zuid,05:57,055700
+1,16,Europaplein-Noord,06:00,060000
+1,17,Lanslaan,06:01,060100
+1,18,CS Jaarbeurszijde,06:09,060900
+1,19,Neude,06:13,061300
+1,20,Janskerkhof,06:14,061400
+1,21,Stadsschouwburg,06:15,061500
+1,22,Wittevrouwen,06:16,061600
+1,23,Oorsprongpark,06:17,061700
+1,24,Sartreweg,06:19,061900
+1,25,Veemarkt,06:20,062000
+1,26,Alfred Nobellaan,06:23,062300
+1,27,Hessenweg,06:24,062400
+1,28,Looydijk,06:25,062500
+1,29,Dr. Letteplein,06:27,062700
+1,30,Groenekanseweg,06:28,062800
+1,31,Zonneplein,06:29,062900
+1,32,Poolsterlaan,06:30,063000
+1,33,Duivenlaan,06:31,063100
+1,34,Konijnenlaan,06:32,063200
+1,35,2e Brandenburgerweg,06:33,063300
+1,36,Leyenseweg,06:35,063500
+1,37,Station Bilthoven,06:38,063800
+2,1,Nieuwegein City,05:54,055400
+2,2,Noordstedeweg,05:56,055600
+2,3,Barnsteendrift,05:57,055700
+2,4,De Baten,05:58,055800
+2,5,Antilopeweide,05:59,055900
+2,6,Landmansweide,06:00,060000
+2,7,Middenweide,06:01,060100
+2,8,Rembrandthage,06:03,060300
+2,9,Gerbrandypark,06:04,060400
+2,10,Guido Gezellehove,06:05,060500
+2,11,Galecopperdijk,06:07,060700
+2,12,Herman Heijermanshove,06:08,060800
+2,13,Blokhoeve-Noord,06:09,060900
+2,14,P+R Westraven,06:11,061100
+2,15,Kanaleneiland-Zuid,06:13,061300
+2,16,Europaplein-Noord,06:16,061600
+2,17,Lanslaan,06:17,061700
+2,18,CS Jaarbeurszijde,06:25,062500
+2,19,Neude,06:30,063000
+2,20,Janskerkhof,06:31,063100
+2,21,Stadsschouwburg,06:32,063200
+2,22,Wittevrouwen,06:33,063300
+2,23,Oorsprongpark,06:34,063400
+2,24,Sartreweg,06:36,063600
+2,25,Veemarkt,06:37,063700
+2,26,Alfred Nobellaan,06:40,064000
+2,27,Hessenweg,06:41,064100
+2,28,Looydijk,06:42,064200
+2,29,Dr. Letteplein,06:44,064400
+2,30,Groenekanseweg,06:45,064500
+2,31,Zonneplein,06:46,064600
+2,32,Poolsterlaan,06:47,064700
+2,33,Duivenlaan,06:48,064800
+2,34,Konijnenlaan,06:49,064900
+2,35,2e Brandenburgerweg,06:50,065000
+2,36,Leyenseweg,06:52,065200
+2,37,Station Bilthoven,06:55,065500
+3,1,Nieuwegein City,06:08,060800
+3,2,Noordstedeweg,06:10,061000
+3,3,Barnsteendrift,06:11,061100
+3,4,De Baten,06:12,061200
+3,5,Antilopeweide,06:13,061300
+3,6,Landmansweide,06:14,061400
+3,7,Middenweide,06:16,061600
+3,8,Rembrandthage,06:18,061800
+3,9,Gerbrandypark,06:19,061900
+3,10,Guido Gezellehove,06:20,062000
+3,11,Galecopperdijk,06:22,062200
+3,12,Herman Heijermanshove,06:23,062300
+3,13,Blokhoeve-Noord,06:24,062400
+3,14,P+R Westraven,06:26,062600
+3,15,Kanaleneiland-Zuid,06:28,062800
+3,16,Europaplein-Noord,06:31,063100
+3,17,Lanslaan,06:32,063200
+3,18,CS Jaarbeurszijde,06:40,064000
+3,19,Neude,06:45,064500
+3,20,Janskerkhof,06:47,064700
+3,21,Stadsschouwburg,06:48,064800
+3,22,Wittevrouwen,06:50,065000
+3,23,Oorsprongpark,06:51,065100
+3,24,Sartreweg,06:53,065300
+3,25,Veemarkt,06:54,065400
+3,26,Alfred Nobellaan,06:57,065700
+3,27,Hessenweg,06:58,065800
+3,28,Looydijk,06:59,065900
+3,29,Dr. Letteplein,07:01,070100
+3,30,Groenekanseweg,07:03,070300
+3,31,Zonneplein,07:04,070400
+3,32,Poolsterlaan,07:05,070500
+3,33,Duivenlaan,07:06,070600
+3,34,Konijnenlaan,07:07,070700
+3,35,2e Brandenburgerweg,07:08,070800
+3,36,Leyenseweg,07:10,071000
+3,37,Station Bilthoven,07:13,071300
+4,1,Nieuwegein City,06:23,062300
+4,2,Noordstedeweg,06:25,062500
+4,3,Barnsteendrift,06:26,062600
+4,4,De Baten,06:27,062700
+4,5,Antilopeweide,06:28,062800
+4,6,Landmansweide,06:29,062900
+4,7,Middenweide,06:31,063100
+4,8,Rembrandthage,06:33,063300
+4,9,Gerbrandypark,06:34,063400
+4,10,Guido Gezellehove,06:35,063500
+4,11,Galecopperdijk,06:37,063700
+4,12,Herman Heijermanshove,06:38,063800
+4,13,Blokhoeve-Noord,06:39,063900
+4,14,P+R Westraven,06:41,064100
+4,15,Kanaleneiland-Zuid,06:43,064300
+4,16,Europaplein-Noord,06:46,064600
+4,17,Lanslaan,06:47,064700
+4,18,CS Jaarbeurszijde,06:55,065500
+4,19,Neude,07:00,070000
+4,20,Janskerkhof,07:02,070200
+4,21,Stadsschouwburg,07:03,070300
+4,22,Wittevrouwen,07:05,070500
+4,23,Oorsprongpark,07:06,070600
+4,24,Sartreweg,07:09,070900
+4,25,Veemarkt,07:10,071000
+4,26,Alfred Nobellaan,07:13,071300
+4,27,Hessenweg,07:14,071400
+4,28,Looydijk,07:15,071500
+4,29,Dr. Letteplein,07:17,071700
+4,30,Groenekanseweg,07:19,071900
+4,31,Zonneplein,07:20,072000
+4,32,Poolsterlaan,07:21,072100
+4,33,Duivenlaan,07:22,072200
+4,34,Konijnenlaan,07:23,072300
+4,35,2e Brandenburgerweg,07:24,072400
+4,36,Leyenseweg,07:26,072600
+4,37,Station Bilthoven,07:29,072900
+5,1,Nieuwegein City,06:38,063800
+5,2,Noordstedeweg,06:40,064000
+5,3,Barnsteendrift,06:41,064100
+5,4,De Baten,06:42,064200
+5,5,Antilopeweide,06:43,064300
+5,6,Landmansweide,06:44,064400
+5,7,Middenweide,06:46,064600
+5,8,Rembrandthage,06:48,064800
+5,9,Gerbrandypark,06:49,064900
+5,10,Guido Gezellehove,06:50,065000
+5,11,Galecopperdijk,06:52,065200
+5,12,Herman Heijermanshove,06:53,065300
+5,13,Blokhoeve-Noord,06:54,065400
+5,14,P+R Westraven,06:56,065600
+5,15,Kanaleneiland-Zuid,06:58,065800
+5,16,Europaplein-Noord,07:01,070100
+5,17,Lanslaan,07:02,070200
+5,18,CS Jaarbeurszijde,07:10,071000
+5,19,Neude,07:15,071500
+5,20,Janskerkhof,07:17,071700
+5,21,Stadsschouwburg,07:18,071800
+5,22,Wittevrouwen,07:20,072000
+5,23,Oorsprongpark,07:21,072100
+5,24,Sartreweg,07:24,072400
+5,25,Veemarkt,07:25,072500
+5,26,Alfred Nobellaan,07:28,072800
+5,27,Hessenweg,07:29,072900
+5,28,Looydijk,07:30,073000
+5,29,Dr. Letteplein,07:32,073200
+5,30,Groenekanseweg,07:34,073400
+5,31,Zonneplein,07:35,073500
+5,32,Poolsterlaan,07:36,073600
+5,33,Duivenlaan,07:37,073700
+5,34,Konijnenlaan,07:38,073800
+5,35,2e Brandenburgerweg,07:39,073900
+5,36,Leyenseweg,07:41,074100
+5,37,Station Bilthoven,07:44,074400
+6,1,Nieuwegein City,06:48,064800
+6,2,Noordstedeweg,06:50,065000
+6,3,Barnsteendrift,06:51,065100
+6,4,De Baten,06:52,065200
+6,5,Antilopeweide,06:53,065300
+6,6,Landmansweide,06:54,065400
+6,7,Middenweide,06:56,065600
+6,8,Rembrandthage,06:58,065800
+6,9,Gerbrandypark,06:59,065900
+6,10,Guido Gezellehove,07:00,070000
+6,11,Galecopperdijk,07:02,070200
+6,12,Herman Heijermanshove,07:03,070300
+6,13,Blokhoeve-Noord,07:04,070400
+6,14,P+R Westraven,07:06,070600
+6,15,Kanaleneiland-Zuid,07:08,070800
+6,16,Europaplein-Noord,07:11,071100
+6,17,Lanslaan,07:12,071200
+6,18,CS Jaarbeurszijde,07:20,072000
+6,19,Neude,07:25,072500
+6,20,Janskerkhof,07:27,072700
+6,21,Stadsschouwburg,07:28,072800
+6,22,Wittevrouwen,07:30,073000
+6,23,Oorsprongpark,07:31,073100
+6,24,Sartreweg,07:34,073400
+6,25,Veemarkt,07:35,073500
+6,26,Alfred Nobellaan,07:38,073800
+6,27,Hessenweg,07:39,073900
+6,28,Looydijk,07:40,074000
+6,29,Dr. Letteplein,07:42,074200
+6,30,Groenekanseweg,07:44,074400
+6,31,Zonneplein,07:45,074500
+6,32,Poolsterlaan,07:46,074600
+6,33,Duivenlaan,07:47,074700
+6,34,Konijnenlaan,07:48,074800
+6,35,2e Brandenburgerweg,07:49,074900
+6,36,Leyenseweg,07:51,075100
+6,37,Station Bilthoven,07:54,075400
+7,1,Nieuwegein City,06:58,065800
+7,2,Noordstedeweg,07:00,070000
+7,3,Barnsteendrift,07:01,070100
+7,4,De Baten,07:02,070200
+7,5,Antilopeweide,07:03,070300
+7,6,Landmansweide,07:04,070400
+7,7,Middenweide,07:06,070600
+7,8,Rembrandthage,07:08,070800
+7,9,Gerbrandypark,07:09,070900
+7,10,Guido Gezellehove,07:10,071000
+7,11,Galecopperdijk,07:12,071200
+7,12,Herman Heijermanshove,07:13,071300
+7,13,Blokhoeve-Noord,07:14,071400
+7,14,P+R Westraven,07:16,071600
+7,15,Kanaleneiland-Zuid,07:18,071800
+7,16,Europaplein-Noord,07:21,072100
+7,17,Lanslaan,07:23,072300
+7,18,CS Jaarbeurszijde,07:31,073100
+7,19,Neude,07:36,073600
+7,20,Janskerkhof,07:38,073800
+7,21,Stadsschouwburg,07:39,073900
+7,22,Wittevrouwen,07:41,074100
+7,23,Oorsprongpark,07:42,074200
+7,24,Sartreweg,07:45,074500
+7,25,Veemarkt,07:46,074600
+7,26,Alfred Nobellaan,07:49,074900
+7,27,Hessenweg,07:50,075000
+7,28,Looydijk,07:51,075100
+7,29,Dr. Letteplein,07:53,075300
+7,30,RIVM/1e Brandenburgerw.,07:55,075500
+7,31,Duivenlaan,07:57,075700
+7,32,Konijnenlaan,07:58,075800
+7,33,2e Brandenburgerweg,07:59,075900
+7,34,Leyenseweg,08:01,080100
+7,35,Station Bilthoven,08:04,080400
+8,1,Nieuwegein City,07:08,070800
+8,2,Noordstedeweg,07:10,071000
+8,3,Barnsteendrift,07:11,071100
+8,4,De Baten,07:12,071200
+8,5,Antilopeweide,07:13,071300
+8,6,Landmansweide,07:14,071400
+8,7,Middenweide,07:16,071600
+8,8,Rembrandthage,07:18,071800
+8,9,Gerbrandypark,07:19,071900
+8,10,Guido Gezellehove,07:20,072000
+8,11,Galecopperdijk,07:22,072200
+8,12,Herman Heijermanshove,07:23,072300
+8,13,Blokhoeve-Noord,07:24,072400
+8,14,P+R Westraven,07:26,072600
+8,15,Kanaleneiland-Zuid,07:28,072800
+8,16,Europaplein-Noord,07:31,073100
+8,17,Lanslaan,07:33,073300
+8,18,CS Jaarbeurszijde,07:41,074100
+8,19,Neude,07:46,074600
+8,20,Janskerkhof,07:48,074800
+8,21,Stadsschouwburg,07:49,074900
+8,22,Wittevrouwen,07:51,075100
+8,23,Oorsprongpark,07:52,075200
+8,24,Sartreweg,07:55,075500
+8,25,Veemarkt,07:56,075600
+8,26,Alfred Nobellaan,07:59,075900
+8,27,Hessenweg,08:00,080000
+8,28,Looydijk,08:01,080100
+8,29,Dr. Letteplein,08:03,080300
+8,30,Groenekanseweg,08:05,080500
+8,31,Zonneplein,08:06,080600
+8,32,Poolsterlaan,08:07,080700
+8,33,Duivenlaan,08:08,080800
+8,34,Konijnenlaan,08:09,080900
+8,35,2e Brandenburgerweg,08:10,081000
+8,36,Leyenseweg,08:12,081200
+8,37,Station Bilthoven,08:15,081500
+9,1,Nieuwegein City,07:17,071700
+9,2,Noordstedeweg,07:19,071900
+9,3,Barnsteendrift,07:20,072000
+9,4,De Baten,07:22,072200
+9,5,Antilopeweide,07:23,072300
+9,6,Landmansweide,07:24,072400
+9,7,Middenweide,07:26,072600
+9,8,Rembrandthage,07:28,072800
+9,9,Gerbrandypark,07:29,072900
+9,10,Guido Gezellehove,07:30,073000
+9,11,Galecopperdijk,07:32,073200
+9,12,Herman Heijermanshove,07:33,073300
+9,13,Blokhoeve-Noord,07:34,073400
+9,14,P+R Westraven,07:36,073600
+9,15,Kanaleneiland-Zuid,07:38,073800
+9,16,Europaplein-Noord,07:41,074100
+9,17,Lanslaan,07:43,074300
+9,18,CS Jaarbeurszijde,07:51,075100
+9,19,Neude,07:56,075600
+9,20,Janskerkhof,07:58,075800
+9,21,Stadsschouwburg,07:59,075900
+9,22,Wittevrouwen,08:01,080100
+9,23,Oorsprongpark,08:02,080200
+9,24,Sartreweg,08:05,080500
+9,25,Veemarkt,08:06,080600
+9,26,Alfred Nobellaan,08:09,080900
+9,27,Hessenweg,08:10,081000
+9,28,Looydijk,08:11,081100
+9,29,Dr. Letteplein,08:13,081300
+9,30,RIVM/1e Brandenburgerw.,08:14,081400
+9,31,Duivenlaan,08:16,081600
+9,32,Konijnenlaan,08:17,081700
+9,33,2e Brandenburgerweg,08:18,081800
+9,34,Leyenseweg,08:20,082000
+9,35,Station Bilthoven,08:23,082300
+10,1,Nieuwegein City,07:27,072700
+10,2,Noordstedeweg,07:29,072900
+10,3,Barnsteendrift,07:30,073000
+10,4,De Baten,07:32,073200
+10,5,Antilopeweide,07:33,073300
+10,6,Landmansweide,07:34,073400
+10,7,Middenweide,07:36,073600
+10,8,Rembrandthage,07:38,073800
+10,9,Gerbrandypark,07:39,073900
+10,10,Guido Gezellehove,07:40,074000
+10,11,Galecopperdijk,07:42,074200
+10,12,Herman Heijermanshove,07:43,074300
+10,13,Blokhoeve-Noord,07:44,074400
+10,14,P+R Westraven,07:46,074600
+10,15,Kanaleneiland-Zuid,07:48,074800
+10,16,Europaplein-Noord,07:51,075100
+10,17,Lanslaan,07:53,075300
+10,18,CS Jaarbeurszijde,08:01,080100
+10,19,Neude,08:06,080600
+10,20,Janskerkhof,08:08,080800
+10,21,Stadsschouwburg,08:09,080900
+10,22,Wittevrouwen,08:11,081100
+10,23,Oorsprongpark,08:12,081200
+10,24,Sartreweg,08:14,081400
+10,25,Veemarkt,08:15,081500
+10,26,Alfred Nobellaan,08:18,081800
+10,27,Hessenweg,08:19,081900
+10,28,Looydijk,08:20,082000
+10,29,Dr. Letteplein,08:22,082200
+10,30,Groenekanseweg,08:23,082300
+10,31,Zonneplein,08:24,082400
+10,32,Poolsterlaan,08:25,082500
+10,33,Duivenlaan,08:26,082600
+10,34,Konijnenlaan,08:27,082700
+10,35,2e Brandenburgerweg,08:28,082800
+10,36,Leyenseweg,08:30,083000
+10,37,Station Bilthoven,08:33,083300
+11,1,Nieuwegein City,07:37,073700
+11,2,Noordstedeweg,07:39,073900
+11,3,Barnsteendrift,07:40,074000
+11,4,De Baten,07:42,074200
+11,5,Antilopeweide,07:43,074300
+11,6,Landmansweide,07:44,074400
+11,7,Middenweide,07:46,074600
+11,8,Rembrandthage,07:48,074800
+11,9,Gerbrandypark,07:49,074900
+11,10,Guido Gezellehove,07:50,075000
+11,11,Galecopperdijk,07:52,075200
+11,12,Herman Heijermanshove,07:53,075300
+11,13,Blokhoeve-Noord,07:54,075400
+11,14,P+R Westraven,07:56,075600
+11,15,Kanaleneiland-Zuid,07:58,075800
+11,16,Europaplein-Noord,08:01,080100
+11,17,Lanslaan,08:03,080300
+11,18,CS Jaarbeurszijde,08:11,081100
+11,19,Neude,08:16,081600
+11,20,Janskerkhof,08:18,081800
+11,21,Stadsschouwburg,08:19,081900
+11,22,Wittevrouwen,08:21,082100
+11,23,Oorsprongpark,08:22,082200
+11,24,Sartreweg,08:24,082400
+11,25,Veemarkt,08:25,082500
+11,26,Alfred Nobellaan,08:28,082800
+11,27,Hessenweg,08:29,082900
+11,28,Looydijk,08:30,083000
+11,29,Dr. Letteplein,08:32,083200
+11,30,RIVM/1e Brandenburgerw.,08:33,083300
+11,31,Duivenlaan,08:35,083500
+11,32,Konijnenlaan,08:36,083600
+11,33,2e Brandenburgerweg,08:37,083700
+11,34,Leyenseweg,08:39,083900
+11,35,Station Bilthoven,08:42,084200
+12,1,Nieuwegein City,07:47,074700
+12,2,Noordstedeweg,07:49,074900
+12,3,Barnsteendrift,07:50,075000
+12,4,De Baten,07:52,075200
+12,5,Antilopeweide,07:53,075300
+12,6,Landmansweide,07:54,075400
+12,7,Middenweide,07:56,075600
+12,8,Rembrandthage,07:58,075800
+12,9,Gerbrandypark,07:59,075900
+12,10,Guido Gezellehove,08:00,080000
+12,11,Galecopperdijk,08:02,080200
+12,12,Herman Heijermanshove,08:03,080300
+12,13,Blokhoeve-Noord,08:04,080400
+12,14,P+R Westraven,08:06,080600
+12,15,Kanaleneiland-Zuid,08:08,080800
+12,16,Europaplein-Noord,08:11,081100
+12,17,Lanslaan,08:13,081300
+12,18,CS Jaarbeurszijde,08:21,082100
+12,19,Neude,08:26,082600
+12,20,Janskerkhof,08:28,082800
+12,21,Stadsschouwburg,08:29,082900
+12,22,Wittevrouwen,08:31,083100
+12,23,Oorsprongpark,08:32,083200
+12,24,Sartreweg,08:34,083400
+12,25,Veemarkt,08:35,083500
+12,26,Alfred Nobellaan,08:38,083800
+12,27,Hessenweg,08:39,083900
+12,28,Looydijk,08:40,084000
+12,29,Dr. Letteplein,08:42,084200
+12,30,Groenekanseweg,08:43,084300
+12,31,Zonneplein,08:44,084400
+12,32,Poolsterlaan,08:45,084500
+12,33,Duivenlaan,08:46,084600
+12,34,Konijnenlaan,08:47,084700
+12,35,2e Brandenburgerweg,08:48,084800
+12,36,Leyenseweg,08:50,085000
+12,37,Station Bilthoven,08:53,085300
+13,1,Nieuwegein City,07:57,075700
+13,2,Noordstedeweg,07:59,075900
+13,3,Barnsteendrift,08:00,080000
+13,4,De Baten,08:02,080200
+13,5,Antilopeweide,08:03,080300
+13,6,Landmansweide,08:04,080400
+13,7,Middenweide,08:06,080600
+13,8,Rembrandthage,08:08,080800
+13,9,Gerbrandypark,08:09,080900
+13,10,Guido Gezellehove,08:10,081000
+13,11,Galecopperdijk,08:12,081200
+13,12,Herman Heijermanshove,08:13,081300
+13,13,Blokhoeve-Noord,08:14,081400
+13,14,P+R Westraven,08:16,081600
+13,15,Kanaleneiland-Zuid,08:18,081800
+13,16,Europaplein-Noord,08:21,082100
+13,17,Lanslaan,08:23,082300
+13,18,CS Jaarbeurszijde,08:31,083100
+13,19,Neude,08:36,083600
+13,20,Janskerkhof,08:38,083800
+13,21,Stadsschouwburg,08:39,083900
+13,22,Wittevrouwen,08:41,084100
+13,23,Oorsprongpark,08:42,084200
+13,24,Sartreweg,08:44,084400
+13,25,Veemarkt,08:45,084500
+13,26,Alfred Nobellaan,08:48,084800
+13,27,Hessenweg,08:49,084900
+13,28,Looydijk,08:50,085000
+13,29,Dr. Letteplein,08:52,085200
+13,30,Groenekanseweg,08:53,085300
+13,31,Zonneplein,08:54,085400
+13,32,Poolsterlaan,08:55,085500
+13,33,Duivenlaan,08:56,085600
+13,34,Konijnenlaan,08:57,085700
+13,35,2e Brandenburgerweg,08:58,085800
+13,36,Leyenseweg,09:00,090000
+13,37,Station Bilthoven,09:03,090300
+14,1,Nieuwegein City,08:07,080700
+14,2,Noordstedeweg,08:09,080900
+14,3,Barnsteendrift,08:10,081000
+14,4,De Baten,08:12,081200
+14,5,Antilopeweide,08:13,081300
+14,6,Landmansweide,08:14,081400
+14,7,Middenweide,08:16,081600
+14,8,Rembrandthage,08:18,081800
+14,9,Gerbrandypark,08:19,081900
+14,10,Guido Gezellehove,08:20,082000
+14,11,Galecopperdijk,08:22,082200
+14,12,Herman Heijermanshove,08:23,082300
+14,13,Blokhoeve-Noord,08:24,082400
+14,14,P+R Westraven,08:26,082600
+14,15,Kanaleneiland-Zuid,08:28,082800
+14,16,Europaplein-Noord,08:31,083100
+14,17,Lanslaan,08:33,083300
+14,18,CS Jaarbeurszijde,08:41,084100
+14,19,Neude,08:46,084600
+14,20,Janskerkhof,08:48,084800
+14,21,Stadsschouwburg,08:49,084900
+14,22,Wittevrouwen,08:51,085100
+14,23,Oorsprongpark,08:52,085200
+14,24,Sartreweg,08:54,085400
+14,25,Veemarkt,08:55,085500
+14,26,Alfred Nobellaan,08:58,085800
+14,27,Hessenweg,08:59,085900
+14,28,Looydijk,09:00,090000
+14,29,Dr. Letteplein,09:02,090200
+14,30,Groenekanseweg,09:03,090300
+14,31,Zonneplein,09:04,090400
+14,32,Poolsterlaan,09:05,090500
+14,33,Duivenlaan,09:06,090600
+14,34,Konijnenlaan,09:07,090700
+14,35,2e Brandenburgerweg,09:08,090800
+14,36,Leyenseweg,09:10,091000
+14,37,Station Bilthoven,09:13,091300
+15,1,Nieuwegein City,08:17,081700
+15,2,Noordstedeweg,08:19,081900
+15,3,Barnsteendrift,08:20,082000
+15,4,De Baten,08:22,082200
+15,5,Antilopeweide,08:23,082300
+15,6,Landmansweide,08:24,082400
+15,7,Middenweide,08:26,082600
+15,8,Rembrandthage,08:28,082800
+15,9,Gerbrandypark,08:29,082900
+15,10,Guido Gezellehove,08:30,083000
+15,11,Galecopperdijk,08:32,083200
+15,12,Herman Heijermanshove,08:33,083300
+15,13,Blokhoeve-Noord,08:34,083400
+15,14,P+R Westraven,08:36,083600
+15,15,Kanaleneiland-Zuid,08:38,083800
+15,16,Europaplein-Noord,08:41,084100
+15,17,Lanslaan,08:43,084300
+15,18,CS Jaarbeurszijde,08:51,085100
+15,19,Neude,08:56,085600
+15,20,Janskerkhof,08:58,085800
+15,21,Stadsschouwburg,08:59,085900
+15,22,Wittevrouwen,09:01,090100
+15,23,Oorsprongpark,09:02,090200
+15,24,Sartreweg,09:04,090400
+15,25,Veemarkt,09:05,090500
+15,26,Alfred Nobellaan,09:08,090800
+15,27,Hessenweg,09:09,090900
+15,28,Looydijk,09:10,091000
+15,29,Dr. Letteplein,09:12,091200
+15,30,Groenekanseweg,09:13,091300
+15,31,Zonneplein,09:14,091400
+15,32,Poolsterlaan,09:15,091500
+15,33,Duivenlaan,09:16,091600
+15,34,Konijnenlaan,09:17,091700
+15,35,2e Brandenburgerweg,09:18,091800
+15,36,Leyenseweg,09:20,092000
+15,37,Station Bilthoven,09:23,092300
+16,1,Nieuwegein City,08:27,082700
+16,2,Noordstedeweg,08:29,082900
+16,3,Barnsteendrift,08:30,083000
+16,4,De Baten,08:32,083200
+16,5,Antilopeweide,08:33,083300
+16,6,Landmansweide,08:34,083400
+16,7,Middenweide,08:36,083600
+16,8,Rembrandthage,08:38,083800
+16,9,Gerbrandypark,08:39,083900
+16,10,Guido Gezellehove,08:40,084000
+16,11,Galecopperdijk,08:42,084200
+16,12,Herman Heijermanshove,08:43,084300
+16,13,Blokhoeve-Noord,08:44,084400
+16,14,P+R Westraven,08:46,084600
+16,15,Kanaleneiland-Zuid,08:48,084800
+16,16,Europaplein-Noord,08:51,085100
+16,17,Lanslaan,08:53,085300
+16,18,CS Jaarbeurszijde,09:01,090100
+16,19,Neude,09:06,090600
+16,20,Janskerkhof,09:08,090800
+16,21,Stadsschouwburg,09:09,090900
+16,22,Wittevrouwen,09:11,091100
+16,23,Oorsprongpark,09:12,091200
+16,24,Sartreweg,09:14,091400
+16,25,Veemarkt,09:15,091500
+16,26,Alfred Nobellaan,09:18,091800
+16,27,Hessenweg,09:19,091900
+16,28,Looydijk,09:20,092000
+16,29,Dr. Letteplein,09:22,092200
+16,30,Groenekanseweg,09:23,092300
+16,31,Zonneplein,09:24,092400
+16,32,Poolsterlaan,09:25,092500
+16,33,Duivenlaan,09:26,092600
+16,34,Konijnenlaan,09:27,092700
+16,35,2e Brandenburgerweg,09:28,092800
+16,36,Leyenseweg,09:30,093000
+16,37,Station Bilthoven,09:33,093300
+17,1,Nieuwegein City,08:37,083700
+17,2,Noordstedeweg,08:39,083900
+17,3,Barnsteendrift,08:40,084000
+17,4,De Baten,08:42,084200
+17,5,Antilopeweide,08:43,084300
+17,6,Landmansweide,08:44,084400
+17,7,Middenweide,08:46,084600
+17,8,Rembrandthage,08:48,084800
+17,9,Gerbrandypark,08:49,084900
+17,10,Guido Gezellehove,08:50,085000
+17,11,Galecopperdijk,08:52,085200
+17,12,Herman Heijermanshove,08:53,085300
+17,13,Blokhoeve-Noord,08:54,085400
+17,14,P+R Westraven,08:56,085600
+17,15,Kanaleneiland-Zuid,08:58,085800
+17,16,Europaplein-Noord,09:01,090100
+17,17,Lanslaan,09:03,090300
+17,18,CS Jaarbeurszijde,09:11,091100
+17,19,Neude,09:16,091600
+17,20,Janskerkhof,09:18,091800
+17,21,Stadsschouwburg,09:19,091900
+17,22,Wittevrouwen,09:21,092100
+17,23,Oorsprongpark,09:22,092200
+17,24,Sartreweg,09:24,092400
+17,25,Veemarkt,09:25,092500
+17,26,Alfred Nobellaan,09:28,092800
+17,27,Hessenweg,09:29,092900
+17,28,Looydijk,09:30,093000
+17,29,Dr. Letteplein,09:32,093200
+17,30,Groenekanseweg,09:33,093300
+17,31,Zonneplein,09:34,093400
+17,32,Poolsterlaan,09:35,093500
+17,33,Duivenlaan,09:36,093600
+17,34,Konijnenlaan,09:37,093700
+17,35,2e Brandenburgerweg,09:38,093800
+17,36,Leyenseweg,09:40,094000
+17,37,Station Bilthoven,09:43,094300
+18,1,Nieuwegein City,08:47,084700
+18,2,Noordstedeweg,08:49,084900
+18,3,Barnsteendrift,08:50,085000
+18,4,De Baten,08:52,085200
+18,5,Antilopeweide,08:53,085300
+18,6,Landmansweide,08:54,085400
+18,7,Middenweide,08:56,085600
+18,8,Rembrandthage,08:58,085800
+18,9,Gerbrandypark,08:59,085900
+18,10,Guido Gezellehove,09:00,090000
+18,11,Galecopperdijk,09:02,090200
+18,12,Herman Heijermanshove,09:03,090300
+18,13,Blokhoeve-Noord,09:04,090400
+18,14,P+R Westraven,09:06,090600
+18,15,Kanaleneiland-Zuid,09:08,090800
+18,16,Europaplein-Noord,09:11,091100
+18,17,Lanslaan,09:12,091200
+18,18,CS Jaarbeurszijde,09:20,092000
+18,19,Neude,09:25,092500
+18,20,Janskerkhof,09:27,092700
+18,21,Stadsschouwburg,09:28,092800
+18,22,Wittevrouwen,09:30,093000
+18,23,Oorsprongpark,09:31,093100
+18,24,Sartreweg,09:33,093300
+18,25,Veemarkt,09:34,093400
+18,26,Alfred Nobellaan,09:37,093700
+18,27,Hessenweg,09:38,093800
+18,28,Looydijk,09:39,093900
+18,29,Dr. Letteplein,09:41,094100
+18,30,Groenekanseweg,09:42,094200
+18,31,Zonneplein,09:43,094300
+18,32,Poolsterlaan,09:44,094400
+18,33,Duivenlaan,09:45,094500
+18,34,Konijnenlaan,09:46,094600
+18,35,2e Brandenburgerweg,09:47,094700
+18,36,Leyenseweg,09:49,094900
+18,37,Station Bilthoven,09:52,095200
+19,1,Nieuwegein City,08:57,085700
+19,2,Noordstedeweg,08:59,085900
+19,3,Barnsteendrift,09:00,090000
+19,4,De Baten,09:02,090200
+19,5,Antilopeweide,09:03,090300
+19,6,Landmansweide,09:04,090400
+19,7,Middenweide,09:06,090600
+19,8,Rembrandthage,09:08,090800
+19,9,Gerbrandypark,09:09,090900
+19,10,Guido Gezellehove,09:10,091000
+19,11,Galecopperdijk,09:12,091200
+19,12,Herman Heijermanshove,09:13,091300
+19,13,Blokhoeve-Noord,09:14,091400
+19,14,P+R Westraven,09:16,091600
+19,15,Kanaleneiland-Zuid,09:18,091800
+19,16,Europaplein-Noord,09:21,092100
+19,17,Lanslaan,09:22,092200
+19,18,CS Jaarbeurszijde,09:30,093000
+19,19,Neude,09:35,093500
+19,20,Janskerkhof,09:37,093700
+19,21,Stadsschouwburg,09:38,093800
+19,22,Wittevrouwen,09:40,094000
+19,23,Oorsprongpark,09:41,094100
+19,24,Sartreweg,09:43,094300
+19,25,Veemarkt,09:44,094400
+19,26,Alfred Nobellaan,09:47,094700
+19,27,Hessenweg,09:48,094800
+19,28,Looydijk,09:49,094900
+19,29,Dr. Letteplein,09:51,095100
+19,30,Groenekanseweg,09:52,095200
+19,31,Zonneplein,09:53,095300
+19,32,Poolsterlaan,09:54,095400
+19,33,Duivenlaan,09:55,095500
+19,34,Konijnenlaan,09:56,095600
+19,35,2e Brandenburgerweg,09:57,095700
+19,36,Leyenseweg,09:59,095900
+19,37,Station Bilthoven,10:02,100200
+20,1,Nieuwegein City,09:08,090800
+20,2,Noordstedeweg,09:10,091000
+20,3,Barnsteendrift,09:11,091100
+20,4,De Baten,09:12,091200
+20,5,Antilopeweide,09:13,091300
+20,6,Landmansweide,09:14,091400
+20,7,Middenweide,09:16,091600
+20,8,Rembrandthage,09:18,091800
+20,9,Gerbrandypark,09:19,091900
+20,10,Guido Gezellehove,09:20,092000
+20,11,Galecopperdijk,09:22,092200
+20,12,Herman Heijermanshove,09:23,092300
+20,13,Blokhoeve-Noord,09:24,092400
+20,14,P+R Westraven,09:26,092600
+20,15,Kanaleneiland-Zuid,09:28,092800
+20,16,Europaplein-Noord,09:31,093100
+20,17,Lanslaan,09:32,093200
+20,18,CS Jaarbeurszijde,09:40,094000
+20,19,Neude,09:45,094500
+20,20,Janskerkhof,09:47,094700
+20,21,Stadsschouwburg,09:48,094800
+20,22,Wittevrouwen,09:50,095000
+20,23,Oorsprongpark,09:51,095100
+20,24,Sartreweg,09:53,095300
+20,25,Veemarkt,09:54,095400
+20,26,Alfred Nobellaan,09:57,095700
+20,27,Hessenweg,09:58,095800
+20,28,Looydijk,09:59,095900
+20,29,Dr. Letteplein,10:01,100100
+20,30,Groenekanseweg,10:02,100200
+20,31,Zonneplein,10:03,100300
+20,32,Poolsterlaan,10:04,100400
+20,33,Duivenlaan,10:05,100500
+20,34,Konijnenlaan,10:06,100600
+20,35,2e Brandenburgerweg,10:07,100700
+20,36,Leyenseweg,10:09,100900
+20,37,Station Bilthoven,10:12,101200
+21,1,Nieuwegein City,09:18,091800
+21,2,Noordstedeweg,09:20,092000
+21,3,Barnsteendrift,09:21,092100
+21,4,De Baten,09:22,092200
+21,5,Antilopeweide,09:23,092300
+21,6,Landmansweide,09:24,092400
+21,7,Middenweide,09:26,092600
+21,8,Rembrandthage,09:28,092800
+21,9,Gerbrandypark,09:29,092900
+21,10,Guido Gezellehove,09:30,093000
+21,11,Galecopperdijk,09:32,093200
+21,12,Herman Heijermanshove,09:33,093300
+21,13,Blokhoeve-Noord,09:34,093400
+21,14,P+R Westraven,09:36,093600
+21,15,Kanaleneiland-Zuid,09:38,093800
+21,16,Europaplein-Noord,09:41,094100
+21,17,Lanslaan,09:42,094200
+21,18,CS Jaarbeurszijde,09:50,095000
+21,19,Neude,09:55,095500
+21,20,Janskerkhof,09:57,095700
+21,21,Stadsschouwburg,09:58,095800
+21,22,Wittevrouwen,10:00,100000
+21,23,Oorsprongpark,10:01,100100
+21,24,Sartreweg,10:03,100300
+21,25,Veemarkt,10:04,100400
+21,26,Alfred Nobellaan,10:07,100700
+21,27,Hessenweg,10:08,100800
+21,28,Looydijk,10:09,100900
+21,29,Dr. Letteplein,10:11,101100
+21,30,Groenekanseweg,10:12,101200
+21,31,Zonneplein,10:13,101300
+21,32,Poolsterlaan,10:14,101400
+21,33,Duivenlaan,10:15,101500
+21,34,Konijnenlaan,10:16,101600
+21,35,2e Brandenburgerweg,10:17,101700
+21,36,Leyenseweg,10:19,101900
+21,37,Station Bilthoven,10:22,102200
+22,1,Nieuwegein City,09:28,092800
+22,2,Noordstedeweg,09:30,093000
+22,3,Barnsteendrift,09:31,093100
+22,4,De Baten,09:32,093200
+22,5,Antilopeweide,09:33,093300
+22,6,Landmansweide,09:34,093400
+22,7,Middenweide,09:36,093600
+22,8,Rembrandthage,09:38,093800
+22,9,Gerbrandypark,09:39,093900
+22,10,Guido Gezellehove,09:40,094000
+22,11,Galecopperdijk,09:42,094200
+22,12,Herman Heijermanshove,09:43,094300
+22,13,Blokhoeve-Noord,09:44,094400
+22,14,P+R Westraven,09:46,094600
+22,15,Kanaleneiland-Zuid,09:48,094800
+22,16,Europaplein-Noord,09:51,095100
+22,17,Lanslaan,09:52,095200
+22,18,CS Jaarbeurszijde,10:00,100000
+22,19,Neude,10:05,100500
+22,20,Janskerkhof,10:07,100700
+22,21,Stadsschouwburg,10:08,100800
+22,22,Wittevrouwen,10:10,101000
+22,23,Oorsprongpark,10:11,101100
+22,24,Sartreweg,10:13,101300
+22,25,Veemarkt,10:14,101400
+22,26,Alfred Nobellaan,10:17,101700
+22,27,Hessenweg,10:18,101800
+22,28,Looydijk,10:19,101900
+22,29,Dr. Letteplein,10:21,102100
+22,30,Groenekanseweg,10:22,102200
+22,31,Zonneplein,10:23,102300
+22,32,Poolsterlaan,10:24,102400
+22,33,Duivenlaan,10:25,102500
+22,34,Konijnenlaan,10:26,102600
+22,35,2e Brandenburgerweg,10:27,102700
+22,36,Leyenseweg,10:29,102900
+22,37,Station Bilthoven,10:32,103200
+23,1,Nieuwegein City,09:38,093800
+23,2,Noordstedeweg,09:40,094000
+23,3,Barnsteendrift,09:41,094100
+23,4,De Baten,09:42,094200
+23,5,Antilopeweide,09:43,094300
+23,6,Landmansweide,09:44,094400
+23,7,Middenweide,09:46,094600
+23,8,Rembrandthage,09:48,094800
+23,9,Gerbrandypark,09:49,094900
+23,10,Guido Gezellehove,09:50,095000
+23,11,Galecopperdijk,09:52,095200
+23,12,Herman Heijermanshove,09:53,095300
+23,13,Blokhoeve-Noord,09:54,095400
+23,14,P+R Westraven,09:56,095600
+23,15,Kanaleneiland-Zuid,09:58,095800
+23,16,Europaplein-Noord,10:01,100100
+23,17,Lanslaan,10:02,100200
+23,18,CS Jaarbeurszijde,10:10,101000
+23,19,Neude,10:15,101500
+23,20,Janskerkhof,10:17,101700
+23,21,Stadsschouwburg,10:18,101800
+23,22,Wittevrouwen,10:20,102000
+23,23,Oorsprongpark,10:21,102100
+23,24,Sartreweg,10:23,102300
+23,25,Veemarkt,10:24,102400
+23,26,Alfred Nobellaan,10:27,102700
+23,27,Hessenweg,10:28,102800
+23,28,Looydijk,10:29,102900
+23,29,Dr. Letteplein,10:31,103100
+23,30,Groenekanseweg,10:32,103200
+23,31,Zonneplein,10:33,103300
+23,32,Poolsterlaan,10:34,103400
+23,33,Duivenlaan,10:35,103500
+23,34,Konijnenlaan,10:36,103600
+23,35,2e Brandenburgerweg,10:37,103700
+23,36,Leyenseweg,10:39,103900
+23,37,Station Bilthoven,10:42,104200
+24,1,Nieuwegein City,09:48,094800
+24,2,Noordstedeweg,09:50,095000
+24,3,Barnsteendrift,09:51,095100
+24,4,De Baten,09:52,095200
+24,5,Antilopeweide,09:53,095300
+24,6,Landmansweide,09:54,095400
+24,7,Middenweide,09:56,095600
+24,8,Rembrandthage,09:58,095800
+24,9,Gerbrandypark,09:59,095900
+24,10,Guido Gezellehove,10:00,100000
+24,11,Galecopperdijk,10:02,100200
+24,12,Herman Heijermanshove,10:03,100300
+24,13,Blokhoeve-Noord,10:04,100400
+24,14,P+R Westraven,10:06,100600
+24,15,Kanaleneiland-Zuid,10:08,100800
+24,16,Europaplein-Noord,10:11,101100
+24,17,Lanslaan,10:12,101200
+24,18,CS Jaarbeurszijde,10:20,102000
+24,19,Neude,10:25,102500
+24,20,Janskerkhof,10:27,102700
+24,21,Stadsschouwburg,10:28,102800
+24,22,Wittevrouwen,10:30,103000
+24,23,Oorsprongpark,10:31,103100
+24,24,Sartreweg,10:33,103300
+24,25,Veemarkt,10:34,103400
+24,26,Alfred Nobellaan,10:37,103700
+24,27,Hessenweg,10:38,103800
+24,28,Looydijk,10:39,103900
+24,29,Dr. Letteplein,10:41,104100
+24,30,Groenekanseweg,10:42,104200
+24,31,Zonneplein,10:43,104300
+24,32,Poolsterlaan,10:44,104400
+24,33,Duivenlaan,10:45,104500
+24,34,Konijnenlaan,10:46,104600
+24,35,2e Brandenburgerweg,10:47,104700
+24,36,Leyenseweg,10:49,104900
+24,37,Station Bilthoven,10:52,105200
+25,1,Nieuwegein City,09:58,095800
+25,2,Noordstedeweg,10:00,100000
+25,3,Barnsteendrift,10:01,100100
+25,4,De Baten,10:02,100200
+25,5,Antilopeweide,10:03,100300
+25,6,Landmansweide,10:04,100400
+25,7,Middenweide,10:06,100600
+25,8,Rembrandthage,10:08,100800
+25,9,Gerbrandypark,10:09,100900
+25,10,Guido Gezellehove,10:10,101000
+25,11,Galecopperdijk,10:12,101200
+25,12,Herman Heijermanshove,10:13,101300
+25,13,Blokhoeve-Noord,10:14,101400
+25,14,P+R Westraven,10:16,101600
+25,15,Kanaleneiland-Zuid,10:18,101800
+25,16,Europaplein-Noord,10:21,102100
+25,17,Lanslaan,10:22,102200
+25,18,CS Jaarbeurszijde,10:30,103000
+25,19,Neude,10:35,103500
+25,20,Janskerkhof,10:37,103700
+25,21,Stadsschouwburg,10:38,103800
+25,22,Wittevrouwen,10:40,104000
+25,23,Oorsprongpark,10:41,104100
+25,24,Sartreweg,10:43,104300
+25,25,Veemarkt,10:44,104400
+25,26,Alfred Nobellaan,10:47,104700
+25,27,Hessenweg,10:48,104800
+25,28,Looydijk,10:49,104900
+25,29,Dr. Letteplein,10:51,105100
+25,30,Groenekanseweg,10:52,105200
+25,31,Zonneplein,10:53,105300
+25,32,Poolsterlaan,10:54,105400
+25,33,Duivenlaan,10:55,105500
+25,34,Konijnenlaan,10:56,105600
+25,35,2e Brandenburgerweg,10:57,105700
+25,36,Leyenseweg,10:59,105900
+25,37,Station Bilthoven,11:02,110200
+26,1,Nieuwegein City,10:08,100800
+26,2,Noordstedeweg,10:10,101000
+26,3,Barnsteendrift,10:11,101100
+26,4,De Baten,10:12,101200
+26,5,Antilopeweide,10:13,101300
+26,6,Landmansweide,10:14,101400
+26,7,Middenweide,10:16,101600
+26,8,Rembrandthage,10:18,101800
+26,9,Gerbrandypark,10:19,101900
+26,10,Guido Gezellehove,10:20,102000
+26,11,Galecopperdijk,10:22,102200
+26,12,Herman Heijermanshove,10:23,102300
+26,13,Blokhoeve-Noord,10:24,102400
+26,14,P+R Westraven,10:26,102600
+26,15,Kanaleneiland-Zuid,10:28,102800
+26,16,Europaplein-Noord,10:31,103100
+26,17,Lanslaan,10:32,103200
+26,18,CS Jaarbeurszijde,10:40,104000
+26,19,Neude,10:45,104500
+26,20,Janskerkhof,10:47,104700
+26,21,Stadsschouwburg,10:48,104800
+26,22,Wittevrouwen,10:50,105000
+26,23,Oorsprongpark,10:51,105100
+26,24,Sartreweg,10:53,105300
+26,25,Veemarkt,10:54,105400
+26,26,Alfred Nobellaan,10:57,105700
+26,27,Hessenweg,10:58,105800
+26,28,Looydijk,10:59,105900
+26,29,Dr. Letteplein,11:01,110100
+26,30,Groenekanseweg,11:03,110300
+26,31,Zonneplein,11:04,110400
+26,32,Poolsterlaan,11:05,110500
+26,33,Duivenlaan,11:06,110600
+26,34,Konijnenlaan,11:07,110700
+26,35,2e Brandenburgerweg,11:08,110800
+26,36,Leyenseweg,11:10,111000
+26,37,Station Bilthoven,11:13,111300
+27,1,Nieuwegein City,10:18,101800
+27,2,Noordstedeweg,10:20,102000
+27,3,Barnsteendrift,10:21,102100
+27,4,De Baten,10:22,102200
+27,5,Antilopeweide,10:23,102300
+27,6,Landmansweide,10:24,102400
+27,7,Middenweide,10:26,102600
+27,8,Rembrandthage,10:28,102800
+27,9,Gerbrandypark,10:29,102900
+27,10,Guido Gezellehove,10:30,103000
+27,11,Galecopperdijk,10:32,103200
+27,12,Herman Heijermanshove,10:33,103300
+27,13,Blokhoeve-Noord,10:34,103400
+27,14,P+R Westraven,10:36,103600
+27,15,Kanaleneiland-Zuid,10:38,103800
+27,16,Europaplein-Noord,10:41,104100
+27,17,Lanslaan,10:42,104200
+27,18,CS Jaarbeurszijde,10:50,105000
+27,19,Neude,10:55,105500
+27,20,Janskerkhof,10:57,105700
+27,21,Stadsschouwburg,10:58,105800
+27,22,Wittevrouwen,11:00,110000
+27,23,Oorsprongpark,11:01,110100
+27,24,Sartreweg,11:04,110400
+27,25,Veemarkt,11:05,110500
+27,26,Alfred Nobellaan,11:08,110800
+27,27,Hessenweg,11:09,110900
+27,28,Looydijk,11:10,111000
+27,29,Dr. Letteplein,11:12,111200
+27,30,Groenekanseweg,11:14,111400
+27,31,Zonneplein,11:15,111500
+27,32,Poolsterlaan,11:16,111600
+27,33,Duivenlaan,11:17,111700
+27,34,Konijnenlaan,11:18,111800
+27,35,2e Brandenburgerweg,11:19,111900
+27,36,Leyenseweg,11:21,112100
+27,37,Station Bilthoven,11:24,112400
+28,1,Nieuwegein City,10:28,102800
+28,2,Noordstedeweg,10:30,103000
+28,3,Barnsteendrift,10:31,103100
+28,4,De Baten,10:32,103200
+28,5,Antilopeweide,10:33,103300
+28,6,Landmansweide,10:34,103400
+28,7,Middenweide,10:36,103600
+28,8,Rembrandthage,10:38,103800
+28,9,Gerbrandypark,10:39,103900
+28,10,Guido Gezellehove,10:40,104000
+28,11,Galecopperdijk,10:42,104200
+28,12,Herman Heijermanshove,10:43,104300
+28,13,Blokhoeve-Noord,10:44,104400
+28,14,P+R Westraven,10:46,104600
+28,15,Kanaleneiland-Zuid,10:48,104800
+28,16,Europaplein-Noord,10:51,105100
+28,17,Lanslaan,10:52,105200
+28,18,CS Jaarbeurszijde,11:00,110000
+28,19,Neude,11:05,110500
+28,20,Janskerkhof,11:07,110700
+28,21,Stadsschouwburg,11:08,110800
+28,22,Wittevrouwen,11:10,111000
+28,23,Oorsprongpark,11:11,111100
+28,24,Sartreweg,11:14,111400
+28,25,Veemarkt,11:15,111500
+28,26,Alfred Nobellaan,11:18,111800
+28,27,Hessenweg,11:19,111900
+28,28,Looydijk,11:20,112000
+28,29,Dr. Letteplein,11:22,112200
+28,30,Groenekanseweg,11:24,112400
+28,31,Zonneplein,11:25,112500
+28,32,Poolsterlaan,11:26,112600
+28,33,Duivenlaan,11:27,112700
+28,34,Konijnenlaan,11:28,112800
+28,35,2e Brandenburgerweg,11:29,112900
+28,36,Leyenseweg,11:31,113100
+28,37,Station Bilthoven,11:34,113400
+29,1,Nieuwegein City,10:38,103800
+29,2,Noordstedeweg,10:40,104000
+29,3,Barnsteendrift,10:41,104100
+29,4,De Baten,10:42,104200
+29,5,Antilopeweide,10:43,104300
+29,6,Landmansweide,10:44,104400
+29,7,Middenweide,10:46,104600
+29,8,Rembrandthage,10:48,104800
+29,9,Gerbrandypark,10:49,104900
+29,10,Guido Gezellehove,10:50,105000
+29,11,Galecopperdijk,10:52,105200
+29,12,Herman Heijermanshove,10:53,105300
+29,13,Blokhoeve-Noord,10:54,105400
+29,14,P+R Westraven,10:56,105600
+29,15,Kanaleneiland-Zuid,10:58,105800
+29,16,Europaplein-Noord,11:01,110100
+29,17,Lanslaan,11:02,110200
+29,18,CS Jaarbeurszijde,11:10,111000
+29,19,Neude,11:15,111500
+29,20,Janskerkhof,11:17,111700
+29,21,Stadsschouwburg,11:18,111800
+29,22,Wittevrouwen,11:20,112000
+29,23,Oorsprongpark,11:21,112100
+29,24,Sartreweg,11:24,112400
+29,25,Veemarkt,11:25,112500
+29,26,Alfred Nobellaan,11:28,112800
+29,27,Hessenweg,11:29,112900
+29,28,Looydijk,11:30,113000
+29,29,Dr. Letteplein,11:32,113200
+29,30,Groenekanseweg,11:34,113400
+29,31,Zonneplein,11:35,113500
+29,32,Poolsterlaan,11:36,113600
+29,33,Duivenlaan,11:37,113700
+29,34,Konijnenlaan,11:38,113800
+29,35,2e Brandenburgerweg,11:39,113900
+29,36,Leyenseweg,11:41,114100
+29,37,Station Bilthoven,11:44,114400
+30,1,Nieuwegein City,10:48,104800
+30,2,Noordstedeweg,10:50,105000
+30,3,Barnsteendrift,10:51,105100
+30,4,De Baten,10:52,105200
+30,5,Antilopeweide,10:53,105300
+30,6,Landmansweide,10:54,105400
+30,7,Middenweide,10:56,105600
+30,8,Rembrandthage,10:58,105800
+30,9,Gerbrandypark,10:59,105900
+30,10,Guido Gezellehove,11:00,110000
+30,11,Galecopperdijk,11:02,110200
+30,12,Herman Heijermanshove,11:03,110300
+30,13,Blokhoeve-Noord,11:04,110400
+30,14,P+R Westraven,11:06,110600
+30,15,Kanaleneiland-Zuid,11:08,110800
+30,16,Europaplein-Noord,11:11,111100
+30,17,Lanslaan,11:12,111200
+30,18,CS Jaarbeurszijde,11:20,112000
+30,19,Neude,11:25,112500
+30,20,Janskerkhof,11:27,112700
+30,21,Stadsschouwburg,11:28,112800
+30,22,Wittevrouwen,11:30,113000
+30,23,Oorsprongpark,11:31,113100
+30,24,Sartreweg,11:34,113400
+30,25,Veemarkt,11:35,113500
+30,26,Alfred Nobellaan,11:38,113800
+30,27,Hessenweg,11:39,113900
+30,28,Looydijk,11:40,114000
+30,29,Dr. Letteplein,11:42,114200
+30,30,Groenekanseweg,11:44,114400
+30,31,Zonneplein,11:45,114500
+30,32,Poolsterlaan,11:46,114600
+30,33,Duivenlaan,11:47,114700
+30,34,Konijnenlaan,11:48,114800
+30,35,2e Brandenburgerweg,11:49,114900
+30,36,Leyenseweg,11:51,115100
+30,37,Station Bilthoven,11:54,115400
+31,1,Nieuwegein City,10:58,105800
+31,2,Noordstedeweg,11:00,110000
+31,3,Barnsteendrift,11:01,110100
+31,4,De Baten,11:02,110200
+31,5,Antilopeweide,11:03,110300
+31,6,Landmansweide,11:04,110400
+31,7,Middenweide,11:06,110600
+31,8,Rembrandthage,11:08,110800
+31,9,Gerbrandypark,11:09,110900
+31,10,Guido Gezellehove,11:10,111000
+31,11,Galecopperdijk,11:12,111200
+31,12,Herman Heijermanshove,11:13,111300
+31,13,Blokhoeve-Noord,11:14,111400
+31,14,P+R Westraven,11:16,111600
+31,15,Kanaleneiland-Zuid,11:18,111800
+31,16,Europaplein-Noord,11:21,112100
+31,17,Lanslaan,11:22,112200
+31,18,CS Jaarbeurszijde,11:30,113000
+31,19,Neude,11:35,113500
+31,20,Janskerkhof,11:37,113700
+31,21,Stadsschouwburg,11:38,113800
+31,22,Wittevrouwen,11:40,114000
+31,23,Oorsprongpark,11:41,114100
+31,24,Sartreweg,11:44,114400
+31,25,Veemarkt,11:45,114500
+31,26,Alfred Nobellaan,11:48,114800
+31,27,Hessenweg,11:49,114900
+31,28,Looydijk,11:50,115000
+31,29,Dr. Letteplein,11:52,115200
+31,30,Groenekanseweg,11:54,115400
+31,31,Zonneplein,11:55,115500
+31,32,Poolsterlaan,11:56,115600
+31,33,Duivenlaan,11:57,115700
+31,34,Konijnenlaan,11:58,115800
+31,35,2e Brandenburgerweg,11:59,115900
+31,36,Leyenseweg,12:01,120100
+31,37,Station Bilthoven,12:04,120400
+32,1,Nieuwegein City,11:08,110800
+32,2,Noordstedeweg,11:10,111000
+32,3,Barnsteendrift,11:11,111100
+32,4,De Baten,11:12,111200
+32,5,Antilopeweide,11:13,111300
+32,6,Landmansweide,11:14,111400
+32,7,Middenweide,11:16,111600
+32,8,Rembrandthage,11:18,111800
+32,9,Gerbrandypark,11:19,111900
+32,10,Guido Gezellehove,11:20,112000
+32,11,Galecopperdijk,11:22,112200
+32,12,Herman Heijermanshove,11:23,112300
+32,13,Blokhoeve-Noord,11:24,112400
+32,14,P+R Westraven,11:26,112600
+32,15,Kanaleneiland-Zuid,11:28,112800
+32,16,Europaplein-Noord,11:31,113100
+32,17,Lanslaan,11:32,113200
+32,18,CS Jaarbeurszijde,11:40,114000
+32,19,Neude,11:45,114500
+32,20,Janskerkhof,11:47,114700
+32,21,Stadsschouwburg,11:48,114800
+32,22,Wittevrouwen,11:50,115000
+32,23,Oorsprongpark,11:51,115100
+32,24,Sartreweg,11:54,115400
+32,25,Veemarkt,11:55,115500
+32,26,Alfred Nobellaan,11:58,115800
+32,27,Hessenweg,11:59,115900
+32,28,Looydijk,12:00,120000
+32,29,Dr. Letteplein,12:02,120200
+32,30,Groenekanseweg,12:04,120400
+32,31,Zonneplein,12:05,120500
+32,32,Poolsterlaan,12:06,120600
+32,33,Duivenlaan,12:07,120700
+32,34,Konijnenlaan,12:08,120800
+32,35,2e Brandenburgerweg,12:09,120900
+32,36,Leyenseweg,12:11,121100
+32,37,Station Bilthoven,12:14,121400
+33,1,Nieuwegein City,11:18,111800
+33,2,Noordstedeweg,11:20,112000
+33,3,Barnsteendrift,11:21,112100
+33,4,De Baten,11:22,112200
+33,5,Antilopeweide,11:23,112300
+33,6,Landmansweide,11:24,112400
+33,7,Middenweide,11:26,112600
+33,8,Rembrandthage,11:28,112800
+33,9,Gerbrandypark,11:29,112900
+33,10,Guido Gezellehove,11:30,113000
+33,11,Galecopperdijk,11:32,113200
+33,12,Herman Heijermanshove,11:33,113300
+33,13,Blokhoeve-Noord,11:34,113400
+33,14,P+R Westraven,11:36,113600
+33,15,Kanaleneiland-Zuid,11:38,113800
+33,16,Europaplein-Noord,11:41,114100
+33,17,Lanslaan,11:42,114200
+33,18,CS Jaarbeurszijde,11:50,115000
+33,19,Neude,11:55,115500
+33,20,Janskerkhof,11:57,115700
+33,21,Stadsschouwburg,11:58,115800
+33,22,Wittevrouwen,12:00,120000
+33,23,Oorsprongpark,12:01,120100
+33,24,Sartreweg,12:04,120400
+33,25,Veemarkt,12:05,120500
+33,26,Alfred Nobellaan,12:08,120800
+33,27,Hessenweg,12:09,120900
+33,28,Looydijk,12:10,121000
+33,29,Dr. Letteplein,12:12,121200
+33,30,Groenekanseweg,12:14,121400
+33,31,Zonneplein,12:15,121500
+33,32,Poolsterlaan,12:16,121600
+33,33,Duivenlaan,12:17,121700
+33,34,Konijnenlaan,12:18,121800
+33,35,2e Brandenburgerweg,12:19,121900
+33,36,Leyenseweg,12:21,122100
+33,37,Station Bilthoven,12:24,122400
+34,1,Nieuwegein City,11:28,112800
+34,2,Noordstedeweg,11:30,113000
+34,3,Barnsteendrift,11:31,113100
+34,4,De Baten,11:32,113200
+34,5,Antilopeweide,11:33,113300
+34,6,Landmansweide,11:34,113400
+34,7,Middenweide,11:36,113600
+34,8,Rembrandthage,11:38,113800
+34,9,Gerbrandypark,11:39,113900
+34,10,Guido Gezellehove,11:40,114000
+34,11,Galecopperdijk,11:42,114200
+34,12,Herman Heijermanshove,11:43,114300
+34,13,Blokhoeve-Noord,11:44,114400
+34,14,P+R Westraven,11:46,114600
+34,15,Kanaleneiland-Zuid,11:48,114800
+34,16,Europaplein-Noord,11:51,115100
+34,17,Lanslaan,11:52,115200
+34,18,CS Jaarbeurszijde,12:00,120000
+34,19,Neude,12:05,120500
+34,20,Janskerkhof,12:07,120700
+34,21,Stadsschouwburg,12:08,120800
+34,22,Wittevrouwen,12:10,121000
+34,23,Oorsprongpark,12:11,121100
+34,24,Sartreweg,12:14,121400
+34,25,Veemarkt,12:15,121500
+34,26,Alfred Nobellaan,12:18,121800
+34,27,Hessenweg,12:19,121900
+34,28,Looydijk,12:20,122000
+34,29,Dr. Letteplein,12:22,122200
+34,30,Groenekanseweg,12:24,122400
+34,31,Zonneplein,12:25,122500
+34,32,Poolsterlaan,12:26,122600
+34,33,Duivenlaan,12:27,122700
+34,34,Konijnenlaan,12:28,122800
+34,35,2e Brandenburgerweg,12:29,122900
+34,36,Leyenseweg,12:31,123100
+34,37,Station Bilthoven,12:34,123400
+35,1,Nieuwegein City,11:38,113800
+35,2,Noordstedeweg,11:40,114000
+35,3,Barnsteendrift,11:41,114100
+35,4,De Baten,11:42,114200
+35,5,Antilopeweide,11:43,114300
+35,6,Landmansweide,11:44,114400
+35,7,Middenweide,11:46,114600
+35,8,Rembrandthage,11:48,114800
+35,9,Gerbrandypark,11:49,114900
+35,10,Guido Gezellehove,11:50,115000
+35,11,Galecopperdijk,11:52,115200
+35,12,Herman Heijermanshove,11:53,115300
+35,13,Blokhoeve-Noord,11:54,115400
+35,14,P+R Westraven,11:56,115600
+35,15,Kanaleneiland-Zuid,11:58,115800
+35,16,Europaplein-Noord,12:01,120100
+35,17,Lanslaan,12:02,120200
+35,18,CS Jaarbeurszijde,12:10,121000
+35,19,Neude,12:15,121500
+35,20,Janskerkhof,12:17,121700
+35,21,Stadsschouwburg,12:18,121800
+35,22,Wittevrouwen,12:20,122000
+35,23,Oorsprongpark,12:21,122100
+35,24,Sartreweg,12:24,122400
+35,25,Veemarkt,12:25,122500
+35,26,Alfred Nobellaan,12:28,122800
+35,27,Hessenweg,12:29,122900
+35,28,Looydijk,12:30,123000
+35,29,Dr. Letteplein,12:32,123200
+35,30,Groenekanseweg,12:34,123400
+35,31,Zonneplein,12:35,123500
+35,32,Poolsterlaan,12:36,123600
+35,33,Duivenlaan,12:37,123700
+35,34,Konijnenlaan,12:38,123800
+35,35,2e Brandenburgerweg,12:39,123900
+35,36,Leyenseweg,12:41,124100
+35,37,Station Bilthoven,12:44,124400
+36,1,Nieuwegein City,11:48,114800
+36,2,Noordstedeweg,11:50,115000
+36,3,Barnsteendrift,11:51,115100
+36,4,De Baten,11:52,115200
+36,5,Antilopeweide,11:53,115300
+36,6,Landmansweide,11:54,115400
+36,7,Middenweide,11:56,115600
+36,8,Rembrandthage,11:58,115800
+36,9,Gerbrandypark,11:59,115900
+36,10,Guido Gezellehove,12:00,120000
+36,11,Galecopperdijk,12:02,120200
+36,12,Herman Heijermanshove,12:03,120300
+36,13,Blokhoeve-Noord,12:04,120400
+36,14,P+R Westraven,12:06,120600
+36,15,Kanaleneiland-Zuid,12:08,120800
+36,16,Europaplein-Noord,12:11,121100
+36,17,Lanslaan,12:12,121200
+36,18,CS Jaarbeurszijde,12:20,122000
+36,19,Neude,12:25,122500
+36,20,Janskerkhof,12:27,122700
+36,21,Stadsschouwburg,12:28,122800
+36,22,Wittevrouwen,12:30,123000
+36,23,Oorsprongpark,12:31,123100
+36,24,Sartreweg,12:34,123400
+36,25,Veemarkt,12:35,123500
+36,26,Alfred Nobellaan,12:38,123800
+36,27,Hessenweg,12:39,123900
+36,28,Looydijk,12:40,124000
+36,29,Dr. Letteplein,12:42,124200
+36,30,Groenekanseweg,12:44,124400
+36,31,Zonneplein,12:45,124500
+36,32,Poolsterlaan,12:46,124600
+36,33,Duivenlaan,12:47,124700
+36,34,Konijnenlaan,12:48,124800
+36,35,2e Brandenburgerweg,12:49,124900
+36,36,Leyenseweg,12:51,125100
+36,37,Station Bilthoven,12:54,125400
+37,1,Nieuwegein City,11:58,115800
+37,2,Noordstedeweg,12:00,120000
+37,3,Barnsteendrift,12:01,120100
+37,4,De Baten,12:02,120200
+37,5,Antilopeweide,12:03,120300
+37,6,Landmansweide,12:04,120400
+37,7,Middenweide,12:06,120600
+37,8,Rembrandthage,12:08,120800
+37,9,Gerbrandypark,12:09,120900
+37,10,Guido Gezellehove,12:10,121000
+37,11,Galecopperdijk,12:12,121200
+37,12,Herman Heijermanshove,12:13,121300
+37,13,Blokhoeve-Noord,12:14,121400
+37,14,P+R Westraven,12:16,121600
+37,15,Kanaleneiland-Zuid,12:18,121800
+37,16,Europaplein-Noord,12:21,122100
+37,17,Lanslaan,12:22,122200
+37,18,CS Jaarbeurszijde,12:30,123000
+37,19,Neude,12:35,123500
+37,20,Janskerkhof,12:37,123700
+37,21,Stadsschouwburg,12:38,123800
+37,22,Wittevrouwen,12:40,124000
+37,23,Oorsprongpark,12:41,124100
+37,24,Sartreweg,12:44,124400
+37,25,Veemarkt,12:45,124500
+37,26,Alfred Nobellaan,12:48,124800
+37,27,Hessenweg,12:49,124900
+37,28,Looydijk,12:50,125000
+37,29,Dr. Letteplein,12:52,125200
+37,30,Groenekanseweg,12:54,125400
+37,31,Zonneplein,12:55,125500
+37,32,Poolsterlaan,12:56,125600
+37,33,Duivenlaan,12:57,125700
+37,34,Konijnenlaan,12:58,125800
+37,35,2e Brandenburgerweg,12:59,125900
+37,36,Leyenseweg,13:01,130100
+37,37,Station Bilthoven,13:04,130400
+38,1,Nieuwegein City,12:08,120800
+38,2,Noordstedeweg,12:10,121000
+38,3,Barnsteendrift,12:11,121100
+38,4,De Baten,12:12,121200
+38,5,Antilopeweide,12:13,121300
+38,6,Landmansweide,12:14,121400
+38,7,Middenweide,12:16,121600
+38,8,Rembrandthage,12:18,121800
+38,9,Gerbrandypark,12:19,121900
+38,10,Guido Gezellehove,12:20,122000
+38,11,Galecopperdijk,12:22,122200
+38,12,Herman Heijermanshove,12:23,122300
+38,13,Blokhoeve-Noord,12:24,122400
+38,14,P+R Westraven,12:26,122600
+38,15,Kanaleneiland-Zuid,12:28,122800
+38,16,Europaplein-Noord,12:31,123100
+38,17,Lanslaan,12:32,123200
+38,18,CS Jaarbeurszijde,12:40,124000
+38,19,Neude,12:45,124500
+38,20,Janskerkhof,12:47,124700
+38,21,Stadsschouwburg,12:48,124800
+38,22,Wittevrouwen,12:50,125000
+38,23,Oorsprongpark,12:51,125100
+38,24,Sartreweg,12:54,125400
+38,25,Veemarkt,12:55,125500
+38,26,Alfred Nobellaan,12:58,125800
+38,27,Hessenweg,12:59,125900
+38,28,Looydijk,13:00,130000
+38,29,Dr. Letteplein,13:02,130200
+38,30,Groenekanseweg,13:04,130400
+38,31,Zonneplein,13:05,130500
+38,32,Poolsterlaan,13:06,130600
+38,33,Duivenlaan,13:07,130700
+38,34,Konijnenlaan,13:08,130800
+38,35,2e Brandenburgerweg,13:09,130900
+38,36,Leyenseweg,13:11,131100
+38,37,Station Bilthoven,13:14,131400
+39,1,Nieuwegein City,12:18,121800
+39,2,Noordstedeweg,12:20,122000
+39,3,Barnsteendrift,12:21,122100
+39,4,De Baten,12:22,122200
+39,5,Antilopeweide,12:23,122300
+39,6,Landmansweide,12:24,122400
+39,7,Middenweide,12:26,122600
+39,8,Rembrandthage,12:28,122800
+39,9,Gerbrandypark,12:29,122900
+39,10,Guido Gezellehove,12:30,123000
+39,11,Galecopperdijk,12:32,123200
+39,12,Herman Heijermanshove,12:33,123300
+39,13,Blokhoeve-Noord,12:34,123400
+39,14,P+R Westraven,12:36,123600
+39,15,Kanaleneiland-Zuid,12:38,123800
+39,16,Europaplein-Noord,12:41,124100
+39,17,Lanslaan,12:42,124200
+39,18,CS Jaarbeurszijde,12:50,125000
+39,19,Neude,12:55,125500
+39,20,Janskerkhof,12:57,125700
+39,21,Stadsschouwburg,12:58,125800
+39,22,Wittevrouwen,13:00,130000
+39,23,Oorsprongpark,13:01,130100
+39,24,Sartreweg,13:04,130400
+39,25,Veemarkt,13:05,130500
+39,26,Alfred Nobellaan,13:08,130800
+39,27,Hessenweg,13:09,130900
+39,28,Looydijk,13:10,131000
+39,29,Dr. Letteplein,13:12,131200
+39,30,Groenekanseweg,13:14,131400
+39,31,Zonneplein,13:15,131500
+39,32,Poolsterlaan,13:16,131600
+39,33,Duivenlaan,13:17,131700
+39,34,Konijnenlaan,13:18,131800
+39,35,2e Brandenburgerweg,13:19,131900
+39,36,Leyenseweg,13:21,132100
+39,37,Station Bilthoven,13:24,132400
+40,1,Nieuwegein City,12:28,122800
+40,2,Noordstedeweg,12:30,123000
+40,3,Barnsteendrift,12:31,123100
+40,4,De Baten,12:32,123200
+40,5,Antilopeweide,12:33,123300
+40,6,Landmansweide,12:34,123400
+40,7,Middenweide,12:36,123600
+40,8,Rembrandthage,12:38,123800
+40,9,Gerbrandypark,12:39,123900
+40,10,Guido Gezellehove,12:40,124000
+40,11,Galecopperdijk,12:42,124200
+40,12,Herman Heijermanshove,12:43,124300
+40,13,Blokhoeve-Noord,12:44,124400
+40,14,P+R Westraven,12:46,124600
+40,15,Kanaleneiland-Zuid,12:48,124800
+40,16,Europaplein-Noord,12:51,125100
+40,17,Lanslaan,12:52,125200
+40,18,CS Jaarbeurszijde,13:00,130000
+40,19,Neude,13:05,130500
+40,20,Janskerkhof,13:07,130700
+40,21,Stadsschouwburg,13:08,130800
+40,22,Wittevrouwen,13:10,131000
+40,23,Oorsprongpark,13:11,131100
+40,24,Sartreweg,13:14,131400
+40,25,Veemarkt,13:15,131500
+40,26,Alfred Nobellaan,13:18,131800
+40,27,Hessenweg,13:19,131900
+40,28,Looydijk,13:20,132000
+40,29,Dr. Letteplein,13:22,132200
+40,30,Groenekanseweg,13:24,132400
+40,31,Zonneplein,13:25,132500
+40,32,Poolsterlaan,13:26,132600
+40,33,Duivenlaan,13:27,132700
+40,34,Konijnenlaan,13:28,132800
+40,35,2e Brandenburgerweg,13:29,132900
+40,36,Leyenseweg,13:31,133100
+40,37,Station Bilthoven,13:34,133400
+41,1,Nieuwegein City,12:38,123800
+41,2,Noordstedeweg,12:40,124000
+41,3,Barnsteendrift,12:41,124100
+41,4,De Baten,12:42,124200
+41,5,Antilopeweide,12:43,124300
+41,6,Landmansweide,12:44,124400
+41,7,Middenweide,12:46,124600
+41,8,Rembrandthage,12:48,124800
+41,9,Gerbrandypark,12:49,124900
+41,10,Guido Gezellehove,12:50,125000
+41,11,Galecopperdijk,12:52,125200
+41,12,Herman Heijermanshove,12:53,125300
+41,13,Blokhoeve-Noord,12:54,125400
+41,14,P+R Westraven,12:56,125600
+41,15,Kanaleneiland-Zuid,12:58,125800
+41,16,Europaplein-Noord,13:01,130100
+41,17,Lanslaan,13:02,130200
+41,18,CS Jaarbeurszijde,13:10,131000
+41,19,Neude,13:15,131500
+41,20,Janskerkhof,13:17,131700
+41,21,Stadsschouwburg,13:18,131800
+41,22,Wittevrouwen,13:20,132000
+41,23,Oorsprongpark,13:21,132100
+41,24,Sartreweg,13:24,132400
+41,25,Veemarkt,13:25,132500
+41,26,Alfred Nobellaan,13:28,132800
+41,27,Hessenweg,13:29,132900
+41,28,Looydijk,13:30,133000
+41,29,Dr. Letteplein,13:32,133200
+41,30,Groenekanseweg,13:34,133400
+41,31,Zonneplein,13:35,133500
+41,32,Poolsterlaan,13:36,133600
+41,33,Duivenlaan,13:37,133700
+41,34,Konijnenlaan,13:38,133800
+41,35,2e Brandenburgerweg,13:39,133900
+41,36,Leyenseweg,13:41,134100
+41,37,Station Bilthoven,13:44,134400
+42,1,Nieuwegein City,12:48,124800
+42,2,Noordstedeweg,12:50,125000
+42,3,Barnsteendrift,12:51,125100
+42,4,De Baten,12:52,125200
+42,5,Antilopeweide,12:53,125300
+42,6,Landmansweide,12:54,125400
+42,7,Middenweide,12:56,125600
+42,8,Rembrandthage,12:58,125800
+42,9,Gerbrandypark,12:59,125900
+42,10,Guido Gezellehove,13:00,130000
+42,11,Galecopperdijk,13:02,130200
+42,12,Herman Heijermanshove,13:03,130300
+42,13,Blokhoeve-Noord,13:04,130400
+42,14,P+R Westraven,13:06,130600
+42,15,Kanaleneiland-Zuid,13:08,130800
+42,16,Europaplein-Noord,13:11,131100
+42,17,Lanslaan,13:12,131200
+42,18,CS Jaarbeurszijde,13:20,132000
+42,19,Neude,13:25,132500
+42,20,Janskerkhof,13:27,132700
+42,21,Stadsschouwburg,13:28,132800
+42,22,Wittevrouwen,13:30,133000
+42,23,Oorsprongpark,13:31,133100
+42,24,Sartreweg,13:34,133400
+42,25,Veemarkt,13:35,133500
+42,26,Alfred Nobellaan,13:38,133800
+42,27,Hessenweg,13:39,133900
+42,28,Looydijk,13:40,134000
+42,29,Dr. Letteplein,13:42,134200
+42,30,Groenekanseweg,13:44,134400
+42,31,Zonneplein,13:45,134500
+42,32,Poolsterlaan,13:46,134600
+42,33,Duivenlaan,13:47,134700
+42,34,Konijnenlaan,13:48,134800
+42,35,2e Brandenburgerweg,13:49,134900
+42,36,Leyenseweg,13:51,135100
+42,37,Station Bilthoven,13:54,135400
+43,1,Nieuwegein City,12:58,125800
+43,2,Noordstedeweg,13:00,130000
+43,3,Barnsteendrift,13:01,130100
+43,4,De Baten,13:02,130200
+43,5,Antilopeweide,13:03,130300
+43,6,Landmansweide,13:04,130400
+43,7,Middenweide,13:06,130600
+43,8,Rembrandthage,13:08,130800
+43,9,Gerbrandypark,13:09,130900
+43,10,Guido Gezellehove,13:10,131000
+43,11,Galecopperdijk,13:12,131200
+43,12,Herman Heijermanshove,13:13,131300
+43,13,Blokhoeve-Noord,13:14,131400
+43,14,P+R Westraven,13:16,131600
+43,15,Kanaleneiland-Zuid,13:18,131800
+43,16,Europaplein-Noord,13:21,132100
+43,17,Lanslaan,13:22,132200
+43,18,CS Jaarbeurszijde,13:30,133000
+43,19,Neude,13:35,133500
+43,20,Janskerkhof,13:37,133700
+43,21,Stadsschouwburg,13:38,133800
+43,22,Wittevrouwen,13:40,134000
+43,23,Oorsprongpark,13:41,134100
+43,24,Sartreweg,13:44,134400
+43,25,Veemarkt,13:45,134500
+43,26,Alfred Nobellaan,13:48,134800
+43,27,Hessenweg,13:49,134900
+43,28,Looydijk,13:50,135000
+43,29,Dr. Letteplein,13:52,135200
+43,30,Groenekanseweg,13:54,135400
+43,31,Zonneplein,13:55,135500
+43,32,Poolsterlaan,13:56,135600
+43,33,Duivenlaan,13:57,135700
+43,34,Konijnenlaan,13:58,135800
+43,35,2e Brandenburgerweg,13:59,135900
+43,36,Leyenseweg,14:01,140100
+43,37,Station Bilthoven,14:04,140400
+44,1,Nieuwegein City,13:08,130800
+44,2,Noordstedeweg,13:10,131000
+44,3,Barnsteendrift,13:11,131100
+44,4,De Baten,13:12,131200
+44,5,Antilopeweide,13:13,131300
+44,6,Landmansweide,13:14,131400
+44,7,Middenweide,13:16,131600
+44,8,Rembrandthage,13:18,131800
+44,9,Gerbrandypark,13:19,131900
+44,10,Guido Gezellehove,13:20,132000
+44,11,Galecopperdijk,13:22,132200
+44,12,Herman Heijermanshove,13:23,132300
+44,13,Blokhoeve-Noord,13:24,132400
+44,14,P+R Westraven,13:26,132600
+44,15,Kanaleneiland-Zuid,13:28,132800
+44,16,Europaplein-Noord,13:31,133100
+44,17,Lanslaan,13:32,133200
+44,18,CS Jaarbeurszijde,13:40,134000
+44,19,Neude,13:45,134500
+44,20,Janskerkhof,13:47,134700
+44,21,Stadsschouwburg,13:48,134800
+44,22,Wittevrouwen,13:50,135000
+44,23,Oorsprongpark,13:51,135100
+44,24,Sartreweg,13:54,135400
+44,25,Veemarkt,13:55,135500
+44,26,Alfred Nobellaan,13:58,135800
+44,27,Hessenweg,13:59,135900
+44,28,Looydijk,14:00,140000
+44,29,Dr. Letteplein,14:02,140200
+44,30,Groenekanseweg,14:04,140400
+44,31,Zonneplein,14:05,140500
+44,32,Poolsterlaan,14:06,140600
+44,33,Duivenlaan,14:07,140700
+44,34,Konijnenlaan,14:08,140800
+44,35,2e Brandenburgerweg,14:09,140900
+44,36,Leyenseweg,14:11,141100
+44,37,Station Bilthoven,14:14,141400
+45,1,Nieuwegein City,13:18,131800
+45,2,Noordstedeweg,13:20,132000
+45,3,Barnsteendrift,13:21,132100
+45,4,De Baten,13:22,132200
+45,5,Antilopeweide,13:23,132300
+45,6,Landmansweide,13:24,132400
+45,7,Middenweide,13:26,132600
+45,8,Rembrandthage,13:28,132800
+45,9,Gerbrandypark,13:29,132900
+45,10,Guido Gezellehove,13:30,133000
+45,11,Galecopperdijk,13:32,133200
+45,12,Herman Heijermanshove,13:33,133300
+45,13,Blokhoeve-Noord,13:34,133400
+45,14,P+R Westraven,13:36,133600
+45,15,Kanaleneiland-Zuid,13:38,133800
+45,16,Europaplein-Noord,13:41,134100
+45,17,Lanslaan,13:42,134200
+45,18,CS Jaarbeurszijde,13:50,135000
+45,19,Neude,13:55,135500
+45,20,Janskerkhof,13:57,135700
+45,21,Stadsschouwburg,13:58,135800
+45,22,Wittevrouwen,14:00,140000
+45,23,Oorsprongpark,14:01,140100
+45,24,Sartreweg,14:04,140400
+45,25,Veemarkt,14:05,140500
+45,26,Alfred Nobellaan,14:08,140800
+45,27,Hessenweg,14:09,140900
+45,28,Looydijk,14:10,141000
+45,29,Dr. Letteplein,14:12,141200
+45,30,Groenekanseweg,14:14,141400
+45,31,Zonneplein,14:15,141500
+45,32,Poolsterlaan,14:16,141600
+45,33,Duivenlaan,14:17,141700
+45,34,Konijnenlaan,14:18,141800
+45,35,2e Brandenburgerweg,14:19,141900
+45,36,Leyenseweg,14:21,142100
+45,37,Station Bilthoven,14:24,142400
+46,1,Nieuwegein City,13:28,132800
+46,2,Noordstedeweg,13:30,133000
+46,3,Barnsteendrift,13:31,133100
+46,4,De Baten,13:32,133200
+46,5,Antilopeweide,13:33,133300
+46,6,Landmansweide,13:34,133400
+46,7,Middenweide,13:36,133600
+46,8,Rembrandthage,13:38,133800
+46,9,Gerbrandypark,13:39,133900
+46,10,Guido Gezellehove,13:40,134000
+46,11,Galecopperdijk,13:42,134200
+46,12,Herman Heijermanshove,13:43,134300
+46,13,Blokhoeve-Noord,13:44,134400
+46,14,P+R Westraven,13:46,134600
+46,15,Kanaleneiland-Zuid,13:48,134800
+46,16,Europaplein-Noord,13:51,135100
+46,17,Lanslaan,13:52,135200
+46,18,CS Jaarbeurszijde,14:00,140000
+46,19,Neude,14:05,140500
+46,20,Janskerkhof,14:07,140700
+46,21,Stadsschouwburg,14:08,140800
+46,22,Wittevrouwen,14:10,141000
+46,23,Oorsprongpark,14:11,141100
+46,24,Sartreweg,14:14,141400
+46,25,Veemarkt,14:15,141500
+46,26,Alfred Nobellaan,14:18,141800
+46,27,Hessenweg,14:19,141900
+46,28,Looydijk,14:20,142000
+46,29,Dr. Letteplein,14:22,142200
+46,30,Groenekanseweg,14:24,142400
+46,31,Zonneplein,14:25,142500
+46,32,Poolsterlaan,14:26,142600
+46,33,Duivenlaan,14:27,142700
+46,34,Konijnenlaan,14:28,142800
+46,35,2e Brandenburgerweg,14:29,142900
+46,36,Leyenseweg,14:31,143100
+46,37,Station Bilthoven,14:34,143400
+47,1,Nieuwegein City,13:38,133800
+47,2,Noordstedeweg,13:40,134000
+47,3,Barnsteendrift,13:41,134100
+47,4,De Baten,13:42,134200
+47,5,Antilopeweide,13:43,134300
+47,6,Landmansweide,13:44,134400
+47,7,Middenweide,13:46,134600
+47,8,Rembrandthage,13:48,134800
+47,9,Gerbrandypark,13:49,134900
+47,10,Guido Gezellehove,13:50,135000
+47,11,Galecopperdijk,13:52,135200
+47,12,Herman Heijermanshove,13:53,135300
+47,13,Blokhoeve-Noord,13:54,135400
+47,14,P+R Westraven,13:56,135600
+47,15,Kanaleneiland-Zuid,13:58,135800
+47,16,Europaplein-Noord,14:01,140100
+47,17,Lanslaan,14:02,140200
+47,18,CS Jaarbeurszijde,14:10,141000
+47,19,Neude,14:15,141500
+47,20,Janskerkhof,14:17,141700
+47,21,Stadsschouwburg,14:18,141800
+47,22,Wittevrouwen,14:20,142000
+47,23,Oorsprongpark,14:21,142100
+47,24,Sartreweg,14:24,142400
+47,25,Veemarkt,14:25,142500
+47,26,Alfred Nobellaan,14:28,142800
+47,27,Hessenweg,14:29,142900
+47,28,Looydijk,14:30,143000
+47,29,Dr. Letteplein,14:32,143200
+47,30,Groenekanseweg,14:34,143400
+47,31,Zonneplein,14:35,143500
+47,32,Poolsterlaan,14:36,143600
+47,33,Duivenlaan,14:37,143700
+47,34,Konijnenlaan,14:38,143800
+47,35,2e Brandenburgerweg,14:39,143900
+47,36,Leyenseweg,14:41,144100
+47,37,Station Bilthoven,14:44,144400
+48,1,Nieuwegein City,13:48,134800
+48,2,Noordstedeweg,13:50,135000
+48,3,Barnsteendrift,13:51,135100
+48,4,De Baten,13:52,135200
+48,5,Antilopeweide,13:53,135300
+48,6,Landmansweide,13:54,135400
+48,7,Middenweide,13:56,135600
+48,8,Rembrandthage,13:58,135800
+48,9,Gerbrandypark,13:59,135900
+48,10,Guido Gezellehove,14:00,140000
+48,11,Galecopperdijk,14:02,140200
+48,12,Herman Heijermanshove,14:03,140300
+48,13,Blokhoeve-Noord,14:04,140400
+48,14,P+R Westraven,14:06,140600
+48,15,Kanaleneiland-Zuid,14:08,140800
+48,16,Europaplein-Noord,14:11,141100
+48,17,Lanslaan,14:12,141200
+48,18,CS Jaarbeurszijde,14:20,142000
+48,19,Neude,14:25,142500
+48,20,Janskerkhof,14:27,142700
+48,21,Stadsschouwburg,14:28,142800
+48,22,Wittevrouwen,14:30,143000
+48,23,Oorsprongpark,14:31,143100
+48,24,Sartreweg,14:34,143400
+48,25,Veemarkt,14:35,143500
+48,26,Alfred Nobellaan,14:38,143800
+48,27,Hessenweg,14:39,143900
+48,28,Looydijk,14:40,144000
+48,29,Dr. Letteplein,14:42,144200
+48,30,Groenekanseweg,14:44,144400
+48,31,Zonneplein,14:45,144500
+48,32,Poolsterlaan,14:46,144600
+48,33,Duivenlaan,14:47,144700
+48,34,Konijnenlaan,14:48,144800
+48,35,2e Brandenburgerweg,14:49,144900
+48,36,Leyenseweg,14:51,145100
+48,37,Station Bilthoven,14:54,145400
+49,1,Nieuwegein City,13:58,135800
+49,2,Noordstedeweg,14:00,140000
+49,3,Barnsteendrift,14:01,140100
+49,4,De Baten,14:02,140200
+49,5,Antilopeweide,14:03,140300
+49,6,Landmansweide,14:04,140400
+49,7,Middenweide,14:06,140600
+49,8,Rembrandthage,14:08,140800
+49,9,Gerbrandypark,14:09,140900
+49,10,Guido Gezellehove,14:10,141000
+49,11,Galecopperdijk,14:12,141200
+49,12,Herman Heijermanshove,14:13,141300
+49,13,Blokhoeve-Noord,14:14,141400
+49,14,P+R Westraven,14:16,141600
+49,15,Kanaleneiland-Zuid,14:18,141800
+49,16,Europaplein-Noord,14:21,142100
+49,17,Lanslaan,14:22,142200
+49,18,CS Jaarbeurszijde,14:30,143000
+49,19,Neude,14:35,143500
+49,20,Janskerkhof,14:37,143700
+49,21,Stadsschouwburg,14:38,143800
+49,22,Wittevrouwen,14:40,144000
+49,23,Oorsprongpark,14:41,144100
+49,24,Sartreweg,14:44,144400
+49,25,Veemarkt,14:45,144500
+49,26,Alfred Nobellaan,14:48,144800
+49,27,Hessenweg,14:49,144900
+49,28,Looydijk,14:50,145000
+49,29,Dr. Letteplein,14:52,145200
+49,30,Groenekanseweg,14:54,145400
+49,31,Zonneplein,14:55,145500
+49,32,Poolsterlaan,14:56,145600
+49,33,Duivenlaan,14:57,145700
+49,34,Konijnenlaan,14:58,145800
+49,35,2e Brandenburgerweg,14:59,145900
+49,36,Leyenseweg,15:01,150100
+49,37,Station Bilthoven,15:04,150400
+50,1,Nieuwegein City,14:08,140800
+50,2,Noordstedeweg,14:10,141000
+50,3,Barnsteendrift,14:11,141100
+50,4,De Baten,14:12,141200
+50,5,Antilopeweide,14:13,141300
+50,6,Landmansweide,14:14,141400
+50,7,Middenweide,14:16,141600
+50,8,Rembrandthage,14:18,141800
+50,9,Gerbrandypark,14:19,141900
+50,10,Guido Gezellehove,14:20,142000
+50,11,Galecopperdijk,14:22,142200
+50,12,Herman Heijermanshove,14:23,142300
+50,13,Blokhoeve-Noord,14:24,142400
+50,14,P+R Westraven,14:26,142600
+50,15,Kanaleneiland-Zuid,14:28,142800
+50,16,Europaplein-Noord,14:31,143100
+50,17,Lanslaan,14:32,143200
+50,18,CS Jaarbeurszijde,14:40,144000
+50,19,Neude,14:45,144500
+50,20,Janskerkhof,14:47,144700
+50,21,Stadsschouwburg,14:48,144800
+50,22,Wittevrouwen,14:50,145000
+50,23,Oorsprongpark,14:51,145100
+50,24,Sartreweg,14:54,145400
+50,25,Veemarkt,14:55,145500
+50,26,Alfred Nobellaan,14:58,145800
+50,27,Hessenweg,14:59,145900
+50,28,Looydijk,15:00,150000
+50,29,Dr. Letteplein,15:02,150200
+50,30,Groenekanseweg,15:04,150400
+50,31,Zonneplein,15:05,150500
+50,32,Poolsterlaan,15:06,150600
+50,33,Duivenlaan,15:07,150700
+50,34,Konijnenlaan,15:08,150800
+50,35,2e Brandenburgerweg,15:09,150900
+50,36,Leyenseweg,15:11,151100
+50,37,Station Bilthoven,15:14,151400
+51,1,Nieuwegein City,14:18,141800
+51,2,Noordstedeweg,14:20,142000
+51,3,Barnsteendrift,14:21,142100
+51,4,De Baten,14:22,142200
+51,5,Antilopeweide,14:23,142300
+51,6,Landmansweide,14:24,142400
+51,7,Middenweide,14:26,142600
+51,8,Rembrandthage,14:28,142800
+51,9,Gerbrandypark,14:29,142900
+51,10,Guido Gezellehove,14:30,143000
+51,11,Galecopperdijk,14:32,143200
+51,12,Herman Heijermanshove,14:33,143300
+51,13,Blokhoeve-Noord,14:34,143400
+51,14,P+R Westraven,14:36,143600
+51,15,Kanaleneiland-Zuid,14:38,143800
+51,16,Europaplein-Noord,14:41,144100
+51,17,Lanslaan,14:42,144200
+51,18,CS Jaarbeurszijde,14:50,145000
+51,19,Neude,14:55,145500
+51,20,Janskerkhof,14:57,145700
+51,21,Stadsschouwburg,14:58,145800
+51,22,Wittevrouwen,15:00,150000
+51,23,Oorsprongpark,15:01,150100
+51,24,Sartreweg,15:04,150400
+51,25,Veemarkt,15:05,150500
+51,26,Alfred Nobellaan,15:08,150800
+51,27,Hessenweg,15:09,150900
+51,28,Looydijk,15:10,151000
+51,29,Dr. Letteplein,15:12,151200
+51,30,Groenekanseweg,15:14,151400
+51,31,Zonneplein,15:15,151500
+51,32,Poolsterlaan,15:16,151600
+51,33,Duivenlaan,15:17,151700
+51,34,Konijnenlaan,15:18,151800
+51,35,2e Brandenburgerweg,15:19,151900
+51,36,Leyenseweg,15:21,152100
+51,37,Station Bilthoven,15:24,152400
+52,1,Nieuwegein City,14:28,142800
+52,2,Noordstedeweg,14:30,143000
+52,3,Barnsteendrift,14:31,143100
+52,4,De Baten,14:32,143200
+52,5,Antilopeweide,14:33,143300
+52,6,Landmansweide,14:34,143400
+52,7,Middenweide,14:36,143600
+52,8,Rembrandthage,14:38,143800
+52,9,Gerbrandypark,14:39,143900
+52,10,Guido Gezellehove,14:40,144000
+52,11,Galecopperdijk,14:42,144200
+52,12,Herman Heijermanshove,14:43,144300
+52,13,Blokhoeve-Noord,14:44,144400
+52,14,P+R Westraven,14:46,144600
+52,15,Kanaleneiland-Zuid,14:48,144800
+52,16,Europaplein-Noord,14:51,145100
+52,17,Lanslaan,14:52,145200
+52,18,CS Jaarbeurszijde,15:00,150000
+52,19,Neude,15:05,150500
+52,20,Janskerkhof,15:07,150700
+52,21,Stadsschouwburg,15:08,150800
+52,22,Wittevrouwen,15:10,151000
+52,23,Oorsprongpark,15:11,151100
+52,24,Sartreweg,15:14,151400
+52,25,Veemarkt,15:15,151500
+52,26,Alfred Nobellaan,15:18,151800
+52,27,Hessenweg,15:19,151900
+52,28,Looydijk,15:20,152000
+52,29,Dr. Letteplein,15:22,152200
+52,30,Groenekanseweg,15:24,152400
+52,31,Zonneplein,15:25,152500
+52,32,Poolsterlaan,15:26,152600
+52,33,Duivenlaan,15:27,152700
+52,34,Konijnenlaan,15:28,152800
+52,35,2e Brandenburgerweg,15:29,152900
+52,36,Leyenseweg,15:31,153100
+52,37,Station Bilthoven,15:34,153400
+53,1,Nieuwegein City,14:38,143800
+53,2,Noordstedeweg,14:40,144000
+53,3,Barnsteendrift,14:41,144100
+53,4,De Baten,14:42,144200
+53,5,Antilopeweide,14:43,144300
+53,6,Landmansweide,14:44,144400
+53,7,Middenweide,14:46,144600
+53,8,Rembrandthage,14:48,144800
+53,9,Gerbrandypark,14:49,144900
+53,10,Guido Gezellehove,14:50,145000
+53,11,Galecopperdijk,14:52,145200
+53,12,Herman Heijermanshove,14:53,145300
+53,13,Blokhoeve-Noord,14:54,145400
+53,14,P+R Westraven,14:56,145600
+53,15,Kanaleneiland-Zuid,14:58,145800
+53,16,Europaplein-Noord,15:01,150100
+53,17,Lanslaan,15:02,150200
+53,18,CS Jaarbeurszijde,15:10,151000
+53,19,Neude,15:15,151500
+53,20,Janskerkhof,15:17,151700
+53,21,Stadsschouwburg,15:18,151800
+53,22,Wittevrouwen,15:20,152000
+53,23,Oorsprongpark,15:21,152100
+53,24,Sartreweg,15:24,152400
+53,25,Veemarkt,15:25,152500
+53,26,Alfred Nobellaan,15:28,152800
+53,27,Hessenweg,15:29,152900
+53,28,Looydijk,15:30,153000
+53,29,Dr. Letteplein,15:32,153200
+53,30,Groenekanseweg,15:34,153400
+53,31,Zonneplein,15:35,153500
+53,32,Poolsterlaan,15:36,153600
+53,33,Duivenlaan,15:37,153700
+53,34,Konijnenlaan,15:38,153800
+53,35,2e Brandenburgerweg,15:39,153900
+53,36,Leyenseweg,15:41,154100
+53,37,Station Bilthoven,15:44,154400
+54,1,Nieuwegein City,14:48,144800
+54,2,Noordstedeweg,14:50,145000
+54,3,Barnsteendrift,14:51,145100
+54,4,De Baten,14:52,145200
+54,5,Antilopeweide,14:53,145300
+54,6,Landmansweide,14:54,145400
+54,7,Middenweide,14:56,145600
+54,8,Rembrandthage,14:58,145800
+54,9,Gerbrandypark,14:59,145900
+54,10,Guido Gezellehove,15:00,150000
+54,11,Galecopperdijk,15:02,150200
+54,12,Herman Heijermanshove,15:03,150300
+54,13,Blokhoeve-Noord,15:04,150400
+54,14,P+R Westraven,15:06,150600
+54,15,Kanaleneiland-Zuid,15:08,150800
+54,16,Europaplein-Noord,15:11,151100
+54,17,Lanslaan,15:12,151200
+54,18,CS Jaarbeurszijde,15:20,152000
+54,19,Neude,15:25,152500
+54,20,Janskerkhof,15:27,152700
+54,21,Stadsschouwburg,15:28,152800
+54,22,Wittevrouwen,15:30,153000
+54,23,Oorsprongpark,15:31,153100
+54,24,Sartreweg,15:34,153400
+54,25,Veemarkt,15:35,153500
+54,26,Alfred Nobellaan,15:38,153800
+54,27,Hessenweg,15:39,153900
+54,28,Looydijk,15:40,154000
+54,29,Dr. Letteplein,15:42,154200
+54,30,Groenekanseweg,15:44,154400
+54,31,Zonneplein,15:45,154500
+54,32,Poolsterlaan,15:46,154600
+54,33,Duivenlaan,15:47,154700
+54,34,Konijnenlaan,15:48,154800
+54,35,2e Brandenburgerweg,15:49,154900
+54,36,Leyenseweg,15:51,155100
+54,37,Station Bilthoven,15:54,155400
+55,1,Nieuwegein City,14:58,145800
+55,2,Noordstedeweg,15:00,150000
+55,3,Barnsteendrift,15:01,150100
+55,4,De Baten,15:02,150200
+55,5,Antilopeweide,15:03,150300
+55,6,Landmansweide,15:04,150400
+55,7,Middenweide,15:06,150600
+55,8,Rembrandthage,15:08,150800
+55,9,Gerbrandypark,15:09,150900
+55,10,Guido Gezellehove,15:10,151000
+55,11,Galecopperdijk,15:12,151200
+55,12,Herman Heijermanshove,15:13,151300
+55,13,Blokhoeve-Noord,15:14,151400
+55,14,P+R Westraven,15:16,151600
+55,15,Kanaleneiland-Zuid,15:18,151800
+55,16,Europaplein-Noord,15:21,152100
+55,17,Lanslaan,15:22,152200
+55,18,CS Jaarbeurszijde,15:30,153000
+55,19,Neude,15:35,153500
+55,20,Janskerkhof,15:37,153700
+55,21,Stadsschouwburg,15:38,153800
+55,22,Wittevrouwen,15:40,154000
+55,23,Oorsprongpark,15:41,154100
+55,24,Sartreweg,15:44,154400
+55,25,Veemarkt,15:45,154500
+55,26,Alfred Nobellaan,15:48,154800
+55,27,Hessenweg,15:49,154900
+55,28,Looydijk,15:50,155000
+55,29,Dr. Letteplein,15:52,155200
+55,30,Groenekanseweg,15:54,155400
+55,31,Zonneplein,15:55,155500
+55,32,Poolsterlaan,15:56,155600
+55,33,Duivenlaan,15:57,155700
+55,34,Konijnenlaan,15:58,155800
+55,35,2e Brandenburgerweg,15:59,155900
+55,36,Leyenseweg,16:01,160100
+55,37,Station Bilthoven,16:04,160400
+56,1,Nieuwegein City,15:08,150800
+56,2,Noordstedeweg,15:10,151000
+56,3,Barnsteendrift,15:11,151100
+56,4,De Baten,15:12,151200
+56,5,Antilopeweide,15:13,151300
+56,6,Landmansweide,15:14,151400
+56,7,Middenweide,15:16,151600
+56,8,Rembrandthage,15:18,151800
+56,9,Gerbrandypark,15:19,151900
+56,10,Guido Gezellehove,15:20,152000
+56,11,Galecopperdijk,15:22,152200
+56,12,Herman Heijermanshove,15:23,152300
+56,13,Blokhoeve-Noord,15:24,152400
+56,14,P+R Westraven,15:26,152600
+56,15,Kanaleneiland-Zuid,15:28,152800
+56,16,Europaplein-Noord,15:31,153100
+56,17,Lanslaan,15:32,153200
+56,18,CS Jaarbeurszijde,15:40,154000
+56,19,Neude,15:45,154500
+56,20,Janskerkhof,15:47,154700
+56,21,Stadsschouwburg,15:48,154800
+56,22,Wittevrouwen,15:50,155000
+56,23,Oorsprongpark,15:51,155100
+56,24,Sartreweg,15:54,155400
+56,25,Veemarkt,15:55,155500
+56,26,Alfred Nobellaan,15:58,155800
+56,27,Hessenweg,15:59,155900
+56,28,Looydijk,16:00,160000
+56,29,Dr. Letteplein,16:02,160200
+56,30,Groenekanseweg,16:04,160400
+56,31,Zonneplein,16:05,160500
+56,32,Poolsterlaan,16:06,160600
+56,33,Duivenlaan,16:07,160700
+56,34,Konijnenlaan,16:09,160900
+56,35,2e Brandenburgerweg,16:10,161000
+56,36,Leyenseweg,16:11,161100
+56,37,Station Bilthoven,16:15,161500
+57,1,Nieuwegein City,15:18,151800
+57,2,Noordstedeweg,15:20,152000
+57,3,Barnsteendrift,15:21,152100
+57,4,De Baten,15:22,152200
+57,5,Antilopeweide,15:23,152300
+57,6,Landmansweide,15:24,152400
+57,7,Middenweide,15:26,152600
+57,8,Rembrandthage,15:28,152800
+57,9,Gerbrandypark,15:29,152900
+57,10,Guido Gezellehove,15:30,153000
+57,11,Galecopperdijk,15:32,153200
+57,12,Herman Heijermanshove,15:33,153300
+57,13,Blokhoeve-Noord,15:34,153400
+57,14,P+R Westraven,15:36,153600
+57,15,Kanaleneiland-Zuid,15:38,153800
+57,16,Europaplein-Noord,15:41,154100
+57,17,Lanslaan,15:42,154200
+57,18,CS Jaarbeurszijde,15:50,155000
+57,19,Neude,15:55,155500
+57,20,Janskerkhof,15:57,155700
+57,21,Stadsschouwburg,15:58,155800
+57,22,Wittevrouwen,16:00,160000
+57,23,Oorsprongpark,16:01,160100
+57,24,Sartreweg,16:04,160400
+57,25,Veemarkt,16:05,160500
+57,26,Alfred Nobellaan,16:09,160900
+57,27,Hessenweg,16:10,161000
+57,28,Looydijk,16:11,161100
+57,29,Dr. Letteplein,16:13,161300
+57,30,Groenekanseweg,16:15,161500
+57,31,Zonneplein,16:16,161600
+57,32,Poolsterlaan,16:17,161700
+57,33,Duivenlaan,16:18,161800
+57,34,Konijnenlaan,16:20,162000
+57,35,2e Brandenburgerweg,16:21,162100
+57,36,Leyenseweg,16:22,162200
+57,37,Station Bilthoven,16:26,162600
+58,1,Nieuwegein City,15:28,152800
+58,2,Noordstedeweg,15:30,153000
+58,3,Barnsteendrift,15:31,153100
+58,4,De Baten,15:32,153200
+58,5,Antilopeweide,15:33,153300
+58,6,Landmansweide,15:34,153400
+58,7,Middenweide,15:36,153600
+58,8,Rembrandthage,15:38,153800
+58,9,Gerbrandypark,15:39,153900
+58,10,Guido Gezellehove,15:40,154000
+58,11,Galecopperdijk,15:42,154200
+58,12,Herman Heijermanshove,15:43,154300
+58,13,Blokhoeve-Noord,15:44,154400
+58,14,P+R Westraven,15:46,154600
+58,15,Kanaleneiland-Zuid,15:48,154800
+58,16,Europaplein-Noord,15:51,155100
+58,17,Lanslaan,15:52,155200
+58,18,CS Jaarbeurszijde,16:00,160000
+58,19,Neude,16:05,160500
+58,20,Janskerkhof,16:07,160700
+58,21,Stadsschouwburg,16:08,160800
+58,22,Wittevrouwen,16:10,161000
+58,23,Oorsprongpark,16:11,161100
+58,24,Sartreweg,16:14,161400
+58,25,Veemarkt,16:15,161500
+58,26,Alfred Nobellaan,16:19,161900
+58,27,Hessenweg,16:20,162000
+58,28,Looydijk,16:21,162100
+58,29,Dr. Letteplein,16:23,162300
+58,30,Groenekanseweg,16:25,162500
+58,31,Zonneplein,16:26,162600
+58,32,Poolsterlaan,16:27,162700
+58,33,Duivenlaan,16:28,162800
+58,34,Konijnenlaan,16:30,163000
+58,35,2e Brandenburgerweg,16:31,163100
+58,36,Leyenseweg,16:32,163200
+58,37,Station Bilthoven,16:36,163600
+59,1,Nieuwegein City,15:38,153800
+59,2,Noordstedeweg,15:40,154000
+59,3,Barnsteendrift,15:41,154100
+59,4,De Baten,15:42,154200
+59,5,Antilopeweide,15:43,154300
+59,6,Landmansweide,15:44,154400
+59,7,Middenweide,15:46,154600
+59,8,Rembrandthage,15:48,154800
+59,9,Gerbrandypark,15:49,154900
+59,10,Guido Gezellehove,15:50,155000
+59,11,Galecopperdijk,15:52,155200
+59,12,Herman Heijermanshove,15:53,155300
+59,13,Blokhoeve-Noord,15:54,155400
+59,14,P+R Westraven,15:56,155600
+59,15,Kanaleneiland-Zuid,15:58,155800
+59,16,Europaplein-Noord,16:01,160100
+59,17,Lanslaan,16:02,160200
+59,18,CS Jaarbeurszijde,16:10,161000
+59,19,Neude,16:15,161500
+59,20,Janskerkhof,16:17,161700
+59,21,Stadsschouwburg,16:18,161800
+59,22,Wittevrouwen,16:20,162000
+59,23,Oorsprongpark,16:21,162100
+59,24,Sartreweg,16:24,162400
+59,25,Veemarkt,16:25,162500
+59,26,Alfred Nobellaan,16:29,162900
+59,27,Hessenweg,16:30,163000
+59,28,Looydijk,16:31,163100
+59,29,Dr. Letteplein,16:33,163300
+59,30,Groenekanseweg,16:35,163500
+59,31,Zonneplein,16:36,163600
+59,32,Poolsterlaan,16:37,163700
+59,33,Duivenlaan,16:38,163800
+59,34,Konijnenlaan,16:40,164000
+59,35,2e Brandenburgerweg,16:41,164100
+59,36,Leyenseweg,16:42,164200
+59,37,Station Bilthoven,16:46,164600
+60,1,Nieuwegein City,15:48,154800
+60,2,Noordstedeweg,15:50,155000
+60,3,Barnsteendrift,15:51,155100
+60,4,De Baten,15:52,155200
+60,5,Antilopeweide,15:53,155300
+60,6,Landmansweide,15:54,155400
+60,7,Middenweide,15:56,155600
+60,8,Rembrandthage,15:58,155800
+60,9,Gerbrandypark,15:59,155900
+60,10,Guido Gezellehove,16:00,160000
+60,11,Galecopperdijk,16:02,160200
+60,12,Herman Heijermanshove,16:03,160300
+60,13,Blokhoeve-Noord,16:04,160400
+60,14,P+R Westraven,16:06,160600
+60,15,Kanaleneiland-Zuid,16:08,160800
+60,16,Europaplein-Noord,16:11,161100
+60,17,Lanslaan,16:13,161300
+60,18,CS Jaarbeurszijde,16:21,162100
+60,19,Neude,16:26,162600
+60,20,Janskerkhof,16:28,162800
+60,21,Stadsschouwburg,16:29,162900
+60,22,Wittevrouwen,16:31,163100
+60,23,Oorsprongpark,16:32,163200
+60,24,Sartreweg,16:35,163500
+60,25,Veemarkt,16:36,163600
+60,26,Alfred Nobellaan,16:40,164000
+60,27,Hessenweg,16:41,164100
+60,28,Looydijk,16:42,164200
+60,29,Dr. Letteplein,16:44,164400
+60,30,Groenekanseweg,16:46,164600
+60,31,Zonneplein,16:47,164700
+60,32,Poolsterlaan,16:48,164800
+60,33,Duivenlaan,16:49,164900
+60,34,Konijnenlaan,16:51,165100
+60,35,2e Brandenburgerweg,16:52,165200
+60,36,Leyenseweg,16:53,165300
+60,37,Station Bilthoven,16:57,165700
+61,1,Nieuwegein City,15:58,155800
+61,2,Noordstedeweg,16:00,160000
+61,3,Barnsteendrift,16:01,160100
+61,4,De Baten,16:02,160200
+61,5,Antilopeweide,16:03,160300
+61,6,Landmansweide,16:04,160400
+61,7,Middenweide,16:06,160600
+61,8,Rembrandthage,16:08,160800
+61,9,Gerbrandypark,16:09,160900
+61,10,Guido Gezellehove,16:10,161000
+61,11,Galecopperdijk,16:12,161200
+61,12,Herman Heijermanshove,16:13,161300
+61,13,Blokhoeve-Noord,16:14,161400
+61,14,P+R Westraven,16:16,161600
+61,15,Kanaleneiland-Zuid,16:18,161800
+61,16,Europaplein-Noord,16:21,162100
+61,17,Lanslaan,16:23,162300
+61,18,CS Jaarbeurszijde,16:31,163100
+61,19,Neude,16:36,163600
+61,20,Janskerkhof,16:38,163800
+61,21,Stadsschouwburg,16:39,163900
+61,22,Wittevrouwen,16:41,164100
+61,23,Oorsprongpark,16:42,164200
+61,24,Sartreweg,16:45,164500
+61,25,Veemarkt,16:46,164600
+61,26,Alfred Nobellaan,16:50,165000
+61,27,Hessenweg,16:51,165100
+61,28,Looydijk,16:52,165200
+61,29,Dr. Letteplein,16:54,165400
+61,30,Groenekanseweg,16:56,165600
+61,31,Zonneplein,16:57,165700
+61,32,Poolsterlaan,16:58,165800
+61,33,Duivenlaan,16:59,165900
+61,34,Konijnenlaan,17:01,170100
+61,35,2e Brandenburgerweg,17:02,170200
+61,36,Leyenseweg,17:03,170300
+61,37,Station Bilthoven,17:07,170700
+62,1,Nieuwegein City,16:07,160700
+62,2,Noordstedeweg,16:09,160900
+62,3,Barnsteendrift,16:10,161000
+62,4,De Baten,16:12,161200
+62,5,Antilopeweide,16:13,161300
+62,6,Landmansweide,16:14,161400
+62,7,Middenweide,16:16,161600
+62,8,Rembrandthage,16:18,161800
+62,9,Gerbrandypark,16:19,161900
+62,10,Guido Gezellehove,16:20,162000
+62,11,Galecopperdijk,16:22,162200
+62,12,Herman Heijermanshove,16:23,162300
+62,13,Blokhoeve-Noord,16:24,162400
+62,14,P+R Westraven,16:26,162600
+62,15,Kanaleneiland-Zuid,16:28,162800
+62,16,Europaplein-Noord,16:31,163100
+62,17,Lanslaan,16:33,163300
+62,18,CS Jaarbeurszijde,16:41,164100
+62,19,Neude,16:46,164600
+62,20,Janskerkhof,16:48,164800
+62,21,Stadsschouwburg,16:49,164900
+62,22,Wittevrouwen,16:51,165100
+62,23,Oorsprongpark,16:52,165200
+62,24,Sartreweg,16:55,165500
+62,25,Veemarkt,16:56,165600
+62,26,Alfred Nobellaan,17:00,170000
+62,27,Hessenweg,17:01,170100
+62,28,Looydijk,17:02,170200
+62,29,Dr. Letteplein,17:04,170400
+62,30,Groenekanseweg,17:06,170600
+62,31,Zonneplein,17:07,170700
+62,32,Poolsterlaan,17:08,170800
+62,33,Duivenlaan,17:09,170900
+62,34,Konijnenlaan,17:11,171100
+62,35,2e Brandenburgerweg,17:12,171200
+62,36,Leyenseweg,17:13,171300
+62,37,Station Bilthoven,17:17,171700
+63,1,Nieuwegein City,16:17,161700
+63,2,Noordstedeweg,16:19,161900
+63,3,Barnsteendrift,16:20,162000
+63,4,De Baten,16:22,162200
+63,5,Antilopeweide,16:23,162300
+63,6,Landmansweide,16:24,162400
+63,7,Middenweide,16:26,162600
+63,8,Rembrandthage,16:28,162800
+63,9,Gerbrandypark,16:29,162900
+63,10,Guido Gezellehove,16:30,163000
+63,11,Galecopperdijk,16:32,163200
+63,12,Herman Heijermanshove,16:33,163300
+63,13,Blokhoeve-Noord,16:34,163400
+63,14,P+R Westraven,16:36,163600
+63,15,Kanaleneiland-Zuid,16:38,163800
+63,16,Europaplein-Noord,16:41,164100
+63,17,Lanslaan,16:43,164300
+63,18,CS Jaarbeurszijde,16:51,165100
+63,19,Neude,16:56,165600
+63,20,Janskerkhof,16:58,165800
+63,21,Stadsschouwburg,16:59,165900
+63,22,Wittevrouwen,17:01,170100
+63,23,Oorsprongpark,17:02,170200
+63,24,Sartreweg,17:05,170500
+63,25,Veemarkt,17:06,170600
+63,26,Alfred Nobellaan,17:10,171000
+63,27,Hessenweg,17:11,171100
+63,28,Looydijk,17:12,171200
+63,29,Dr. Letteplein,17:14,171400
+63,30,Groenekanseweg,17:16,171600
+63,31,Zonneplein,17:17,171700
+63,32,Poolsterlaan,17:18,171800
+63,33,Duivenlaan,17:19,171900
+63,34,Konijnenlaan,17:20,172000
+63,35,2e Brandenburgerweg,17:21,172100
+63,36,Leyenseweg,17:23,172300
+63,37,Station Bilthoven,17:26,172600
+64,1,Nieuwegein City,16:27,162700
+64,2,Noordstedeweg,16:29,162900
+64,3,Barnsteendrift,16:30,163000
+64,4,De Baten,16:32,163200
+64,5,Antilopeweide,16:33,163300
+64,6,Landmansweide,16:34,163400
+64,7,Middenweide,16:36,163600
+64,8,Rembrandthage,16:38,163800
+64,9,Gerbrandypark,16:39,163900
+64,10,Guido Gezellehove,16:40,164000
+64,11,Galecopperdijk,16:42,164200
+64,12,Herman Heijermanshove,16:43,164300
+64,13,Blokhoeve-Noord,16:44,164400
+64,14,P+R Westraven,16:46,164600
+64,15,Kanaleneiland-Zuid,16:48,164800
+64,16,Europaplein-Noord,16:51,165100
+64,17,Lanslaan,16:53,165300
+64,18,CS Jaarbeurszijde,17:01,170100
+64,19,Neude,17:06,170600
+64,20,Janskerkhof,17:08,170800
+64,21,Stadsschouwburg,17:09,170900
+64,22,Wittevrouwen,17:11,171100
+64,23,Oorsprongpark,17:12,171200
+64,24,Sartreweg,17:15,171500
+64,25,Veemarkt,17:16,171600
+64,26,Alfred Nobellaan,17:19,171900
+64,27,Hessenweg,17:20,172000
+64,28,Looydijk,17:21,172100
+64,29,Dr. Letteplein,17:23,172300
+64,30,Groenekanseweg,17:25,172500
+64,31,Zonneplein,17:26,172600
+64,32,Poolsterlaan,17:27,172700
+64,33,Duivenlaan,17:28,172800
+64,34,Konijnenlaan,17:29,172900
+64,35,2e Brandenburgerweg,17:30,173000
+64,36,Leyenseweg,17:32,173200
+64,37,Station Bilthoven,17:35,173500
+65,1,Nieuwegein City,16:37,163700
+65,2,Noordstedeweg,16:39,163900
+65,3,Barnsteendrift,16:40,164000
+65,4,De Baten,16:42,164200
+65,5,Antilopeweide,16:43,164300
+65,6,Landmansweide,16:44,164400
+65,7,Middenweide,16:46,164600
+65,8,Rembrandthage,16:48,164800
+65,9,Gerbrandypark,16:49,164900
+65,10,Guido Gezellehove,16:50,165000
+65,11,Galecopperdijk,16:52,165200
+65,12,Herman Heijermanshove,16:53,165300
+65,13,Blokhoeve-Noord,16:54,165400
+65,14,P+R Westraven,16:56,165600
+65,15,Kanaleneiland-Zuid,16:58,165800
+65,16,Europaplein-Noord,17:01,170100
+65,17,Lanslaan,17:03,170300
+65,18,CS Jaarbeurszijde,17:11,171100
+65,19,Neude,17:16,171600
+65,20,Janskerkhof,17:18,171800
+65,21,Stadsschouwburg,17:19,171900
+65,22,Wittevrouwen,17:21,172100
+65,23,Oorsprongpark,17:22,172200
+65,24,Sartreweg,17:25,172500
+65,25,Veemarkt,17:26,172600
+65,26,Alfred Nobellaan,17:29,172900
+65,27,Hessenweg,17:30,173000
+65,28,Looydijk,17:31,173100
+65,29,Dr. Letteplein,17:33,173300
+65,30,Groenekanseweg,17:35,173500
+65,31,Zonneplein,17:36,173600
+65,32,Poolsterlaan,17:37,173700
+65,33,Duivenlaan,17:38,173800
+65,34,Konijnenlaan,17:39,173900
+65,35,2e Brandenburgerweg,17:40,174000
+65,36,Leyenseweg,17:42,174200
+65,37,Station Bilthoven,17:45,174500
+66,1,Nieuwegein City,16:47,164700
+66,2,Noordstedeweg,16:49,164900
+66,3,Barnsteendrift,16:50,165000
+66,4,De Baten,16:52,165200
+66,5,Antilopeweide,16:53,165300
+66,6,Landmansweide,16:54,165400
+66,7,Middenweide,16:56,165600
+66,8,Rembrandthage,16:58,165800
+66,9,Gerbrandypark,16:59,165900
+66,10,Guido Gezellehove,17:00,170000
+66,11,Galecopperdijk,17:02,170200
+66,12,Herman Heijermanshove,17:03,170300
+66,13,Blokhoeve-Noord,17:04,170400
+66,14,P+R Westraven,17:06,170600
+66,15,Kanaleneiland-Zuid,17:08,170800
+66,16,Europaplein-Noord,17:11,171100
+66,17,Lanslaan,17:13,171300
+66,18,CS Jaarbeurszijde,17:21,172100
+66,19,Neude,17:26,172600
+66,20,Janskerkhof,17:28,172800
+66,21,Stadsschouwburg,17:29,172900
+66,22,Wittevrouwen,17:31,173100
+66,23,Oorsprongpark,17:32,173200
+66,24,Sartreweg,17:35,173500
+66,25,Veemarkt,17:36,173600
+66,26,Alfred Nobellaan,17:39,173900
+66,27,Hessenweg,17:40,174000
+66,28,Looydijk,17:41,174100
+66,29,Dr. Letteplein,17:43,174300
+66,30,Groenekanseweg,17:45,174500
+66,31,Zonneplein,17:46,174600
+66,32,Poolsterlaan,17:47,174700
+66,33,Duivenlaan,17:48,174800
+66,34,Konijnenlaan,17:49,174900
+66,35,2e Brandenburgerweg,17:50,175000
+66,36,Leyenseweg,17:52,175200
+66,37,Station Bilthoven,17:55,175500
+67,1,Nieuwegein City,16:57,165700
+67,2,Noordstedeweg,16:59,165900
+67,3,Barnsteendrift,17:00,170000
+67,4,De Baten,17:02,170200
+67,5,Antilopeweide,17:03,170300
+67,6,Landmansweide,17:04,170400
+67,7,Middenweide,17:06,170600
+67,8,Rembrandthage,17:08,170800
+67,9,Gerbrandypark,17:09,170900
+67,10,Guido Gezellehove,17:10,171000
+67,11,Galecopperdijk,17:12,171200
+67,12,Herman Heijermanshove,17:13,171300
+67,13,Blokhoeve-Noord,17:14,171400
+67,14,P+R Westraven,17:16,171600
+67,15,Kanaleneiland-Zuid,17:18,171800
+67,16,Europaplein-Noord,17:21,172100
+67,17,Lanslaan,17:23,172300
+67,18,CS Jaarbeurszijde,17:31,173100
+67,19,Neude,17:36,173600
+67,20,Janskerkhof,17:38,173800
+67,21,Stadsschouwburg,17:39,173900
+67,22,Wittevrouwen,17:41,174100
+67,23,Oorsprongpark,17:42,174200
+67,24,Sartreweg,17:45,174500
+67,25,Veemarkt,17:46,174600
+67,26,Alfred Nobellaan,17:49,174900
+67,27,Hessenweg,17:50,175000
+67,28,Looydijk,17:51,175100
+67,29,Dr. Letteplein,17:53,175300
+67,30,Groenekanseweg,17:54,175400
+67,31,Zonneplein,17:55,175500
+67,32,Poolsterlaan,17:56,175600
+67,33,Duivenlaan,17:57,175700
+67,34,Konijnenlaan,17:58,175800
+67,35,2e Brandenburgerweg,17:59,175900
+67,36,Leyenseweg,18:01,180100
+67,37,Station Bilthoven,18:04,180400
+68,1,Nieuwegein City,17:07,170700
+68,2,Noordstedeweg,17:09,170900
+68,3,Barnsteendrift,17:10,171000
+68,4,De Baten,17:12,171200
+68,5,Antilopeweide,17:13,171300
+68,6,Landmansweide,17:14,171400
+68,7,Middenweide,17:16,171600
+68,8,Rembrandthage,17:18,171800
+68,9,Gerbrandypark,17:19,171900
+68,10,Guido Gezellehove,17:20,172000
+68,11,Galecopperdijk,17:22,172200
+68,12,Herman Heijermanshove,17:23,172300
+68,13,Blokhoeve-Noord,17:24,172400
+68,14,P+R Westraven,17:26,172600
+68,15,Kanaleneiland-Zuid,17:28,172800
+68,16,Europaplein-Noord,17:31,173100
+68,17,Lanslaan,17:33,173300
+68,18,CS Jaarbeurszijde,17:41,174100
+68,19,Neude,17:46,174600
+68,20,Janskerkhof,17:48,174800
+68,21,Stadsschouwburg,17:49,174900
+68,22,Wittevrouwen,17:51,175100
+68,23,Oorsprongpark,17:52,175200
+68,24,Sartreweg,17:54,175400
+68,25,Veemarkt,17:55,175500
+68,26,Alfred Nobellaan,17:58,175800
+68,27,Hessenweg,17:59,175900
+68,28,Looydijk,18:00,180000
+68,29,Dr. Letteplein,18:02,180200
+68,30,Groenekanseweg,18:03,180300
+68,31,Zonneplein,18:04,180400
+68,32,Poolsterlaan,18:05,180500
+68,33,Duivenlaan,18:06,180600
+68,34,Konijnenlaan,18:07,180700
+68,35,2e Brandenburgerweg,18:08,180800
+68,36,Leyenseweg,18:10,181000
+68,37,Station Bilthoven,18:13,181300
+69,1,Nieuwegein City,17:17,171700
+69,2,Noordstedeweg,17:19,171900
+69,3,Barnsteendrift,17:20,172000
+69,4,De Baten,17:22,172200
+69,5,Antilopeweide,17:23,172300
+69,6,Landmansweide,17:24,172400
+69,7,Middenweide,17:26,172600
+69,8,Rembrandthage,17:28,172800
+69,9,Gerbrandypark,17:29,172900
+69,10,Guido Gezellehove,17:30,173000
+69,11,Galecopperdijk,17:32,173200
+69,12,Herman Heijermanshove,17:33,173300
+69,13,Blokhoeve-Noord,17:34,173400
+69,14,P+R Westraven,17:36,173600
+69,15,Kanaleneiland-Zuid,17:38,173800
+69,16,Europaplein-Noord,17:41,174100
+69,17,Lanslaan,17:43,174300
+69,18,CS Jaarbeurszijde,17:51,175100
+69,19,Neude,17:56,175600
+69,20,Janskerkhof,17:58,175800
+69,21,Stadsschouwburg,17:59,175900
+69,22,Wittevrouwen,18:01,180100
+69,23,Oorsprongpark,18:02,180200
+69,24,Sartreweg,18:04,180400
+69,25,Veemarkt,18:05,180500
+69,26,Alfred Nobellaan,18:08,180800
+69,27,Hessenweg,18:09,180900
+69,28,Looydijk,18:10,181000
+69,29,Dr. Letteplein,18:12,181200
+69,30,Groenekanseweg,18:13,181300
+69,31,Zonneplein,18:14,181400
+69,32,Poolsterlaan,18:15,181500
+69,33,Duivenlaan,18:16,181600
+69,34,Konijnenlaan,18:17,181700
+69,35,2e Brandenburgerweg,18:18,181800
+69,36,Leyenseweg,18:20,182000
+69,37,Station Bilthoven,18:23,182300
+70,1,Nieuwegein City,17:27,172700
+70,2,Noordstedeweg,17:29,172900
+70,3,Barnsteendrift,17:30,173000
+70,4,De Baten,17:32,173200
+70,5,Antilopeweide,17:33,173300
+70,6,Landmansweide,17:34,173400
+70,7,Middenweide,17:36,173600
+70,8,Rembrandthage,17:38,173800
+70,9,Gerbrandypark,17:39,173900
+70,10,Guido Gezellehove,17:40,174000
+70,11,Galecopperdijk,17:42,174200
+70,12,Herman Heijermanshove,17:43,174300
+70,13,Blokhoeve-Noord,17:44,174400
+70,14,P+R Westraven,17:46,174600
+70,15,Kanaleneiland-Zuid,17:48,174800
+70,16,Europaplein-Noord,17:51,175100
+70,17,Lanslaan,17:52,175200
+70,18,CS Jaarbeurszijde,18:00,180000
+70,19,Neude,18:05,180500
+70,20,Janskerkhof,18:07,180700
+70,21,Stadsschouwburg,18:08,180800
+70,22,Wittevrouwen,18:10,181000
+70,23,Oorsprongpark,18:11,181100
+70,24,Sartreweg,18:13,181300
+70,25,Veemarkt,18:14,181400
+70,26,Alfred Nobellaan,18:17,181700
+70,27,Hessenweg,18:18,181800
+70,28,Looydijk,18:19,181900
+70,29,Dr. Letteplein,18:21,182100
+70,30,Groenekanseweg,18:22,182200
+70,31,Zonneplein,18:23,182300
+70,32,Poolsterlaan,18:24,182400
+70,33,Duivenlaan,18:25,182500
+70,34,Konijnenlaan,18:26,182600
+70,35,2e Brandenburgerweg,18:27,182700
+70,36,Leyenseweg,18:29,182900
+70,37,Station Bilthoven,18:32,183200
+71,1,Nieuwegein City,17:37,173700
+71,2,Noordstedeweg,17:39,173900
+71,3,Barnsteendrift,17:40,174000
+71,4,De Baten,17:42,174200
+71,5,Antilopeweide,17:43,174300
+71,6,Landmansweide,17:44,174400
+71,7,Middenweide,17:46,174600
+71,8,Rembrandthage,17:48,174800
+71,9,Gerbrandypark,17:49,174900
+71,10,Guido Gezellehove,17:50,175000
+71,11,Galecopperdijk,17:52,175200
+71,12,Herman Heijermanshove,17:53,175300
+71,13,Blokhoeve-Noord,17:54,175400
+71,14,P+R Westraven,17:56,175600
+71,15,Kanaleneiland-Zuid,17:58,175800
+71,16,Europaplein-Noord,18:01,180100
+71,17,Lanslaan,18:02,180200
+71,18,CS Jaarbeurszijde,18:10,181000
+71,19,Neude,18:15,181500
+71,20,Janskerkhof,18:17,181700
+71,21,Stadsschouwburg,18:18,181800
+71,22,Wittevrouwen,18:20,182000
+71,23,Oorsprongpark,18:21,182100
+71,24,Sartreweg,18:23,182300
+71,25,Veemarkt,18:24,182400
+71,26,Alfred Nobellaan,18:27,182700
+71,27,Hessenweg,18:28,182800
+71,28,Looydijk,18:29,182900
+71,29,Dr. Letteplein,18:31,183100
+71,30,Groenekanseweg,18:32,183200
+71,31,Zonneplein,18:33,183300
+71,32,Poolsterlaan,18:34,183400
+71,33,Duivenlaan,18:35,183500
+71,34,Konijnenlaan,18:36,183600
+71,35,2e Brandenburgerweg,18:37,183700
+71,36,Leyenseweg,18:39,183900
+71,37,Station Bilthoven,18:42,184200
+72,1,Nieuwegein City,17:52,175200
+72,2,Noordstedeweg,17:54,175400
+72,3,Barnsteendrift,17:55,175500
+72,4,De Baten,17:56,175600
+72,5,Antilopeweide,17:57,175700
+72,6,Landmansweide,17:58,175800
+72,7,Middenweide,18:00,180000
+72,8,Rembrandthage,18:02,180200
+72,9,Gerbrandypark,18:03,180300
+72,10,Guido Gezellehove,18:04,180400
+72,11,Galecopperdijk,18:06,180600
+72,12,Herman Heijermanshove,18:07,180700
+72,13,Blokhoeve-Noord,18:08,180800
+72,14,P+R Westraven,18:10,181000
+72,15,Kanaleneiland-Zuid,18:12,181200
+72,16,Europaplein-Noord,18:15,181500
+72,17,Lanslaan,18:16,181600
+72,18,CS Jaarbeurszijde,18:24,182400
+72,19,Neude,18:29,182900
+72,20,Janskerkhof,18:31,183100
+72,21,Stadsschouwburg,18:32,183200
+72,22,Wittevrouwen,18:34,183400
+72,23,Oorsprongpark,18:35,183500
+72,24,Sartreweg,18:37,183700
+72,25,Veemarkt,18:38,183800
+72,26,Alfred Nobellaan,18:41,184100
+72,27,Hessenweg,18:42,184200
+72,28,Looydijk,18:43,184300
+72,29,Dr. Letteplein,18:45,184500
+72,30,Groenekanseweg,18:46,184600
+72,31,Zonneplein,18:47,184700
+72,32,Poolsterlaan,18:48,184800
+72,33,Duivenlaan,18:49,184900
+72,34,Konijnenlaan,18:50,185000
+72,35,2e Brandenburgerweg,18:51,185100
+72,36,Leyenseweg,18:53,185300
+72,37,Station Bilthoven,18:56,185600
+73,1,Nieuwegein City,18:08,180800
+73,2,Noordstedeweg,18:10,181000
+73,3,Barnsteendrift,18:11,181100
+73,4,De Baten,18:12,181200
+73,5,Antilopeweide,18:13,181300
+73,6,Landmansweide,18:14,181400
+73,7,Middenweide,18:16,181600
+73,8,Rembrandthage,18:18,181800
+73,9,Gerbrandypark,18:19,181900
+73,10,Guido Gezellehove,18:20,182000
+73,11,Galecopperdijk,18:22,182200
+73,12,Herman Heijermanshove,18:23,182300
+73,13,Blokhoeve-Noord,18:24,182400
+73,14,P+R Westraven,18:26,182600
+73,15,Kanaleneiland-Zuid,18:27,182700
+73,16,Europaplein-Noord,18:30,183000
+73,17,Lanslaan,18:31,183100
+73,18,CS Jaarbeurszijde,18:39,183900
+73,19,Neude,18:44,184400
+73,20,Janskerkhof,18:46,184600
+73,21,Stadsschouwburg,18:47,184700
+73,22,Wittevrouwen,18:49,184900
+73,23,Oorsprongpark,18:50,185000
+73,24,Sartreweg,18:52,185200
+73,25,Veemarkt,18:53,185300
+73,26,Alfred Nobellaan,18:56,185600
+73,27,Hessenweg,18:57,185700
+73,28,Looydijk,18:58,185800
+73,29,Dr. Letteplein,19:00,190000
+73,30,Groenekanseweg,19:01,190100
+73,31,Zonneplein,19:02,190200
+73,32,Poolsterlaan,19:03,190300
+73,33,Duivenlaan,19:04,190400
+73,34,Konijnenlaan,19:05,190500
+73,35,2e Brandenburgerweg,19:06,190600
+73,36,Leyenseweg,19:08,190800
+73,37,Station Bilthoven,19:11,191100
+74,1,Nieuwegein City,18:24,182400
+74,2,Noordstedeweg,18:26,182600
+74,3,Barnsteendrift,18:27,182700
+74,4,De Baten,18:28,182800
+74,5,Antilopeweide,18:29,182900
+74,6,Landmansweide,18:30,183000
+74,7,Middenweide,18:31,183100
+74,8,Rembrandthage,18:33,183300
+74,9,Gerbrandypark,18:34,183400
+74,10,Guido Gezellehove,18:35,183500
+74,11,Galecopperdijk,18:37,183700
+74,12,Herman Heijermanshove,18:38,183800
+74,13,Blokhoeve-Noord,18:39,183900
+74,14,P+R Westraven,18:41,184100
+74,15,Kanaleneiland-Zuid,18:42,184200
+74,16,Europaplein-Noord,18:45,184500
+74,17,Lanslaan,18:46,184600
+74,18,CS Jaarbeurszijde,18:54,185400
+74,19,Neude,18:59,185900
+74,20,Janskerkhof,19:01,190100
+74,21,Stadsschouwburg,19:02,190200
+74,22,Wittevrouwen,19:04,190400
+74,23,Oorsprongpark,19:05,190500
+74,24,Sartreweg,19:07,190700
+74,25,Veemarkt,19:08,190800
+74,26,Alfred Nobellaan,19:11,191100
+74,27,Hessenweg,19:12,191200
+74,28,Looydijk,19:13,191300
+74,29,Dr. Letteplein,19:15,191500
+74,30,Groenekanseweg,19:16,191600
+74,31,Zonneplein,19:17,191700
+74,32,Poolsterlaan,19:18,191800
+74,33,Duivenlaan,19:19,191900
+74,34,Konijnenlaan,19:20,192000
+74,35,2e Brandenburgerweg,19:21,192100
+74,36,Leyenseweg,19:23,192300
+74,37,Station Bilthoven,19:26,192600
+75,1,Nieuwegein City,18:39,183900
+75,2,Noordstedeweg,18:41,184100
+75,3,Barnsteendrift,18:42,184200
+75,4,De Baten,18:43,184300
+75,5,Antilopeweide,18:44,184400
+75,6,Landmansweide,18:45,184500
+75,7,Middenweide,18:46,184600
+75,8,Rembrandthage,18:48,184800
+75,9,Gerbrandypark,18:49,184900
+75,10,Guido Gezellehove,18:50,185000
+75,11,Galecopperdijk,18:52,185200
+75,12,Herman Heijermanshove,18:53,185300
+75,13,Blokhoeve-Noord,18:54,185400
+75,14,P+R Westraven,18:56,185600
+75,15,Kanaleneiland-Zuid,18:57,185700
+75,16,Europaplein-Noord,19:00,190000
+75,17,Lanslaan,19:01,190100
+75,18,CS Jaarbeurszijde,19:09,190900
+75,19,Neude,19:14,191400
+75,20,Janskerkhof,19:16,191600
+75,21,Stadsschouwburg,19:17,191700
+75,22,Wittevrouwen,19:19,191900
+75,23,Oorsprongpark,19:20,192000
+75,24,Sartreweg,19:22,192200
+75,25,Veemarkt,19:23,192300
+75,26,Alfred Nobellaan,19:26,192600
+75,27,Hessenweg,19:27,192700
+75,28,Looydijk,19:28,192800
+75,29,Dr. Letteplein,19:30,193000
+75,30,Groenekanseweg,19:31,193100
+75,31,Zonneplein,19:32,193200
+75,32,Poolsterlaan,19:33,193300
+75,33,Duivenlaan,19:34,193400
+75,34,Konijnenlaan,19:35,193500
+75,35,2e Brandenburgerweg,19:36,193600
+75,36,Leyenseweg,19:38,193800
+75,37,Station Bilthoven,19:41,194100
+76,1,Nieuwegein City,18:53,185300
+76,2,Noordstedeweg,18:55,185500
+76,3,Barnsteendrift,18:56,185600
+76,4,De Baten,18:57,185700
+76,5,Antilopeweide,18:58,185800
+76,6,Landmansweide,18:59,185900
+76,7,Middenweide,19:00,190000
+76,8,Rembrandthage,19:02,190200
+76,9,Gerbrandypark,19:03,190300
+76,10,Guido Gezellehove,19:04,190400
+76,11,Galecopperdijk,19:06,190600
+76,12,Herman Heijermanshove,19:07,190700
+76,13,Blokhoeve-Noord,19:08,190800
+76,14,P+R Westraven,19:10,191000
+76,15,Kanaleneiland-Zuid,19:11,191100
+76,16,Europaplein-Noord,19:14,191400
+76,17,Lanslaan,19:15,191500
+76,18,CS Jaarbeurszijde,19:23,192300
+76,19,Neude,19:28,192800
+76,20,Janskerkhof,19:30,193000
+76,21,Stadsschouwburg,19:31,193100
+76,22,Wittevrouwen,19:33,193300
+76,23,Oorsprongpark,19:34,193400
+76,24,Sartreweg,19:36,193600
+76,25,Veemarkt,19:37,193700
+76,26,Alfred Nobellaan,19:40,194000
+76,27,Hessenweg,19:41,194100
+76,28,Looydijk,19:42,194200
+76,29,Dr. Letteplein,19:44,194400
+76,30,Groenekanseweg,19:45,194500
+76,31,Zonneplein,19:46,194600
+76,32,Poolsterlaan,19:47,194700
+76,33,Duivenlaan,19:48,194800
+76,34,Konijnenlaan,19:49,194900
+76,35,2e Brandenburgerweg,19:50,195000
+76,36,Leyenseweg,19:52,195200
+76,37,Station Bilthoven,19:55,195500
+77,1,Nieuwegein City,19:08,190800
+77,2,Noordstedeweg,19:10,191000
+77,3,Barnsteendrift,19:11,191100
+77,4,De Baten,19:12,191200
+77,5,Antilopeweide,19:13,191300
+77,6,Landmansweide,19:14,191400
+77,7,Middenweide,19:15,191500
+77,8,Rembrandthage,19:17,191700
+77,9,Gerbrandypark,19:18,191800
+77,10,Guido Gezellehove,19:19,191900
+77,11,Galecopperdijk,19:21,192100
+77,12,Herman Heijermanshove,19:22,192200
+77,13,Blokhoeve-Noord,19:23,192300
+77,14,P+R Westraven,19:25,192500
+77,15,Kanaleneiland-Zuid,19:26,192600
+77,16,Europaplein-Noord,19:29,192900
+77,17,Lanslaan,19:30,193000
+77,18,CS Jaarbeurszijde,19:38,193800
+77,19,Neude,19:43,194300
+77,20,Janskerkhof,19:45,194500
+77,21,Stadsschouwburg,19:46,194600
+77,22,Wittevrouwen,19:48,194800
+77,23,Oorsprongpark,19:49,194900
+77,24,Sartreweg,19:51,195100
+77,25,Veemarkt,19:52,195200
+77,26,Alfred Nobellaan,19:55,195500
+77,27,Hessenweg,19:56,195600
+77,28,Looydijk,19:57,195700
+77,29,Dr. Letteplein,19:59,195900
+77,30,Groenekanseweg,20:00,200000
+77,31,Zonneplein,20:01,200100
+77,32,Poolsterlaan,20:02,200200
+77,33,Duivenlaan,20:03,200300
+77,34,Konijnenlaan,20:04,200400
+77,35,2e Brandenburgerweg,20:05,200500
+77,36,Leyenseweg,20:07,200700
+77,37,Station Bilthoven,20:10,201000
+78,1,Nieuwegein City,19:23,192300
+78,2,Noordstedeweg,19:25,192500
+78,3,Barnsteendrift,19:26,192600
+78,4,De Baten,19:27,192700
+78,5,Antilopeweide,19:28,192800
+78,6,Landmansweide,19:29,192900
+78,7,Middenweide,19:30,193000
+78,8,Rembrandthage,19:32,193200
+78,9,Gerbrandypark,19:33,193300
+78,10,Guido Gezellehove,19:34,193400
+78,11,Galecopperdijk,19:36,193600
+78,12,Herman Heijermanshove,19:37,193700
+78,13,Blokhoeve-Noord,19:38,193800
+78,14,P+R Westraven,19:40,194000
+78,15,Kanaleneiland-Zuid,19:41,194100
+78,16,Europaplein-Noord,19:44,194400
+78,17,Lanslaan,19:45,194500
+78,18,CS Jaarbeurszijde,19:53,195300
+78,19,Neude,19:58,195800
+78,20,Janskerkhof,20:00,200000
+78,21,Stadsschouwburg,20:01,200100
+78,22,Wittevrouwen,20:03,200300
+78,23,Oorsprongpark,20:04,200400
+78,24,Sartreweg,20:06,200600
+78,25,Veemarkt,20:07,200700
+78,26,Alfred Nobellaan,20:10,201000
+78,27,Hessenweg,20:11,201100
+78,28,Looydijk,20:12,201200
+78,29,Dr. Letteplein,20:14,201400
+78,30,Groenekanseweg,20:15,201500
+78,31,Zonneplein,20:16,201600
+78,32,Poolsterlaan,20:17,201700
+78,33,Duivenlaan,20:18,201800
+78,34,Konijnenlaan,20:19,201900
+78,35,2e Brandenburgerweg,20:20,202000
+78,36,Leyenseweg,20:22,202200
+78,37,Station Bilthoven,20:25,202500
+79,1,Nieuwegein City,19:38,193800
+79,2,Noordstedeweg,19:40,194000
+79,3,Barnsteendrift,19:41,194100
+79,4,De Baten,19:42,194200
+79,5,Antilopeweide,19:43,194300
+79,6,Landmansweide,19:44,194400
+79,7,Middenweide,19:45,194500
+79,8,Rembrandthage,19:47,194700
+79,9,Gerbrandypark,19:48,194800
+79,10,Guido Gezellehove,19:49,194900
+79,11,Galecopperdijk,19:51,195100
+79,12,Herman Heijermanshove,19:52,195200
+79,13,Blokhoeve-Noord,19:53,195300
+79,14,P+R Westraven,19:55,195500
+79,15,Kanaleneiland-Zuid,19:56,195600
+79,16,Europaplein-Noord,19:59,195900
+79,17,Lanslaan,20:00,200000
+79,18,CS Jaarbeurszijde,20:08,200800
+79,19,Neude,20:13,201300
+79,20,Janskerkhof,20:15,201500
+79,21,Stadsschouwburg,20:16,201600
+79,22,Wittevrouwen,20:18,201800
+79,23,Oorsprongpark,20:19,201900
+79,24,Sartreweg,20:21,202100
+79,25,Veemarkt,20:22,202200
+79,26,Alfred Nobellaan,20:25,202500
+79,27,Hessenweg,20:26,202600
+79,28,Looydijk,20:27,202700
+79,29,Dr. Letteplein,20:29,202900
+79,30,Groenekanseweg,20:30,203000
+79,31,Zonneplein,20:31,203100
+79,32,Poolsterlaan,20:32,203200
+79,33,Duivenlaan,20:33,203300
+79,34,Konijnenlaan,20:34,203400
+79,35,2e Brandenburgerweg,20:35,203500
+79,36,Leyenseweg,20:37,203700
+79,37,Station Bilthoven,20:40,204000
+80,1,Nieuwegein City,19:53,195300
+80,2,Noordstedeweg,19:55,195500
+80,3,Barnsteendrift,19:56,195600
+80,4,De Baten,19:57,195700
+80,5,Antilopeweide,19:58,195800
+80,6,Landmansweide,19:59,195900
+80,7,Middenweide,20:00,200000
+80,8,Rembrandthage,20:02,200200
+80,9,Gerbrandypark,20:03,200300
+80,10,Guido Gezellehove,20:04,200400
+80,11,Galecopperdijk,20:06,200600
+80,12,Herman Heijermanshove,20:07,200700
+80,13,Blokhoeve-Noord,20:08,200800
+80,14,P+R Westraven,20:10,201000
+80,15,Kanaleneiland-Zuid,20:11,201100
+80,16,Europaplein-Noord,20:14,201400
+80,17,Lanslaan,20:15,201500
+80,18,CS Jaarbeurszijde,20:23,202300
+80,19,Neude,20:28,202800
+80,20,Janskerkhof,20:30,203000
+80,21,Stadsschouwburg,20:31,203100
+80,22,Wittevrouwen,20:33,203300
+80,23,Oorsprongpark,20:34,203400
+80,24,Sartreweg,20:36,203600
+80,25,Veemarkt,20:37,203700
+80,26,Alfred Nobellaan,20:40,204000
+80,27,Hessenweg,20:41,204100
+80,28,Looydijk,20:42,204200
+80,29,Dr. Letteplein,20:44,204400
+80,30,Groenekanseweg,20:45,204500
+80,31,Zonneplein,20:46,204600
+80,32,Poolsterlaan,20:47,204700
+80,33,Duivenlaan,20:48,204800
+80,34,Konijnenlaan,20:49,204900
+80,35,2e Brandenburgerweg,20:50,205000
+80,36,Leyenseweg,20:52,205200
+80,37,Station Bilthoven,20:55,205500
+81,1,Nieuwegein City,20:08,200800
+81,2,Noordstedeweg,20:10,201000
+81,3,Barnsteendrift,20:11,201100
+81,4,De Baten,20:12,201200
+81,5,Antilopeweide,20:13,201300
+81,6,Landmansweide,20:14,201400
+81,7,Middenweide,20:15,201500
+81,8,Rembrandthage,20:17,201700
+81,9,Gerbrandypark,20:18,201800
+81,10,Guido Gezellehove,20:19,201900
+81,11,Galecopperdijk,20:21,202100
+81,12,Herman Heijermanshove,20:22,202200
+81,13,Blokhoeve-Noord,20:23,202300
+81,14,P+R Westraven,20:25,202500
+81,15,Kanaleneiland-Zuid,20:26,202600
+81,16,Europaplein-Noord,20:29,202900
+81,17,Lanslaan,20:30,203000
+81,18,CS Jaarbeurszijde,20:38,203800
+81,19,Neude,20:43,204300
+81,20,Janskerkhof,20:45,204500
+81,21,Stadsschouwburg,20:46,204600
+81,22,Wittevrouwen,20:48,204800
+81,23,Oorsprongpark,20:49,204900
+81,24,Sartreweg,20:51,205100
+81,25,Veemarkt,20:52,205200
+81,26,Alfred Nobellaan,20:55,205500
+81,27,Hessenweg,20:56,205600
+81,28,Looydijk,20:57,205700
+81,29,Dr. Letteplein,20:59,205900
+81,30,Groenekanseweg,21:00,210000
+81,31,Zonneplein,21:01,210100
+81,32,Poolsterlaan,21:02,210200
+81,33,Duivenlaan,21:03,210300
+81,34,Konijnenlaan,21:04,210400
+81,35,2e Brandenburgerweg,21:05,210500
+81,36,Leyenseweg,21:07,210700
+81,37,Station Bilthoven,21:10,211000
+82,1,Nieuwegein City,20:23,202300
+82,2,Noordstedeweg,20:25,202500
+82,3,Barnsteendrift,20:26,202600
+82,4,De Baten,20:27,202700
+82,5,Antilopeweide,20:28,202800
+82,6,Landmansweide,20:29,202900
+82,7,Middenweide,20:30,203000
+82,8,Rembrandthage,20:32,203200
+82,9,Gerbrandypark,20:33,203300
+82,10,Guido Gezellehove,20:34,203400
+82,11,Galecopperdijk,20:36,203600
+82,12,Herman Heijermanshove,20:37,203700
+82,13,Blokhoeve-Noord,20:38,203800
+82,14,P+R Westraven,20:40,204000
+82,15,Kanaleneiland-Zuid,20:41,204100
+82,16,Europaplein-Noord,20:44,204400
+82,17,Lanslaan,20:45,204500
+82,18,CS Jaarbeurszijde,20:53,205300
+82,19,Neude,20:58,205800
+82,20,Janskerkhof,21:00,210000
+82,21,Stadsschouwburg,21:01,210100
+82,22,Wittevrouwen,21:03,210300
+82,23,Oorsprongpark,21:04,210400
+82,24,Sartreweg,21:06,210600
+82,25,Veemarkt,21:07,210700
+82,26,Alfred Nobellaan,21:10,211000
+82,27,Hessenweg,21:11,211100
+82,28,Looydijk,21:12,211200
+82,29,Dr. Letteplein,21:14,211400
+82,30,Groenekanseweg,21:15,211500
+82,31,Zonneplein,21:16,211600
+82,32,Poolsterlaan,21:17,211700
+82,33,Duivenlaan,21:18,211800
+82,34,Konijnenlaan,21:19,211900
+82,35,2e Brandenburgerweg,21:20,212000
+82,36,Leyenseweg,21:22,212200
+82,37,Station Bilthoven,21:25,212500
+83,1,Nieuwegein City,20:38,203800
+83,2,Noordstedeweg,20:40,204000
+83,3,Barnsteendrift,20:41,204100
+83,4,De Baten,20:42,204200
+83,5,Antilopeweide,20:43,204300
+83,6,Landmansweide,20:44,204400
+83,7,Middenweide,20:45,204500
+83,8,Rembrandthage,20:47,204700
+83,9,Gerbrandypark,20:48,204800
+83,10,Guido Gezellehove,20:49,204900
+83,11,Galecopperdijk,20:51,205100
+83,12,Herman Heijermanshove,20:52,205200
+83,13,Blokhoeve-Noord,20:53,205300
+83,14,P+R Westraven,20:55,205500
+83,15,Kanaleneiland-Zuid,20:56,205600
+83,16,Europaplein-Noord,20:59,205900
+83,17,Lanslaan,21:00,210000
+83,18,CS Jaarbeurszijde,21:08,210800
+83,19,Neude,21:13,211300
+83,20,Janskerkhof,21:15,211500
+83,21,Stadsschouwburg,21:16,211600
+83,22,Wittevrouwen,21:18,211800
+83,23,Oorsprongpark,21:19,211900
+83,24,Sartreweg,21:21,212100
+83,25,Veemarkt,21:22,212200
+83,26,Alfred Nobellaan,21:25,212500
+83,27,Hessenweg,21:26,212600
+83,28,Looydijk,21:27,212700
+83,29,Dr. Letteplein,21:29,212900
+83,30,Groenekanseweg,21:30,213000
+83,31,Zonneplein,21:31,213100
+83,32,Poolsterlaan,21:32,213200
+83,33,Duivenlaan,21:33,213300
+83,34,Konijnenlaan,21:34,213400
+83,35,2e Brandenburgerweg,21:35,213500
+83,36,Leyenseweg,21:37,213700
+83,37,Station Bilthoven,21:40,214000
+84,1,Nieuwegein City,20:53,205300
+84,2,Noordstedeweg,20:55,205500
+84,3,Barnsteendrift,20:56,205600
+84,4,De Baten,20:57,205700
+84,5,Antilopeweide,20:58,205800
+84,6,Landmansweide,20:59,205900
+84,7,Middenweide,21:00,210000
+84,8,Rembrandthage,21:02,210200
+84,9,Gerbrandypark,21:03,210300
+84,10,Guido Gezellehove,21:04,210400
+84,11,Galecopperdijk,21:06,210600
+84,12,Herman Heijermanshove,21:07,210700
+84,13,Blokhoeve-Noord,21:08,210800
+84,14,P+R Westraven,21:10,211000
+84,15,Kanaleneiland-Zuid,21:11,211100
+84,16,Europaplein-Noord,21:14,211400
+84,17,Lanslaan,21:15,211500
+84,18,CS Jaarbeurszijde,21:23,212300
+84,19,Neude,21:28,212800
+84,20,Janskerkhof,21:30,213000
+84,21,Stadsschouwburg,21:31,213100
+84,22,Wittevrouwen,21:33,213300
+84,23,Oorsprongpark,21:34,213400
+84,24,Sartreweg,21:36,213600
+84,25,Veemarkt,21:37,213700
+84,26,Alfred Nobellaan,21:40,214000
+84,27,Hessenweg,21:41,214100
+84,28,Looydijk,21:42,214200
+84,29,Dr. Letteplein,21:44,214400
+84,30,Groenekanseweg,21:45,214500
+84,31,Zonneplein,21:46,214600
+84,32,Poolsterlaan,21:47,214700
+84,33,Duivenlaan,21:48,214800
+84,34,Konijnenlaan,21:49,214900
+84,35,2e Brandenburgerweg,21:50,215000
+84,36,Leyenseweg,21:52,215200
+84,37,Station Bilthoven,21:55,215500
+85,1,Nieuwegein City,21:08,210800
+85,2,Noordstedeweg,21:10,211000
+85,3,Barnsteendrift,21:11,211100
+85,4,De Baten,21:12,211200
+85,5,Antilopeweide,21:13,211300
+85,6,Landmansweide,21:14,211400
+85,7,Middenweide,21:15,211500
+85,8,Rembrandthage,21:17,211700
+85,9,Gerbrandypark,21:18,211800
+85,10,Guido Gezellehove,21:19,211900
+85,11,Galecopperdijk,21:21,212100
+85,12,Herman Heijermanshove,21:22,212200
+85,13,Blokhoeve-Noord,21:23,212300
+85,14,P+R Westraven,21:25,212500
+85,15,Kanaleneiland-Zuid,21:26,212600
+85,16,Europaplein-Noord,21:29,212900
+85,17,Lanslaan,21:30,213000
+85,18,CS Jaarbeurszijde,21:38,213800
+85,19,Neude,21:43,214300
+85,20,Janskerkhof,21:45,214500
+85,21,Stadsschouwburg,21:46,214600
+85,22,Wittevrouwen,21:48,214800
+85,23,Oorsprongpark,21:49,214900
+85,24,Sartreweg,21:51,215100
+85,25,Veemarkt,21:52,215200
+85,26,Alfred Nobellaan,21:55,215500
+85,27,Hessenweg,21:56,215600
+85,28,Looydijk,21:57,215700
+85,29,Dr. Letteplein,21:59,215900
+85,30,Groenekanseweg,22:00,220000
+85,31,Zonneplein,22:01,220100
+85,32,Poolsterlaan,22:02,220200
+85,33,Duivenlaan,22:03,220300
+85,34,Konijnenlaan,22:04,220400
+85,35,2e Brandenburgerweg,22:05,220500
+85,36,Leyenseweg,22:07,220700
+85,37,Station Bilthoven,22:10,221000
+86,1,Nieuwegein City,21:23,212300
+86,2,Noordstedeweg,21:25,212500
+86,3,Barnsteendrift,21:26,212600
+86,4,De Baten,21:27,212700
+86,5,Antilopeweide,21:28,212800
+86,6,Landmansweide,21:29,212900
+86,7,Middenweide,21:30,213000
+86,8,Rembrandthage,21:32,213200
+86,9,Gerbrandypark,21:33,213300
+86,10,Guido Gezellehove,21:34,213400
+86,11,Galecopperdijk,21:36,213600
+86,12,Herman Heijermanshove,21:37,213700
+86,13,Blokhoeve-Noord,21:38,213800
+86,14,P+R Westraven,21:40,214000
+86,15,Kanaleneiland-Zuid,21:41,214100
+86,16,Europaplein-Noord,21:44,214400
+86,17,Lanslaan,21:45,214500
+86,18,CS Jaarbeurszijde,21:53,215300
+86,19,Neude,21:58,215800
+86,20,Janskerkhof,22:00,220000
+86,21,Stadsschouwburg,22:01,220100
+86,22,Wittevrouwen,22:03,220300
+86,23,Oorsprongpark,22:04,220400
+86,24,Sartreweg,22:06,220600
+86,25,Veemarkt,22:07,220700
+86,26,Alfred Nobellaan,22:10,221000
+86,27,Hessenweg,22:11,221100
+86,28,Looydijk,22:12,221200
+86,29,Dr. Letteplein,22:14,221400
+86,30,Groenekanseweg,22:15,221500
+86,31,Zonneplein,22:16,221600
+86,32,Poolsterlaan,22:17,221700
+86,33,Duivenlaan,22:18,221800
+86,34,Konijnenlaan,22:19,221900
+86,35,2e Brandenburgerweg,22:20,222000
+86,36,Leyenseweg,22:22,222200
+86,37,Station Bilthoven,22:25,222500
+87,1,Nieuwegein City,21:38,213800
+87,2,Noordstedeweg,21:40,214000
+87,3,Barnsteendrift,21:41,214100
+87,4,De Baten,21:42,214200
+87,5,Antilopeweide,21:43,214300
+87,6,Landmansweide,21:44,214400
+87,7,Middenweide,21:45,214500
+87,8,Rembrandthage,21:47,214700
+87,9,Gerbrandypark,21:48,214800
+87,10,Guido Gezellehove,21:49,214900
+87,11,Galecopperdijk,21:51,215100
+87,12,Herman Heijermanshove,21:52,215200
+87,13,Blokhoeve-Noord,21:53,215300
+87,14,P+R Westraven,21:55,215500
+87,15,Kanaleneiland-Zuid,21:56,215600
+87,16,Europaplein-Noord,21:59,215900
+87,17,Lanslaan,22:00,220000
+87,18,CS Jaarbeurszijde,22:08,220800
+87,19,Neude,22:13,221300
+87,20,Janskerkhof,22:15,221500
+87,21,Stadsschouwburg,22:16,221600
+87,22,Wittevrouwen,22:18,221800
+87,23,Oorsprongpark,22:19,221900
+87,24,Sartreweg,22:21,222100
+87,25,Veemarkt,22:22,222200
+87,26,Alfred Nobellaan,22:25,222500
+87,27,Hessenweg,22:26,222600
+87,28,Looydijk,22:27,222700
+87,29,Dr. Letteplein,22:29,222900
+87,30,Groenekanseweg,22:30,223000
+87,31,Zonneplein,22:31,223100
+87,32,Poolsterlaan,22:32,223200
+87,33,Duivenlaan,22:33,223300
+87,34,Konijnenlaan,22:34,223400
+87,35,2e Brandenburgerweg,22:35,223500
+87,36,Leyenseweg,22:37,223700
+87,37,Station Bilthoven,22:40,224000
+88,1,Nieuwegein City,21:53,215300
+88,2,Noordstedeweg,21:55,215500
+88,3,Barnsteendrift,21:56,215600
+88,4,De Baten,21:57,215700
+88,5,Antilopeweide,21:58,215800
+88,6,Landmansweide,21:59,215900
+88,7,Middenweide,22:00,220000
+88,8,Rembrandthage,22:02,220200
+88,9,Gerbrandypark,22:03,220300
+88,10,Guido Gezellehove,22:04,220400
+88,11,Galecopperdijk,22:06,220600
+88,12,Herman Heijermanshove,22:07,220700
+88,13,Blokhoeve-Noord,22:08,220800
+88,14,P+R Westraven,22:10,221000
+88,15,Kanaleneiland-Zuid,22:11,221100
+88,16,Europaplein-Noord,22:14,221400
+88,17,Lanslaan,22:15,221500
+88,18,CS Jaarbeurszijde,22:22,222200
+88,19,Neude,22:27,222700
+88,20,Janskerkhof,22:29,222900
+88,21,Stadsschouwburg,22:30,223000
+88,22,Wittevrouwen,22:32,223200
+88,23,Oorsprongpark,22:33,223300
+88,24,Sartreweg,22:35,223500
+88,25,Veemarkt,22:36,223600
+88,26,Alfred Nobellaan,22:39,223900
+88,27,Hessenweg,22:40,224000
+88,28,Looydijk,22:41,224100
+88,29,Dr. Letteplein,22:43,224300
+88,30,Groenekanseweg,22:44,224400
+88,31,Zonneplein,22:45,224500
+88,32,Poolsterlaan,22:46,224600
+88,33,Duivenlaan,22:47,224700
+88,34,Konijnenlaan,22:48,224800
+88,35,2e Brandenburgerweg,22:49,224900
+88,36,Leyenseweg,22:51,225100
+88,37,Station Bilthoven,22:54,225400
+89,1,Nieuwegein City,22:09,220900
+89,2,Noordstedeweg,22:11,221100
+89,3,Barnsteendrift,22:12,221200
+89,4,De Baten,22:13,221300
+89,5,Antilopeweide,22:14,221400
+89,6,Landmansweide,22:15,221500
+89,7,Middenweide,22:16,221600
+89,8,Rembrandthage,22:18,221800
+89,9,Gerbrandypark,22:19,221900
+89,10,Guido Gezellehove,22:20,222000
+89,11,Galecopperdijk,22:21,222100
+89,12,Herman Heijermanshove,22:22,222200
+89,13,Blokhoeve-Noord,22:23,222300
+89,14,P+R Westraven,22:25,222500
+89,15,Kanaleneiland-Zuid,22:26,222600
+89,16,Europaplein-Noord,22:29,222900
+89,17,Lanslaan,22:30,223000
+89,18,CS Jaarbeurszijde,22:37,223700
+89,19,Neude,22:42,224200
+89,20,Janskerkhof,22:44,224400
+89,21,Stadsschouwburg,22:45,224500
+89,22,Wittevrouwen,22:47,224700
+89,23,Oorsprongpark,22:48,224800
+89,24,Sartreweg,22:50,225000
+89,25,Veemarkt,22:51,225100
+89,26,Alfred Nobellaan,22:54,225400
+89,27,Hessenweg,22:55,225500
+89,28,Looydijk,22:56,225600
+89,29,Dr. Letteplein,22:58,225800
+89,30,Groenekanseweg,22:59,225900
+89,31,Zonneplein,23:00,230000
+89,32,Poolsterlaan,23:01,230100
+89,33,Duivenlaan,23:02,230200
+89,34,Konijnenlaan,23:03,230300
+89,35,2e Brandenburgerweg,23:04,230400
+89,36,Leyenseweg,23:06,230600
+89,37,Station Bilthoven,23:09,230900
+90,1,Nieuwegein City,22:24,222400
+90,2,Noordstedeweg,22:26,222600
+90,3,Barnsteendrift,22:27,222700
+90,4,De Baten,22:28,222800
+90,5,Antilopeweide,22:29,222900
+90,6,Landmansweide,22:30,223000
+90,7,Middenweide,22:31,223100
+90,8,Rembrandthage,22:33,223300
+90,9,Gerbrandypark,22:34,223400
+90,10,Guido Gezellehove,22:35,223500
+90,11,Galecopperdijk,22:36,223600
+90,12,Herman Heijermanshove,22:37,223700
+90,13,Blokhoeve-Noord,22:38,223800
+90,14,P+R Westraven,22:40,224000
+90,15,Kanaleneiland-Zuid,22:41,224100
+90,16,Europaplein-Noord,22:44,224400
+90,17,Lanslaan,22:45,224500
+90,18,CS Jaarbeurszijde,22:52,225200
+90,19,Neude,22:57,225700
+90,20,Janskerkhof,22:59,225900
+90,21,Stadsschouwburg,23:00,230000
+90,22,Wittevrouwen,23:02,230200
+90,23,Oorsprongpark,23:03,230300
+90,24,Sartreweg,23:05,230500
+90,25,Veemarkt,23:06,230600
+90,26,Alfred Nobellaan,23:09,230900
+90,27,Hessenweg,23:10,231000
+90,28,Looydijk,23:11,231100
+90,29,Dr. Letteplein,23:13,231300
+90,30,Groenekanseweg,23:14,231400
+90,31,Zonneplein,23:15,231500
+90,32,Poolsterlaan,23:16,231600
+90,33,Duivenlaan,23:17,231700
+90,34,Konijnenlaan,23:18,231800
+90,35,2e Brandenburgerweg,23:19,231900
+90,36,Leyenseweg,23:21,232100
+90,37,Station Bilthoven,23:24,232400
+91,1,Nieuwegein City,22:39,223900
+91,2,Noordstedeweg,22:41,224100
+91,3,Barnsteendrift,22:42,224200
+91,4,De Baten,22:43,224300
+91,5,Antilopeweide,22:44,224400
+91,6,Landmansweide,22:45,224500
+91,7,Middenweide,22:46,224600
+91,8,Rembrandthage,22:48,224800
+91,9,Gerbrandypark,22:49,224900
+91,10,Guido Gezellehove,22:50,225000
+91,11,Galecopperdijk,22:51,225100
+91,12,Herman Heijermanshove,22:52,225200
+91,13,Blokhoeve-Noord,22:53,225300
+91,14,P+R Westraven,22:55,225500
+91,15,Kanaleneiland-Zuid,22:56,225600
+91,16,Europaplein-Noord,22:59,225900
+91,17,Lanslaan,23:00,230000
+91,18,CS Jaarbeurszijde,23:07,230700
+91,19,Neude,23:12,231200
+91,20,Janskerkhof,23:13,231300
+91,21,Stadsschouwburg,23:14,231400
+91,22,Wittevrouwen,23:15,231500
+91,23,Oorsprongpark,23:16,231600
+91,24,Sartreweg,23:18,231800
+91,25,Veemarkt,23:19,231900
+91,26,Alfred Nobellaan,23:22,232200
+91,27,Hessenweg,23:23,232300
+91,28,Looydijk,23:24,232400
+91,29,Dr. Letteplein,23:26,232600
+91,30,Groenekanseweg,23:27,232700
+91,31,Zonneplein,23:28,232800
+91,32,Poolsterlaan,23:29,232900
+91,33,Duivenlaan,23:30,233000
+91,34,Konijnenlaan,23:31,233100
+91,35,2e Brandenburgerweg,23:32,233200
+91,36,Leyenseweg,23:34,233400
+91,37,Station Bilthoven,23:37,233700
+92,1,Nieuwegein City,22:54,225400
+92,2,Noordstedeweg,22:56,225600
+92,3,Barnsteendrift,22:57,225700
+92,4,De Baten,22:58,225800
+92,5,Antilopeweide,22:59,225900
+92,6,Landmansweide,23:00,230000
+92,7,Middenweide,23:01,230100
+92,8,Rembrandthage,23:03,230300
+92,9,Gerbrandypark,23:04,230400
+92,10,Guido Gezellehove,23:05,230500
+92,11,Galecopperdijk,23:06,230600
+92,12,Herman Heijermanshove,23:07,230700
+92,13,Blokhoeve-Noord,23:08,230800
+92,14,P+R Westraven,23:10,231000
+92,15,Kanaleneiland-Zuid,23:11,231100
+92,16,Europaplein-Noord,23:13,231300
+92,17,Lanslaan,23:14,231400
+92,18,CS Jaarbeurszijde,23:21,232100
+92,19,Neude,23:26,232600
+92,20,Janskerkhof,23:27,232700
+92,21,Stadsschouwburg,23:28,232800
+92,22,Wittevrouwen,23:29,232900
+92,23,Oorsprongpark,23:30,233000
+92,24,Sartreweg,23:32,233200
+92,25,Veemarkt,23:33,233300
+92,26,Alfred Nobellaan,23:36,233600
+92,27,Hessenweg,23:37,233700
+92,28,Looydijk,23:38,233800
+92,29,Dr. Letteplein,23:40,234000
+92,30,Groenekanseweg,23:41,234100
+92,31,Zonneplein,23:42,234200
+92,32,Poolsterlaan,23:43,234300
+92,33,Duivenlaan,23:44,234400
+92,34,Konijnenlaan,23:45,234500
+92,35,2e Brandenburgerweg,23:46,234600
+92,36,Leyenseweg,23:48,234800
+92,37,Station Bilthoven,23:51,235100
+93,1,Nieuwegein City,23:10,231000
+93,2,Noordstedeweg,23:11,231100
+93,3,Barnsteendrift,23:12,231200
+93,4,De Baten,23:13,231300
+93,5,Antilopeweide,23:14,231400
+93,6,Landmansweide,23:15,231500
+93,7,Middenweide,23:16,231600
+93,8,Rembrandthage,23:18,231800
+93,9,Gerbrandypark,23:19,231900
+93,10,Guido Gezellehove,23:20,232000
+93,11,Galecopperdijk,23:21,232100
+93,12,Herman Heijermanshove,23:22,232200
+93,13,Blokhoeve-Noord,23:23,232300
+93,14,P+R Westraven,23:25,232500
+93,15,Kanaleneiland-Zuid,23:26,232600
+93,16,Europaplein-Noord,23:28,232800
+93,17,Lanslaan,23:29,232900
+93,18,CS Jaarbeurszijde,23:36,233600
+93,19,Neude,23:41,234100
+93,20,Janskerkhof,23:42,234200
+93,21,Stadsschouwburg,23:43,234300
+93,22,Wittevrouwen,23:44,234400
+93,23,Oorsprongpark,23:45,234500
+93,24,Sartreweg,23:47,234700
+93,25,Veemarkt,23:48,234800
+93,26,Alfred Nobellaan,23:51,235100
+93,27,Hessenweg,23:52,235200
+93,28,Looydijk,23:53,235300
+93,29,Dr. Letteplein,23:55,235500
+93,30,Groenekanseweg,23:56,235600
+93,31,Zonneplein,23:57,235700
+93,32,Poolsterlaan,23:58,235800
+93,33,Duivenlaan,23:59,235900
+93,34,Konijnenlaan,00:00*,240000
+93,35,2e Brandenburgerweg,00:01*,240100
+93,36,Leyenseweg,00:03*,240300
+93,37,Station Bilthoven,00:06*,240600
+94,1,Nieuwegein City,23:25,232500
+94,2,Noordstedeweg,23:26,232600
+94,3,Barnsteendrift,23:27,232700
+94,4,De Baten,23:28,232800
+94,5,Antilopeweide,23:29,232900
+94,6,Landmansweide,23:30,233000
+94,7,Middenweide,23:31,233100
+94,8,Rembrandthage,23:33,233300
+94,9,Gerbrandypark,23:34,233400
+94,10,Guido Gezellehove,23:35,233500
+94,11,Galecopperdijk,23:36,233600
+94,12,Herman Heijermanshove,23:37,233700
+94,13,Blokhoeve-Noord,23:38,233800
+94,14,P+R Westraven,23:40,234000
+94,15,Kanaleneiland-Zuid,23:41,234100
+94,16,Europaplein-Noord,23:43,234300
+94,17,Lanslaan,23:44,234400
+94,18,CS Jaarbeurszijde,23:51,235100
+94,19,Neude,23:56,235600
+94,20,Janskerkhof,23:57,235700
+94,21,Stadsschouwburg,23:58,235800
+94,22,Wittevrouwen,23:59,235900
+94,23,Oorsprongpark,00:00*,240000
+94,24,Sartreweg,00:02*,240200
+94,25,Veemarkt,00:03*,240300
+94,26,Alfred Nobellaan,00:06*,240600
+94,27,Hessenweg,00:07*,240700
+94,28,Looydijk,00:08*,240800
+94,29,Dr. Letteplein,00:10*,241000
+94,30,Groenekanseweg,00:11*,241100
+94,31,Zonneplein,00:12*,241200
+94,32,Poolsterlaan,00:13*,241300
+94,33,Duivenlaan,00:14*,241400
+94,34,Konijnenlaan,00:15*,241500
+94,35,2e Brandenburgerweg,00:16*,241600
+94,36,Leyenseweg,00:18*,241800
+94,37,Station Bilthoven,00:21*,242100
+95,1,Nieuwegein City,23:40,234000
+95,2,Noordstedeweg,23:41,234100
+95,3,Barnsteendrift,23:42,234200
+95,4,De Baten,23:43,234300
+95,5,Antilopeweide,23:44,234400
+95,6,Landmansweide,23:45,234500
+95,7,Middenweide,23:46,234600
+95,8,Rembrandthage,23:48,234800
+95,9,Gerbrandypark,23:49,234900
+95,10,Guido Gezellehove,23:50,235000
+95,11,Galecopperdijk,23:51,235100
+95,12,Herman Heijermanshove,23:52,235200
+95,13,Blokhoeve-Noord,23:53,235300
+95,14,P+R Westraven,23:55,235500
+95,15,Kanaleneiland-Zuid,23:56,235600
+95,16,Europaplein-Noord,23:58,235800
+95,17,Lanslaan,23:59,235900
+95,18,CS Jaarbeurszijde,00:06*,240600
+95,19,Neude,00:11*,241100
+95,20,Janskerkhof,00:12*,241200
+95,21,Stadsschouwburg,00:13*,241300
+95,22,Wittevrouwen,00:14*,241400
+95,23,Oorsprongpark,00:15*,241500
+95,24,Sartreweg,00:17*,241700
+95,25,Veemarkt,00:18*,241800
+95,26,Alfred Nobellaan,00:21*,242100
+95,27,Hessenweg,00:22*,242200
+95,28,Looydijk,00:23*,242300
+95,29,Dr. Letteplein,00:25*,242500
+95,30,Groenekanseweg,00:26*,242600
+95,31,Zonneplein,00:27*,242700
+95,32,Poolsterlaan,00:28*,242800
+95,33,Duivenlaan,00:29*,242900
+95,34,Konijnenlaan,00:30*,243000
+95,35,2e Brandenburgerweg,00:31*,243100
+95,36,Leyenseweg,00:33*,243300
+95,37,Station Bilthoven,00:36*,243600
+96,1,Nieuwegein City,23:55,235500
+96,2,Noordstedeweg,23:56,235600
+96,3,Barnsteendrift,23:57,235700
+96,4,De Baten,23:58,235800
+96,5,Antilopeweide,23:59,235900
+96,6,Landmansweide,00:00*,240000
+96,7,Middenweide,00:01*,240100
+96,8,Rembrandthage,00:03*,240300
+96,9,Gerbrandypark,00:04*,240400
+96,10,Guido Gezellehove,00:05*,240500
+96,11,Galecopperdijk,00:06*,240600
+96,12,Herman Heijermanshove,00:07*,240700
+96,13,Blokhoeve-Noord,00:08*,240800
+96,14,P+R Westraven,00:10*,241000
+96,15,Kanaleneiland-Zuid,00:11*,241100
+96,16,Europaplein-Noord,00:13*,241300
+96,17,Lanslaan,00:14*,241400
+96,18,CS Jaarbeurszijde,00:21*,242100
+96,19,Neude,00:26*,242600
+96,20,Janskerkhof,00:27*,242700
+96,21,Stadsschouwburg,00:28*,242800
+96,22,Wittevrouwen,00:29*,242900
+96,23,Oorsprongpark,00:30*,243000
+96,24,Sartreweg,00:32*,243200
+96,25,Veemarkt,00:33*,243300
+96,26,Alfred Nobellaan,00:36*,243600
+96,27,Hessenweg,00:37*,243700
+96,28,Looydijk,00:38*,243800
+96,29,Dr. Letteplein,00:40*,244000
+96,30,Groenekanseweg,00:41*,244100
+96,31,Zonneplein,00:42*,244200
+96,32,Poolsterlaan,00:43*,244300
+96,33,Duivenlaan,00:44*,244400
+96,34,Konijnenlaan,00:45*,244500
+96,35,2e Brandenburgerweg,00:46*,244600
+96,36,Leyenseweg,00:48*,244800
+96,37,Station Bilthoven,00:51*,245100
+97,1,Nieuwegein City,00:10*,241000
+97,2,Noordstedeweg,00:11*,241100
+97,3,Barnsteendrift,00:12*,241200
+97,4,De Baten,00:13*,241300
+97,5,Antilopeweide,00:14*,241400
+97,6,Landmansweide,00:15*,241500
+97,7,Middenweide,00:16*,241600
+97,8,Rembrandthage,00:18*,241800
+97,9,Gerbrandypark,00:19*,241900
+97,10,Guido Gezellehove,00:20*,242000
+97,11,Galecopperdijk,00:21*,242100
+97,12,Herman Heijermanshove,00:22*,242200
+97,13,Blokhoeve-Noord,00:23*,242300
+97,14,P+R Westraven,00:25*,242500
+97,15,Kanaleneiland-Zuid,00:26*,242600
+97,16,Europaplein-Noord,00:28*,242800
+97,17,Lanslaan,00:29*,242900
+97,18,CS Jaarbeurszijde,00:36*,243600
+97,19,Neude,00:41*,244100
+97,20,Janskerkhof,00:42*,244200
+97,21,Stadsschouwburg,00:43*,244300
+97,22,Wittevrouwen,00:44*,244400
+97,23,Oorsprongpark,00:45*,244500
+97,24,Sartreweg,00:47*,244700
+97,25,Veemarkt,00:48*,244800
+97,26,Alfred Nobellaan,00:51*,245100
+97,27,Hessenweg,00:52*,245200
+97,28,Looydijk,00:53*,245300
+97,29,Dr. Letteplein,00:55*,245500
+97,30,Groenekanseweg,00:56*,245600
+97,31,Zonneplein,00:57*,245700
+97,32,Poolsterlaan,00:58*,245800
+97,33,Duivenlaan,00:59*,245900
+97,34,Konijnenlaan,01:00*,250000
+97,35,2e Brandenburgerweg,01:01*,250100
+97,36,Leyenseweg,01:03*,250300
+97,37,Station Bilthoven,01:06*,250600
+98,1,Nieuwegein City,00:31*,243100
+98,2,Noordstedeweg,00:32*,243200
+98,3,Barnsteendrift,00:33*,243300
+98,4,De Baten,00:34*,243400
+98,5,Antilopeweide,00:35*,243500
+98,6,Landmansweide,00:36*,243600
+98,7,Middenweide,00:37*,243700
+98,8,Rembrandthage,00:39*,243900
+98,9,Gerbrandypark,00:40*,244000
+98,10,Guido Gezellehove,00:41*,244100
+98,11,Galecopperdijk,00:42*,244200
+98,12,Herman Heijermanshove,00:43*,244300
+98,13,Blokhoeve-Noord,00:44*,244400
+98,14,P+R Westraven,00:46*,244600
+98,15,Kanaleneiland-Zuid,00:47*,244700
+98,16,Europaplein-Noord,00:49*,244900
+98,17,Lanslaan,00:50*,245000
+98,18,CS Jaarbeurszijde,01:00*,250000
+98,19,Neude,01:05*,250500
+98,20,Janskerkhof,01:06*,250600
+98,21,Stadsschouwburg,01:07*,250700
+98,22,Wittevrouwen,01:08*,250800
+98,23,Oorsprongpark,01:09*,250900
+98,24,Sartreweg,01:11*,251100
+98,25,Veemarkt,01:12*,251200
+98,26,Alfred Nobellaan,01:15*,251500
+98,27,Hessenweg,01:16*,251600
+98,28,Looydijk,01:17*,251700
+98,29,Dr. Letteplein,01:19*,251900
+98,30,Groenekanseweg,01:20*,252000
+98,31,Zonneplein,01:21*,252100
+98,32,Poolsterlaan,01:22*,252200
+98,33,Duivenlaan,01:23*,252300
+98,34,Konijnenlaan,01:24*,252400
+98,35,2e Brandenburgerweg,01:25*,252500
+98,36,Leyenseweg,01:27*,252700
+98,37,Station Bilthoven,01:30*,253000
