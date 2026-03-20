@@ -22,12 +22,14 @@ config = {
     ],
     "bus_line_priority": {
         "1": "primary",
-        "3": "primary",
-        "5": "primary",
         "2": "secondary",
+        "3": "primary",
+        "5": "secondary",
         "6": "secondary",
         "7": "secondary",
-        "8": "secondary"
+        "28": "primary",
+        "73": "primary"
+        
     }
 }
 
