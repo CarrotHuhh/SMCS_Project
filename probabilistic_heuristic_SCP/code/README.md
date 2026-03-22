@@ -1,0 +1,3 @@
+- Prerequisites: Python 3.12.X
+- Installation: `pip install -r requirements.txt`
+- Usuage: `python batch.py`

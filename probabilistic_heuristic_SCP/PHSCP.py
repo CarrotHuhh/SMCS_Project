@@ -9,10 +9,12 @@ import random
 # from itertools import combinations
 import json
 import re
+import csv
+import os
 
 class SetCover():
 
-    def load_data(self, filepath):
+    def load_data(self, filepath, penalty_csv_filepath=None, penalty_mapping=None):
 
         lines = []
 
@@ -75,7 +77,25 @@ class SetCover():
         # Creating numpy arrays for increasing performance in some operations
         self.subsets_np = np.array(self.subsets)
         # self.subsets_cost_np = np.array(self.subsets_cost)
-        self.subsets_cost_np = np.array([1] * self.nr_atr)
+        # self.subsets_cost_np = np.array([1] * self.nr_atr)
+
+
+        # Load penalty CSV if provided
+        if penalty_csv_filepath and penalty_mapping:
+            with open(penalty_csv_filepath, mode='r', encoding='utf-8') as f:
+                reader = csv.reader(f)
+                # 讀取第一列 (row)
+                self.categories = next(reader) 
+            # print(categories)
+
+            
+            if len(self.categories) == self.nr_atr:
+                self.subsets_cost_np = np.array([penalty_mapping.get(cat.strip(), 1) for cat in self.categories])
+            else:
+                print(f"Warning: penalty CSV length {len(self.categories)} does not match nr_atr {self.nr_atr}")
+
+        # print(self.subsets_cost_np)
+
 
     def is_complete(self, solution):
 
@@ -122,28 +142,33 @@ class SetCover():
         # Candidate set
         C = set(range(self.nr_subsets))
 
+        empty_RCL = 0
+        
         while not self.is_complete(Solution):            
             score = dict()
-
-            # Calculate original_total_score for all uncovered rows
-            original_total_score = self.total_cost(Solution, a, b)
-
-            # threshold = original_total_score * alpha
-            threshold = original_total_score * alpha
 
             # Calculate total_score when adding each column
             for i in C:
                 score[i] = self.total_cost(Solution | {i}, a, b)
+            
+            min_score = min(score.values())
+            max_score = max(score.values())
+            threshold = min_score + (max_score - min_score) * alpha
 
             # if total_socre < threshold -> store into RCL
             # (alpha 越大會選進越多組)
             RCL = [i for i in C if score[i] <= threshold]
 
             if RCL == []:
-                print("RCL list is empty, break")
-                break
+                # print("RCL list is empty")
+                # print("RCL list is empty, break")
+                # break
+                s_index = random.choice(list(C))
+                empty_RCL += 1
+                # print(s_index)
             else:
                 s_index = random.choice(RCL)
+                # print(s_index)
 
             C -= {s_index}
             Solution.add(s_index)
@@ -153,6 +178,7 @@ class SetCover():
                 if len(Solution) >= row_constraint:
                     break
 
+        print(f"number of empty RCL: {empty_RCL}")
 
         return Solution
 
@@ -189,7 +215,7 @@ class SetCover():
             return best_cost, best_sol
 
 
-    def save_experiment_json(self, exp_id, best_sol, runtime_sec, alpha, a, b, n_iterations, penalty_vector, matrix_file, row_constraint, best_cost):
+    def save_experiment_json(self, exp_id, best_sol, runtime_sec, alpha, a, b, n_iterations, penalty_vector, matrix_file, row_constraint, best_cost, penalty_mapping=None, data_filename=None, penalty_csv_filename=None):
         
         # 決策結果
         selected_duty_indices = sorted(list(best_sol))  # Convert set to sorted list
@@ -207,11 +233,24 @@ class SetCover():
         # 計算未被覆蓋的 attributes 的成本 (sum_of_unselected_subset_costs)
         sum_of_unselected_subset_costs = int(self.subsets_cost_np[list(unselected_attributes)].sum())
         
+        # 提取cancelled_pow_indices对应的categories (cancelled_pow_code)
+        cancelled_pow_code = []
+        if hasattr(self, 'categories') and self.categories:
+            cancelled_pow_code = [self.categories[idx].strip() for idx in cancelled_pow_indices]
+        
+        # 統計四種category的數量
+        statistics_four_categories = {'CP': 0, 'CO': 0, 'NP': 0, 'NO': 0}
+        for code in cancelled_pow_code:
+            if code in statistics_four_categories:
+                statistics_four_categories[code] += 1
+        
         # 將輸入與輸出封裝在一起
         experiment_data = {
             "metadata": {
                 "exp_id": exp_id,
-                "matrix_used": matrix_file
+                "matrix_used": matrix_file,
+                "input_files_1": data_filename,
+                "input_files_2": penalty_csv_filename
             },
             "input_config": {
                 "threshold": alpha,
@@ -219,6 +258,7 @@ class SetCover():
                 "alpha": a,
                 "beta": b,
                 "N_limit": int(row_constraint),
+                "penalty_mapping": penalty_mapping,
                 "penalty_vector": penalty_vector
             },
             "output_results": {
@@ -230,14 +270,16 @@ class SetCover():
                 "total_penalty": sum_of_unselected_subset_costs, # sum of the cost of piece of work
                 "cancelled_count": len(cancelled_pow_indices),  #ok
                 "selected_duty_indices": selected_duty_indices, #ok
-                "cancelled_pow_indices": cancelled_pow_indices  #ok
+                "cancelled_pow_indices": cancelled_pow_indices,  #ok
+                "cancelled_pow_code": cancelled_pow_code,  # cancelled indices對應的category code
+                "statistics_four_categories": statistics_four_categories  # CP, CO, NP, NO的統計
             }
         }
 
         # 轉換為JSON字符串
         json_str = json.dumps(experiment_data, indent=4, ensure_ascii=False)
         
-        # 將penalty_vector和selected_duty_indices保持在一行
+        # 將penalty_vector、selected_duty_indices、cancelled_pow_indices、cancelled_pow_code保持在一行
         json_str = re.sub(
             r'"penalty_vector":\s*\[\s*([^\]]+)\s*\]',
             lambda m: '"penalty_vector": [' + ', '.join(x.strip() for x in m.group(1).split(',')) + ']',
@@ -251,6 +293,11 @@ class SetCover():
         json_str = re.sub(
             r'"cancelled_pow_indices":\s*\[\s*([^\]]+)\s*\]',
             lambda m: '"cancelled_pow_indices": [' + ', '.join(x.strip() for x in m.group(1).split(',')) + ']',
+            json_str
+        )
+        json_str = re.sub(
+            r'"cancelled_pow_code":\s*\[\s*([^\]]+)\s*\]',
+            lambda m: '"cancelled_pow_code": [' + ', '.join('\"' + x.strip().strip('\"') + '\"' for x in m.group(1).split(',')) + ']',
             json_str
         )
 
