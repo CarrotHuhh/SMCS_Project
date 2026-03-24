@@ -73,7 +73,20 @@ def analyze_experiment_results_cn(folder_path='../model/results'):
         plt.text(row['X_Label'], row['Normal_Coverage'] - 7, f"{row['Normal_Coverage']:.1f}%", 
                  ha='center', color='#C62828', fontweight='bold')
 
+    # 字體設定
+    plt.rcParams.update({
+        "font.family": "serif",
+        "font.serif": ["Times New Roman"],
+        "font.size": 11
+    })
+
     plt.tight_layout()
+
+    # 儲存為 PDF，建議設定 dpi 為 300 以上確保清晰度
+    save_filename = "1_spatial_priority.pdf"
+    plt.savefig(save_filename, format='pdf', bbox_inches='tight', dpi=300)
+    print(f"圖表已成功儲存至: {save_filename}")
+
     plt.show()
 
     print("--- CN 實驗數據詳細分析 ---")
@@ -146,7 +159,21 @@ def analyze_experiment_results_po(folder_path='../model/results'):
         plt.text(row['X_Label'], row['Normal_Coverage'] - 7, f"{row['Normal_Coverage']:.1f}%", 
                  ha='center', color='#C62828', fontweight='bold')
 
+
+    # 字體設定
+    plt.rcParams.update({
+        "font.family": "serif",
+        "font.serif": ["Times New Roman"],
+        "font.size": 11
+    })
+
     plt.tight_layout()
+
+    # 儲存為 PDF，建議設定 dpi 為 300 以上確保清晰度
+    save_filename = "2_temporal_priority.pdf"
+    plt.savefig(save_filename, format='pdf', bbox_inches='tight', dpi=300)
+    print(f"圖表已成功儲存至: {save_filename}")
+
     plt.show()
 
     print("--- PO 實驗數據詳細分析 ---")
@@ -165,7 +192,6 @@ def analyze_experiment_results_cnpo(folder_path='../model/results'):
 
     for file_path in files:
         filename = os.path.basename(file_path)
-        # 從檔名提取 N 值與百分比
         n_match = re.search(r'N(\d+)', filename)
         pct_match = re.search(r'(\d+)pct', filename)
         
@@ -174,13 +200,9 @@ def analyze_experiment_results_cnpo(folder_path='../model/results'):
 
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            
-            # 取得權重對照表 (假設 CNPO 中 CP, CO, NP, NO 權重各不相同)
             mapping = data['input_config']['penalty_mapping']
             p_vector = data['input_config']['penalty_vector']
             
-            # 計算分母 (各類別原始總班次數量)
-            # 透過 penalty_vector 裡面的權重值來區分該班次屬於哪一類
             totals = {
                 "CP": sum(1 for p in p_vector if p == mapping.get('CP')),
                 "CO": sum(1 for p in p_vector if p == mapping.get('CO')),
@@ -188,10 +210,7 @@ def analyze_experiment_results_cnpo(folder_path='../model/results'):
                 "NO": sum(1 for p in p_vector if p == mapping.get('NO'))
             }
             
-            # 取得分子 (各類別被取消的班次數量)
             stats = data['output_results']['statistics_four_catagories']
-            
-            # 計算覆蓋率 (Service Level)
             results = {"N": n_val, "X_Label": f"{pct_label}\n(N={n_val})"}
             for cat in ["CP", "CO", "NP", "NO"]:
                 cancelled = stats.get(cat, 0)
@@ -200,13 +219,18 @@ def analyze_experiment_results_cnpo(folder_path='../model/results'):
             
             all_data.append(results)
 
-    # 按人力規模排序 (由少到多)
+    # 按人力規模排序 (由多到少)
     df = pd.DataFrame(all_data).sort_values('N', ascending=False)
     
-    # 2. 視覺化繪圖
-    plt.figure(figsize=(12, 7), dpi=100)
+    # --- 視覺化設定 ---
+    plt.rcParams.update({
+        "font.family": "serif",
+        "font.serif": ["Times New Roman"],
+        "font.size": 11
+    })
+
+    fig, ax = plt.subplots(figsize=(12, 7), dpi=100)
     
-    # 設定四條線的樣式
     styles = {
         "CP_Coverage": {"label": "Core-Peak (CP)", "color": "#1B5E20", "marker": "s", "ls": "-"},
         "CO_Coverage": {"label": "Core-Off-peak (CO)", "color": "#4CAF50", "marker": "x", "ls": "--"},
@@ -214,24 +238,36 @@ def analyze_experiment_results_cnpo(folder_path='../model/results'):
         "NO_Coverage": {"label": "Normal-Off-peak (NO)", "color": "#E57373", "marker": "v", "ls": "--"}
     }
 
-    for col, style in styles.items():
-        plt.plot(df['X_Label'], df[col], label=style['label'], color=style['color'], 
-                 marker=style['marker'], linestyle=style['ls'], linewidth=2.5, markersize=8)
+    # 繪製折線
+    for col, s in styles.items():
+        ax.plot(df['X_Label'], df[col], label=s['label'], color=s['color'], 
+                 marker=s['marker'], linestyle=s['ls'], linewidth=2.5, markersize=8)
 
-    # 圖表裝飾
-    # plt.title('6.3 Synergistic Effects of Spatio-Temporal Weighting', fontsize=16, fontweight='bold', pad=20)
-    plt.xlabel('Driver Supply Percentage (Actual N)', fontsize=12)
-    plt.ylabel('Service Coverage Rate (%)', fontsize=12)
-    plt.ylim(-5, 110)
-    plt.grid(True, axis='y', linestyle=':', alpha=0.7)
-    plt.legend(loc='lower right', bbox_to_anchor=(1, 0.15), frameon=True, fontsize=10)
-
-    # 數據標註 (為了畫面整潔，僅標註頭尾或重要點位)
-    for col in styles.keys():
+        # 數據標註
         for i, row in df.iterrows():
-            plt.text(row['X_Label'], row[col] + 2, f"{row[col]:.0f}%", ha='center', fontsize=8)
+            ax.text(row['X_Label'], row[col] + 1.5, f"{row[col]:.0f}%", 
+                    ha='center', fontsize=9, fontweight='bold', color=s['color'])
+
+    # --- 座標軸優化 (解決你提到的問題) ---
+    ax.set_ylim(0, 105)           # Y軸從0開始，切齊底部
+    ax.set_xmargin(0.03)          # 縮減左右留白，讓圖表更緊湊
+    
+    ax.set_ylabel('Service Coverage Rate (%)', fontsize=12, fontweight='bold')
+    ax.set_xlabel('Driver Supply Percentage (Actual N)', fontsize=12, fontweight='bold')
+
+    # 圖例：貼齊右下角邊緣
+    ax.legend(loc='lower right', bbox_to_anchor=(1, 0), frameon=True, fontsize=10, shadow=False)
+
+    ax.grid(True, axis='y', linestyle=':', alpha=0.6)
+    ax.set_axisbelow(True) # 讓網格線在圖層最下方
 
     plt.tight_layout()
+
+    # 儲存為 PDF，建議設定 dpi 為 300 以上確保清晰度
+    save_filename = "3_synergistic.pdf"
+    plt.savefig(save_filename, format='pdf', bbox_inches='tight', dpi=300)
+    print(f"圖表已成功儲存至: {save_filename}")
+
     plt.show()
 
     print("--- CNPO 實驗數據詳細分析 ---")
