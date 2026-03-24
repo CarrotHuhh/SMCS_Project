@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import os
 import re
 
-def analyze_experiment_results_cn(folder_path='./model/results'):
+def analyze_experiment_results_cn(folder_path='../model/results'):
     file_pattern = os.path.join(folder_path, "CN_*.json")
     files = glob.glob(file_pattern)
     
@@ -59,7 +59,7 @@ def analyze_experiment_results_cn(folder_path='./model/results'):
     plt.plot(df['X_Label'], df['Normal_Coverage'], marker='o', label='Normal Routes', 
              color='#C62828', linewidth=2.5, markersize=8, linestyle='--')
 
-    plt.title('6.1 Spatial Priority', fontsize=14, fontweight='bold')
+    # plt.title('6.1 Spatial Priority', fontsize=14, fontweight='bold')
     plt.xlabel('Driver Supply Percentage (Actual N)', fontsize=12)
     plt.ylabel('Coverage Rate (%)', fontsize=12)
     plt.ylim(0, 110)
@@ -79,7 +79,7 @@ def analyze_experiment_results_cn(folder_path='./model/results'):
     print("--- CN 實驗數據詳細分析 ---")
     print(df.drop(columns=['X_Label']).to_string(index=False))
 
-def analyze_experiment_results_po(folder_path='./model/results'):
+def analyze_experiment_results_po(folder_path='../model/results'):
     file_pattern = os.path.join(folder_path, "CN_*.json")
     files = glob.glob(file_pattern)
     
@@ -132,7 +132,7 @@ def analyze_experiment_results_po(folder_path='./model/results'):
     plt.plot(df['X_Label'], df['Normal_Coverage'], marker='o', label='Off-peak hours', 
              color='#C62828', linewidth=2.5, markersize=8, linestyle='--')
 
-    plt.title('6.2 Temporal Priority', fontsize=14, fontweight='bold')
+    # plt.title('6.2 Temporal Priority', fontsize=14, fontweight='bold')
     plt.xlabel('Driver Supply Percentage (Actual N)', fontsize=12)
     plt.ylabel('Coverage Rate (%)', fontsize=12)
     plt.ylim(0, 110)
@@ -152,7 +152,7 @@ def analyze_experiment_results_po(folder_path='./model/results'):
     print("--- PO 實驗數據詳細分析 ---")
     print(df.drop(columns=['X_Label']).to_string(index=False))
 
-def analyze_experiment_results_cnpo(folder_path='./model/results'):
+def analyze_experiment_results_cnpo(folder_path='../model/results'):
     # 1. 搜尋所有 CNPO_ 開頭的 JSON 檔案
     file_pattern = os.path.join(folder_path, "CNPO_*.json")
     files = glob.glob(file_pattern)
@@ -219,7 +219,7 @@ def analyze_experiment_results_cnpo(folder_path='./model/results'):
                  marker=style['marker'], linestyle=style['ls'], linewidth=2.5, markersize=8)
 
     # 圖表裝飾
-    plt.title('6.3 Synergistic Effects of Spatio-Temporal Weighting', fontsize=16, fontweight='bold', pad=20)
+    # plt.title('6.3 Synergistic Effects of Spatio-Temporal Weighting', fontsize=16, fontweight='bold', pad=20)
     plt.xlabel('Driver Supply Percentage (Actual N)', fontsize=12)
     plt.ylabel('Service Coverage Rate (%)', fontsize=12)
     plt.ylim(-5, 110)
